@@ -43,19 +43,19 @@ and reporter. A vendor may also be both a deployer and a coordinator. In
 fact, the CERT/CC has played all five roles over time, although not
 usually simultaneously.
 
--   [3.1. Finder](3.1.-Finder_47677460.md)
--   [3.2. Reporter](3.2.-Reporter_47677461.md)
--   [3.3. Vendor](3.3.-Vendor_47677462.md)
--   [3.4. Deployer](3.4.-Deployer_47677463.md)
--   [3.5. Coordinator](3.5.-Coordinator_47677464.md)
+-   [3.1. Finder](3_1)
+-   [3.2. Reporter](3_2)
+-   [3.3. Vendor](3_3)
+-   [3.4. Deployer](3_4)
+-   [3.5. Coordinator](3_5)
 -   [3.6. Other Roles and
-    Variations](3.6.-Other-Roles-and-Variations_47677465.md)
+    Variations](3_6)
 
 \
 
 \< [2.7. CVD as a Wicked
 Problem](2.7.-CVD-as-a-Wicked-Problem_47677457.md) \| [3.1.
-Finder](3.1.-Finder_47677460.md) \>
+Finder](3_1) \>
 
 ## Attachments: {#attachments .pageSectionTitle}
 
