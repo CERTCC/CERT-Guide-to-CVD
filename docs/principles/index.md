@@ -1,7 +1,7 @@
 # 2. Principles of Coordinated Vulnerability Disclosure 
 
 *Change your opinions, keep to your principles; change your leaves, keep
-intact your roots.*\
+intact your roots.*
 *--* *Victor Hugo*
 
 Over the years, the CERT/CC has identified a number of principles that
@@ -19,8 +19,8 @@ These principles include the following:
     Considerations](2_5)
 -   [2.6. Process Improvement](2_6)
 -   [2.7. CVD as a Wicked
-    Problem](2_7)\
-    \
+    Problem](2_7)
+    
 
 \< [1.4. Previewing the Remainder of this
 Document](1.4.-Previewing-the-Remainder-of-this-Document_47677449.md)

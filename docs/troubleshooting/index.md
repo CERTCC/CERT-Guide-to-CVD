@@ -12,14 +12,14 @@ asking, do we own the process or does the process own us?*
 
 *-- Jeff Bezos, 2016 Letter to Amazon Shareholders*
 
-*\
+*
 *
 
 *I came here to make the world a better place, but I think I broke it.*
 
 *-- Judy Hopps, Zootopia*
 
-*\
+*
 *
 
 As we've mentioned throughout this document, CVD can occasionally be a

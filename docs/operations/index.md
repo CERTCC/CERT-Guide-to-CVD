@@ -10,7 +10,7 @@ personnel management issues.
 -   [7.3 CVD Staffing
     Considerations](7.3-CVD-Staffing-Considerations_47677495.md)
 
-\
+
 
 \< [6.9 What to Do When Things Go
 Wrong](6.9-What-to-Do-When-Things-Go-Wrong_47677491.md) \| [7.1 Tools

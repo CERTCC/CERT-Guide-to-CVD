@@ -364,13 +364,13 @@ Authors:
 
 [Allen D.
 Householder](https://insights.sei.cmu.edu/author/allen-householder/){.external-link
-rel="nofollow"}\
+rel="nofollow"}
 [Garret
 Wassermann](https://insights.sei.cmu.edu/author/garret-wassermann/){.external-link
-rel="nofollow"}\
+rel="nofollow"}
 [Art
 Manion](https://insights.sei.cmu.edu/author/art-manion/){.external-link
-rel="nofollow"}\
+rel="nofollow"}
 [Chris
 King](https://insights.sei.cmu.edu/author/christopher-king/){.external-link
 rel="nofollow"}
@@ -408,7 +408,7 @@ Vulnerability Disclosure has appeared.
 
 ------------------------------------------------------------------------
 
-\
+
 
 2021-06-24 - [See Something, Say Something: Coordinating the Disclosure
 of Security Vulnerabilities in
@@ -492,5 +492,5 @@ rel="nofollow"} (Software Engineering Institute)
 
 ![](images/icons/bullet_blue.gif){height="8" width="8"} [Screen Shot
 2019-05-29 at 9.58.57 AM.png](attachments/47677443/52756638.png)
-(image/png)\
+(image/png)
 

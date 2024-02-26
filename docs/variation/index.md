@@ -5,7 +5,7 @@ only irreducible essence...I had to place myself amidst the variation.*
 
 *-Stephen Jay Gould*
 
-*\
+*
 *
 
 While the previous section described the phases common to most CVD

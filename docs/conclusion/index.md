@@ -2,15 +2,15 @@
 
 *[When I was a boy and I would see scary things in the news, my mother
 would say to me, 'Look for the helpers. You will always find people who
-are helping.' \
+are helping.' 
 -- Mister Rogers]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
-[\
+[
 ]{style="color: rgb(23,43,77);text-decoration: none;"}
 
 [[The scope of the citizenry affected by cybersecurity vulnerabilities
-has widened considerably in recent years.\
-\
+has widened considerably in recent years.
+
 In the past, one might have argued that only computer users were
 affected by vulnerabilities and their disclosure: this is no longer the
 case. Affected users now include those who have smartphones, watch smart
@@ -53,15 +53,15 @@ vulnerability disclosure because we realize we're all in this together.
 ]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}
 
 [[Thanks for
-reading.]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}*[\
+reading.]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}*[
 ]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
-\
 
 
 
 
-*[\
+
+*[
 ]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
 ## References {#id-9.Conclusion-References}

@@ -4,7 +4,7 @@ Created by [ Allen D. Householder]{.author} on 2019-09-11
 
 This page shows the last 100 changes to [The CERT Guide to Coordinated
 Vulnerability
-Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md).\
+Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md).
 
 -   ::: update-item-icon
     []{.aui-icon .content-type-page}

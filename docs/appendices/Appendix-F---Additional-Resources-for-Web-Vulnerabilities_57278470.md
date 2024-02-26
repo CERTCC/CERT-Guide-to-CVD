@@ -275,7 +275,7 @@ periodically re-test deployed applications.
 |              |                      | rel="nofollow"}               |
 +--------------+----------------------+-------------------------------+
 
-\
+
 
 # Vulnerability Remediation Resources {#AppendixFAdditionalResourcesforWebVulnerabilities-VulnerabilityRemediationResources}
 
@@ -364,31 +364,31 @@ as secure coding development principles.
 |               |                            | rel="nofollow"}         |
 +---------------+----------------------------+-------------------------+
 
-\
 
-\
-\
 
-\
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

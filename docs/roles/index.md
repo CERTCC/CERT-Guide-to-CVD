@@ -1,7 +1,7 @@
 # 3. Roles in CVD 
 
 *What people say, what people do, and what they say they do are entirely
-different things.*\
+different things.*
 *-- Margaret Mead*
 
 Certain roles are critical to the Coordinated Vulnerability Disclosure
@@ -22,7 +22,7 @@ Although a more detailed description of the CVD process is provided in
 Section 4, a simple sketch of the relationships between these roles is
 shown in Figure 1.
 
-\
+
 [![](attachments/47677459/58720266.png){.confluence-embedded-image
 draggable="false" width="800"
 image-src="attachments/47677459/58720266.png"
@@ -33,7 +33,7 @@ base-url="https://vuls.cert.org/confluence"
 linked-resource-content-type="image/png"
 linked-resource-container-id="47677459"
 linked-resource-container-version="6"}]{.confluence-embedded-file-wrapper
-.confluence-embedded-manual-size}\
+.confluence-embedded-manual-size}
 *Figure 1:* *CVD Role Relationships*
 
 It is possible and often the case that individuals and organizations
@@ -51,7 +51,7 @@ usually simultaneously.
 -   [3.6. Other Roles and
     Variations](3_6)
 
-\
+
 
 \< [2.7. CVD as a Wicked
 Problem](2.7.-CVD-as-a-Wicked-Problem_47677457.md) \| [3.1.
@@ -61,7 +61,7 @@ Finder](3_1) \>
 
 ![](images/icons/bullet_blue.gif){height="8" width="8"}
 [worddavf265eb68cf2f5428432a29cddda1b25c.png](attachments/47677459/47677458.png)
-(image/png)\
+(image/png)
 ![](images/icons/bullet_blue.gif){height="8" width="8"}
-[role_relationships.png](attachments/47677459/58720266.png) (image/png)\
+[role_relationships.png](attachments/47677459/58720266.png) (image/png)
 

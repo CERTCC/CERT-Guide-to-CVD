@@ -114,7 +114,7 @@ policy]{rel="nofollow"}," or "[vulnerability disclosure
 program]{rel="nofollow"}," or by browsing third-party vulnerability
 disclosure (e.g., bug bounty) service providers' hosted programs.  
 
-\
+
 
 \< [Appendix D - Sample Vulnerability Disclosure
 Document](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+D+%E2%80%93+Sample+Vulnerability+Disclosure+Document&linkCreation=true&fromPageId=47677527){.createlink}

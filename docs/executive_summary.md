@@ -226,7 +226,7 @@ information or to distract from other events.
 
 As happens in many security operations roles, staff burnout is a concern
 for managers of the CVD process. Job rotations and a sustained focus on
-CVD process improvement can help.\
+CVD process improvement can help.
 Further discussion of operational considerations can be found in
 {== TODO fixme [Section 7](7.-Operational-Considerations_47677492.md) ==}.
 
@@ -287,5 +287,5 @@ to additional resources for web vulnerabilities. An extensive
     Sciences,*[ vol. 4, no. 1973, pp. 155-169, June
     1973.]{style="color: rgb(23,43,77);text-decoration: none;"}
 
-\
+
 

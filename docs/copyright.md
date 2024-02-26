@@ -47,13 +47,13 @@ DM17-0508
 [Home](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 \| [Preface](Preface_49414150.md) \>
 
-\
 
-\
+
+
 
 ## Attachments: {#attachments .pageSectionTitle}
 
 ![](images/icons/bullet_blue.gif){height="8" width="8"} [Screen Shot
 2019-05-29 at 9.33.27 AM.png](attachments/52756629/52756630.png)
-(image/png)\
+(image/png)
 

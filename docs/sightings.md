@@ -5,7 +5,7 @@ Vulnerability Disclosure has appeared.
 
 ------------------------------------------------------------------------
 
-\
+
 
 2021-06-24 - [See Something, Say Something: Coordinating the Disclosure
 of Security Vulnerabilities in

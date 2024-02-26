@@ -5,8 +5,8 @@ about TLP. However, in this web version of the Guide, we'll just refer
 you to their page instead:
 
 -   [https://www.first.org/tlp/](https://www.first.org/tlp/){.external-link
-    style="text-decoration: none;" rel="nofollow"}\
-    \
+    style="text-decoration: none;" rel="nofollow"}
+    
 
 
 
