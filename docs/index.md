@@ -1,10 +1,3 @@
-
-
-
-
-1.  [CERT Guide to CVD](index.md)
-
-
 # ![Home Page](images/icons/contenttypes/home_page_16.png){height="16" width="16" border="0" align="absmiddle" style="float: none; vertical-align: middle;"} [ CERT Guide to CVD : The CERT Guide to Coordinated Vulnerability Disclosure ]{#title-text} {#title-heading .pagetitle}
 
 

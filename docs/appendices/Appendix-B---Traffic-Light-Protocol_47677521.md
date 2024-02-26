@@ -1,13 +1,3 @@
-
-
-
-
-1.  [CERT Guide to CVD](index.md)
-2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
-3.  [Appendices](Appendices_49414192.md)
-
-
 # Appendix B - Traffic Light Protocol 
 
 
