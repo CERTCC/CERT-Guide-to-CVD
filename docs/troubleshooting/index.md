@@ -1,4 +1,4 @@
-# 6. Troubleshooting CVD 
+# Troubleshooting CVD 
 
 *Good process serves you so you can serve customers. But if you're not
 watchful, the process can become the thing. This can happen very easily
@@ -46,7 +46,7 @@ Table](6_10).
 -   [6.10 Troubleshooting Coordinated Vulnerability Disclosure
     Table](6_10)
 
-\< [5.7 Disclosure Timing](5.7-Disclosure-Timing_47677481.md) \| [6.1
+ \| [6.1
 Unable to Find Vendor
 Contact](6_1) \>
 

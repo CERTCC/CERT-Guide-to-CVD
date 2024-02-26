@@ -1,4 +1,4 @@
-# 3. Roles in CVD 
+# Roles in CVD 
 
 *What people say, what people do, and what they say they do are entirely
 different things.*

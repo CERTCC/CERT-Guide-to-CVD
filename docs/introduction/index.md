@@ -1,4 +1,4 @@
-# 1. Introduction 
+# Introduction 
 
 Imagine you've found a vulnerability in a product. What do you do with
 this knowledge?
@@ -14,7 +14,7 @@ will supersede this version anyway. There are plenty of good reasons
 that it might not be worth the hassle of fixing it or reporting it.
 Although this is what a mathematician would refer to as a degenerate
 case of the disclosure process in which no disclosure occurs, it's
-important to recognize that even starting the process of disclosure is a
+important to recognize that even _starting_ the process of disclosure is a
 choice one must consider carefully.
 
 Often, though, you will likely feel a need to take some action in
@@ -28,15 +28,12 @@ want to inform them of the existence of this vulnerability.
 This is where the process of Coordinated Vulnerability Disclosure (CVD)
 begins.
 
--   [1.1. Coordinated Vulnerability Disclosure is a Process, Not an
-    Event](1_1)
--   [1.2. CVD Context and Terminology
-    Notes](1_2)
--   [1.3. Why Coordinate Vulnerability Disclosures?](1_3)
--   [1.4. Previewing the Remainder of this
-    Document](1_4)
+<div class="grid cards" markdown>
 
-\< [Executive Summary](Executive-Summary_49414154.md) \| [1.1.
-Coordinated Vulnerability Disclosure is a Process, Not an
-Event](1_1) \>
+-   [Coordinated Vulnerability Disclosure is a Process, Not an Event](1_1.md)
+-   [CVD Context and Terminology Notes](1_2.md)
+-   [Why Coordinate Vulnerability Disclosures?](1_3.md)
+-   [Previewing the Remainder of this Document](1_4.md)
+
+</div>
 

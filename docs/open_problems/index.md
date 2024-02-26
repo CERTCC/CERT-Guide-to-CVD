@@ -1,4 +1,4 @@
-# 8. Open Problems in CVD 
+# Open Problems in CVD 
 
 *Sometimes it seems as if there are more solutions than problems. On
 closer scrutiny, it turns out that many of today's problems are a

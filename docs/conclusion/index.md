@@ -1,13 +1,12 @@
-# 9. Conclusion 
+# Conclusion 
 
-*[When I was a boy and I would see scary things in the news, my mother
-would say to me, 'Look for the helpers. You will always find people who
-are helping.' 
--- Mister Rogers]{style="color: rgb(23,43,77);text-decoration: none;"}*
+!!! quote "Fred Rogers"
 
-[
-]
-[[The scope of the citizenry affected by cybersecurity vulnerabilities
+    When I was a boy and I would see scary things in the news, my mother
+    would say to me, 'Look for the helpers. You will always find people who
+    are helping.
+
+The scope of the citizenry affected by cybersecurity vulnerabilities
 has widened considerably in recent years.
 
 In the past, one might have argued that only computer users were
@@ -31,8 +30,8 @@ aside their own interests for those of others. We do not live in an
 ideal world. In the world we find ourselves occupying, software-based
 systems exhibit complex behaviors, increasingly exceeding the limits of
 human comprehension \[1\].
-]{style="color: rgb(23,43,77);text-decoration: none;"}]
-[[As a society, we have become capable of building things we don't
+
+As a society, we have become capable of building things we don't
 fully understand. The difference between what a thing does and what you
 expect it to do can lead to uncertainty, confusion, fear, and
 vulnerability. But it's not just the technology that falls short of our
@@ -48,18 +47,8 @@ probe for weaknesses, and we identify recurring patterns and themes that
 lead to undesired outcomes. We fix what we can, mitigate what we can't
 fix, and remain vigilant over what we can't mitigate. We coordinate
 vulnerability disclosure because we realize we're all in this together.
-]{style="color: rgb(23,43,77);text-decoration: none;"}]
-[[Thanks for
-reading.]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}*[
-]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
-
-
-
-
-
-*[
-]{style="color: rgb(23,43,77);text-decoration: none;"}*
+Thanks for reading.
 
 ## References
 1.  [S. Arbesman, Overcomplicated: Technology at the Limits of

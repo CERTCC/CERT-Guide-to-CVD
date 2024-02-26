@@ -1,4 +1,4 @@
-# 4. Phases of CVD 
+# Phases of CVD 
 
 *["You go through phases. You have to reinvent reasons for playing, and
 one year's answer might not do for another."
