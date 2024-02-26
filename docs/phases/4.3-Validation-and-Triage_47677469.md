@@ -13,8 +13,7 @@
 
 
 
-Created by [ Allen D. Householder]{.author}, last modified by [
-user-5e993]{.editor} on 2019-05-29
+
 
 
 

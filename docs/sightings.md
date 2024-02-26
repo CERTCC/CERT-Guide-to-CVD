@@ -12,7 +12,7 @@
 
 
 
-Created by [ Allen D. Householder]{.author}, last modified on 2021-07-06
+
 
 
 

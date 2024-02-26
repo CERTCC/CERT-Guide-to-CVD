@@ -12,8 +12,7 @@
 
 
 
-Created by [ Allen D. Householder]{.author}, last modified by [
-user-8b192]{.editor} on 2021-05-25
+
 
 
 
