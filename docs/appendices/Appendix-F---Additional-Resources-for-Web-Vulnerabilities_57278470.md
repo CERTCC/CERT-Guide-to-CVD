@@ -1,22 +1,22 @@
-::::::::::::::::: {#page}
-::::::::::::: {#main .aui-page-panel}
-:::: {#main-header}
-::: {#breadcrumb-section}
+
+
+
+
 1.  [CERT Guide to CVD](index.html)
 2.  [The CERT Guide to Coordinated Vulnerability
     Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
 3.  [Appendices](Appendices_49414192.html)
-:::
+
 
 # [ CERT Guide to CVD : Appendix F - Additional Resources for Web Vulnerabilities ]{#title-text} {#title-heading .pagetitle}
-::::
 
-:::::::::: {#content .view}
-::: page-metadata
+
+
+
 Created by [ Allen D. Householder]{.author}, last modified on 2021-09-22
-:::
 
-:::::::: {#main-content .wiki-content .group}
+
+
 # Summary {#AppendixFAdditionalResourcesforWebVulnerabilities-Summary}
 
 The following is a list of resources on mitigating, remediating, and
@@ -31,7 +31,7 @@ Custom development should integrate secure coding practices, and risk
 analysis should be performed before the custom web application is placed
 on the internet in operation.
 
-::: {.toc-macro .rbtoc1698433083133}
+
 -   [Summary](#AppendixFAdditionalResourcesforWebVulnerabilities-Summary)
 -   [Overview](#AppendixFAdditionalResourcesforWebVulnerabilities-Overview)
 -   [Testing and Validation of Web
@@ -44,7 +44,7 @@ on the internet in operation.
     Resources](#AppendixFAdditionalResourcesforWebVulnerabilities-VulnerabilityRemediationResources)
 -   [Development
     Resources](#AppendixFAdditionalResourcesforWebVulnerabilities-DevelopmentResources)
-:::
+
 
 # Overview {#AppendixFAdditionalResourcesforWebVulnerabilities-Overview}
 
@@ -87,7 +87,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 
 ## Client-based Testing Tools {#AppendixFAdditionalResourcesforWebVulnerabilities-Client-basedTestingTools}
 
-::: table-wrap
+
 +--------------+----------------------+-------------------------------+
 | Tool         | Notes                | Link(s)                       |
 +--------------+----------------------+-------------------------------+
@@ -234,7 +234,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              | platform.            | //testssl.sh/){.external-link |
 |              |                      | rel="nofollow"}               |
 +--------------+----------------------+-------------------------------+
-:::
+
 
 ## Web-based Testing Tools {#AppendixFAdditionalResourcesforWebVulnerabilities-Web-basedTestingTools}
 
@@ -242,7 +242,7 @@ Tools may be used during development as well as after deployment. Since
 standards and best practices change over time, it is a good idea to
 periodically re-test deployed applications.
 
-::: table-wrap
+
 +--------------+----------------------+-------------------------------+
 | Tool         | Notes                | Link(s)                       |
 +--------------+----------------------+-------------------------------+
@@ -296,7 +296,7 @@ periodically re-test deployed applications.
 |              |                      | on_Protection){.external-link |
 |              |                      | rel="nofollow"}               |
 +--------------+----------------------+-------------------------------+
-:::
+
 
 \
 
@@ -307,7 +307,7 @@ components may need updates, patches, or other changes to address
 vulnerabilities as they are discovered. In some cases, the system owner
 or their developer will need to develop the mitigation or remediation.
 
-::: table-wrap
+
   --------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Resource                                            Notes                                                                                                                                Link(s)
   How to Win Friends and Remediate Vulnerabilities    Whitepaper from SANS Institute with advice on setting up a remediation capability.                                                   [https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530](https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530){.external-link rel="nofollow"} 
@@ -319,7 +319,7 @@ or their developer will need to develop the mitigation or remediation.
   OWASP Top Ten Project                               A list of the ten most critical web application security risks.                                                                      [[https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project){.external-link rel="nofollow"}]{style="color: rgb(171,34,22);"}
   Web Application Security Consortium (WASC)          Collection of web application security resources.                                                                                    [[http://www.webappsec.org/](http://www.webappsec.org/){.external-link rel="nofollow"}]{style="color: rgb(171,34,22);"}
   --------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:::
+
 
 # Development Resources {#AppendixFAdditionalResourcesforWebVulnerabilities-DevelopmentResources}
 
@@ -329,7 +329,7 @@ that will keep the application more secure. Below are resources for
 creating and using a threat model for development or deployment, as well
 as secure coding development principles.
 
-::: table-wrap
+
 +---------------+----------------------------+-------------------------+
 | Resource      | Notes                      | Link(s)                 |
 +---------------+----------------------------+-------------------------+
@@ -389,7 +389,7 @@ as secure coding development principles.
 |               |                            | 94.aspx){.external-link |
 |               |                            | rel="nofollow"}         |
 +---------------+----------------------------+-------------------------+
-:::
+
 
 \
 
@@ -418,17 +418,17 @@ as secure coding development principles.
 \
 
 \
-::::::::
-::::::::::
-:::::::::::::
 
-::::: {#footer role="contentinfo"}
-:::: {.section .footer-body}
+
+
+
+
+
 Document generated by Confluence on 2023-10-27 14:58 -0400
 
-::: {#footer-logo}
+
 [Atlassian](https://www.atlassian.com/)
-:::
-::::
-:::::
-:::::::::::::::::
+
+
+
+
