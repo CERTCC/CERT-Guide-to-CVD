@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: CERT Guide to Coordinated Vulnerability Disclosure
+copyright: Copyright &copy; 2024 Carnegie Mellon University.
+nav:
+  Home: 'index.md'
+
+dev_addr: 127.0.0.1:8001
+
