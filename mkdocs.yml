@@ -1,7 +1,22 @@
 site_name: CERT Guide to Coordinated Vulnerability Disclosure
 copyright: Copyright &copy; 2024 Carnegie Mellon University.
 nav:
-  Home: 'index.md'
-
-dev_addr: 127.0.0.1:8001
+  - Home: 'index.md'
+  - Preface: 'preface.md'
+  - Executive Summary: 'executive_summary.md'
+  - Introduction: 'introduction/index.md'
+  - Principles: 'principles/index.md'
+  - Roles: 'roles/index.md'
+  - Phases: 'phases/index.md'
+  - Variation: 'variation/index.md'
+  - Troubleshooting: 'troubleshooting/index.md'
+  - Operations: 'operations/index.md'
+  - Open Problems: 'open_problems/index.md'
+  - Conclusion: 'conclusion/index.md'
+  - Acknowledgements: 'acknowledgements.md'
+  - Bibliography: 'bibliography.md'
+  - Copyright: 'copyright.md'
+  - Recent Changes: 'recent_changes.md'
+  - Sightings: 'sightings.md'
+dev_addr: 127.0.0.1:8002
 
