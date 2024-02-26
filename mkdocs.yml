@@ -76,7 +76,7 @@ plugins:
 #      handlers:
 #        python:
 #          paths: [ 'src' ]
-#  - print-site
+  - print-site
 repo_url: 'https://github.com/CERTCC/CERT-Guide-to_CVD'
 repo_name: 'CERTCC/CERT-Guide-to_CVD'
 markdown_extensions:
