@@ -29,14 +29,14 @@ This is where the process of Coordinated Vulnerability Disclosure (CVD)
 begins.
 
 -   [1.1. Coordinated Vulnerability Disclosure is a Process, Not an
-    Event](47677446.md)
+    Event](1_1)
 -   [1.2. CVD Context and Terminology
-    Notes](1.2.-CVD-Context-and-Terminology-Notes_47677447.md)
--   [1.3. Why Coordinate Vulnerability Disclosures?](47677448.md)
+    Notes](1_2)
+-   [1.3. Why Coordinate Vulnerability Disclosures?](1_3)
 -   [1.4. Previewing the Remainder of this
-    Document](1.4.-Previewing-the-Remainder-of-this-Document_47677449.md)
+    Document](1_4)
 
 \< [Executive Summary](Executive-Summary_49414154.md) \| [1.1.
 Coordinated Vulnerability Disclosure is a Process, Not an
-Event](47677446.md) \>
+Event](1_1) \>
 

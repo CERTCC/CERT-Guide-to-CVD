@@ -4,7 +4,12 @@ nav:
   - Home: 'index.md'
   - Preface: 'preface.md'
   - Executive Summary: 'executive_summary.md'
-  - Introduction: 'introduction/index.md'
+  - CVD Overview:
+    - Intro: 'introduction/index.md'
+    - A Process, Not an Event: 'introduction/1_1.md'
+    - CVD Context and Terminology: 'introduction/1_2.md'
+    - Why Coordinate?: 'introduction/1_3.md'
+    - Preview: 'introduction/1_4.md'
   - Principles:
     - Intro: 'principles/index.md'
     - Reduce Harm: 'principles/2_1.md'
