@@ -307,14 +307,14 @@ as secure coding development principles.
 +---------------+----------------------------+-------------------------+
 | Resource      | Notes                      | Link(s)                 |
 +---------------+----------------------------+-------------------------+
-| Threat        | \"A [structured approach   | [https://owasp          |
+| Threat        | "A [structured approach   | [https://owasp          |
 | Modeling      | to application threat      | .org/www-community/Thre |
 | Process by    | modeling that enables you  | at_Modeling_Process](ht |
 | OWASP         | to identify, quantify, and | tps://owasp.org/www-com |
 |               | address the security risks | munity/Threat_Modeling_ |
 |               | associated with an         | Process){.external-link |
 |               | application]{styl          | rel="nofollow"}         |
-|               | e="color: rgb(0,0,0);"}.\" |                         |
+|               | e="color: rgb(0,0,0);"}." |                         |
 +---------------+----------------------------+-------------------------+
 | *Threat       | A book of material on how  | [https://th             |
 | Modeling*     | to properly perform threat | reatmodelingbook.com](h |

@@ -48,11 +48,11 @@ rel="nofollow"}
 
 BugCrowd and CipherLaw created the Open Source Vulnerability Disclosure
 Framework, offered under a Creative Commons Attribution 4.0
-International License. The framework \"is designed to quickly and
+International License. The framework "is designed to quickly and
 smoothly prepare your organization to work with the independent security
 researcher community while reducing the legal risks to researchers and
-companies.\" In addition to a policy template \"written with both
-simplicity and legal completeness in mind,\" a guidance document is
+companies." In addition to a policy template "written with both
+simplicity and legal completeness in mind," a guidance document is
 provided for setting up a vulnerability disclosure program.
 
 [https://github.com/bugcrowd/disclosure-policy](https://github.com/bugcrowd/disclosure-policy){.external-link
@@ -91,9 +91,9 @@ rel="nofollow"}
 The United States Department of Justice (DoJ) has published a white
 paper containing guidance aimed at developing vulnerability disclosure
 programs for online systems and services. This report makes a point to
-distinguish online systems and services from \"third-party vulnerability
+distinguish online systems and services from "third-party vulnerability
 disclosure and hands-on---rather than remote---examination of software,
-devices, or hardware\" because of potentially distinct legal issues that
+devices, or hardware" because of potentially distinct legal issues that
 may arise.
 
 [https://www.justice.gov/criminal-ccips/page/file/983996/download](https://www.justice.gov/criminal-ccips/page/file/983996/download){.external-link
@@ -109,9 +109,9 @@ rel="nofollow"}
 
 Numerous organizations have already posted their vulnerability
 disclosure policies. A wide variety of these policies can be found by
-searching the web for \"[vulnerability disclosure
-policy]{rel="nofollow"},\" or \"[vulnerability disclosure
-program]{rel="nofollow"},\" or by browsing third-party vulnerability
+searching the web for "[vulnerability disclosure
+policy]{rel="nofollow"}," or "[vulnerability disclosure
+program]{rel="nofollow"}," or by browsing third-party vulnerability
 disclosure (e.g., bug bounty) service providers\' hosted programs.  
 
 \

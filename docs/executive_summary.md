@@ -84,7 +84,7 @@ covers principles of CVD, including the following:
     Software Development Lifecycle (SDL).
 -   **CVD as a Wicked Problem** -- As we\'ve already mentioned,
     vulnerability disclosure is a multifaceted problem for which there
-    appear to be no \"right\" answers, only \"better\" or \"worse\"
+    appear to be no "right" answers, only "better" or "worse"
     solutions in a given context.
 
 # **Roles in CVD** {#ExecutiveSummary-RolesinCVD}
@@ -281,8 +281,8 @@ to additional resources for web vulnerabilities. An extensive
 
 # References {#ExecutiveSummary-References}
 
-1.  [H. W. Rittel and M. M. Webber, \"Dilemmas in a General Theory of
-    Planning,\"
+1.  [H. W. Rittel and M. M. Webber, "Dilemmas in a General Theory of
+    Planning,"
     ]{style="color: rgb(23,43,77);text-decoration: none;"}*Policy
     Sciences,*[ vol. 4, no. 1973, pp. 155-169, June
     1973.]{style="color: rgb(23,43,77);text-decoration: none;"}

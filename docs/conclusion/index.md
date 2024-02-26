@@ -17,7 +17,7 @@ case. Affected users now include those who have smartphones, watch smart
 TVs, use credit cards or ATMs for banking and/or shopping, drive cars,
 fly in airplanes, go to the hospital for diagnostic imaging or
 intravenous medicine, live in houses with smart meters, and so forth.
-The list goes on to include nearly everyone, and \"opting out\" is not a
+The list goes on to include nearly everyone, and "opting out" is not a
 viable position for most people to take. In an ideal world, software
 would do exactly what we expect it to do, and nothing we don\'t want it
 to do. In an ideal world, vendors would be receptive to finding out
