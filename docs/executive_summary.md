@@ -285,7 +285,6 @@ to additional resources for web vulnerabilities. An extensive
     Planning,"
     ]{style="color: rgb(23,43,77);text-decoration: none;"}*Policy
     Sciences,*[ vol. 4, no. 1973, pp. 155-169, June
-    1973.]{style="color: rgb(23,43,77);text-decoration: none;"}
-
+    1973.]
 
 

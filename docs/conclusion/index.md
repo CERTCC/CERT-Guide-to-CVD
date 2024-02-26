@@ -6,8 +6,7 @@ are helping.' 
 -- Mister Rogers]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
 [
-]{style="color: rgb(23,43,77);text-decoration: none;"}
-
+]
 [[The scope of the citizenry affected by cybersecurity vulnerabilities
 has widened considerably in recent years.
 
@@ -32,8 +31,7 @@ aside their own interests for those of others. We do not live in an
 ideal world. In the world we find ourselves occupying, software-based
 systems exhibit complex behaviors, increasingly exceeding the limits of
 human comprehension \[1\].
-]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}
-
+]{style="color: rgb(23,43,77);text-decoration: none;"}]
 [[As a society, we have become capable of building things we don't
 fully understand. The difference between what a thing does and what you
 expect it to do can lead to uncertainty, confusion, fear, and
@@ -50,8 +48,7 @@ probe for weaknesses, and we identify recurring patterns and themes that
 lead to undesired outcomes. We fix what we can, mitigate what we can't
 fix, and remain vigilant over what we can't mitigate. We coordinate
 vulnerability disclosure because we realize we're all in this together.
-]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}
-
+]{style="color: rgb(23,43,77);text-decoration: none;"}]
 [[Thanks for
 reading.]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}*[
 ]{style="color: rgb(23,43,77);text-decoration: none;"}*
@@ -68,5 +65,4 @@ reading.]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rg
 
 1.  [S. Arbesman, Overcomplicated: Technology at the Limits of
     Comprehension, Current,
-    2016.]{style="color: rgb(23,43,77);text-decoration: none;"}
-
+    2016.]
