@@ -2,10 +2,10 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
-3.  [Appendices](Appendices_49414192.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
+3.  [Appendices](Appendices_49414192.md)
 
 
 # Appendix F - Additional Resources for Web Vulnerabilities 
@@ -378,7 +378,7 @@ as secure coding development principles.
 | Application   | development practices.     | rity-basics.html](https |
 | Security      |                            | ://martinfowler.com/art |
 |               |                            | icles/web-security-basi |
-|               |                            | cs.html){.external-link |
+|               |                            | cs.md){.external-link |
 |               |                            | rel="nofollow"}         |
 +---------------+----------------------------+-------------------------+
 | Basic         | Microsoft web application  | [https://msd            |

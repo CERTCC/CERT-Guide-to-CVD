@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # 8. Open Problems in CVD 
@@ -34,14 +34,14 @@ Second, we\'ll cover the changes that IoT implies to CVD now and for the
 foreseeable future.
 
 -   [8.1 Vulnerability IDs and
-    DBs](8.1-Vulnerability-IDs-and-DBs_47677497.html)
--   [8.2 IoT and CVD](8.2-IoT-and-CVD_47677498.html)
+    DBs](8.1-Vulnerability-IDs-and-DBs_47677497.md)
+-   [8.2 IoT and CVD](8.2-IoT-and-CVD_47677498.md)
 
 
 
 \< [7.3 CVD Staffing
-Considerations](7.3-CVD-Staffing-Considerations_47677495.html) \| [8.1
-Vulnerability IDs and DBs](8.1-Vulnerability-IDs-and-DBs_47677497.html)
+Considerations](7.3-CVD-Staffing-Considerations_47677495.md) \| [8.1
+Vulnerability IDs and DBs](8.1-Vulnerability-IDs-and-DBs_47677497.md)
 \>
 
 

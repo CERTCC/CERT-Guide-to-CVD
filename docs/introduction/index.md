@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # 1. Introduction 
@@ -45,18 +45,18 @@ This is where the process of Coordinated Vulnerability Disclosure (CVD)
 begins.
 
 -   [1.1. Coordinated Vulnerability Disclosure is a Process, Not an
-    Event](47677446.html)
+    Event](47677446.md)
 -   [1.2. CVD Context and Terminology
-    Notes](1.2.-CVD-Context-and-Terminology-Notes_47677447.html)
--   [1.3. Why Coordinate Vulnerability Disclosures?](47677448.html)
+    Notes](1.2.-CVD-Context-and-Terminology-Notes_47677447.md)
+-   [1.3. Why Coordinate Vulnerability Disclosures?](47677448.md)
 -   [1.4. Previewing the Remainder of this
-    Document](1.4.-Previewing-the-Remainder-of-this-Document_47677449.html)
+    Document](1.4.-Previewing-the-Remainder-of-this-Document_47677449.md)
 
 
 
-\< [Executive Summary](Executive-Summary_49414154.html) \| [1.1.
+\< [Executive Summary](Executive-Summary_49414154.md) \| [1.1.
 Coordinated Vulnerability Disclosure is a Process, Not an
-Event](47677446.html) \>
+Event](47677446.md) \>
 
 
 

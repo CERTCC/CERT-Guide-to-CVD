@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # Sightings 
@@ -29,7 +29,7 @@ Canada](https://www.cybersecurepolicy.ca/vulnerability-disclosure){.external-lin
 rel="nofollow"} (Cyberspace Policy Exchange)
 
 2019-09-17 - [Update on the CERT Guide to Coordinated Vulnerability
-Disclosure](https://insights.sei.cmu.edu/cert/2019/09/update-on-the-cert-guide-to-coordinated-vulnerability-disclosure.html){.external-link
+Disclosure](https://insights.sei.cmu.edu/cert/2019/09/update-on-the-cert-guide-to-coordinated-vulnerability-disclosure.md){.external-link
 rel="nofollow"} - (Software Engineering Institute)
 
 [2018-12-14 - ]{style="letter-spacing: 0.0px;"}[Economics of

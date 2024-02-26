@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # 9. Conclusion 
@@ -76,9 +76,9 @@ reading.]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rg
 
 
 
-\< [8.2 IoT and CVD](8.2-IoT-and-CVD_47677498.html) \| [Appendix A - On
+\< [8.2 IoT and CVD](8.2-IoT-and-CVD_47677498.md) \| [Appendix A - On
 the Internet of Things and Vulnerability
-Analysis](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.html)
+Analysis](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.md)
 \>
 
 

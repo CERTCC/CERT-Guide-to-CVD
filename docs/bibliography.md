@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # Bibliography 
@@ -192,7 +192,7 @@
 \< [Appendix E - Disclosure Policy
 Templates](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677529){.createlink}
 \|
-[Home](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+[Home](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 \>
 
 

@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # Executive Summary 
@@ -38,7 +38,7 @@ be done short of avoiding the introduction of vulnerabilities in the
 first place. In short, vulnerability disclosure appears to be a wicked
 problem. The definition of a *wicked problem* based on an article by
 Rittel and Webber \[1\] is given in [Section
-2.7](2.7.-CVD-as-a-Wicked-Problem_47677457.html).
+2.7](2.7.-CVD-as-a-Wicked-Problem_47677457.md).
 
 Coordinated Vulnerability Disclosure (CVD) is a process for reducing
 adversary advantage while an information security vulnerability is being
@@ -55,7 +55,7 @@ answers to these questions are *nothing*, and *no one*. 
 CVD should not be confused with Vulnerability Management (VM). VM
 encompasses the process downstream of CVD, once the vulnerability has
 been disclosed and deployers must take action to respond. [Section
-1](1.-Introduction_47677445.html) introduces the CVD process and
+1](1.-Introduction_47677445.md) introduces the CVD process and
 provides notes on relevant terminology.
 
 
@@ -75,7 +75,7 @@ provides notes on relevant terminology.
 # **Principles of CVD** {#ExecutiveSummary-PrinciplesofCVD .conf-macro .output-block}
 
 [Section
-2](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.html)
+2](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.md)
 covers principles of CVD, including the following:
 
 -   **Reduce Harm** --Decrease the potential for damage by publishing
@@ -136,12 +136,12 @@ impacts.
 Users, integrators, cloud and application service providers, Internet of
 Things (IoT) and mobile vendors, and governments are also stakeholders
 in the CVD process. We cover these roles and stakeholders in more detail
-in [Section 3](3.-Roles-in-CVD_47677459.html).
+in [Section 3](3.-Roles-in-CVD_47677459.md).
 
 # **Phases of CVD** {#ExecutiveSummary-PhasesofCVD}
 
 The CVD process can be broadly defined as a set of phases, as described
-in [Section 4](4.-Phases-of-CVD_47677466.html). Although these phases
+in [Section 4](4.-Phases-of-CVD_47677466.md). Although these phases
 may sometimes occur out of order, or even recur within the handling of a
 single vulnerability case (for example, each recipient of a case may
 need to independently validate a report), they often happen in the
@@ -184,13 +184,13 @@ variation include those below:
     allow the automatic update process take it from there.
 
 Variation points in the CVD process are covered in [Section
-5](5.-Process-Variation-Points_47677473.html).
+5](5.-Process-Variation-Points_47677473.md).
 
 # **Troubleshooting CVD** {#ExecutiveSummary-TroubleshootingCVD}
 
 CVD does not always go the way it\'s supposed to. We have encountered a
 number of obstacles along the way, which we describe in [Section
-6](6.-Troubleshooting-CVD_47677482.html). These are among the things
+6](6.-Troubleshooting-CVD_47677482.md). These are among the things
 that can go wrong:
 
 -   **No vendor contact available** -- This can occur because a contact
@@ -246,7 +246,7 @@ As happens in many security operations roles, staff burnout is a concern
 for managers of the CVD process. Job rotations and a sustained focus on
 CVD process improvement can help.\
 Further discussion of operational considerations can be found in
-[Section 7](7.-Operational-Considerations_47677492.html).
+[Section 7](7.-Operational-Considerations_47677492.md).
 
 # **Open Problems in CVD** {#ExecutiveSummary-OpenProblemsinCVD}
 
@@ -276,7 +276,7 @@ traditional systems.
 
 The way industries, governments, and society at large will address these
 issues remains to be seen. We offer [Section
-8](8.-Open-Problems-in-CVD_47677496.html) in the hope that it sheds some
+8](8.-Open-Problems-in-CVD_47677496.md) in the hope that it sheds some
 light on what is already known about these problems.
 
 # **Conclusion and Appendices** {#ExecutiveSummary-ConclusionandAppendices}
@@ -290,17 +290,17 @@ security vulnerabilities. CVD is not a perfect solution, but it stands
 as the best we\'ve found so far. We\'ve compiled this guide to help
 spread the practice as widely as possible.
 
-Six [appendices](Appendices_49414192.html) are provided containing
+Six [appendices](Appendices_49414192.md) are provided containing
 background on IoT vulnerability analysis, Traffic Light Protocol,
 examples of vulnerability report forms and disclosure templates,
 pointers to publicly available disclosure policy templates, and pointers
 to additional resources for web vulnerabilities. An extensive
-[bibliography](Bibliography_47677529.html) is also included. 
+[bibliography](Bibliography_47677529.md) is also included. 
 
 
 
-\< [Acknowledgements](Acknowledgements_49414152.html) \| [1.
-Introduction](1.-Introduction_47677445.html) \>
+\< [Acknowledgements](Acknowledgements_49414152.md) \| [1.
+Introduction](1.-Introduction_47677445.md) \>
 
 
 

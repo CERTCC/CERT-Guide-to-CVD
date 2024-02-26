@@ -2,10 +2,10 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
-3.  [Appendices](Appendices_49414192.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
+3.  [Appendices](Appendices_49414192.md)
 
 
 # Appendix E - Disclosure Policy Templates 
@@ -137,7 +137,7 @@ disclosure (e.g., bug bounty) service providers\' hosted programs.  
 
 \< [Appendix D - Sample Vulnerability Disclosure
 Document](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+D+%E2%80%93+Sample+Vulnerability+Disclosure+Document&linkCreation=true&fromPageId=47677527){.createlink}
-\| [Bibliography](Bibliography_47677529.html) \>
+\| [Bibliography](Bibliography_47677529.md) \>
 
 
 

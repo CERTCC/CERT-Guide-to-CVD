@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # Preface 
@@ -195,8 +195,8 @@ been doing this for a while. Here's what we know.
 
 
 
-\< [Copyright](Copyright_52756629.html) \|
-[Acknowledgements](Acknowledgements_49414152.html) \>
+\< [Copyright](Copyright_52756629.md) \|
+[Acknowledgements](Acknowledgements_49414152.md) \>
 
 
 

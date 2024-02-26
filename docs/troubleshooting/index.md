@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # 6. Troubleshooting CVD 
@@ -43,30 +43,30 @@ complex process. In this section, we\'ll first cover some of the common
 ways things can go wrong and finish with some suggestions on what to do
 if and when they do. A summary of the advice in this section can be
 found in [6.10 Troubleshooting Coordinated Vulnerability Disclosure
-Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.html).
+Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md).
 
 -   [6.1 Unable to Find Vendor
-    Contact](6.1-Unable-to-Find-Vendor-Contact_47677483.html)
--   [6.2 Unresponsive Vendor](6.2-Unresponsive-Vendor_47677484.html)
+    Contact](6.1-Unable-to-Find-Vendor-Contact_47677483.md)
+-   [6.2 Unresponsive Vendor](6.2-Unresponsive-Vendor_47677484.md)
 -   [6.3 Somebody Stops
-    Replying](6.3-Somebody-Stops-Replying_47677485.html)
+    Replying](6.3-Somebody-Stops-Replying_47677485.md)
 -   [6.4 Intentional or Accidental
-    Leaks](6.4-Intentional-or-Accidental-Leaks_47677486.html)
--   [6.5 Independent Discovery](6.5-Independent-Discovery_47677487.html)
--   [6.6 Active Exploitation](6.6-Active-Exploitation_47677488.html)
+    Leaks](6.4-Intentional-or-Accidental-Leaks_47677486.md)
+-   [6.5 Independent Discovery](6.5-Independent-Discovery_47677487.md)
+-   [6.6 Active Exploitation](6.6-Active-Exploitation_47677488.md)
 -   [6.7 Relationships that Go
-    Sideways](6.7-Relationships-that-Go-Sideways_47677489.html)
--   [6.8 Hype, Marketing, and Unwanted Attention](47677490.html)
+    Sideways](6.7-Relationships-that-Go-Sideways_47677489.md)
+-   [6.8 Hype, Marketing, and Unwanted Attention](47677490.md)
 -   [6.9 What to Do When Things Go
-    Wrong](6.9-What-to-Do-When-Things-Go-Wrong_47677491.html)
+    Wrong](6.9-What-to-Do-When-Things-Go-Wrong_47677491.md)
 -   [6.10 Troubleshooting Coordinated Vulnerability Disclosure
-    Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.html)
+    Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md)
 
 
 
-\< [5.7 Disclosure Timing](5.7-Disclosure-Timing_47677481.html) \| [6.1
+\< [5.7 Disclosure Timing](5.7-Disclosure-Timing_47677481.md) \| [6.1
 Unable to Find Vendor
-Contact](6.1-Unable-to-Find-Vendor-Contact_47677483.html) \>
+Contact](6.1-Unable-to-Find-Vendor-Contact_47677483.md) \>
 
 
 

@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # Acknowledgements 
@@ -36,8 +36,8 @@ and Garret Wassermann
 
 
 
-\< [Preface](Preface_49414150.html) \| [Executive
-Summary](Executive-Summary_49414154.html) \>
+\< [Preface](Preface_49414150.md) \| [Executive
+Summary](Executive-Summary_49414154.md) \>
 
 
 

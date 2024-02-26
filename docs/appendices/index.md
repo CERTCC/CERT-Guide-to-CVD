@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # Appendices 
@@ -17,17 +17,17 @@ Created by [ Allen D. Householder]{.author} on 2019-04-04
 
 
 -   [Appendix A - On the Internet of Things and Vulnerability
-    Analysis](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.html)
+    Analysis](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.md)
 -   [Appendix B - Traffic Light
-    Protocol](Appendix-B---Traffic-Light-Protocol_47677521.html)
+    Protocol](Appendix-B---Traffic-Light-Protocol_47677521.md)
 -   [Appendix C - Sample Vulnerability Report
-    Form](Appendix-C---Sample-Vulnerability-Report-Form_47677523.html)
+    Form](Appendix-C---Sample-Vulnerability-Report-Form_47677523.md)
 -   [Appendix D - Sample Vulnerability Disclosure
-    Document](Appendix-D---Sample-Vulnerability-Disclosure-Document_47677525.html)
+    Document](Appendix-D---Sample-Vulnerability-Disclosure-Document_47677525.md)
 -   [Appendix E - Disclosure Policy
-    Templates](Appendix-E---Disclosure-Policy-Templates_47677527.html)
+    Templates](Appendix-E---Disclosure-Policy-Templates_47677527.md)
 -   [Appendix F - Additional Resources for Web
-    Vulnerabilities](Appendix-F---Additional-Resources-for-Web-Vulnerabilities_57278470.html)
+    Vulnerabilities](Appendix-F---Additional-Resources-for-Web-Vulnerabilities_57278470.md)
 
 
 

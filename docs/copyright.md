@@ -2,9 +2,9 @@
 
 
 
-1.  [CERT Guide to CVD](index.html)
+1.  [CERT Guide to CVD](index.md)
 2.  [The CERT Guide to Coordinated Vulnerability
-    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
+    Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 
 
 # Copyright 
@@ -62,8 +62,8 @@ DM17-0508
 
 
 \<
-[Home](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
-\| [Preface](Preface_49414150.html) \>
+[Home](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
+\| [Preface](Preface_49414150.md) \>
 
 
 
