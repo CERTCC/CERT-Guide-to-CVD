@@ -136,12 +136,12 @@ impacts.
 Users, integrators, cloud and application service providers, Internet of
 Things (IoT) and mobile vendors, and governments are also stakeholders
 in the CVD process. We cover these roles and stakeholders in more detail
-in [Section 3](3.-Roles-in-CVD_47677459.md).
+in {== TODO fixme [Section 3](3.-Roles-in-CVD_47677459.md) ==}.
 
 # **Phases of CVD** {#ExecutiveSummary-PhasesofCVD}
 
 The CVD process can be broadly defined as a set of phases, as described
-in [Section 4](4.-Phases-of-CVD_47677466.md). Although these phases
+in {== TODO fixme [Section 4](4.-Phases-of-CVD_47677466.md) ==}. Although these phases
 may sometimes occur out of order, or even recur within the handling of a
 single vulnerability case (for example, each recipient of a case may
 need to independently validate a report), they often happen in the
@@ -246,7 +246,7 @@ As happens in many security operations roles, staff burnout is a concern
 for managers of the CVD process. Job rotations and a sustained focus on
 CVD process improvement can help.\
 Further discussion of operational considerations can be found in
-[Section 7](7.-Operational-Considerations_47677492.md).
+{== TODO fixme [Section 7](7.-Operational-Considerations_47677492.md) ==}.
 
 # **Open Problems in CVD** {#ExecutiveSummary-OpenProblemsinCVD}
 

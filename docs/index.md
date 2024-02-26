@@ -98,7 +98,7 @@ to achieve.
     The [Appendices](Appendices_49414192.md) may also be useful to
     you.
 -   If you\'re a *policy-maker* (or influencer thereof), the
-    sections [1. Introduction](1.-Introduction_47677445.md) , [2.
+    sections {== TODO fixme [1. Introduction](1.-Introduction_47677445.md) ==} , [2.
     Principles of Coordinated Vulnerability
     Disclosure](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.md), [3.
     Roles in CVD](3.-Roles-in-CVD_47677459.md), and [4. Phases of
@@ -287,7 +287,7 @@ More](/confluence/plugins/recently-updated/changes.action?theme=concise&pageSize
 -   [Preface](Preface_49414150.md)
 -   [Acknowledgements](Acknowledgements_49414152.md)
 -   [Executive Summary](Executive-Summary_49414154.md)
--   [1. Introduction](1.-Introduction_47677445.md)
+-   {== TODO fixme [1. Introduction](1.-Introduction_47677445.md) ==}
     -   [1.1. Coordinated Vulnerability Disclosure is a Process, Not an
         Event](47677446.md)
     -   [1.2. CVD Context and Terminology
@@ -309,7 +309,7 @@ More](/confluence/plugins/recently-updated/changes.action?theme=concise&pageSize
         Improvement](2.6.-Process-Improvement_47677456.md)
     -   [2.7. CVD as a Wicked
         Problem](2.7.-CVD-as-a-Wicked-Problem_47677457.md)
--   [3. Roles in CVD](3.-Roles-in-CVD_47677459.md)
+-   {== TODO fixme [3. Roles in CVD](3.-Roles-in-CVD_47677459.md) ==}
     -   [3.1. Finder](3.1.-Finder_47677460.md)
     -   [3.2. Reporter](3.2.-Reporter_47677461.md)
     -   [3.3. Vendor](3.3.-Vendor_47677462.md)
@@ -317,7 +317,7 @@ More](/confluence/plugins/recently-updated/changes.action?theme=concise&pageSize
     -   [3.5. Coordinator](3.5.-Coordinator_47677464.md)
     -   [3.6. Other Roles and
         Variations](3.6.-Other-Roles-and-Variations_47677465.md)
--   [4. Phases of CVD](4.-Phases-of-CVD_47677466.md)
+-   {== TODO fixme [4. Phases of CVD](4.-Phases-of-CVD_47677466.md) ==}
     -   [4.1 Discovery](4.1-Discovery_47677467.md)
     -   [4.2 Reporting](4.2-Reporting_47677468.md)
     -   [4.3 Validation and
@@ -338,7 +338,7 @@ More](/confluence/plugins/recently-updated/changes.action?theme=concise&pageSize
     -   [5.6 Maintaining Pre-Disclosure
         Secrecy](5.6-Maintaining-Pre-Disclosure-Secrecy_47677480.md)
     -   [5.7 Disclosure Timing](5.7-Disclosure-Timing_47677481.md)
--   [6. Troubleshooting CVD](6.-Troubleshooting-CVD_47677482.md)
+-   {== TODO fixme [6. Troubleshooting CVD](6.-Troubleshooting-CVD_47677482.md) ==}
     -   [6.1 Unable to Find Vendor
         Contact](6.1-Unable-to-Find-Vendor-Contact_47677483.md)
     -   [6.2 Unresponsive Vendor](6.2-Unresponsive-Vendor_47677484.md)
@@ -363,11 +363,11 @@ More](/confluence/plugins/recently-updated/changes.action?theme=concise&pageSize
         Security](7.2-Operational-Security_47677494.md)
     -   [7.3 CVD Staffing
         Considerations](7.3-CVD-Staffing-Considerations_47677495.md)
--   [8. Open Problems in CVD](8.-Open-Problems-in-CVD_47677496.md)
+-   {== TODO fixme [8. Open Problems in CVD](8.-Open-Problems-in-CVD_47677496.md) ==}
     -   [8.1 Vulnerability IDs and
         DBs](8.1-Vulnerability-IDs-and-DBs_47677497.md)
     -   [8.2 IoT and CVD](8.2-IoT-and-CVD_47677498.md)
--   [9. Conclusion](9.-Conclusion_47677499.md)
+-   {== TODO fixme [9. Conclusion](9.-Conclusion_47677499.md) ==}
 -   [Appendices](Appendices_49414192.md)
     -   [Appendix A - On the Internet of Things and Vulnerability
         Analysis](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.md)
