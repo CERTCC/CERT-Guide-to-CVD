@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CERT Guide to CVD : 3.4. Deployer</title>
+        <link rel="stylesheet" href="styles/site.css" type="text/css" />
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+
+    <body class="theme-default aui-theme-default">
+        <div id="page">
+            <div id="main" class="aui-page-panel">
+                <div id="main-header">
+                    <div id="breadcrumb-section">
+                        <ol id="breadcrumbs">
+                            <li class="first">
+                                <span><a href="index.html">CERT Guide to CVD</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html">The CERT Guide to Coordinated Vulnerability Disclosure</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="3.-Roles-in-CVD_47677459.html">3. Roles in CVD</a></span>
+                            </li>
+                                                </ol>
+                    </div>
+                    <h1 id="title-heading" class="pagetitle">
+                                                <span id="title-text">
+                            CERT Guide to CVD : 3.4. Deployer
+                        </span>
+                    </h1>
+                </div>
+
+                <div id="content" class="view">
+                    <div class="page-metadata">
+                        
+        
+    
+    
+        
+    
+        
+        
+            Created by <span class='author'> Allen D. Householder</span>, last modified by <span class='editor'> user-8b192</span> on 2021-06-10
+                        </div>
+                    <div id="main-content" class="wiki-content group">
+                    <p>The <em>deployer</em> role refers to the individual or organization responsible for the fielded systems that use or otherwise depend on products with vulnerabilities.</p><p>Deployers include the following:</p><ul><li>network and cloud infrastructure providers</li><li>&lt;anything&gt;-as-a-service providers</li><li>outsourced IT operations</li><li>in-house IT operations</li><li>individual users</li></ul><p>Deployers typically must take some action in response to a vulnerability in a product they've deployed. Most often this means deploying a patch, but it can also involve the application of security controls, such as reconfiguring defensive systems, adding monitoring or detection rules, or applying mitigations. </p><p>Automation of the deployment process increases the efficiency of the deployer's response at the same time it decreases the duration of the risk posed by vulnerable systems.<br/>Although the deployer role is primarily concerned with Vulnerability Management practices that sit downstream of CVD, it's worth spending a few moments to understand how it fits in with CVD.</p><h1 id="id-3.4.Deployer-DeployerVulnerabilityResponseProcess">Deployer Vulnerability Response Process</h1><p>A deployer's vulnerability response process usually involves the following sequence of stages:</p><ul><li>Become aware of vulnerability, mitigation, and/or fix</li><li>Prioritize the mitigation or fix into existing workload (triage)</li><li>Test the mitigation or fix</li><li>Confirm that the fix addresses the problem</li><li>Avoid undesirable side effects</li><li>Identify affected systems and plan the deployment:<ul><li>staged or all-at-once</li><li>automated or manual</li><li>scheduled update window or out-of-band</li></ul></li><li>Deploy the mitigation or fix to affected systems</li></ul><p>We cover each of these in more detail below.</p><h2 id="id-3.4.Deployer-BecomeAware">Become Aware</h2><p>In order to take action, a deployer must know about the vulnerability and have sufficient information to act on. Most often this information originates from the product vendor. However, since not all vulnerability reports are coordinated with the vendor for disclosure, vulnerability information can arrive from other sources as well.</p><p>Deployers should be on the lookout for and pay attention to:</p><ul><li>Vendor security notices</li><li>Vendor customer support notices (not all vendors provide separate security notices, nor are all vulnerabilities always explicitly called out in update notes)</li><li>Vulnerability and threat intelligence services</li><li>Security discussions online including social media</li><li>Mass media coverage of vulnerabilities</li></ul><h2 id="id-3.4.Deployer-PrioritizeResponse">Prioritize Response</h2><p>Deployers have many responsibilities beyond deploying patches. As a result, they need to prioritize their work and integrate patch deployment into their normal operations cycle. That might mean testing, scheduling out-of-band fixes, or planning for scheduled maintenance windows. Just as vendors need to triage reports in order to prioritize patch development appropriately, deployers must decide which patches and mitigations to deploy and when to deploy them. The deployer's workload often makes it difficult to patch all the things as quickly as they would like.</p><h2 id="id-3.4.Deployer-TesttheSolution">Test the Solution</h2><p>Testing prior to deployment is important if either of the following conditions is true:</p><ul><li>The system's availability and performance are critical</li><li>Reverting a patch deployment gone bad is difficult</li></ul><p>In environments with efficient automated deployment and rollback capabilities, it may not be as necessary to test as heavily. But that's often an ideal scenario that few deployers find themselves in. Staged deployments or rollouts can be a significant help here—where some portion of the affected systems are updated to confirm the fix prior to wider rollout—allowing deployers to balance patch deployment with the risk of negative side effects.</p><h2 id="id-3.4.Deployer-PlantheDeployment">Plan the Deployment</h2><p>Deployers have many options when it comes to planning to deploy a patch or mitigation. Highly automated environments can dramatically shorten the time required to complete these stages, but the functions described here will usually still occur regardless of the deployer's automated patching capability. </p><p>Planning for a patch deployment requires two major steps:</p><ol><li>Identify and enumerate system instances affected by the vulnerability. Vulnerability management tools can be used to scan for affected systems and prioritize patch deployment. Information about affected hosts helps to define the scale of the patching effort required.</li><li>Set the deployment schedule. If there are relatively few systems under management and vulnerabilities are fairly rare, a firstinfirst-out process might suffice. Larger enterprises often have scheduled maintenance windows during which they can deploy most patches. Alternatively, an organization might choose to push out a patch outside of a scheduled maintenance window, especially in cases where a vulnerability is being actively exploited or significant harm is expected should the vulnerability remain unpatched until the next maintenance window. Essentially the question boils down to deploy now or defer to later?</li></ol><h2 id="id-3.4.Deployer-ExecutethePlan">Execute the Plan</h2><p>Obviously, it is important to actually carry out the deployment of the mitigation or fix. Automated patch deployment tools can make this process quite efficient. Regardless of the degree of automation of patch deployment, recurring or continuous monitoring for vulnerabilities can help measure the success of the deployment effort.</p><p><br/></p><div class="panel" style="border-style: solid;border-width: 1px;"><div class="panelContent">
+<p style="margin-left: 0.0px;text-align: center;">&lt; <a href="3.3.-Vendor_47677462.html">3.3. Vendor</a> | <a href="3.5.-Coordinator_47677464.html">3.5. Coordinator</a> &gt;</p>
+</div></div>
+                    </div>
+
+                                        
+                                                      
+                </div>             </div> 
+            <div id="footer" role="contentinfo">
+                <section class="footer-body">
+                    <p>Document generated by Confluence on 2023-10-27 14:58 -0400</p>
+                    <div id="footer-logo"><a href="https://www.atlassian.com/">Atlassian</a></div>
+                </section>
+            </div>
+        </div>     </body>
+</html>

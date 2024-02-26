@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CERT Guide to CVD : 4.4 Remediation</title>
+        <link rel="stylesheet" href="styles/site.css" type="text/css" />
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+
+    <body class="theme-default aui-theme-default">
+        <div id="page">
+            <div id="main" class="aui-page-panel">
+                <div id="main-header">
+                    <div id="breadcrumb-section">
+                        <ol id="breadcrumbs">
+                            <li class="first">
+                                <span><a href="index.html">CERT Guide to CVD</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html">The CERT Guide to Coordinated Vulnerability Disclosure</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="4.-Phases-of-CVD_47677466.html">4. Phases of CVD</a></span>
+                            </li>
+                                                </ol>
+                    </div>
+                    <h1 id="title-heading" class="pagetitle">
+                                                <span id="title-text">
+                            CERT Guide to CVD : 4.4 Remediation
+                        </span>
+                    </h1>
+                </div>
+
+                <div id="content" class="view">
+                    <div class="page-metadata">
+                        
+        
+    
+    
+        
+    
+        
+        
+            Created by <span class='author'> Allen D. Householder</span>, last modified by <span class='editor'> user-5e993</span> on 2019-05-29
+                        </div>
+                    <div id="main-content" class="wiki-content group">
+                    <p>A vulnerability can be remediated by providing a fix. Alternatively, mitigation instructions can often be developed as an interim solution.</p><p>Once the scope of the vulnerability has been adequately ascertained, it's time to prepare and test the fix (patch). The sequence of tasks tends to include identifying and isolating the vulnerability in the code; changing the code to eliminate the vulnerability; testing the changes, packaging the changes for distribution; and distributing the updated product. While the details of how to do this are often specific to the product as well as the vendor organization and its development process and are thus outside the scope of this document, we review each step in this section.</p><h1 id="id-4.4Remediation-IsolatingtheProblem">Isolating the Problem</h1><p>Once a vulnerability report has been received and validated, it must be added into the work queue for the development team to isolate the underlying problem. This often requires input from developers knowledgeable in the code in order to precisely define the problem and understand its impacts.</p><p>Often a report will describe a single path to exploit a vulnerability, yet there may be other ways for an attacker to reach the same code and exploit it a different way. This makes it necessary for the developers and analysts responsible for fixing the code to explore the potential for other avenues of exploitation before zeroing in on the specific conditions found in the original report.</p><p>There is also the risk that the vulnerable code or component has been reused elsewhere. We have encountered vulnerabilities in multiple codebases that arose because a single developer worked on each project, copying the same vulnerable code into each of them.</p><h1 id="id-4.4Remediation-FixtheProblem">Fix the Problem</h1><p>Reporters and finders should recognize that developing, testing, and preparation of patches for deployment often requires some time. A vendor acting in good faith to ferret out the vulnerability and fix it thoroughly should usually be granted some leeway. A well-tested patch that is issued later is preferable to a prematurely released patch that creates further problems. We encourage finders, reporters, and vendors to communicate expectations <em>early</em> and <em>often</em> with respect to the status of the fix creation process as long as a vendor is responsive.</p><h1 id="id-4.4Remediation-MitigateWhatYouCannotFix">Mitigate What You Cannot Fix</h1><p>In most cases, knowledge of a vulnerability leads the vendor to create and issue a fix to correct it. As a stopgap in scenarios where it may not possible to develop a timely fix, a vendor or third party will sometimes provide advice on actions that can be taken to mitigate the effects of the vulnerability. Sometimes this advice is as simple as instructions for disabling the affected features of the system. In other cases, mitigation advice might include detailed configuration changes to be made by deployers. However, in nearly all cases a full fix for the vulnerability is preferable to mitigation advice, which should at best be treated as a temporary solution to the problem.</p><p><br/></p><div class="panel" style="border-style: solid;border-width: 1px;"><div class="panelContent">
+<p style="margin-left: 0.0px;text-align: center;">&lt; <a href="4.3-Validation-and-Triage_47677469.html">4.3 Validation and Triage</a> | <a href="4.5-Gaining-Public-Awareness_47677471.html">4.5 Gaining Public Awareness</a> &gt;</p>
+</div></div>
+                    </div>
+
+                                        
+                                                      
+                </div>             </div> 
+            <div id="footer" role="contentinfo">
+                <section class="footer-body">
+                    <p>Document generated by Confluence on 2023-10-27 14:58 -0400</p>
+                    <div id="footer-logo"><a href="https://www.atlassian.com/">Atlassian</a></div>
+                </section>
+            </div>
+        </div>     </body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CERT Guide to CVD : 4. Phases of CVD</title>
+        <link rel="stylesheet" href="styles/site.css" type="text/css" />
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+
+    <body class="theme-default aui-theme-default">
+        <div id="page">
+            <div id="main" class="aui-page-panel">
+                <div id="main-header">
+                    <div id="breadcrumb-section">
+                        <ol id="breadcrumbs">
+                            <li class="first">
+                                <span><a href="index.html">CERT Guide to CVD</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html">The CERT Guide to Coordinated Vulnerability Disclosure</a></span>
+                            </li>
+                                                </ol>
+                    </div>
+                    <h1 id="title-heading" class="pagetitle">
+                                                <span id="title-text">
+                            CERT Guide to CVD : 4. Phases of CVD
+                        </span>
+                    </h1>
+                </div>
+
+                <div id="content" class="view">
+                    <div class="page-metadata">
+                        
+        
+    
+    
+        
+    
+        
+        
+            Created by <span class='author'> Allen D. Householder</span>, last modified by <span class='editor'> user-8b192</span> on 2021-05-25
+                        </div>
+                    <div id="main-content" class="wiki-content group">
+                    <p><em><span style="color: rgb(23,43,77);text-decoration: none;">&quot;You go through phases. You have to reinvent reasons for playing, and one year's answer might not do for another.&quot;<br/>-Yo-Yo Ma</span></em></p><p><em><span style="color: rgb(23,43,77);text-decoration: none;"><br/></span></em></p><p>T<span style="color: rgb(23,43,77);text-decoration: none;"><span style="color: rgb(23,43,77);text-decoration: none;">here are a number of proposed models of the CVD process that have slightly varying phases [1,2,3,4]. </span></span></p><p><span style="color: rgb(23,43,77);text-decoration: none;"><span style="color: rgb(23,43,77);text-decoration: none;">Below, we adapt a version of the ISO/IEC 30111 [5] process with more phases to better describe what we have seen at the CERT/CC:</span></span><em><span style="color: rgb(23,43,77);text-decoration: none;"><br/></span></em></p><ul><li><strong>Discovery</strong> – A researcher (not necessarily an academic one) discovers a vulnerability by using one of numerous tools and processes.</li><li><strong>Reporting</strong> – A researcher submits a vulnerability report to a software or product vendor, or a third-party coordinator if necessary.</li><li><strong>Validation and Triage</strong> – The analyst validates the report to ensure accuracy before action can be taken and prioritizes reports relative to others.</li><li><strong>Remediation</strong> – A remediation plan (ideally a software patch, but could also be other mechanisms) is developed and tested.</li><li><strong>Public Awareness</strong> – The vulnerability and its remediation plan is disclosed to the public.</li><li><strong>Deployment</strong> – The remediation is applied to deployed systems.<br/><br/></li></ul><p>A mapping of CVD phases to CVD roles is provided in Table 2. </p><div class="table-wrap"><table class="wrapped confluenceTable"><colgroup><col/><col/><col/><col/><col/><col/></colgroup><tbody><tr><th class="confluenceTh"><p style="text-align: right;"><strong>Roles</strong></p><p><strong>Phases</strong></p></th><th class="confluenceTh"><p><strong>Finder</strong></p></th><th class="confluenceTh"><p><strong>Reporter</strong></p></th><th class="confluenceTh"><p><strong>Vendor</strong></p></th><th class="confluenceTh"><p><strong>Coordinator</strong></p></th><th class="confluenceTh"><p><strong>Deployer</strong></p></th></tr><tr><th class="confluenceTh"><p><strong>Discovery</strong></p></th><td class="confluenceTd"><p>Finds vulnerabilities</p></td><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p><br/></p></td></tr><tr><th class="confluenceTh"><p><strong>Reporting</strong></p></th><td class="confluenceTd"><p>Prepares report</p></td><td class="confluenceTd"><p>Reports vuls to vendor(s) and/or coordinators</p></td><td class="confluenceTd"><p>Receives reports</p></td><td class="confluenceTd"><p>Receives reports <br class="atl-forced-newline"/>Acts as reporter proxy</p></td><td class="confluenceTd"><p><br/></p></td></tr><tr><th class="confluenceTh"><p><strong>Validation and Triage</strong></p></th><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p>Validates reports received <br class="atl-forced-newline"/>Prioritizes report for response</p></td><td class="confluenceTd"><p>Validates reports received <br class="atl-forced-newline"/>Prioritizes report for response</p></td><td class="confluenceTd"><p><br/></p></td></tr><tr><th class="confluenceTh"><p><strong>Remediation</strong></p></th><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p>Confirms fix</p></td><td class="confluenceTd"><p>Prepares patches <br class="atl-forced-newline"/>Develops advice, workarounds</p></td><td class="confluenceTd"><p>Coordinates multiparty response <br class="atl-forced-newline"/>Develops advice, workarounds</p></td><td class="confluenceTd"><p><br/></p></td></tr><tr><th class="confluenceTh"><p><strong>Public Awareness</strong></p></th><td class="confluenceTd"><p>Publishes report</p></td><td class="confluenceTd"><p>Publishes report</p></td><td class="confluenceTd"><p>Publishes report</p></td><td class="confluenceTd"><p>Publishes report</p></td><td class="confluenceTd"><p>Receives report</p></td></tr><tr><th class="confluenceTh"><p><strong>Deployment</strong></p></th><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p><br/></p></td><td class="confluenceTd"><p>Deploys fix or mitigation</p></td></tr></tbody></table></div><p style="margin-left: 0.0px;text-align: left;"><em style="text-align: left;margin-left: 0.0px;">Table 2:</em> <em style="text-align: left;margin-left: 0.0px;">Mapping CVD Roles to Phases</em></p><p><br/></p><p>We will next discuss each of these phases in more detail.</p><p><ul class='childpages-macro'><li><a href="4.1-Discovery_47677467.html">4.1 Discovery</a></li><li><a href="4.2-Reporting_47677468.html">4.2 Reporting</a></li><li><a href="4.3-Validation-and-Triage_47677469.html">4.3 Validation and Triage</a></li><li><a href="4.4-Remediation_47677470.html">4.4 Remediation</a></li><li><a href="4.5-Gaining-Public-Awareness_47677471.html">4.5 Gaining Public Awareness</a></li><li><a href="4.6-Promote-Deployment_47677472.html">4.6 Promote Deployment</a></li></ul></p><div class="panel" style="border-style: solid;border-width: 1px;"><div class="panelContent">
+<p style="margin-left: 0.0px;text-align: center;">&lt; <a href="3.6.-Other-Roles-and-Variations_47677465.html">3.6. Other Roles and Variations</a> | <a href="4.1-Discovery_47677467.html">4.1 Discovery</a> &gt;</p>
+</div></div><h2 id="id-4.PhasesofCVD-References">References</h2><ol><li><span style="color: rgb(23,43,77);text-decoration: none;">ISO/IEC, &quot;ISO/IEC 29147:2014 Information technology—Security techniques—Vulnerability disclosure,&quot; 2014.</span></li><li><span style="color: rgb(23,43,77);text-decoration: none;">S. Christey and C. Wysopal, &quot;Responsible Vulnerability Disclosure Process draft-christey-wysopal-vuln-disclosure-00.txt,&quot; February 2002. [Online]. Available: <a href="https://tools.ietf.org/html/draft-christey-wysopal-vuln-disclosure-00" class="external-link" rel="nofollow">https://tools.ietf.org/html/draft-christey-wysopal-vuln-disclosure-00</a>. [Accessed 17 May 2017].</span></li><li><span style="color: rgb(23,43,77);text-decoration: none;">ISO/IEC, &quot;ISO/IEC 30111:2013 Information technology—Security techniques—Vulnerability handling processes,&quot; 2013.</span></li><li><span style="color: rgb(23,43,77);text-decoration: none;">J. T. Chambers and J. W. Thompson, &quot;National Infrastructure Advisory Council Vulnerability Disclosure Framework Final Report and Recommendations by the Council,&quot; 13 January 2004. [Online]. Available: <a href="https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf" class="external-link" rel="nofollow">https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf</a>. [Accessed 17 May 2017].</span></li><li><span style="color: rgb(23,43,77);text-decoration: none;">ISO/IEC, &quot;ISO/IEC 30111:2013 Information technology—Security techniques—Vulnerability handling processes,&quot; 2013.</span></li></ol><p><br/></p>
+                    </div>
+
+                                        
+                                                      
+                </div>             </div> 
+            <div id="footer" role="contentinfo">
+                <section class="footer-body">
+                    <p>Document generated by Confluence on 2023-10-27 14:58 -0400</p>
+                    <div id="footer-logo"><a href="https://www.atlassian.com/">Atlassian</a></div>
+                </section>
+            </div>
+        </div>     </body>
+</html>
