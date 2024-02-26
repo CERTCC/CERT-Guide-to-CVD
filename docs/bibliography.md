@@ -37,7 +37,7 @@
   \[30\]    NTIA Awareness and Adoption Working Group, "Vulnerability Disclosure Attitudes and Actions: A Research Report from the NTIA Awareness and Adoption Group," 15 December 2016. \[Online\]. Available: https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a_a_vulnerability_disclosure_insights_report.pdf. \[Accessed 6 June 2017\].
   \[31\]    FIRST, "Ethics SIG," \[Online\]. Available: https://www.first.org/global/sigs/ethics. \[Accessed 17 May 2017\].
   \[32\]    Association for Computing Machinery, "ACM Code of Ethics and Professional Conduct," 16 October 1992. \[Online\]. Available: https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct. \[Accessed 17 May 2017\].
-  \[33\]    USENIX, "System Administrators\' Code of Ethics," 30 September 2003. \[Online\]. Available: https://www.usenix.org/system-administrators-code-ethics. \[Accessed 17 May 2017\].
+  \[33\]    USENIX, "System Administrators' Code of Ethics," 30 September 2003. \[Online\]. Available: https://www.usenix.org/system-administrators-code-ethics. \[Accessed 17 May 2017\].
   \[34\]    American Press Institute, "What is the purpose of journalism?" \[Online\]. Available: https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/. \[Accessed 17 May 2017\].
   \[35\]    Society of Professional Journalists, "SPJ Code of Ethics," 6 September 2014. \[Online\]. Available: https://www.spj.org/ethicscode.asp. \[Accessed 17 May 2017\].
   \[36\]    A. Ozment and S. E. Schechter, "Milk or wine: Does software security improve with age?" in *USENIX Security*, 2006.
@@ -74,12 +74,12 @@
   \[67\]    European Commission, "Dual Use Controls: Commission proposes to modernise and strengthen controls on exports of dual-use items," 28 September 2016. \[Online\]. Available: http://europa.eu/rapid/press-release_IP-16-3190_en.htm. \[Accessed 23 May 2017\].
   \[68\]    FIRST, "Vulnerability Database Catalog," FIRST VRDX SIG, 17 March 2016. \[Online\]. Available: https://www.first.org/global/sigs/vrdx/vdb-catalog. \[Accessed 16 May 2017\].
   \[69\]    J. T. Chambers and J. W. Thompson, "National Infrastructure Advisory Council Vulnerability Disclosure Framework Final Report and Recommendations by the Council," 13 January 2004. \[Online\]. Available: https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf. \[Accessed 17 May 2017\].
-  \[70\]    J. C. Knight, "Safety critical systems: challenges and directions," in *ICSE \'02 Proceedings of the 24th International Conference on Software Engineering*, Orlando, 2002.
+  \[70\]    J. C. Knight, "Safety critical systems: challenges and directions," in *ICSE '02 Proceedings of the 24th International Conference on Software Engineering*, Orlando, 2002.
   \[71\]    U.S. Department of Health & Human Services, "Health Information Privacy," \[Online\]. Available: https://www.hhs.gov/hipaa/. \[Accessed 23 May 2017\].
   \[72\]    U.S. Department of Education, "Family Educational Rights and Privacy Act (FERPA)," \[Online\]. Available: https://ed.gov/policy/gen/guid/fpco/ferpa/index.html. \[Accessed 23 May 2017\].
-  \[73\]    Federal Trade Commission, "Children\'s Online Privacy Protection Rule ("COPPA")," \[Online\]. Available: https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule. \[Accessed 23 May 2017\].
+  \[73\]    Federal Trade Commission, "Children's Online Privacy Protection Rule ("COPPA")," \[Online\]. Available: https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule. \[Accessed 23 May 2017\].
   \[74\]    PCI Security Standards Council, "PCI Security," \[Online\]. Available: https://www.pcisecuritystandards.org/pci_security/. \[Accessed 23 May 2017\].
-  \[75\]    Electronic Frontier Foundation, "Coders\' Rights Project Vulnerability Reporting FAQ," \[Online\]. Available: https://www.eff.org/issues/coders/vulnerability-reporting-faq. \[Accessed 17 May 2017\].
+  \[75\]    Electronic Frontier Foundation, "Coders' Rights Project Vulnerability Reporting FAQ," \[Online\]. Available: https://www.eff.org/issues/coders/vulnerability-reporting-faq. \[Accessed 17 May 2017\].
   \[76\]    K. Price, "Writing a bug report - Attack Scenario and Impact are key!" 2 August 2015. \[Online\]. Available: https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640. \[Accessed 17 May 2017\].
   \[77\]    MITRE, "Common Weakness Enumeration (CWE)," \[Online\]. Available: https://cwe.mitre.org/. \[Accessed 17 May 2017\].
   \[78\]    MITRE, "Common Attack Pattern Enumeration and Classification," \[Online\]. Available: https://capec.mitre.org/. \[Accessed 17 May 2017\].
@@ -120,16 +120,16 @@
   \[113\]   T. Herr and B. Schneier, "Taking Stock: Estimating Vulnerability Rediscovery," 7 March 2017. \[Online\]. Available: https://ssrn.com/abstract=2928758. \[Accessed 16 May 2017\].
   \[114\]   B. Grubb, "Heartbleed disclosure timeline: who knew what and when," The Sydney Morning Herald, 15 April 2014. \[Online\]. Available: http://www.smh.com.au/it-pro/security-it/heartbleed-disclosure-timeline-who-knew-what-and-when-20140414-zqurk.html. \[Accessed 23 May 2017\].
   \[115\]   SerNet, "Badlock Bug," 12 April 2016. \[Online\]. Available: http://www.badlock.org/. \[Accessed 23 May 2017\].
-  \[116\]   N. Perlroth, "Security Experts Expect \'Shellshock\' Software Bug in Bash to Be Significant," 25 September 2014. \[Online\]. Available: https://www.nytimes.com/2014/09/26/technology/security-experts-expect-shellshock-software-bug-to-be-significant.html. \[Accessed 23 May 2017\].
+  \[116\]   N. Perlroth, "Security Experts Expect 'Shellshock' Software Bug in Bash to Be Significant," 25 September 2014. \[Online\]. Available: https://www.nytimes.com/2014/09/26/technology/security-experts-expect-shellshock-software-bug-to-be-significant.html. \[Accessed 23 May 2017\].
   \[117\]   A. Sarwate, "The GHOST Vulnerability," 27 January 2015. \[Online\]. Available: https://blog.qualys.com/laws-of-vulnerabilities/2015/01/27/the-ghost-vulnerability. \[Accessed 23 May 2017\].
   \[118\]   A. Watts, C. Huang and L. Chih-chang. Tao: The Watercourse Way, Pantheon, 1975.
-  \[119\]   M. Masnick, "For 10 Years Everyone\'s Been Using \'The Streisand Effect\' Without Paying; Now I\'m Going To Start Issuing Takedowns," 8 January 2015. \[Online\]. Available: https://www.techdirt.com/articles/20150107/13292829624/10-years-everyones-been-using-streisand-effect-without-paying-now-im-going-to-start-issuing-takedowns.shtml. \[Accessed 23 May 2017\].
+  \[119\]   M. Masnick, "For 10 Years Everyone's Been Using 'The Streisand Effect' Without Paying; Now I'm Going To Start Issuing Takedowns," 8 January 2015. \[Online\]. Available: https://www.techdirt.com/articles/20150107/13292829624/10-years-everyones-been-using-streisand-effect-without-paying-now-im-going-to-start-issuing-takedowns.shtml. \[Accessed 23 May 2017\].
   \[120\]   R. Devendra, "Key Elements of the Sprint Retrospective," 24 April 2014. \[Online\]. Available: https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective. \[Accessed 23 May 2017\].
   \[121\]   CERT/CC, "Sending Sensitive Information," \[Online\]. Available: https://www.cert.org/contact/sensitive-information.cfm. \[Accessed 24 May 2017\].
   \[122\]   Symantec, "Symantec Desktop Email Encryption," \[Online\]. Available: https://www.symantec.com/products/information-protection/encryption/desktop-email-encryption. \[Accessed 24 May 2017\].
   \[123\]   The GnuPG Project, "GNU Privacy Guard," \[Online\]. Available: https://gnupg.org/. \[Accessed 24 May 2017\].
   \[124\]   B. Ramsdell and S. Turner, "RFC 5751 Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 3.2 Message Specification," January 2010. \[Online\]. Available: https://tools.ietf.org/html/rfc5751. \[Accessed 24 May 2017\].
-  \[125\]   Internet Security Research Group (ISRG), "Let\'s Encrypt," \[Online\]. Available: https://letsencrypt.org/. \[Accessed 16 May 2017\].
+  \[125\]   Internet Security Research Group (ISRG), "Let's Encrypt," \[Online\]. Available: https://letsencrypt.org/. \[Accessed 16 May 2017\].
   \[126\]   The Enigmail Project, "Enigmail," \[Online\]. Available: https://www.enigmail.net/index.php/en/. \[Accessed 24 May 2017\].
   \[127\]   Gpg4win Initiative, "GNU Privacy Guard for Windows," \[Online\]. Available: https://www.gpg4win.org/. \[Accessed 24 May 2017\].
   \[128\]   "KGpg," \[Online\]. Available: https://utils.kde.org/projects/kgpg/. \[Accessed 24 May 2017\].
@@ -163,7 +163,7 @@
   \[156\]   A. Householder, "Vulnerability Discovery for Emerging Networked Systems," 20 November 2014. \[Online\]. Available: https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.html. \[Accessed 16 May 2017\].
   \[157\]   D. Geer, "Security of Things," 14 May 2014. \[Online\]. Available: http://geer.tinho.net/geer.secot.7v14.txt. \[Accessed 16 May 2017\].
   \[158\]   S. Arbesman, Overcomplicated: Technology at the Limits of Comprehension, Current, 2016.
-  \[159\]   A. Householder, "What\'s Different About Vulnerability Analysis and Discovery in Emerging Networked Systems?" 6 January 2015. \[Online\]. Available: https://insights.sei.cmu.edu/cert/2015/01/-whats-different-about-vulnerability-analysis-and-discovery-in-emerging-networked-systems.html. \[Accessed 16 May 2017\].
+  \[159\]   A. Householder, "What's Different About Vulnerability Analysis and Discovery in Emerging Networked Systems?" 6 January 2015. \[Online\]. Available: https://insights.sei.cmu.edu/cert/2015/01/-whats-different-about-vulnerability-analysis-and-discovery-in-emerging-networked-systems.html. \[Accessed 16 May 2017\].
   \[160\]   JPCERT/CC and IPA, "Japan Vulnerability Notes," \[Online\]. Available: https://jvn.jp/en/. \[Accessed 16 May 2017\].
   \[161\]   O. H. Alhazmi, Y. K. Malaiya and I. Ray, "Measuring, analyzing and predicting security vulnerabilities in software systems," *Computers & Security,* vol. 26, no. 3, pp. 219-228, 2007.
   \[162\]   Wikipedia, "Wicked problem," \[Online\]. Available: https://en.wikipedia.org/wiki/Wicked_problem. \[Accessed 5 June 2017\].

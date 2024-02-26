@@ -50,7 +50,7 @@ rel="nofollow"} (US House & Senate)
 2018-07-11 - [Senate Testimony regarding Complex Cybersecurity
 Vulnerabilities: Lessons Learned from Spectre and
 Meltdown](https://www.commerce.senate.gov/public/index.cfm/hearings?Id=77835497-EC96-41E8-B311-5AF789F38422&Statement_id=518CD2D5-87E5-4A64-B619-7E09C85174AF){.external-link
-rel="nofollow"} (Art Manion\'s testimony to the US Senate)
+rel="nofollow"} (Art Manion's testimony to the US Senate)
 
 2018-06-28 - [Software Vulnerability Disclosure in Europe: Technology,
 Policies and Legal

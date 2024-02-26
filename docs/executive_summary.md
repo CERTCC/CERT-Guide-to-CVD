@@ -71,7 +71,7 @@ covers principles of CVD, including the following:
 -   **Avoid Surprise** -- Surprise tends to increase the risk of a
     negative outcome from the disclosure of a vulnerability and should
     be avoided.
--   **Incentivize Desired Behavior** -- It\'s usually better to reward
+-   **Incentivize Desired Behavior** -- It's usually better to reward
     good behavior than try to punish bad behavior. Incentives are
     important as they increase the likelihood of future cooperation
     between security researchers and organizations.
@@ -80,9 +80,9 @@ covers principles of CVD, including the following:
     application in the CVD process.
 -   **Process Improvement** -- Participants in the CVD process should
     learn from their experience and improve their process accordingly.
-    CVD can also provide important feedback to an organization\'s
+    CVD can also provide important feedback to an organization's
     Software Development Lifecycle (SDL).
--   **CVD as a Wicked Problem** -- As we\'ve already mentioned,
+-   **CVD as a Wicked Problem** -- As we've already mentioned,
     vulnerability disclosure is a multifaceted problem for which there
     appear to be no "right" answers, only "better" or "worse"
     solutions in a given context.
@@ -130,7 +130,7 @@ need to independently validate a report), they often happen in the
 following order:
 
 -   **Discovery** -- Someone discovers a vulnerability in a product.
--   **Reporting** -- The product\'s vendor or a third-party coordinator
+-   **Reporting** -- The product's vendor or a third-party coordinator
     receives a vulnerability report.
 -   **Validation and Triage** -- The receiver of a report validates it
     to ensure accuracy before prioritizing it for further action.
@@ -170,7 +170,7 @@ Variation points in the CVD process are covered in [Section
 
 # **Troubleshooting CVD** {#ExecutiveSummary-TroubleshootingCVD}
 
-CVD does not always go the way it\'s supposed to. We have encountered a
+CVD does not always go the way it's supposed to. We have encountered a
 number of obstacles along the way, which we describe in [Section
 6](6.-Troubleshooting-CVD_47677482.md). These are among the things
 that can go wrong:
@@ -188,7 +188,7 @@ that can go wrong:
     tell you about it.
 -   **Active exploitation** -- Evidence that a vulnerability is being
     actively exploited by adversaries often implies a need to accelerate
-    the CVD process to reduce users\' exposure to risk.
+    the CVD process to reduce users' exposure to risk.
 -   **Relationships go awry** -- CVD is a process of coordinating human
     activities. As such, its success depends on building relationships
     among the participants.
@@ -197,7 +197,7 @@ that can go wrong:
     they can be used as a tool for marketing. This is not always
     conducive to the smooth flow of the CVD process.
 
-When things do go askew in the course of the CVD process, it\'s often
+When things do go askew in the course of the CVD process, it's often
 best to remain calm, avoid legal entanglements, and recognize that the
 parties involved are usually trying to do the right thing. In some
 cases, it may help to consider publishing earlier than originally
@@ -221,7 +221,7 @@ vulnerability reports (e.g., vendors and coordinators) should be wary of
 credulous action in response to reports. Things are often not what they
 originally seem. Reporters may have misinterpreted the impact of a
 vulnerability to be more or less severe than it actually is. Adversaries
-may be probing an organization\'s vulnerability response process to gain
+may be probing an organization's vulnerability response process to gain
 information or to distract from other events.
 
 As happens in many security operations roles, staff burnout is a concern
@@ -250,7 +250,7 @@ may be comparatively easy on a Windows system deployed on an enterprise
 network. Patching the firmware of a home router deployed to all the
 customers of a regional ISP is decidedly not so simple. The desktop
 system the doctor uses to write her notes might be patched long before
-the MRI machine that collected the data she\'s analyzing. Fixing a
+the MRI machine that collected the data she's analyzing. Fixing a
 vulnerable networked device atop a pipeline in a remote forest might
 mean sending a human out to touch it. Each of these scenarios comes with
 an associated cost not usually factored into the CVD process for more
@@ -269,7 +269,7 @@ cars, airplanes, and the like have become network-enabled
 software-dependent systems, making it nearly impossible to avoid
 participating in the world without the potential to be affected by
 security vulnerabilities. CVD is not a perfect solution, but it stands
-as the best we\'ve found so far. We\'ve compiled this guide to help
+as the best we've found so far. We've compiled this guide to help
 spread the practice as widely as possible.
 
 Six [appendices](Appendices_49414192.md) are provided containing

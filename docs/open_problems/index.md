@@ -1,8 +1,8 @@
 # 8. Open Problems in CVD 
 
 *Sometimes it seems as if there are more solutions than problems. On
-closer scrutiny, it turns out that many of today\'s problems are a
-result of yesterday\'s solutions.*\
+closer scrutiny, it turns out that many of today's problems are a
+result of yesterday's solutions.*\
 *-Thomas Sowell*
 
 \
@@ -14,7 +14,7 @@ years.
 First, we discuss the increasing difficulty in identifying
 vulnerabilities.
 
-Second, we\'ll cover the changes that IoT implies to CVD now and for the
+Second, we'll cover the changes that IoT implies to CVD now and for the
 foreseeable future.
 
 -   [8.1 Vulnerability IDs and

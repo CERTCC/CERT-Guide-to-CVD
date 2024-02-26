@@ -4,9 +4,9 @@ Created by [ Allen Householder (MGR)]{.author}, last modified by [ Allen
 D. Householder]{.editor} on 2019-12-12
 
 This is the web edition of *The CERT® Guide to Coordinated Vulnerability
-Disclosure*. We\'ve reproduced the original report here in its entirety
-to make it easier to find the topic you\'re looking for. We\'re also in
-the process of revising the guide based on feedback we\'ve received
+Disclosure*. We've reproduced the original report here in its entirety
+to make it easier to find the topic you're looking for. We're also in
+the process of revising the guide based on feedback we've received
 since its original publication. Got a suggestion? [Submit it
 here](https://github.com/CERTCC/CERT-Guide-to-CVD/issues){.external-link
 rel="nofollow"}.
@@ -45,17 +45,17 @@ Quick Start to act as a meta-guide to the Guide.
 
 The [Executive Summary](Executive-Summary_49414154.md) contains an
 overview of the entire document, and is a good place for all readers to
-become familiar with what\'s in the guide without necessarily poring
-over the details. Where you go from there depends on what you\'re trying
+become familiar with what's in the guide without necessarily poring
+over the details. Where you go from there depends on what you're trying
 to achieve.
 
--   If you\'re a *researcher*, *vendor*, or *coordinator* trying to
+-   If you're a *researcher*, *vendor*, or *coordinator* trying to
     coordinate a disclosure and you need help, you might want to start
     with the [6.10 Troubleshooting Coordinated Vulnerability Disclosure
     Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md) to
-    find the problem area(s) you\'re currently dealing with. From there
+    find the problem area(s) you're currently dealing with. From there
     you can follow the links into the document for more details.
--   If you\'re a *vendor* trying to establish a vendor product security
+-   If you're a *vendor* trying to establish a vendor product security
     incident response team (PSIRT), you may be interested in [2.
     Principles of Coordinated Vulnerability
     Disclosure](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.md), [5.
@@ -71,7 +71,7 @@ to achieve.
     Templates](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677443){.createlink}
     contains links to a number of disclosure policy examples and
     templates.
--   If you\'re a *coordinator* spinning up your CVD capability, you
+-   If you're a *coordinator* spinning up your CVD capability, you
     should become familiar with [2. Principles of Coordinated
     Vulnerability
     Disclosure](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.md), [3.
@@ -81,7 +81,7 @@ to achieve.
     Considerations](7.-Operational-Considerations_47677492.md).
     The [Appendices](Appendices_49414192.md) may also be useful to
     you.
--   If you\'re a *policy-maker* (or influencer thereof), the
+-   If you're a *policy-maker* (or influencer thereof), the
     sections {== TODO fixme [1. Introduction](1.-Introduction_47677445.md) ==} , [2.
     Principles of Coordinated Vulnerability
     Disclosure](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.md), [3.
@@ -90,17 +90,17 @@ to achieve.
     to start, but there are many edge cases in [6.10 Troubleshooting
     Coordinated Vulnerability Disclosure
     Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md) that
-    are worth considering when you\'re thinking about writing policy
+    are worth considering when you're thinking about writing policy
     that sets out how things are expected to be done. [Appendix E -
     Disclosure Policy
     Templates](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677443){.createlink}
     contains links to a number of disclosure policy examples and
     templates.
 
-Of course, we think it\'s best if you eventually become familiar with
+Of course, we think it's best if you eventually become familiar with
 the entire document, but hopefully the hints above will help you find
-the most effective places to start. If you\'re already familiar with the
-guide and just want to see what\'s new, see the update log below.
+the most effective places to start. If you're already familiar with the
+guide and just want to see what's new, see the update log below.
 
 ## Recently Updated {#recently-updated-macro}
 
@@ -453,7 +453,7 @@ rel="nofollow"} (US House & Senate)
 2018-07-11 - [Senate Testimony regarding Complex Cybersecurity
 Vulnerabilities: Lessons Learned from Spectre and
 Meltdown](https://www.commerce.senate.gov/public/index.cfm/hearings?Id=77835497-EC96-41E8-B311-5AF789F38422&Statement_id=518CD2D5-87E5-4A64-B619-7E09C85174AF){.external-link
-rel="nofollow"} (Art Manion\'s testimony to the US Senate)
+rel="nofollow"} (Art Manion's testimony to the US Senate)
 
 2018-06-28 - [Software Vulnerability Disclosure in Europe: Technology,
 Policies and Legal

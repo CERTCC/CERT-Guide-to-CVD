@@ -4,7 +4,7 @@
 
 [In recent years the CERT/CC has advised a number of organizations on
 their vulnerability disclosure policies. In the interest of helping
-others develop or improve their own policies, we\'ve collected policy
+others develop or improve their own policies, we've collected policy
 items from a variety of vulnerability disclosure policies including our
 own, generalized them, organized them by topic, and put them into a git
 repository. [The policy templates in this repository are meant to be
@@ -70,7 +70,7 @@ rel="nofollow"}
 
 # U.S. GSA Vulnerability Disclosure Policy {#AppendixEDisclosurePolicyTemplates-U.S.GSAVulnerabilityDisclosurePolicy}
 
-The United States General Services Administration (GSA)\'s Technology
+The United States General Services Administration (GSA)'s Technology
 Transformation Service (TTS) provides its vulnerability disclosure
 policy as a public domain resource.
 
@@ -100,7 +100,7 @@ may arise.
 rel="nofollow"}
 
 The aforementioned report is one of many related white papers provided
-by the DoJ\'s Computer Crime and Intellectual Property section.
+by the DoJ's Computer Crime and Intellectual Property section.
 
 [https://www.justice.gov/criminal-ccips/ccips-documents-and-reports](https://www.justice.gov/criminal-ccips/ccips-documents-and-reports){.external-link
 rel="nofollow"}
@@ -112,7 +112,7 @@ disclosure policies. A wide variety of these policies can be found by
 searching the web for "[vulnerability disclosure
 policy]{rel="nofollow"}," or "[vulnerability disclosure
 program]{rel="nofollow"}," or by browsing third-party vulnerability
-disclosure (e.g., bug bounty) service providers\' hosted programs.  
+disclosure (e.g., bug bounty) service providers' hosted programs.  
 
 \
 

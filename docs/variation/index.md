@@ -1,6 +1,6 @@
 # 5. Process Variation Points 
 
-*All evolutionary biologists know that variation itself is nature\'s
+*All evolutionary biologists know that variation itself is nature's
 only irreducible essence...I had to place myself amidst the variation.*
 
 *-Stephen Jay Gould*
