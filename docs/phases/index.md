@@ -9,8 +9,7 @@ one year\'s answer might not do for another.\"
 
 T[[here are a number of proposed models of the CVD process that have
 slightly varying phases \[1,2,3,4\].
-]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}
-
+]{style="color: rgb(23,43,77);text-decoration: none;"}]
 [[Below, we adapt a version of the ISO/IEC 30111 \[5\] process with more
 phases to better describe what we have seen at the
 CERT/CC:]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}*[
@@ -107,26 +106,21 @@ Discovery](4.1-Discovery_47677467.md) \>
 
 1.  [ISO/IEC, \"ISO/IEC 29147:2014 Information technology---Security
     techniques---Vulnerability disclosure,\"
-    2014.]{style="color: rgb(23,43,77);text-decoration: none;"}
-2.  [S. Christey and C. Wysopal, \"Responsible Vulnerability Disclosure
+    2014.]2.  [S. Christey and C. Wysopal, \"Responsible Vulnerability Disclosure
     Process draft-christey-wysopal-vuln-disclosure-00.txt,\"
     February 2002. \[Online\]. Available:
     [https://tools.ietf.org/html/draft-christey-wysopal-vuln-disclosure-00](https://tools.ietf.org/html/draft-christey-wysopal-vuln-disclosure-00){.external-link
     rel="nofollow"}. \[Accessed 17 May
-    2017\].]{style="color: rgb(23,43,77);text-decoration: none;"}
-3.  [ISO/IEC, \"ISO/IEC 30111:2013 Information technology---Security
+    2017\].]3.  [ISO/IEC, \"ISO/IEC 30111:2013 Information technology---Security
     techniques---Vulnerability handling processes,\"
-    2013.]{style="color: rgb(23,43,77);text-decoration: none;"}
-4.  [J. T. Chambers and J. W. Thompson, \"National Infrastructure
+    2013.]4.  [J. T. Chambers and J. W. Thompson, \"National Infrastructure
     Advisory Council Vulnerability Disclosure Framework Final Report and
     Recommendations by the Council,\" 13 January 2004. \[Online\].
     Available:
     [https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf](https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf){.external-link
     rel="nofollow"}. \[Accessed 17 May
-    2017\].]{style="color: rgb(23,43,77);text-decoration: none;"}
-5.  [ISO/IEC, \"ISO/IEC 30111:2013 Information technology---Security
+    2017\].]5.  [ISO/IEC, \"ISO/IEC 30111:2013 Information technology---Security
     techniques---Vulnerability handling processes,\"
-    2013.]{style="color: rgb(23,43,77);text-decoration: none;"}
-
+    2013.]
 
 
