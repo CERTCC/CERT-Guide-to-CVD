@@ -1,10 +1,10 @@
 # 4. Phases of CVD 
 
 *[\"You go through phases. You have to reinvent reasons for playing, and
-one year\'s answer might not do for another.\"\
+one year\'s answer might not do for another.\"
 -Yo-Yo Ma]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
-*[\
+*[
 ]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
 T[[here are a number of proposed models of the CVD process that have
@@ -13,7 +13,7 @@ slightly varying phases \[1,2,3,4\].
 
 [[Below, we adapt a version of the ISO/IEC 30111 \[5\] process with more
 phases to better describe what we have seen at the
-CERT/CC:]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}*[\
+CERT/CC:]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rgb(23,43,77);text-decoration: none;"}*[
 ]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
 -   **Discovery** -- A researcher (not necessarily an academic one)
@@ -29,8 +29,8 @@ CERT/CC:]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rg
     could also be other mechanisms) is developed and tested.
 -   **Public Awareness** -- The vulnerability and its remediation plan
     is disclosed to the public.
--   **Deployment** -- The remediation is applied to deployed systems.\
-    \
+-   **Deployment** -- The remediation is applied to deployed systems.
+    
 
 A mapping of CVD phases to CVD roles is provided in Table 2. 
 
@@ -87,7 +87,7 @@ A mapping of CVD phases to CVD roles is provided in Table 2. 
 
 *Table 2:* *Mapping CVD Roles to Phases*
 
-\
+
 
 We will next discuss each of these phases in more detail.
 
@@ -103,7 +103,7 @@ We will next discuss each of these phases in more detail.
 Variations](3.6.-Other-Roles-and-Variations_47677465.md) \| [4.1
 Discovery](4.1-Discovery_47677467.md) \>
 
-## References {#id-4.PhasesofCVD-References}
+## References
 
 1.  [ISO/IEC, \"ISO/IEC 29147:2014 Information technology---Security
     techniques---Vulnerability disclosure,\"
@@ -128,5 +128,5 @@ Discovery](4.1-Discovery_47677467.md) \>
     techniques---Vulnerability handling processes,\"
     2013.]{style="color: rgb(23,43,77);text-decoration: none;"}
 
-\
+
 
