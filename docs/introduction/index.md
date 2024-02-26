@@ -1,12 +1,5 @@
 # 1. Introduction 
 
-
-
-
-
-
-
-
 Imagine you\'ve found a vulnerability in a product. What do you do with
 this knowledge?
 
@@ -43,22 +36,7 @@ begins.
 -   [1.4. Previewing the Remainder of this
     Document](1.4.-Previewing-the-Remainder-of-this-Document_47677449.md)
 
-
-
 \< [Executive Summary](Executive-Summary_49414154.md) \| [1.1.
 Coordinated Vulnerability Disclosure is a Process, Not an
 Event](47677446.md) \>
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,16 +1,7 @@
 # ![Home Page](images/icons/contenttypes/home_page_16.png){height="16" width="16" border="0" align="absmiddle" style="float: none; vertical-align: middle;"} [ CERT Guide to CVD : The CERT Guide to Coordinated Vulnerability Disclosure ]{#title-text} {#title-heading .pagetitle}
 
-
-
-
 Created by [ Allen Householder (MGR)]{.author}, last modified by [ Allen
 D. Householder]{.editor} on 2019-12-12
-
-
-
-
-
-
 
 This is the web edition of *The CERT® Guide to Coordinated Vulnerability
 Disclosure*. We\'ve reproduced the original report here in its entirety
@@ -111,12 +102,7 @@ the entire document, but hopefully the hints above will help you find
 the most effective places to start. If you\'re already familiar with the
 guide and just want to see what\'s new, see the update log below.
 
-
 ## Recently Updated {#recently-updated-macro}
-
-
-
-
 
 -   ::: update-item-icon
     []{.aui-icon .content-type-page}
@@ -266,13 +252,9 @@ guide and just want to see what\'s new, see the update log below.
     :::
     ::::
 
-
 [Show
 More](/confluence/plugins/recently-updated/changes.action?theme=concise&pageSize=10&startIndex=10&searchToken=24628&spaceKeys=CVD&contentType=,page,comment,blogpost,attachment,userinfo,spacedesc,personalspacedesc,space,draft,custom){.more-link}
 ![Please wait](images/icons/wait.gif){.waiting-image}
-
-
-
 
 # Table of contents {#TheCERTGuidetoCoordinatedVulnerabilityDisclosure-Tableofcontents}
 
@@ -378,10 +360,6 @@ More](/confluence/plugins/recently-updated/changes.action?theme=concise&pageSize
 -   [Sightings](Sightings_52756771.md)
 -   [Recent Changes](Recent-Changes_58228794.md)
 
-
-
-
-
 Authors:
 
 [Allen D.
@@ -401,8 +379,6 @@ Originally Published
 as [CMU/SEI-2017-SR-022](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330){.external-link
 rel="nofollow"}
 
-
-
 [[![](attachments/47677443/52756638.png){.confluence-embedded-image
 .confluence-thumbnail .image-center draggable="false" width="150"
 image-src="attachments/47677443/52756638.png"
@@ -420,8 +396,6 @@ rel="nofollow"}
 [Download the [[Original PDF
 version]{style="color: rgb(255,255,255);"}](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330){.external-link
 rel="nofollow"}]{style="color: rgb(255,255,255);"}
-
-
 
 [CERT/CC Blog post announcing the publication of the
 Guide](https://insights.sei.cmu.edu/cert/2017/08/the-cert-guide-to-coordinated-vulnerability-disclosure.md){.external-link
@@ -514,30 +488,9 @@ rel="nofollow"} (cyberscoop)
 Released](https://www.sei.cmu.edu/news-events/news/article.cfm?assetid=503398){.external-link
 rel="nofollow"} (Software Engineering Institute)
 
-
-
-
-
-
-
-
 ## Attachments: {#attachments .pageSectionTitle}
-
-
 
 ![](images/icons/bullet_blue.gif){height="8" width="8"} [Screen Shot
 2019-05-29 at 9.58.57 AM.png](attachments/47677443/52756638.png)
 (image/png)\
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,12 +1,5 @@
 # 2. Principles of Coordinated Vulnerability Disclosure 
 
-
-
-
-
-
-
-
 *Change your opinions, keep to your principles; change your leaves, keep
 intact your roots.*\
 *--* *Victor Hugo*
@@ -29,22 +22,7 @@ These principles include the following:
     Problem](2.7.-CVD-as-a-Wicked-Problem_47677457.md)\
     \
 
-
-
 \< [1.4. Previewing the Remainder of this
 Document](1.4.-Previewing-the-Remainder-of-this-Document_47677449.md)
 \| [2.1. Reduce Harm](2.1.-Reduce-Harm_47677451.md) \>
-
-
-
-
-
-
-
-
-
-
-
-
-
 

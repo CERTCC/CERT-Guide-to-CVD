@@ -1,12 +1,5 @@
 # 5. Process Variation Points 
 
-
-
-
-
-
-
-
 *All evolutionary biologists know that variation itself is nature\'s
 only irreducible essence...I had to place myself amidst the variation.*
 
@@ -31,22 +24,7 @@ often encounter.
     Secrecy](5.6-Maintaining-Pre-Disclosure-Secrecy_47677480.md)
 -   [5.7 Disclosure Timing](5.7-Disclosure-Timing_47677481.md)
 
-
-
 \< [4.6 Promote Deployment](4.6-Promote-Deployment_47677472.md) \|
 [5.1 Choosing a Disclosure
 Policy](5.1-Choosing-a-Disclosure-Policy_47677474.md) \>
-
-
-
-
-
-
-
-
-
-
-
-
-
 

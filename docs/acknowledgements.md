@@ -1,12 +1,5 @@
 # Acknowledgements 
 
-
-
-
-
-
-
-
 The material in the CERT® Guide to Coordinated Vulnerability Disclosure
 inherits from 29 years of analyzing vulnerabilities and navigating
 vulnerability disclosure issues at the CERT Coordination Center
@@ -24,21 +17,4 @@ Lewellen, Frank Longo, Navika Mahal, Art Manion, Joji Montelibano, Trent
 Novelly, Madison Oliver, Michael Orlando, Ally Parisi, Rich Pethia, Jeff
 Pruzynski, Robert Seacord, Deana Shick, Stacey Stewart, David Warren,
 and Garret Wassermann
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

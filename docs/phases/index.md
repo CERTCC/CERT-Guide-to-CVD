@@ -1,12 +1,5 @@
 # 4. Phases of CVD 
 
-
-
-
-
-
-
-
 *[\"You go through phases. You have to reinvent reasons for playing, and
 one year\'s answer might not do for another.\"\
 -Yo-Yo Ma]{style="color: rgb(23,43,77);text-decoration: none;"}*
@@ -40,7 +33,6 @@ CERT/CC:]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rg
     \
 
 A mapping of CVD phases to CVD roles is provided in Table 2. 
-
 
 +----------+----------+----------+----------+----------+----------+
 | *        | **       | **Re     | **       | **Coord  | **De     |
@@ -93,7 +85,6 @@ A mapping of CVD phases to CVD roles is provided in Table 2. 
 |          |          |          |          |          | tigation |
 +----------+----------+----------+----------+----------+----------+
 
-
 *Table 2:* *Mapping CVD Roles to Phases*
 
 \
@@ -108,13 +99,9 @@ We will next discuss each of these phases in more detail.
     Awareness](4.5-Gaining-Public-Awareness_47677471.md)
 -   [4.6 Promote Deployment](4.6-Promote-Deployment_47677472.md)
 
-
-
 \< [3.6. Other Roles and
 Variations](3.6.-Other-Roles-and-Variations_47677465.md) \| [4.1
 Discovery](4.1-Discovery_47677467.md) \>
-
-
 
 ## References {#id-4.PhasesofCVD-References}
 
@@ -142,15 +129,4 @@ Discovery](4.1-Discovery_47677467.md) \>
     2013.]{style="color: rgb(23,43,77);text-decoration: none;"}
 
 \
-
-
-
-
-
-
-
-
-
-
-
 

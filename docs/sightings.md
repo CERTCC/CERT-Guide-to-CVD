@@ -1,12 +1,5 @@
 # Sightings 
 
-
-
-
-
-
-
-
 Here is a partial list of places The CERT Guide to Coordinated
 Vulnerability Disclosure has appeared.
 
@@ -91,15 +84,4 @@ rel="nofollow"} (cyberscoop)
 2017-08-15 - [CERT Guide to Coordinated Vulnerability Disclosure
 Released](https://www.sei.cmu.edu/news-events/news/article.cfm?assetid=503398){.external-link
 rel="nofollow"} (Software Engineering Institute)
-
-
-
-
-
-
-
-
-
-
-
 

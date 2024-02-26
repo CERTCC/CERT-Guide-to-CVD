@@ -1,12 +1,5 @@
 # 9. Conclusion 
 
-
-
-
-
-
-
-
 *[When I was a boy and I would see scary things in the news, my mother
 would say to me, \'Look for the helpers. You will always find people who
 are helping.\' \
@@ -65,14 +58,10 @@ reading.]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rg
 
 \
 
-
-
 \< [8.2 IoT and CVD](8.2-IoT-and-CVD_47677498.md) \| [Appendix A - On
 the Internet of Things and Vulnerability
 Analysis](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.md)
 \>
-
-
 
 *[\
 ]{style="color: rgb(23,43,77);text-decoration: none;"}*
@@ -82,15 +71,4 @@ Analysis](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_4767
 1.  [S. Arbesman, Overcomplicated: Technology at the Limits of
     Comprehension, Current,
     2016.]{style="color: rgb(23,43,77);text-decoration: none;"}
-
-
-
-
-
-
-
-
-
-
-
 

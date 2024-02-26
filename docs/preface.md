@@ -1,12 +1,5 @@
 # Preface 
 
-
-
-
-
-
-
-
 Software and software-based products have vulnerabilities. Left
 unaddressed, those vulnerabilities expose to risk the systems on which
 they are deployed and the people who depend on them. In order for
@@ -184,12 +177,6 @@ reassure you that you are not alone; you are not the first to experience
 events like these or even your reaction to them. We're locals. We've
 been doing this for a while. Here's what we know.
 
-
-
-
-
-
-
 # References {#Preface-References}
 
 1.  B. Cancilla, \"Return of the Browser Wars,\" August 2004.
@@ -201,15 +188,4 @@ been doing this for a while. Here's what we know.
     CERT/CC, 9 June 2004. \[Online\]. Available:
     [https://www.kb.cert.org/vuls/id/713878](https://www.kb.cert.org/vuls/id/713878){.external-link
     rel="nofollow"}. 
-
-
-
-
-
-
-
-
-
-
-
 

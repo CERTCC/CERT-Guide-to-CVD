@@ -1,12 +1,5 @@
 # 6. Troubleshooting CVD 
 
-
-
-
-
-
-
-
 *Good process serves you so you can serve customers. But if you\'re not
 watchful, the process can become the thing. This can happen very easily
 in large organizations. The process becomes the proxy for the result you
@@ -53,22 +46,7 @@ Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.
 -   [6.10 Troubleshooting Coordinated Vulnerability Disclosure
     Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md)
 
-
-
 \< [5.7 Disclosure Timing](5.7-Disclosure-Timing_47677481.md) \| [6.1
 Unable to Find Vendor
 Contact](6.1-Unable-to-Find-Vendor-Contact_47677483.md) \>
-
-
-
-
-
-
-
-
-
-
-
-
-
 

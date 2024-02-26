@@ -1,12 +1,5 @@
 # Appendix E - Disclosure Policy Templates 
 
-
-
-
-
-
-
-
 # CERT Vulnerability Disclosure Policy Templates {#AppendixEDisclosurePolicyTemplates-CERTVulnerabilityDisclosurePolicyTemplates}
 
 [In recent years the CERT/CC has advised a number of organizations on
@@ -123,22 +116,7 @@ disclosure (e.g., bug bounty) service providers\' hosted programs.  
 
 \
 
-
-
 \< [Appendix D - Sample Vulnerability Disclosure
 Document](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+D+%E2%80%93+Sample+Vulnerability+Disclosure+Document&linkCreation=true&fromPageId=47677527){.createlink}
 \| [Bibliography](Bibliography_47677529.md) \>
-
-
-
-
-
-
-
-
-
-
-
-
-
 

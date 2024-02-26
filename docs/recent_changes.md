@@ -1,20 +1,10 @@
 # Recent Changes 
 
-
-
-
 Created by [ Allen D. Householder]{.author} on 2019-09-11
-
-
 
 This page shows the last 100 changes to [The CERT Guide to Coordinated
 Vulnerability
 Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md).\
-
-
-
-
-
 
 -   ::: update-item-icon
     []{.aui-icon .content-type-page}
@@ -1515,22 +1505,7 @@ Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md).
     :::
     ::::
 
-
 [Show
 More](/confluence/plugins/recently-updated/changes.action?theme=concise&pageSize=100&startIndex=100&searchToken=24630&spaceKeys=CVD&contentType=,page,comment,blogpost,attachment,userinfo,spacedesc,personalspacedesc,space,draft,custom){.more-link}
 ![Please wait](images/icons/wait.gif){.waiting-image}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

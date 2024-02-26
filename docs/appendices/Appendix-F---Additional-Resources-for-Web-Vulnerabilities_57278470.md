@@ -1,12 +1,5 @@
 # Appendix F - Additional Resources for Web Vulnerabilities 
 
-
-
-
-
-
-
-
 # Summary {#AppendixFAdditionalResourcesforWebVulnerabilities-Summary}
 
 The following is a list of resources on mitigating, remediating, and
@@ -21,7 +14,6 @@ Custom development should integrate secure coding practices, and risk
 analysis should be performed before the custom web application is placed
 on the internet in operation.
 
-
 -   [Summary](#AppendixFAdditionalResourcesforWebVulnerabilities-Summary)
 -   [Overview](#AppendixFAdditionalResourcesforWebVulnerabilities-Overview)
 -   [Testing and Validation of Web
@@ -34,7 +26,6 @@ on the internet in operation.
     Resources](#AppendixFAdditionalResourcesforWebVulnerabilities-VulnerabilityRemediationResources)
 -   [Development
     Resources](#AppendixFAdditionalResourcesforWebVulnerabilities-DevelopmentResources)
-
 
 # Overview {#AppendixFAdditionalResourcesforWebVulnerabilities-Overview}
 
@@ -76,7 +67,6 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 443. FTP and SMTP services have also been needed in validation.
 
 ## Client-based Testing Tools {#AppendixFAdditionalResourcesforWebVulnerabilities-Client-basedTestingTools}
-
 
 +--------------+----------------------+-------------------------------+
 | Tool         | Notes                | Link(s)                       |
@@ -225,13 +215,11 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              |                      | rel="nofollow"}               |
 +--------------+----------------------+-------------------------------+
 
-
 ## Web-based Testing Tools {#AppendixFAdditionalResourcesforWebVulnerabilities-Web-basedTestingTools}
 
 Tools may be used during development as well as after deployment. Since
 standards and best practices change over time, it is a good idea to
 periodically re-test deployed applications.
-
 
 +--------------+----------------------+-------------------------------+
 | Tool         | Notes                | Link(s)                       |
@@ -287,7 +275,6 @@ periodically re-test deployed applications.
 |              |                      | rel="nofollow"}               |
 +--------------+----------------------+-------------------------------+
 
-
 \
 
 # Vulnerability Remediation Resources {#AppendixFAdditionalResourcesforWebVulnerabilities-VulnerabilityRemediationResources}
@@ -296,7 +283,6 @@ Once the web application is deployed, the application, server, or other
 components may need updates, patches, or other changes to address
 vulnerabilities as they are discovered. In some cases, the system owner
 or their developer will need to develop the mitigation or remediation.
-
 
   --------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Resource                                            Notes                                                                                                                                Link(s)
@@ -310,7 +296,6 @@ or their developer will need to develop the mitigation or remediation.
   Web Application Security Consortium (WASC)          Collection of web application security resources.                                                                                    [[http://www.webappsec.org/](http://www.webappsec.org/){.external-link rel="nofollow"}]{style="color: rgb(171,34,22);"}
   --------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 # Development Resources {#AppendixFAdditionalResourcesforWebVulnerabilities-DevelopmentResources}
 
 A threat model of the service or web application being provided should
@@ -318,7 +303,6 @@ be developed earlier in the process to help make architecture decisions
 that will keep the application more secure. Below are resources for
 creating and using a threat model for development or deployment, as well
 as secure coding development principles.
-
 
 +---------------+----------------------------+-------------------------+
 | Resource      | Notes                      | Link(s)                 |
@@ -380,7 +364,6 @@ as secure coding development principles.
 |               |                            | rel="nofollow"}         |
 +---------------+----------------------------+-------------------------+
 
-
 \
 
 \
@@ -408,15 +391,4 @@ as secure coding development principles.
 \
 
 \
-
-
-
-
-
-
-
-
-
-
-
 

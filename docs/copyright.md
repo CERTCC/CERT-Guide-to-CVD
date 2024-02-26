@@ -1,12 +1,5 @@
 # Copyright 
 
-
-
-
-
-
-
-
 Copyright® 2017-2020 Carnegie Mellon University. All Rights Reserved.
 
 This material is based upon work funded and supported by the Department
@@ -50,38 +43,17 @@ rel="nofollow"}.
 \* These restrictions do not apply to U.S. government entities.
 DM17-0508
 
-
-
 \<
 [Home](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 \| [Preface](Preface_49414150.md) \>
 
-
-
 \
 
 \
-
-
-
 
 ## Attachments: {#attachments .pageSectionTitle}
-
-
 
 ![](images/icons/bullet_blue.gif){height="8" width="8"} [Screen Shot
 2019-05-29 at 9.33.27 AM.png](attachments/52756629/52756630.png)
 (image/png)\
-
-
-
-
-
-
-
-
-
-
-
-
 

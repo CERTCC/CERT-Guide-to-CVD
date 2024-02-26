@@ -1,12 +1,5 @@
 # 3. Roles in CVD 
 
-
-
-
-
-
-
-
 *What people say, what people do, and what they say they do are entirely
 different things.*\
 *-- Margaret Mead*
@@ -60,36 +53,15 @@ usually simultaneously.
 
 \
 
-
-
 \< [2.7. CVD as a Wicked
 Problem](2.7.-CVD-as-a-Wicked-Problem_47677457.md) \| [3.1.
 Finder](3.1.-Finder_47677460.md) \>
 
-
-
-
-
-
 ## Attachments: {#attachments .pageSectionTitle}
-
-
 
 ![](images/icons/bullet_blue.gif){height="8" width="8"}
 [worddavf265eb68cf2f5428432a29cddda1b25c.png](attachments/47677459/47677458.png)
 (image/png)\
 ![](images/icons/bullet_blue.gif){height="8" width="8"}
 [role_relationships.png](attachments/47677459/58720266.png) (image/png)\
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,16 +1,8 @@
 # Bibliography 
 
-
-
-
-
-
-
-
 **Bibliography**
 
 *URLs are valid as of the publication date of this document.*
-
 
   --------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   \[1\]     B. Cancilla, \"Return of the Browser Wars,\" August 2004. \[Online\]. Available: http://www.ibmsystemsmag.com/ibmi/trends/whatsnew/Return-of-the-Browser-Wars/. \[Accessed 17 May 2017\].
@@ -177,25 +169,9 @@
   \[162\]   Wikipedia, \"Wicked problem,\" \[Online\]. Available: https://en.wikipedia.org/wiki/Wicked_problem. \[Accessed 5 June 2017\].
   --------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
 \< [Appendix E - Disclosure Policy
 Templates](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677529){.createlink}
 \|
 [Home](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
 \>
-
-
-
-
-
-
-
-
-
-
-
-
-
 

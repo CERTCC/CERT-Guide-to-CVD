@@ -1,12 +1,5 @@
 # Executive Summary 
 
-
-
-
-
-
-
-
 Software-based products and services have vulnerabilities---conditions
 or behaviors that allow the violation of an explicit or implicit
 security policy. This should come as no surprise to those familiar with
@@ -49,7 +42,6 @@ been disclosed and deployers must take action to respond. [Section
 1](1.-Introduction_47677445.md) introduces the CVD process and
 provides notes on relevant terminology.
 
-
 -   [Principles of CVD](#ExecutiveSummary-PrinciplesofCVD)
 -   [Roles in CVD](#ExecutiveSummary-RolesinCVD)
 -   [Phases of CVD](#ExecutiveSummary-PhasesofCVD)
@@ -61,7 +53,6 @@ provides notes on relevant terminology.
 -   [Conclusion and
     Appendices](#ExecutiveSummary-ConclusionandAppendices)
 -   [References](#ExecutiveSummary-References)
-
 
 # **Principles of CVD** {#ExecutiveSummary-PrinciplesofCVD .conf-macro .output-block}
 
@@ -288,12 +279,6 @@ pointers to publicly available disclosure policy templates, and pointers
 to additional resources for web vulnerabilities. An extensive
 [bibliography](Bibliography_47677529.md) is also included. 
 
-
-
-
-
-
-
 # References {#ExecutiveSummary-References}
 
 1.  [H. W. Rittel and M. M. Webber, \"Dilemmas in a General Theory of
@@ -303,15 +288,4 @@ to additional resources for web vulnerabilities. An extensive
     1973.]{style="color: rgb(23,43,77);text-decoration: none;"}
 
 \
-
-
-
-
-
-
-
-
-
-
-
 

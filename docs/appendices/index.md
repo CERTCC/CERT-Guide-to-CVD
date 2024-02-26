@@ -1,11 +1,6 @@
 # Appendices 
 
-
-
-
 Created by [ Allen D. Householder]{.author} on 2019-04-04
-
-
 
 -   [Appendix A - On the Internet of Things and Vulnerability
     Analysis](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.md)
@@ -19,15 +14,4 @@ Created by [ Allen D. Householder]{.author} on 2019-04-04
     Templates](Appendix-E---Disclosure-Policy-Templates_47677527.md)
 -   [Appendix F - Additional Resources for Web
     Vulnerabilities](Appendix-F---Additional-Resources-for-Web-Vulnerabilities_57278470.md)
-
-
-
-
-
-
-
-
-
-
-
 
