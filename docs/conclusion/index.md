@@ -61,8 +61,7 @@ reading.]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rg
 *[
 ]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
-## References {#id-9.Conclusion-References}
-
+## References
 1.  [S. Arbesman, Overcomplicated: Technology at the Limits of
     Comprehension, Current,
     2016.]
