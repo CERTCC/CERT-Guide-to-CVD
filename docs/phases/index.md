@@ -109,16 +109,14 @@ Discovery](4.1-Discovery_47677467.md) \>
     2014.]2.  [S. Christey and C. Wysopal, "Responsible Vulnerability Disclosure
     Process draft-christey-wysopal-vuln-disclosure-00.txt,"
     February 2002. \[Online\]. Available:
-    [https://tools.ietf.org/html/draft-christey-wysopal-vuln-disclosure-00](https://tools.ietf.org/html/draft-christey-wysopal-vuln-disclosure-00){.external-link
-    rel="nofollow"}. \[Accessed 17 May
+    [https://tools.ietf.org/html/draft-christey-wysopal-vuln-disclosure-00](https://tools.ietf.org/html/draft-christey-wysopal-vuln-disclosure-00). \[Accessed 17 May
     2017\].]3.  [ISO/IEC, "ISO/IEC 30111:2013 Information technology---Security
     techniques---Vulnerability handling processes,"
     2013.]4.  [J. T. Chambers and J. W. Thompson, "National Infrastructure
     Advisory Council Vulnerability Disclosure Framework Final Report and
     Recommendations by the Council," 13 January 2004. \[Online\].
     Available:
-    [https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf](https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf){.external-link
-    rel="nofollow"}. \[Accessed 17 May
+    [https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf](https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf). \[Accessed 17 May
     2017\].]5.  [ISO/IEC, "ISO/IEC 30111:2013 Information technology---Security
     techniques---Vulnerability handling processes,"
     2013.]

@@ -37,8 +37,7 @@ modification, and freely distributed in written or electronic form
 without requesting formal permission. Permission is required for any
 other external and/or commercial use. Requests for permission should be
 directed to the Software Engineering Institute at
-[permission@sei.cmu.edu](mailto:permission@sei.cmu.edu){.external-link
-rel="nofollow"}.
+[permission@sei.cmu.edu](mailto:permission@sei.cmu.edu).
 
 \* These restrictions do not apply to U.S. government entities.
 DM17-0508

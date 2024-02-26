@@ -25,8 +25,7 @@ automobiles or medical devices), but the lessons are easily adaptable by
 any organization that builds or maintains its own software or systems. A
 discussion of issues and template policy is included.
 
-[https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf](https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf){.external-link
-rel="nofollow"}
+[https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf](https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf)
 
 # [Disclose.io](http://Disclose.io) {#AppendixEDisclosurePolicyTemplates-Disclose.io}
 
@@ -37,12 +36,10 @@ rel="nofollow"}
 > good-faith security research.]{style="color: rgb(0,0,0);"}
 
 Main web
-site: [https://disclose.io/](https://disclose.io/){.external-link
-rel="nofollow"}
+site: [https://disclose.io/](https://disclose.io/)
 
 Github repository with policy
-templates: [https://github.com/disclose/disclose](https://github.com/disclose/disclose){.external-link
-rel="nofollow"}
+templates: [https://github.com/disclose/disclose](https://github.com/disclose/disclose)
 
 # Open Source Vulnerability Disclosure Framework {#AppendixEDisclosurePolicyTemplates-OpenSourceVulnerabilityDisclosureFramework}
 
@@ -55,18 +52,15 @@ companies." In addition to a policy template "written with both
 simplicity and legal completeness in mind," a guidance document is
 provided for setting up a vulnerability disclosure program.
 
-[https://github.com/bugcrowd/disclosure-policy](https://github.com/bugcrowd/disclosure-policy){.external-link
-rel="nofollow"}
+[https://github.com/bugcrowd/disclosure-policy](https://github.com/bugcrowd/disclosure-policy)
 
 # Security.txt {#AppendixEDisclosurePolicyTemplates-Security.txt}
 
 security.txt: A proposed standard which allows websites to define
 security policies.
 
-[https://securitytxt.org/](https://securitytxt.org/){.external-link
-rel="nofollow"} and IETF
-draft [https://tools.ietf.org/html/draft-foudil-securitytxt-08](https://tools.ietf.org/html/draft-foudil-securitytxt-08){.external-link
-rel="nofollow"}
+[https://securitytxt.org/](https://securitytxt.org/) and IETF
+draft [https://tools.ietf.org/html/draft-foudil-securitytxt-08](https://tools.ietf.org/html/draft-foudil-securitytxt-08)
 
 # U.S. GSA Vulnerability Disclosure Policy {#AppendixEDisclosurePolicyTemplates-U.S.GSAVulnerabilityDisclosurePolicy}
 
@@ -74,8 +68,7 @@ The United States General Services Administration (GSA)'s Technology
 Transformation Service (TTS) provides its vulnerability disclosure
 policy as a public domain resource.
 
-[https://github.com/18F/vulnerability-disclosure-policy](https://github.com/18F/vulnerability-disclosure-policy){.external-link
-rel="nofollow"}
+[https://github.com/18F/vulnerability-disclosure-policy](https://github.com/18F/vulnerability-disclosure-policy)
 
 # ENISA Good Practice Guide on Vulnerability Disclosure {#AppendixEDisclosurePolicyTemplates-ENISAGoodPracticeGuideonVulnerabilityDisclosure}
 
@@ -83,8 +76,7 @@ The Good Practice Guide on Vulnerability Disclosure from European Union
 Agency for Network and Information Security (ENISA) includes an
 annotated vulnerability disclosure policy template as an Annex.
 
-[https://www.enisa.europa.eu/publications/vulnerability-disclosure/at_download/fullReport](https://www.enisa.europa.eu/publications/vulnerability-disclosure/at_download/fullReport){.external-link
-rel="nofollow"}
+[https://www.enisa.europa.eu/publications/vulnerability-disclosure/at_download/fullReport](https://www.enisa.europa.eu/publications/vulnerability-disclosure/at_download/fullReport)
 
 # US Department of Justice Framework for a Vulnerability Disclosure Program for Online Systems {#AppendixEDisclosurePolicyTemplates-USDepartmentofJusticeFrameworkforaVulnerabilityDisclosureProgramforOnlineSystems}
 
@@ -96,14 +88,12 @@ disclosure and hands-on---rather than remote---examination of software,
 devices, or hardware" because of potentially distinct legal issues that
 may arise.
 
-[https://www.justice.gov/criminal-ccips/page/file/983996/download](https://www.justice.gov/criminal-ccips/page/file/983996/download){.external-link
-rel="nofollow"}
+[https://www.justice.gov/criminal-ccips/page/file/983996/download](https://www.justice.gov/criminal-ccips/page/file/983996/download)
 
 The aforementioned report is one of many related white papers provided
 by the DoJ's Computer Crime and Intellectual Property section.
 
-[https://www.justice.gov/criminal-ccips/ccips-documents-and-reports](https://www.justice.gov/criminal-ccips/ccips-documents-and-reports){.external-link
-rel="nofollow"}
+[https://www.justice.gov/criminal-ccips/ccips-documents-and-reports](https://www.justice.gov/criminal-ccips/ccips-documents-and-reports)
 
 # [Where to Look for More]{style="letter-spacing: 0.0px;"} {#AppendixEDisclosurePolicyTemplates-WheretoLookforMore}
 

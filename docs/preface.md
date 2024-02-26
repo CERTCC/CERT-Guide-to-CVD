@@ -181,11 +181,9 @@ been doing this for a while. Here's what we know.
 
 1.  B. Cancilla, "Return of the Browser Wars," August 2004.
     \[Online\]. Available:
-    [http://www.ibmsystemsmag.com/ibmi/trends/whatsnew/Return-of-the-Browser-Wars/](http://www.ibmsystemsmag.com/ibmi/trends/whatsnew/Return-of-the-Browser-Wars/){.external-link
-    rel="nofollow"}.
+    [http://www.ibmsystemsmag.com/ibmi/trends/whatsnew/Return-of-the-Browser-Wars/](http://www.ibmsystemsmag.com/ibmi/trends/whatsnew/Return-of-the-Browser-Wars/).
 2.  A. Manion, "Vulnerability Note VU#713878 Microsoft Internet
     Explorer does not properly validate source of redirected frame,"
     CERT/CC, 9 June 2004. \[Online\]. Available:
-    [https://www.kb.cert.org/vuls/id/713878](https://www.kb.cert.org/vuls/id/713878){.external-link
-    rel="nofollow"}. 
+    [https://www.kb.cert.org/vuls/id/713878](https://www.kb.cert.org/vuls/id/713878). 
 
