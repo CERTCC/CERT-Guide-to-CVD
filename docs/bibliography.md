@@ -169,9 +169,6 @@
   \[162\]   Wikipedia, \"Wicked problem,\" \[Online\]. Available: https://en.wikipedia.org/wiki/Wicked_problem. \[Accessed 5 June 2017\].
   --------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-\< [Appendix E - Disclosure Policy
-Templates](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677529){.createlink}
-\|
-[Home](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
-\>
+
+
 

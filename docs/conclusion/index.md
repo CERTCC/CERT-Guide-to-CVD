@@ -58,10 +58,8 @@ reading.]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rg
 
 \
 
-\< [8.2 IoT and CVD](8.2-IoT-and-CVD_47677498.md) \| [Appendix A - On
-the Internet of Things and Vulnerability
-Analysis](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.md)
-\>
+
+
 
 *[\
 ]{style="color: rgb(23,43,77);text-decoration: none;"}*

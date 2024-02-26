@@ -21,8 +21,6 @@ foreseeable future.
     DBs](8.1-Vulnerability-IDs-and-DBs_47677497.md)
 -   [8.2 IoT and CVD](8.2-IoT-and-CVD_47677498.md)
 
-\< [7.3 CVD Staffing
-Considerations](7.3-CVD-Staffing-Considerations_47677495.md) \| [8.1
-Vulnerability IDs and DBs](8.1-Vulnerability-IDs-and-DBs_47677497.md)
-\>
+
+
 
