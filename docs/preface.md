@@ -186,8 +186,7 @@ been doing this for a while. Here's what we know.
 
 
 
-\< [Copyright](Copyright_52756629.md) \|
-[Acknowledgements](Acknowledgements_49414152.md) \>
+
 
 
 

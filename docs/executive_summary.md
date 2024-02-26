@@ -290,8 +290,7 @@ to additional resources for web vulnerabilities. An extensive
 
 
 
-\< [Acknowledgements](Acknowledgements_49414152.md) \| [1.
-Introduction](1.-Introduction_47677445.md) \>
+
 
 
 
