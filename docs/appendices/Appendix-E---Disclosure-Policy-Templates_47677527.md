@@ -28,7 +28,7 @@ discussion of issues and template policy is included.
 [https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf](https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf){.external-link
 rel="nofollow"}
 
-# [Disclose.io](http://Disclose.io){.external-link rel="nofollow"} {#AppendixEDisclosurePolicyTemplates-Disclose.io}
+# [Disclose.io](http://Disclose.io) {#AppendixEDisclosurePolicyTemplates-Disclose.io}
 
 > [[[[disclose.io]{style="color: rgb(0,0,0);"}](http://disclose.io/){.external-link
 > rel="nofollow"}]{.hero__disclose .h-sansserif} is a cross-industry,
