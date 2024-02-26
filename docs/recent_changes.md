@@ -7,7 +7,7 @@
     Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
 
 
-# [ CERT Guide to CVD : Recent Changes ]{#title-text} {#title-heading .pagetitle}
+# Recent Changes 
 
 
 

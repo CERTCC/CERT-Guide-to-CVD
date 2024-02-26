@@ -8,7 +8,7 @@
 3.  [Appendices](Appendices_49414192.html)
 
 
-# [ CERT Guide to CVD : Appendix E - Disclosure Policy Templates ]{#title-text} {#title-heading .pagetitle}
+# Appendix E - Disclosure Policy Templates 
 
 
 

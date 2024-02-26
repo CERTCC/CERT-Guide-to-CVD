@@ -8,7 +8,7 @@
 3.  [Appendices](Appendices_49414192.html)
 
 
-# [ CERT Guide to CVD : Appendix F - Additional Resources for Web Vulnerabilities ]{#title-text} {#title-heading .pagetitle}
+# Appendix F - Additional Resources for Web Vulnerabilities 
 
 
 

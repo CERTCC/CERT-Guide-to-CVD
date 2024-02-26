@@ -8,7 +8,7 @@
 3.  [Appendices](Appendices_49414192.html)
 
 
-# [ CERT Guide to CVD : Appendix B - Traffic Light Protocol ]{#title-text} {#title-heading .pagetitle}
+# Appendix B - Traffic Light Protocol 
 
 
 

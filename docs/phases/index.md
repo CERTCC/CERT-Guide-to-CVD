@@ -7,7 +7,7 @@
     Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
 
 
-# [ CERT Guide to CVD : 4. Phases of CVD ]{#title-text} {#title-heading .pagetitle}
+# 4. Phases of CVD 
 
 
 

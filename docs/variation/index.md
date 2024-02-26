@@ -7,7 +7,7 @@
     Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
 
 
-# [ CERT Guide to CVD : 5. Process Variation Points ]{#title-text} {#title-heading .pagetitle}
+# 5. Process Variation Points 
 
 
 

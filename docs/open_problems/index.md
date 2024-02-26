@@ -7,7 +7,7 @@
     Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
 
 
-# [ CERT Guide to CVD : 8. Open Problems in CVD ]{#title-text} {#title-heading .pagetitle}
+# 8. Open Problems in CVD 
 
 
 

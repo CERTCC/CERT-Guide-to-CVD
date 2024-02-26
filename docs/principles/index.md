@@ -7,7 +7,7 @@
     Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
 
 
-# [ CERT Guide to CVD : 2. Principles of Coordinated Vulnerability Disclosure ]{#title-text} {#title-heading .pagetitle}
+# 2. Principles of Coordinated Vulnerability Disclosure 
 
 
 

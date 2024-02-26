@@ -7,7 +7,7 @@
     Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
 
 
-# [ CERT Guide to CVD : 6. Troubleshooting CVD ]{#title-text} {#title-heading .pagetitle}
+# 6. Troubleshooting CVD 
 
 
 

@@ -7,7 +7,7 @@
     Disclosure](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.html)
 
 
-# [ CERT Guide to CVD : 7. Operational Considerations ]{#title-text} {#title-heading .pagetitle}
+# 7. Operational Considerations 
 
 
 
