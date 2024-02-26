@@ -1,7 +1,7 @@
 # 4. Phases of CVD 
 
 *[\"You go through phases. You have to reinvent reasons for playing, and
-one year\'s answer might not do for another.\"
+one year's answer might not do for another.\"
 -Yo-Yo Ma]{style="color: rgb(23,43,77);text-decoration: none;"}*
 
 *[
