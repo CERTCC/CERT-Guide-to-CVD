@@ -27,26 +27,26 @@ complex process. In this section, we\'ll first cover some of the common
 ways things can go wrong and finish with some suggestions on what to do
 if and when they do. A summary of the advice in this section can be
 found in [6.10 Troubleshooting Coordinated Vulnerability Disclosure
-Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md).
+Table](6_10).
 
 -   [6.1 Unable to Find Vendor
-    Contact](6.1-Unable-to-Find-Vendor-Contact_47677483.md)
--   [6.2 Unresponsive Vendor](6.2-Unresponsive-Vendor_47677484.md)
+    Contact](6_1)
+-   [6.2 Unresponsive Vendor](6_2)
 -   [6.3 Somebody Stops
-    Replying](6.3-Somebody-Stops-Replying_47677485.md)
+    Replying](6_3)
 -   [6.4 Intentional or Accidental
-    Leaks](6.4-Intentional-or-Accidental-Leaks_47677486.md)
--   [6.5 Independent Discovery](6.5-Independent-Discovery_47677487.md)
--   [6.6 Active Exploitation](6.6-Active-Exploitation_47677488.md)
+    Leaks](6_4)
+-   [6.5 Independent Discovery](6_5)
+-   [6.6 Active Exploitation](6_6)
 -   [6.7 Relationships that Go
-    Sideways](6.7-Relationships-that-Go-Sideways_47677489.md)
--   [6.8 Hype, Marketing, and Unwanted Attention](47677490.md)
+    Sideways](6_7)
+-   [6.8 Hype, Marketing, and Unwanted Attention](6_8)
 -   [6.9 What to Do When Things Go
-    Wrong](6.9-What-to-Do-When-Things-Go-Wrong_47677491.md)
+    Wrong](6_9)
 -   [6.10 Troubleshooting Coordinated Vulnerability Disclosure
-    Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md)
+    Table](6_10)
 
 \< [5.7 Disclosure Timing](5.7-Disclosure-Timing_47677481.md) \| [6.1
 Unable to Find Vendor
-Contact](6.1-Unable-to-Find-Vendor-Contact_47677483.md) \>
+Contact](6_1) \>
 
