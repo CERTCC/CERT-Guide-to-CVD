@@ -81,7 +81,6 @@ nav:
     - Acknowledgements: 'acknowledgements.md'
     - Sightings: 'sightings.md'
     - Copyright: 'copyright.md'
-  - Recent Changes: 'recent_changes.md'
 not_in_nav: |
   _*.md
   _*/**/*.md
