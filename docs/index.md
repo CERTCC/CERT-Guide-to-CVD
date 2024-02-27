@@ -49,7 +49,7 @@ for a more succinct way to get started with CVD without requiring
 someone to read every word in the Guide. To that end, we offer this CVD
 Quick Start to act as a meta-guide to the Guide.
 
-The [Executive Summary](executive_summary.md) contains an
+The [Executive Summary](tutorials/executive_summary.md) contains an
 overview of the entire document, and is a good place for all readers to
 become familiar with what's in the guide without necessarily poring
 over the details. Where you go from there depends on what you're trying

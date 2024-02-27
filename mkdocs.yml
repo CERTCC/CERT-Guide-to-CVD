@@ -8,12 +8,10 @@ nav:
   - Learning CVD:
     - Overview: 'tutorials/index.md'
     - CVD Overview:
-        - Intro: 'introduction/index.md'
-        - A Process, Not an Event: 'introduction/cvd_is_a_process.md'
-        - CVD Context and Terminology: 'introduction/terminology.md'
-        - Why Coordinate?: 'introduction/why_coordinate.md'
-        - Preview: 'introduction/preview.md'
-    - Executive Summary: 'executive_summary.md'
+        - A Process, Not an Event: 'tutorials/cvd_is_a_process.md'
+        - CVD Terminology: 'tutorials/terminology.md'
+        - Preview: 'tutorials/preview.md'
+    - Executive Summary: 'tutorials/executive_summary.md'
     - Troubleshooting:
         - Intro: 'troubleshooting/index.md'
         - Unable to Find Vendor Contact: 'troubleshooting/6_1.md'
@@ -28,6 +26,7 @@ nav:
         - Troubleshooting CVD: 'troubleshooting/6_10.md'
   - CVD How-To:
     - Overview: 'howto/index.md'
+    - Why Coordinate?: 'tutorials/why_coordinate.md'
     - Avoid Unnecessary Risk: 'phases/avoid_risk.md'
     - Operations:
         - Intro: 'operations/index.md'
