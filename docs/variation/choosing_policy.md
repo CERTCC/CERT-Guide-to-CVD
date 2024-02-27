@@ -64,7 +64,7 @@ your CSIRT and disclosure policy and procedures
 
 \< [5. Process Variation
 Points](5.-Process-Variation-Points_47677473.md) \| [5.2 Disclosure
-Choices](5_2) \>
+Choices](disclosure_choices) \>
 
 ## References
 1.  [J. Postel, "Internet Protocol (RFC 760),"

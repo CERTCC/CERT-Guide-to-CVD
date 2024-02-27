@@ -3,25 +3,29 @@
 As we have mentioned previously, participants in Coordinated
 Vulnerability Disclosure iterate over the following questions:
 
-1.  What actions should I take in response to this knowledge?
-2.  Who else should I tell about it?
-3.  What should I tell them?
-    [
-    ]
-[Let's take a moment to explore questions 2 and 2a in a few scenarios.
+1. What actions should I take in response to this knowledge?
+2. Who else should I tell about it?
+3. What should I tell them?
+
+Let's take a moment to explore questions 2 and 2a in a few scenarios.
 Each of these disclosure options have advantages and disadvantages. In
 this section, we adapt and expand some terminology from Shepherd
-\[1\]:]
--   **No Disclosure** -- All information about the vulnerability is kept
-    private. Sometimes this is enforced by non-disclosure agreements
-    (NDAs). Vendors sometimes prefer this scenario to protect trade
-    secrets or to lessen the impact of perceived negative press. Some
-    finders prefer not to disclose vulnerabilities to anyone, in the
-    hope that malicious actors will not find out about the vulnerability
-    if it is not disclosed. Data on the outcomes of a non-disclosure
-    policy are difficult to come by, as these vulnerabilities are by
-    definition hidden from public view.
--   **Private Disclosure** -- When a product's vendor is aware of a
+[^1].
+
+!!! info "No Disclosure"
+
+    All information about the vulnerability is kept private. Sometimes
+    this is enforced by non-disclosure agreements (NDAs). Vendors
+    sometimes prefer this scenario to protect trade secrets or to lessen
+    the impact of perceived negative press. Some finders prefer not to
+    disclose vulnerabilities to anyone, in the hope that malicious actors
+    will not find out about the vulnerability if it is not disclosed. Data
+    on the outcomes of a non-disclosure policy are difficult to come by,
+    as these vulnerabilities are by definition hidden from public view.
+
+!!! info "Private Disclosure"
+
+    When a product's vendor is aware of a
     vulnerability, the vendor may take action to address it but will
     only notify its own customer base of the vulnerability and its
     mitigation privately. Many of the same motives as the No Disclosure
@@ -33,7 +37,10 @@ this section, we adapt and expand some terminology from Shepherd
     reached, so that everyone using the software may be protected.
     However, this approach is often not practical for widely deployed or
     open source software.
--   **Limited (Partial) Disclosure** -- When a vulnerability is found,
+
+!!! info "Limited (Partial) Disclosure"
+
+    When a vulnerability is found,
     only some information about the vulnerability is disclosed to the
     public. The goal is typically to slow down reverse engineering and
     exploit development long enough for a fix to be developed and
@@ -41,7 +48,10 @@ this section, we adapt and expand some terminology from Shepherd
     technical details of the vulnerability while still providing enough
     information that users of the product may take action to mitigate
     the issue.
--   **Full Disclosure** -- When a vulnerability is found, all
+
+!!! info "Full Disclosure"
+    
+    When a vulnerability is found, all
     information about the vulnerability is disclosed to the public.
     Typically, this scenario results in the release of proof of concept
     exploit code along with a report describing the vulnerability. In
@@ -62,12 +72,6 @@ this section, we adapt and expand some terminology from Shepherd
     issues in the open in order to maximize review of the vulnerability
     and testing of the proposed solution.
     
-
-\< [5.1 Choosing a Disclosure
-Policy](5_1) \| [5.3
-Two-Party CVD](5_3) \>
-
-## References
-1.  [S. Shepherd, "Vulnerability Disclosure: How Do We Define
+[^1]:  S. Shepherd, "Vulnerability Disclosure: How Do We Define
     Responsible Disclosure?" SANS GIAC SEC Practical Repository,
-    2003.]
+    2003.

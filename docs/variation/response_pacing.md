@@ -11,7 +11,7 @@ make the difficult choice to withhold notification from a vendor in a
 complicated multiparty disclosure case if that vendor cannot be trusted
 to cooperate with the coordination effort.
 
-# When One Party Wants to Release Early
+## When One Party Wants to Release Early
 In a multiparty coordination scenario, some vendors may want to release
 early to protect their customers. They have a good point: should Vendor
 A's customers be kept vulnerable just because Vendor B is taking longer
@@ -25,7 +25,7 @@ too---the focus of such a contingency should be how to respond if
 information about the vulnerability got out before you were ready for
 it.
 
-# Communication Topology
+## Communication Topology
 The complexity of coordination problems increases rapidly as more
 parties are involved in the coordination effort. Graph theory tells us
 the number of participant pairs increases as N(N-1)/2 for N
@@ -35,19 +35,85 @@ concepts, multiparty coordination involving more than a few participants
 can be improved with a shift to either a hub-and-spoke or shared-bus
 topology in lieu of a full mesh or collection of point-to-point
 communications (see Figure 2).
-[![](attachments/47677479/47677478.png){.confluence-embedded-image
-draggable="false" height="315" width="552"
-image-src="attachments/47677479/47677478.png"
-unresolved-comment-count="0" linked-resource-id="47677478"
-linked-resource-version="1" linked-resource-type="attachment"
-linked-resource-default-alias="worddave192b07c0eded65cb2ec58f125ae0f50.png"
-base-url="https://vuls.cert.org/confluence"
-linked-resource-content-type="image/png"
-linked-resource-container-id="47677479"
-linked-resource-container-version="7"}]{.confluence-embedded-file-wrapper
-.confluence-embedded-manual-size}
-*Figure 2:* *Coordination Communication Topologies*
 
+<div class="grid cards" markdown>
+
+```mermaid
+---
+title: Full Mesh
+---
+flowchart LR
+    a(( ))
+    b(( ))
+    c(( ))
+    d(( ))
+    e(( ))
+    a --- b
+    a --- c
+    a --- d
+    a --- e
+    b --- c
+    b --- d
+    b --- e
+    c --- d
+    c --- e
+    d --- e
+```
+
+```mermaid
+---
+title: Hub and Spoke
+---
+flowchart LR
+    a(( ))
+    b(( ))
+    c(( ))
+    d(( ))
+    e(( ))
+    a --- b
+    b --- c
+    b --- d
+    b --- e
+```
+
+```mermaid
+---
+title: Point to Point
+---
+flowchart LR
+    a(( ))
+    b(( ))
+    c(( ))
+    d(( ))
+    e(( ))
+    a --- b
+    a --- c
+    b --- c
+    c --- d
+    d --- e
+    
+```
+
+```mermaid
+---
+title: Shared Bus
+---
+flowchart TD
+    a(( ))
+  
+    b(( ))
+    c(( ))
+    d(( ))
+    e(( ))
+    shared([shared<br/>channel])
+    a --- shared
+    b --- shared
+    c --- shared
+    d --- shared
+    e --- shared
+```
+
+</div>
 
 The CERT/CC has historically applied a hub-and-spoke approach to
 coordination for cases where it was feasible to maintain separate
@@ -70,8 +136,9 @@ the communication overhead. A shared-bus approach can increase the
 efficiency of communications, but can on occasion make it harder to
 reach agreement on what is to be done.
 
-# Motivating Synchronized Release
-[CVD process discussions tend to focus on the handling of individual
+## Motivating Synchronized Release
+
+CVD process discussions tend to focus on the handling of individual
 vulnerability cases rather than the social fabric surrounding
 vulnerability coordination we construct over time. Shifting away from
 the individual units of work to the social structure can suggest a way
@@ -84,7 +151,7 @@ dilemma is that by shifting one's perspective to considering a repeated
 game, it's possible to find better solutions than would be possible in
 a one-shot game with no history. The recognition that it's a repeated
 game leads to improved cooperation among players who would otherwise be
-motivated to act solely in their own self-interest in each round \[1\].
+motivated to act solely in their own self-interest in each round [^1].
 
 One approach we've found to work is to remind the parties involved that
 this will likely not be the last multiparty vulnerability coordination
@@ -100,22 +167,9 @@ given case can yield better outcomes in the long run.
 In the end, everyone benefits from vendors improving their vulnerability
 response processes, so helping the laggards become more efficient can
 sometimes become a secondary goal of the coordination
-process.]{style="color: rgb(23,43,77);text-decoration: none;"}[
-]
+process.
 
 
- \| [5.6
-Maintaining Pre-Disclosure
-Secrecy](5_6) \>
+[^1]: R. M. Axelrod, The Evolution of Cooperation, Revised ed., Basic books, 2006.
 
-[
-]
-## References
-1.  [R. M. Axelrod, The Evolution of Cooperation, Revised ed., Basic
-    books, 2006.]
-## Attachments: {#attachments .pageSectionTitle}
-
-![](images/icons/bullet_blue.gif){height="8" width="8"}
-[worddave192b07c0eded65cb2ec58f125ae0f50.png](attachments/47677479/47677478.png)
-(image/png)
 

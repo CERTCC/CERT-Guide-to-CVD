@@ -35,13 +35,13 @@ nav:
         - Staffing: 'operations/staffing.md'
     - Variation:
       - Intro: 'variation/index.md'
-      - Choosing a Disclosure Policy: 'variation/5_1.md'
-      - Disclosure Choices: 'variation/5_2.md'
-      - Two-Party CVD: 'variation/5_3.md'
-      - Multi-Party CVD: 'variation/5_4.md'
-      - Response Pacing and Synchronization:  'variation/5_5.md'
-      - Maintaining Pre-Disclosure Confidentiality: 'variation/5_6.md'
-      - Disclosure Timing: 'variation/5_7.md'
+      - Choosing a Disclosure Policy: 'variation/choosing_policy.md'
+      - Disclosure Choices: 'variation/disclosure_choices.md'
+      - Two-Party CVD: 'variation/two_party_cvd.md'
+      - Multi-Party CVD: 'variation/mpcvd.md'
+      - Response Pacing and Synchronization:  'variation/response_pacing.md'
+      - Maintaining Pre-Disclosure Confidentiality: 'variation/maintaining_secrecy.md'
+      - Disclosure Timing: 'variation/disclosure_timing.md'
   - Understanding CVD:
     - Overview: 'topics/index.md'
     - Principles:
