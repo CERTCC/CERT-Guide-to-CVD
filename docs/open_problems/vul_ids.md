@@ -8,7 +8,7 @@ vulnerability databases is significant.
 
 This section is adapted from a CERT/CC blog post by Householder \[1\].
 
-# On the Complexities of Vulnerability Identity
+## On the Complexities of Vulnerability Identity
 Vulnerability identifiers can serve multiple purposes.
 
 They may be used to identify the following:
@@ -68,7 +68,7 @@ to each other, the VRDX work represents the following concepts:
 "possibly related," "related," "not equal," "equal,"
 "superset," "subset," and "overlap."
 
-# What CVE Isn't
+## What CVE Isn't
 Because of the prevalence and popular use of CVE IDs in the
 vulnerability response space, many people assume that vulnerability
 identity is synonymous with Common Vulnerabilities and Exposures (CVE)
@@ -80,7 +80,7 @@ assumption is inaccurate:
 -   Not all vulnerabilities assigned a CVE ID have a corresponding
     record in the CVE database.
 
-# Every Vulnerability Database Makes Choices
+## Every Vulnerability Database Makes Choices
 As the CERT/CC's vulnerability analysis efforts have expanded into
 vulnerability coordination for non-traditional computing products
 (mobile, vehicles, medical devices, IoT, etc.) \[10\], we've also begun
@@ -170,7 +170,7 @@ up with completely distinct data sets due to the latter items
 (uncertainty tolerance, latency tolerance, capacity constraints, and
 user needs).
 
-# Where We Are vs. Where We Need to Be
+## Where We Are vs. Where We Need to Be
 The vulnerability databases you are probably most familiar with, such as
 the National Vulnerability Database (NVD) \[13\], Common Vulnerabilities
 and Exposures (CVE) \[14\], and the CERT Vulnerability Notes Database
@@ -209,7 +209,7 @@ sector-specific interests, there will be a need for interoperability
 across all those coordination processes and the VDBs into which they
 feed.
 
-# Vulnerability IDs, Fast and Slow
+## Vulnerability IDs, Fast and Slow
 Over time, it has become clear that the days of the "One Vulnerability
 ID to Rule Them All" are coming to a close and we need to start
 planning for that change. As we've covered above, one of the key
@@ -251,7 +251,7 @@ in and around the \_develop\_ branch, and only when things have settled
 out does the \_master\_ branch get updated (and merge conflicts are as
 inevitable as death and taxes).
 
-# A Path Toward VDB Interoperability
+## A Path Toward VDB Interoperability
 As mentioned above, the FIRST VRDX-SIG is working on a vulnerability
 cross-reference scheme that would allow for widely distributed
 vulnerability ID assignments and VDBs to run at whatever rate is
@@ -287,7 +287,8 @@ vulnerability databases that explicitly addresses the choices and biases
 described above. The unified data model might be a longer way off, and
 we were anticipating the need to reconcile VDBs much sooner.
 
-# Looking Ahead
+## Looking Ahead
+
 Everything we have discussed in this section is work in progress, and
 some things are changing rapidly on a number of related fronts.
 Nevertheless, while it's hard to say how we'll get there, it seems

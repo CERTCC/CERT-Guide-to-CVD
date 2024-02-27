@@ -21,7 +21,7 @@ all of these topics.
 
 ## Beware Analyst Burnout
 
-[Some organizations may have a small enough flow of incoming
+Some organizations may have a small enough flow of incoming
 vulnerability reports that all the CVD-related roles can be fulfilled by
 a single team, or even a single person. Other organizations might choose
 to split the technical analysis roles apart from the more human-oriented
@@ -41,7 +41,8 @@ with reasonable precautions. At the CERT/CC, we have attempted to
 mitigate this issue with reasonable success by implementing the
 suggestions below. Research has shown that many of these are effective
 responses to commonly-held morale problems
-\[3\].]
+\[3\].
+
 -   *Staying well-staffed* *and rotating responsibility.* Organizations
     may choose to have several team members, trained in the CVD process
     and tools, who can temporarily assist should a regular CVD analyst

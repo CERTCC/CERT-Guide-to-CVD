@@ -61,7 +61,10 @@ nav:
     - Tools: 'operations/tools.md'
     - OpSec: 'operations/opsec.md'
     - Staffing: 'operations/staffing.md'
-  - Open Problems: 'open_problems/index.md'
+  - Open Problems:
+    - Intro: 'open_problems/index.md'
+    - Vul IDs: 'open_problems/vul_ids.md'
+    - IoT and CVD: 'open_problems/iot_cvd.md'
   - Conclusion: 'conclusion/index.md'
   - Acknowledgements: 'acknowledgements.md'
   - Bibliography: 'bibliography.md'

@@ -5,6 +5,7 @@ tools, and CVD is no different. This section covers some commonly used
 tools.
 
 ## Secure Communication Channels
+
 Secure communications can be nuanced to maintain in operation, so we
 first turn our attention to establishing and maintaining this
 capability.
@@ -202,7 +203,8 @@ described in [Section 5.4](5.4-Multiparty-CVD_47677477.md)---become
 more like projects than tickets.
 
 ## Code and System Inventories
-As we [discussed in [Section 5.4](5.4-Multiparty-CVD_47677477.md),
+
+As we discussed in [Section 5.4](5.4-Multiparty-CVD_47677477.md),
 software-based products are typically assembled from components rather
 than written from scratch. Economies of scale apply to code, and most
 organizations would consider it wasteful to write a feature from scratch
@@ -211,15 +213,17 @@ inclusion into their own products. As a result, each product is not
 merely the result of a single vendor's development process, but of an
 entire supply chain. Libraries get included in other libraries, which
 form subcomponents in the composition of larger and more complex
-products. ]
-[For product vendors, an important part of the vulnerability response
+products. 
+
+For product vendors, an important part of the vulnerability response
 process is knowing what weaknesses your products might have. You can
 address this by clearly identifying any third-party libraries or
 utilities that are included with your products, and being alert and
 responsive to vulnerability disclosures in any third-party products that
 may affect your own
-products.]
-[In recent years, a class of Software Composition Analysis tools (such
+products.
+
+In recent years, a class of Software Composition Analysis tools (such
 as those offered by WhiteSource Software \[15\], Black Duck Software
 \[16\], Sonatype \[17\], Synopsys \[18\], Flexera Software \[19\], and
 the like) have come into use to identify potential licensing conflicts
@@ -227,8 +231,9 @@ in commercial and open source products. Many of these tools are
 potentially useful to vendors looking to create an inventory of
 libraries and third-party components used in their products for security
 analysis purposes as
-well.]
-[As a vendor, identifying your products' third-party dependencies is
+well.
+
+As a vendor, identifying your products' third-party dependencies is
 only the first step. After that, you should take steps to ensure that
 your vulnerability response capability maintains awareness of any
 security-related announcements about those upstream products on which
@@ -236,32 +241,32 @@ your product depends. Some component vendors offer special communication
 channels (e.g., a mailing list) for their licensees. If you've worked
 with a coordinator like the CERT/CC in the past, ask if you can be
 placed in a special notification list for a particular library or
-product.]
-[Furthermore, since it is likely that your products will in turn be used
+product.
+
+Furthermore, since it is likely that your products will in turn be used
 as components in some other vendors' solution, it can be a good
 practice to provide an inventory of components along with your product.
 A number of data formats and specifications have emerged in the software
 supply chain management space and are in use by product vendors already.
-]
-[These include the
-following]{style="color: rgb(23,43,77);text-decoration: none;"}:
 
--   S[oftware Identification (SWID) Tags
+These include the following
+
+- Software Identification (SWID) Tags
     \[20\]]-   [Software Identification (SWID) Tags
     \[20\]]-   [Common Platform Enumeration (CPE)
     \[21\]]-   The Software Package Data Exchange (5PXD)
-    \[[22[\]]{style="color: rgb(176,72,0);"}](/confluence/pages/createpage.action?spaceKey=CVD&title=22&linkCreation=true&fromPageId=47677493){.createlink}
+    \[[22[\]]
 
 ## Test Bench and Virtualization
 
-Having an [n internal testing infrastructure is vital to proper triage
+Having an internal testing infrastructure is vital to proper triage
 and resolution of vulnerability reports as we discussed in [Section
 4.3](4.3-Validation-and-Triage_47677469.md). Not only is testing
 useful for confirming reports, or reproducing and isolating bugs; it can
 also serve as a platform for an organization to develop its own
 vulnerability discovery capability.
-]
-[The analysts responsible for confirming incoming reports will over time
+
+The analysts responsible for confirming incoming reports will over time
 develop a familiarity with the ways in which a product is vulnerable,
 and, given appropriate training and support, can begin to apply this
 knowledge directly to the product without having to wait for
@@ -275,8 +280,8 @@ By far the easiest way to build a vulnerability testing infrastructure
 is the use of virtualization technologies. Many different virtual
 machine environments can be built for receivers of vulnerability reports
 to verify or clarify the reports they receive.
-]
-[At the CERT/CC, we maintain a firewalled testing network in which
+
+At the CERT/CC, we maintain a firewalled testing network in which
 virtual machines can be placed for testing. We also maintain a few
 permanent pre-configured servers on this network (HTTP web servers,
 etc.) to allow easy testing of certain classes of vulnerabilities, such
@@ -288,9 +293,10 @@ Be sure your analysts have proper access to any necessary software
 needed for testing. This includes maintaining appropriate software
 licenses for proprietary software, although in many cases free and/or
 open source alternatives are available.
-]
-[Toolkits often include the
-following:]
+
+Toolkits often include the
+following:
+
 -   Virtualization platform, often a need to support multiple operating
     systems
 -   Debuggers

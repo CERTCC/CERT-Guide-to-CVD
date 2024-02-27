@@ -18,8 +18,8 @@ Second, we'll cover the changes that IoT implies to CVD now and for the
 foreseeable future.
 
 -   [8.1 Vulnerability IDs and
-    DBs](8.1-Vulnerability-IDs-and-DBs_47677497.md)
--   [8.2 IoT and CVD](8.2-IoT-and-CVD_47677498.md)
+    DBs](vul_ids)
+-   [8.2 IoT and CVD](iot_cvd)
 
 
 

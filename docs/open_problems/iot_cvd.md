@@ -18,7 +18,8 @@ number of issues we observed in the course of recent work done by the
 CERT Vulnerability Analysis team, and is adapted from a CERT/CC blog
 post by Householder \[1\].
 
-# Black Boxes
+## Black Boxes
+
 We identified issues such as the inclusion of networked appliances in a
 larger system where the appliances provided networked services based on
 sensor data. Enterprise security policy treated the device as a black
@@ -26,7 +27,8 @@ box rather than a general-purpose computer with regard to patch levels,
 included software, and so forth. The attack vector posed by the sensor
 data interface had not been considered either.
 
-# Unrecognized Subcomponents
+## Unrecognized Subcomponents
+
 In a number of projects, we observed that while many systems were
 composed of highly specified off-the-shelf and custom components, the
 vendors providing those systems often could not identify the third-party
@@ -34,7 +36,8 @@ subcomponents present in the delivered codebase. The problem can be as
 simple as not identifying statically linked libraries or as complicated
 as dealing with complex supply chains for code components.
 
-# Long-Lived and Hard-to-Patch
+## Long-Lived and Hard-to-Patch
+
 We observed various devices with wireless data capabilities embedded
 within a larger system yet little or no ability to patch the fielded
 systems except within very sparse service windows. Instances where
@@ -43,7 +46,8 @@ be especially problematic once vulnerabilities are discovered (See Dan
 Geer's talk at the Security of Things Forum for more on the
 "long-lived and not reachable" problem \[2\]).
 
-# New Interfaces Bring New Threats
+## New Interfaces Bring New Threats
+
 We also encountered smart grid devices built out of a traditional
 electrical component coupled to an embedded Linux system to provide
 networked services. In a deployment context, the device was treated as
@@ -51,7 +55,8 @@ an appliance. However, the impact of potential vulnerabilities in the
 general-purpose operating system embedded in the device had not been
 fully addressed.
 
-# Summarizing the IoT's Impact on CVD
+## Summarizing the IoT's Impact on CVD
+
 We anticipate that many of the current gaps in security analysis tools
 and knowledge will begin to close over the next few years. However, it
 may be some time before we can fully understand how the systems already
@@ -72,7 +77,7 @@ future internet.
 
 
 \< [8.1 Vulnerability IDs and
-DBs](8.1-Vulnerability-IDs-and-DBs_47677497.md) \| [9.
+DBs](vul_ids) \| [9.
 Conclusion](9.-Conclusion_47677499.md) \>
 
 ## References

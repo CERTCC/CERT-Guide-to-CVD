@@ -5,6 +5,7 @@ subordinate to the ones already described. We discuss a few of them
 here.
 
 ## Users
+
 Individual users of vulnerable products overlap with deployers as
 described above. In the case where the user must trigger an update or
 install a patch, the user is playing the role of a deployer. In other
