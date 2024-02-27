@@ -19,7 +19,9 @@ and consequences of a particular vulnerability.
 Generally, finders, reporters, vendors, and coordinators should consider
 the following questions in establishing their policies and practices:
 
--   *Should you disclose at all?* -- Generally, the answer will be yes,
+!!! question "Should you disclose at all?"
+    
+    Generally, the answer will be yes,
     but there may be factors that influence this decision. For example,
     some vulnerabilities, if exploited, could place lives in danger or
     cause severe socioeconomic harm. As a result, it may be prudent for
@@ -30,7 +32,9 @@ the following questions in establishing their policies and practices:
     evidence of exploitation or adversarial knowledge of the
     vulnerability.
 
--   *What information will you disclose?* -- For example, will you
+!!! question "What information will you disclose?"
+
+    For example, will you
     publish all information about the vulnerability, including proof of
     concept code, or will you only release a brief description of the
     problem and a remediation? Generally speaking, there is a minimum
@@ -41,13 +45,17 @@ the following questions in establishing their policies and practices:
     provided to the recipient are insufficient to cause that action to
     be taken, the disclosure process will not succeed.
 
--   *To whom will you disclose?* -- In most cases, the disclosure should
+!!! question "To whom will you disclose?"
+
+    In most cases, the disclosure should
     be made publicly. However, in some scenarios the disclosure may be
     to a specific limited group. For example, if the pool of users is
     small and the vendor reaches out to every impacted user, a public
     disclosure may be unnecessary.
 
--   [*Via what channel(s) will you disclose?* -- Will the vulnerability
+!!! question "Via what channel(s) will you disclose?"
+    
+    Will the vulnerability
     information be published on the vendor's website? The reporter's
     blog? BugTraq \[1\], Full Disclosure \[2\], or other mailing lists?
     Will you draw attention to it on social media? There are pros and
@@ -57,20 +65,25 @@ the following questions in establishing their policies and practices:
     usually neither possible nor practical to have every CVD case flow
     through them, leveraging their expertise in planning and developing
     the CVD capability can improve the process
-    considerably.]
--   *What is your expectation of others in disclosing further (or not)?*
-    -- Be sure to discuss your expectations with all stakeholders and be
+    considerably.
+
+!!! question "What is your expectation of others in disclosing further (or not)?"
+
+    Be sure to discuss your expectations with all stakeholders and be
     prepared to negotiate.
     
 
-Vendors in particular will need to address three main questions in
-providing vulnerability and fix information to defenders:
+!!! tip "Three Key Questions for Vendors"
 
--   What information should be provided about the vulnerability?
--   Where should this information be provided?
--   What, if any, additional measures should be taken to draw attention
-    to the existence of the vulnerability or the availability of its
-    fix?
+    Vendors in particular will need to address three main questions in
+    providing vulnerability and fix information to defenders:
+
+    -   What information should be provided about the vulnerability?
+    -   Where should this information be provided?
+    -   What, if any, additional measures should be taken to draw attention
+        to the existence of the vulnerability or the availability of its
+        fix?
+
 
 ## Prepare and Circulate a Draft
 
@@ -116,9 +129,9 @@ of Meltdown and Spectre\[5\], coordinators may be in a rush to
 understand the issue while preparing their advisories, leading to
 erroneous or inadequate advice to their constituencies.
 
-[Publishing]{style="font-size: 24.0px;letter-spacing: 0.0px;"}
+## Publishing
 
-[Once the draft circulation phase is complete, the next step is
+Once the draft circulation phase is complete, the next step is
 publishing the vulnerability document to whatever channels have been
 identified during previous phases.
 
@@ -135,6 +148,7 @@ It is generally courteous for the vendor and reporter to contact each
 other after disclosure to inform one another that the disclosure went
 through as planned and provide URLs to the published
 documents.]
+
 ### Avoid Silent Patches
 
 Many vulnerability reports can be similar, and sometimes a vendor or
