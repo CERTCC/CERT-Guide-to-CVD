@@ -132,9 +132,5 @@ guide and just want to see what's new, see the update log below.
 
 
 {% include-markdown "./sightings.md" %}
-Originally Published
-as [CMU/SEI-2017-SR-022](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330)
 
-Download the [Original PDF version](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330)
 
-{% include-markdown "./sightings.md" %}
