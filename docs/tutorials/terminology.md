@@ -168,25 +168,53 @@ It is worth reiterating that disclosure is not a singular event even for
 a single vulnerability. For more on the different phases of the process,
 see {== TODO fixme [Section 4](4.-Phases-of-CVD_47677466.md) ==}.
 
-### Who is _Responsible_ Here?
+!!! question "Who is _Responsible_ Here?"
 
-You may be familiar with the term *responsible disclosure* \[15\] and
-wonder how it's different from CVD. The history of *responsible
-disclosure* makes for a long story best told over adult beverages at a
-hotel bar during a security conference, so we won't go into it here.
-Without belaboring the topic, the sticking point comes down to the fact
-that what constitutes "responsible" behavior is a matter of opinion
-that is always framed within the values of whoever is using the term.
-The vendors cry, "Disclosing a vulnerability without an available patch
-is not responsible!" "Not fixing this vulnerability quicker is not
-responsible!" the finders retort. Meanwhile, the deployer asks,
-"Who's responsible for fixing this?" while knowing the answer all too
-well. Because of the inherent value judgement and lack of agreement on
-its definition, the CERT/CC, along with numerous other organizations,
-advocates for the use of the term *Coordinated Vulnerability Disclosure
-(CVD)* \[16,17\] to reduce misunderstanding and promote cooperation.
+    You may be familiar with the term *responsible disclosure* \[15\] and
+    wonder how it's different from CVD. The history of *responsible
+    disclosure* makes for a long story best told over adult beverages at a
+    hotel bar during a security conference, so we won't go into it here.
+    Without belaboring the topic, the sticking point comes down to the fact
+    that what constitutes "responsible" behavior is a matter of opinion
+    that is always framed within the values of whoever is using the term.
+    The vendors cry, "Disclosing a vulnerability without an available patch
+    is not responsible!" "Not fixing this vulnerability quicker is not
+    responsible!" the finders retort. Meanwhile, the deployer asks,
+    "Who's responsible for fixing this?" while knowing the answer all too
+    well. Because of the inherent value judgement and lack of agreement on
+    its definition, the CERT/CC, along with numerous other organizations,
+    advocates for the use of the term *Coordinated Vulnerability Disclosure
+    (CVD)* \[16,17\] to reduce misunderstanding and promote cooperation.
 
 ## Vulnerability Management (VM)
+
+!!! info inline end "CERT RMM: Vulnerability Analysis and Resolution (VAR)"
+
+    Vulnerability Analysis and Resolution (VAR) is an operational process
+    described within the CERT RMM that closely overlaps with the concept of
+    Vulnerability Management. Although the RMM is designed with a focus on
+    operational resilience for organizations, there is sufficient overlap
+    with our topic that it's worth highlighting here. Within the RMM's VAR
+    process area, a number of goals and practices are identified:
+
+    -   Prepare for Vulnerability Analysis and Resolution.
+    -   Establish Scope -- The assets and operational environments that must
+    be examined for vulnerabilities are identified.
+    -   Establish a Vulnerability Analysis and Resolution Strategy.
+    -   Establish and maintain a process for identifying and analyzing
+    vulnerabilities.
+    -   Identify Sources of Vulnerability Information.
+    -   Discover Vulnerabilities.
+    -   Analyze Vulnerabilities to determine whether they need to be reduced
+    or eliminated.
+    -   Manage Exposure to Vulnerabilities -- Strategies are developed and
+    implemented to manage exposure to identified vulnerabilities.
+    -   Identify Root Causes -- The root causes of vulnerabilities are
+    examined to improve vulnerability analysis and resolution and reduce
+    organizational exposure. Perform review of identified
+    vulnerabilities to determine and address underlying causes.
+
+
 Vulnerability Management (VM) is the common term for tasks such as
 vulnerability scanning, patch testing, and deployment. VM practices
 nearly always deal with the output of CVD practices, not the inputs. VM
@@ -197,31 +225,6 @@ such as patches or configuration changes. NIST Special Publication
 800-40 provides a Guide to Enterprise Patch Management Technologies
 \[18\]. VM practices also appear within the Vulnerability Analysis and
 Resolution operational process of the CERT RMM \[2\].
-
-### Vulnerability Analysis and Resolution (VAR)
-Vulnerability Analysis and Resolution (VAR) is an operational process
-described within the CERT RMM that closely overlaps with the concept of
-Vulnerability Management. Although the RMM is designed with a focus on
-operational resilience for organizations, there is sufficient overlap
-with our topic that it's worth highlighting here. Within the RMM's VAR
-process area, a number of goals and practices are identified:
-
--   Prepare for Vulnerability Analysis and Resolution.
--   Establish Scope -- The assets and operational environments that must
-    be examined for vulnerabilities are identified.
--   Establish a Vulnerability Analysis and Resolution Strategy.
--   Establish and maintain a process for identifying and analyzing
-    vulnerabilities.
--   Identify Sources of Vulnerability Information.
--   Discover Vulnerabilities.
--   Analyze Vulnerabilities to determine whether they need to be reduced
-    or eliminated.
--   Manage Exposure to Vulnerabilities -- Strategies are developed and
-    implemented to manage exposure to identified vulnerabilities.
--   Identify Root Causes -- The root causes of vulnerabilities are
-    examined to improve vulnerability analysis and resolution and reduce
-    organizational exposure. Perform review of identified
-    vulnerabilities to determine and address underlying causes.
 
 ## Products and Instances
 In talking about things that have vulnerabilities, we try to maintain a
