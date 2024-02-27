@@ -1,6 +1,6 @@
 # Copyright 
 
-Copyright® 2017-2020 Carnegie Mellon University. All Rights Reserved.
+Copyright® 2017-2024 Carnegie Mellon University. All Rights Reserved.
 
 This material is based upon work funded and supported by the Department
 of Defense under Contract No. FA8702-15-D-0002 with Carnegie Mellon
@@ -27,32 +27,19 @@ INFRINGEMENT.
 release and unlimited distribution. Please see Copyright notice for
 non-US Government use and distribution.
 
-Internal use:\* Permission to reproduce this material and to prepare
+Internal use:[^1] Permission to reproduce this material and to prepare
 derivative works from this material for internal use is granted,
 provided the copyright and "No Warranty" statements are included with
 all reproductions and derivative works.
 
-External use:\* This material may be reproduced in its entirety, without
+External use:[^1] This material may be reproduced in its entirety, without
 modification, and freely distributed in written or electronic form
 without requesting formal permission. Permission is required for any
 other external and/or commercial use. Requests for permission should be
 directed to the Software Engineering Institute at
 [permission@sei.cmu.edu](mailto:permission@sei.cmu.edu).
 
-\* These restrictions do not apply to U.S. government entities.
+[^1]: These restrictions do not apply to U.S. government entities. 
+
 DM17-0508
-
-\<
-[Home](The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure_47677443.md)
-\| [Preface](Preface_49414150.md) \>
-
-
-
-
-
-## Attachments: {#attachments .pageSectionTitle}
-
-![](images/icons/bullet_blue.gif){height="8" width="8"} [Screen Shot
-2019-05-29 at 9.33.27 AM.png](attachments/52756629/52756630.png)
-(image/png)
 
