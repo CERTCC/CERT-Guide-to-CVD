@@ -29,7 +29,7 @@ described above. However, as cloud-based services (e.g., software,
 platform, and infrastructure as a service) have risen to prominence,
 they have also distinguished themselves from traditional software
 vendors in that their development, deployment, and delivery processes
-for security fixes tend to be much more direct. 
+for security fixes tend to be much more direct. 
 
 For many cloud providers, the number of distinct instances of their
 software is quite limited, and control is centralized, so there are
@@ -68,7 +68,7 @@ if not decades of increasingly insecure devices acting as reservoirs of
 infection or as platforms for lateral movement by adversaries of all
 types. Patch deployment will likely improve as more connected things get
 over-the-air (OTA) update capabilities, but there is already a large
-installed base of systems lacking such features. 
+installed base of systems lacking such features. 
 
 Furthermore, systems at the lower end of the price range might have
 "fire and forget" assumptions built into their pricing model, meaning

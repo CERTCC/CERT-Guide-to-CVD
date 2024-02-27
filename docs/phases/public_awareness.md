@@ -106,7 +106,7 @@ the role they play in conveying information to a broad audience of
 system deployers, trusted third parties (non-vendors) such as DHS CISA,
 the CERT/CC, or other coordinators can help notify affected vendors,
 facilitate technical analysis of the vulnerability and its impact, and
-amplify communications to the public.  When vendors provide advance
+amplify communications to the public.  When vendors provide advance
 notice of major vulnerabilities to the coordinator community, it allows
 the various coordinating organizations to prepare accurate remediation
 instructions for system deployers, and to publish that information in
@@ -140,7 +140,7 @@ documents.]
 Many vulnerability reports can be similar, and sometimes a vendor or
 coordinator might receive multiple reports of similar vulnerabilities at
 the same time. Sometimes this is due to independent discovery, which we
-discuss in [Section 6.5](6.5-Independent-Discovery_47677487.md). Other
+discuss in [Section 6.5](6.5-Independent-Discovery_47677487.md). Other
 times it reflects a report traversing multiple paths to arrive at its
 destination within the CVD process. This is fairly common in cases where
 a vulnerability affects products from multiple vendors. Using a common
@@ -160,7 +160,7 @@ parties are aware of the common identifier.
 Many system deployers use vulnerability scanning tools to discover
 systems on their network that need to have patches applied. In turn,
 many vulnerability scanning tools depend on public vulnerability
-databases such as NVD. Furthermore, NVD entries are largely dependent on
+databases such as NVD. Furthermore, NVD entries are largely dependent on
 CVE ID assignments. When vendors issue updates without acquiring CVE IDs
 for the vulnerabilities they address, the patch can go unnoticed by the
 vulnerability databases, scanning tools, and deployers. Therefore we
@@ -190,7 +190,7 @@ Vendors will often provide vulnerability information:
 
 Vendors of bespoke software or products with highly focused customer
 bases are sometimes reasonably confident that they can reach their
-affected users directly. 
+affected users directly. 
 
 These vendors often publish vulnerability and fix information:
 
@@ -211,18 +211,18 @@ they provide.
 ## References
 
 1.  Security Focus, "BugTraq Archive," \[Online\].
-    Available: [http://www.securityfocus.com/archive/1](http://www.securityfocus.com/archive/1). \[Accessed 23 May 2017\].
+    Available: [http://www.securityfocus.com/archive/1](http://www.securityfocus.com/archive/1). \[Accessed 23 May 2017\].
 2.  [Seclists.org](http://seclists.org/),
     "Full Disclosure Mailing List," \[Online\].
-    Available: [http://seclists.org/fulldisclosure/](http://seclists.org/fulldisclosure/). \[Accessed 23 May 2017\].
+    Available: [http://seclists.org/fulldisclosure/](http://seclists.org/fulldisclosure/). \[Accessed 23 May 2017\].
 3.  MITRE, "Common Vulnerabilities and Exposures," \[Online\].
-    Available: [https://cve.mitre.org/](https://cve.mitre.org/). \[Accessed 16 May 2017\].
+    Available: [https://cve.mitre.org/](https://cve.mitre.org/). \[Accessed 16 May 2017\].
 4.  MITRE, "Common Vulnerabilities and Exposures (CVE) Numbering
     Authority (CNA) Rules Version 1.1," 16 September 2016. \[Online\].
-    Available: [https://cve.mitre.org/cve/cna/CNA_Rules_v1.1.pdf](https://cve.mitre.org/cve/cna/CNA_Rules_v1.1.pdf). \[Accessed 16 May 2017\].
+    Available: [https://cve.mitre.org/cve/cna/CNA_Rules_v1.1.pdf](https://cve.mitre.org/cve/cna/CNA_Rules_v1.1.pdf). \[Accessed 16 May 2017\].
 5.  Sharwood, Simon. "Intel didn't tell CERTS, govs, about Meltdown
     and Spectre because they couldn't help fix it." 23 February
-    2018. [https://www.theregister.co.uk/2018/02/23/meltdown_spectre_letters_to_congress/](https://www.theregister.co.uk/2018/02/23/meltdown_spectre_letters_to_congress/)
+    2018. [https://www.theregister.co.uk/2018/02/23/meltdown_spectre_letters_to_congress/](https://www.theregister.co.uk/2018/02/23/meltdown_spectre_letters_to_congress/)
 
 
 

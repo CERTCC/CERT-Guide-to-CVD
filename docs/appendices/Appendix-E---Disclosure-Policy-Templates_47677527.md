@@ -7,7 +7,7 @@ their vulnerability disclosure policies. In the interest of helping
 others develop or improve their own policies, we've collected policy
 items from a variety of vulnerability disclosure policies including our
 own, generalized them, organized them by topic, and put them into a git
-repository. [The policy templates in this repository are meant to be
+repository. [The policy templates in this repository are meant to be
 remixed and adapted for different organizations and contexts. It is
 unlikely that any single organization would choose to adopt all of these
 items wholesale without some
@@ -30,16 +30,16 @@ discussion of issues and template policy is included.
 # [Disclose.io](http://Disclose.io) {#AppendixEDisclosurePolicyTemplates-Disclose.io}
 
 > [[[[disclose.io]{style="color: rgb(0,0,0);"}](http://disclose.io/){.external-link
-> rel="nofollow"}]{.hero__disclose .h-sansserif} is a cross-industry,
-> vendor-agnostic standardization project for *safe
-> harbor*[[†]{.hinted}]{.small} best practices to enable
-> good-faith security research.]{style="color: rgb(0,0,0);"}
+> rel="nofollow"}]{.hero__disclose .h-sansserif} is a cross-industry,
+> vendor-agnostic standardization project for *safe
+> harbor*[[†]{.hinted}]{.small} best practices to enable
+> good-faith security research.]{style="color: rgb(0,0,0);"}
 
 Main web
-site: [https://disclose.io/](https://disclose.io/)
+site: [https://disclose.io/](https://disclose.io/)
 
 Github repository with policy
-templates: [https://github.com/disclose/disclose](https://github.com/disclose/disclose)
+templates: [https://github.com/disclose/disclose](https://github.com/disclose/disclose)
 
 # Open Source Vulnerability Disclosure Framework {#AppendixEDisclosurePolicyTemplates-OpenSourceVulnerabilityDisclosureFramework}
 
@@ -56,11 +56,11 @@ provided for setting up a vulnerability disclosure program.
 
 # Security.txt {#AppendixEDisclosurePolicyTemplates-Security.txt}
 
-security.txt: A proposed standard which allows websites to define
+security.txt: A proposed standard which allows websites to define
 security policies.
 
-[https://securitytxt.org/](https://securitytxt.org/) and IETF
-draft [https://tools.ietf.org/html/draft-foudil-securitytxt-08](https://tools.ietf.org/html/draft-foudil-securitytxt-08)
+[https://securitytxt.org/](https://securitytxt.org/) and IETF
+draft [https://tools.ietf.org/html/draft-foudil-securitytxt-08](https://tools.ietf.org/html/draft-foudil-securitytxt-08)
 
 # U.S. GSA Vulnerability Disclosure Policy {#AppendixEDisclosurePolicyTemplates-U.S.GSAVulnerabilityDisclosurePolicy}
 
@@ -102,7 +102,7 @@ disclosure policies. A wide variety of these policies can be found by
 searching the web for "[vulnerability disclosure
 policy]{rel="nofollow"}," or "[vulnerability disclosure
 program]{rel="nofollow"}," or by browsing third-party vulnerability
-disclosure (e.g., bug bounty) service providers' hosted programs.  
+disclosure (e.g., bug bounty) service providers' hosted programs.  
 
 
 

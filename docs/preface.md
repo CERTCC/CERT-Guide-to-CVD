@@ -54,8 +54,8 @@ numerous disclosure debates as the various stakeholders work out their
 newfound positions.
 
 Here's just one example: in 2004, it was considered controversial
-\[1\] when the CERT/CC advised users to "use a different browser" in
-response to a vulnerability in the most popular browser of the day
+\[1\] when the CERT/CC advised users to "use a different browser" in
+response to a vulnerability in the most popular browser of the day
 (VU#713878) \[2\]. However, consider the implications today if we were
 to issue similar advice: "use a different phone," "drive a different
 car," or "use a different bank." If those phrases give you pause (as
@@ -185,5 +185,5 @@ been doing this for a while. Here's what we know.
 2.  A. Manion, "Vulnerability Note VU#713878 Microsoft Internet
     Explorer does not properly validate source of redirected frame,"
     CERT/CC, 9 June 2004. \[Online\]. Available:
-    [https://www.kb.cert.org/vuls/id/713878](https://www.kb.cert.org/vuls/id/713878). 
+    [https://www.kb.cert.org/vuls/id/713878](https://www.kb.cert.org/vuls/id/713878). 
 

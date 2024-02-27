@@ -4,7 +4,7 @@ Although we tend to think of the CVD process as ending with the
 disclosure of a vulnerability, if the fix is not deployed the rest of
 the exercise is futile. A patch that is quietly posted to a website and
 not well advertised is almost useless in protecting users from
-vulnerabilities. 
+vulnerabilities. 
 
 Let's say that again, but clearer: **Vendors make patches *available*.
 But systems are not secure until those patches are *deployed*.**
@@ -32,7 +32,7 @@ problems such as denial of service against backbone routers^2^, remote
 code execution on Domain Name System (DNS) servers^3^, or virtualization
 escapes^4^ in cloud services serve as examples. Other vulnerabilities
 may disproportionately affect critical infrastructure services that
-directly impact public safety -- for example the water system, power
+directly impact public safety -- for example the water system, power
 grid, or hospital medical gear. All these types of systems often require
 their operators to perform extra testing and impact analysis prior to
 deploying patches. It's not always practical to do so, but when
@@ -48,8 +48,8 @@ exploited or are highly likely to be exploited, may warrant attracting
 attention beyond merely publishing a document on the vendor's support
 site. In such cases, additional measures should be taken to draw
 attention to the existence of the vulnerability or the availability of
-its fix. (See also [4.5 Gaining Public
-Awareness](public_awareness)) 
+its fix. (See also [4.5 Gaining Public
+Awareness](public_awareness)) 
 
 Vendors should consider using:
 
@@ -117,17 +117,17 @@ relative to the public disclosure of these vulnerabilities.
 > that sound CVD strategies would seek to limit disclosure of
 > vulnerability information before stakeholders are able to apply
 > patches. Such a practice allows for the best protection of the
-> end user--typically, consumers.
+> end user--typically, consumers.
 
 The committees went on to note:
 
 > However, based on the responses to our letters and information
 > provided during company briefings, questions remain
 > regarding\...whether companies used precise terminology in describing
-> the *availability, *not *application*, of patches. Companies outside
+> the *availability, *not *application*, of patches. Companies outside
 > the core group needed time to test and successfully implement patches,
 > and the availability of a patch and the application of a patch are not
-> the same. The fact that a patch or other mitigation is "available"
+> the same. The fact that a patch or other mitigation is "available"
 > simply means that it exists and is ready for a company or individual
 > to use. But when a patch or other mitigation is described as "in
 > place," "delivered," or "implemented," the distinction implies
@@ -150,9 +150,9 @@ between the phases of patch availability and patch deployment. And while
 we agree that vendors should take care not to overstate the status of
 patch deployment, the best many vendors can do today is to make patches
 available, along with sufficient vulnerability information for users to
-make informed patching and other risk decisions.^^1^^ Ultimate
+make informed patching and other risk decisions.^^1^^ Ultimate
 responsibility for installing patches often falls to
-deployers,^^2^^ including end users.
+deployers,^^2^^ including end users.
 
 While we appreciate the committees' desire that "sound CVD strategies
 would seek to limit disclosure of vulnerability information before
@@ -204,24 +204,24 @@ decisions.
     statistically predictable initial sequence numbers
 
     Vulnerability Note VU#498440." 13 March
-    2001. [https://www.kb.cert.org/vuls/id/498440/](https://www.kb.cert.org/vuls/id/498440/){.external-link
+    2001. [https://www.kb.cert.org/vuls/id/498440/](https://www.kb.cert.org/vuls/id/498440/){.external-link
     style="letter-spacing: 0.0px;" rel="nofollow"}
 
 2.  Juniper. "2018-10 Security Bulletin: Junos OS: Receipt of a
     specifically crafted malicious MPLS packet leads to a Junos kernel
     crash (CVE-2018-0049)." 10 October
-    2018. [https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST){.external-link
+    2018. [https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST){.external-link
     style="letter-spacing: 0.0px;" rel="nofollow"}
 
 3.  Cohen, Cory. "ISC BIND 8 contains buffer overflow in transaction
     signature (TSIG) handling code Vulnerability Note VU#196945." 29
     January
-    2001. [https://www.kb.cert.org/vuls/id/196945/](https://www.kb.cert.org/vuls/id/196945/){.external-link
+    2001. [https://www.kb.cert.org/vuls/id/196945/](https://www.kb.cert.org/vuls/id/196945/){.external-link
     style="letter-spacing: 0.0px;" rel="nofollow"}
 
 4.  XEN. "Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
     x86: 64bit PV guest breakout via pagetable use-after-mode-change."
     2 May
-    2017. [https://xenbits.xen.org/xsa/advisory-213.html](https://xenbits.xen.org/xsa/advisory-213.md){.external-link
+    2017. [https://xenbits.xen.org/xsa/advisory-213.html](https://xenbits.xen.org/xsa/advisory-213.md){.external-link
     style="letter-spacing: 0.0px;" rel="nofollow"}
 

@@ -15,7 +15,7 @@ Deployers typically must take some action in response to a vulnerability
 in a product they've deployed. Most often this means deploying a patch,
 but it can also involve the application of security controls, such as
 reconfiguring defensive systems, adding monitoring or detection rules,
-or applying mitigations. 
+or applying mitigations. 
 
 Automation of the deployment process increases the efficiency of the
 deployer's response at the same time it decreases the duration of the
@@ -89,7 +89,7 @@ Deployers have many options when it comes to planning to deploy a patch
 or mitigation. Highly automated environments can dramatically shorten
 the time required to complete these stages, but the functions described
 here will usually still occur regardless of the deployer's automated
-patching capability. 
+patching capability. 
 
 Planning for a patch deployment requires two major steps:
 

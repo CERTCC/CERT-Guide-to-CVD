@@ -150,7 +150,7 @@ CVD in [Section
 
 ## Bug Bounty Platforms
 
-[ A number of third-party CVD platforms now exist to facilitate
+[ A number of third-party CVD platforms now exist to facilitate
 communication between vendors and reporters \[11,12,13,14\]. Although
 they are often referred to as bug bounty platforms, often the "bounty"
 aspect is in fact optional---vendors can use bug bounty platforms to

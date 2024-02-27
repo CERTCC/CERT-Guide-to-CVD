@@ -57,7 +57,7 @@ reasons. Some examples include managed security service providers,
 government agencies, and academic research teams. Some of these
 organizations are vendors of products or services themselves, and
 combine their PSIRT's vulnerability response capability with their
-externally facing coordination capability. 
+externally facing coordination capability. 
 
 Furthermore, organizations that provide vulnerability management and
 scanning tools and services are often well-positioned to act as a

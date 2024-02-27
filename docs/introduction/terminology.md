@@ -47,13 +47,13 @@ damage and bodily injury.
 We also need to get a few quick technical terms out of the way so they
 don't cloud the remaining discussion.
 
--   An *exploit* is software that uses a vulnerability to achieve some
+-   An *exploit* is software that uses a vulnerability to achieve some
     effect. Sometimes the effect is as simple as demonstrating the
     existence of the vulnerability. Other times it plays a role in
-    enabling adversaries to attack systems. 
--   *Malware* is software used by adversaries to compromise the security
-    of a system or systems. But not all malware involves exploits. 
--   Finally, an *incident* is a violation or an attempted violation of a
+    enabling adversaries to attack systems. 
+-   *Malware* is software used by adversaries to compromise the security
+    of a system or systems. But not all malware involves exploits. 
+-   Finally, an *incident* is a violation or an attempted violation of a
     security policy, and may involve malware, exploits, or
     vulnerabilities (or none of these!)
 
@@ -90,7 +90,7 @@ are referring to the handling of reports of newly discovered
 vulnerabilities in products for which no patch exists (for a more
 nuanced discussion regarding why we're eschewing the term *zero-day
 vulnerability* here, see \[10\]. We further distinguish *vulnerability
-discovery* from *vulnerability scanning* below.
+discovery* from *vulnerability scanning* below.
 
 ## Coordinated Vulnerability Disclosure
 Coordinated Vulnerability Disclosure is the process of gathering
@@ -141,7 +141,7 @@ typically include those below:
 Disclosure, in turn, is the process by which information about a
 vulnerability (ideally with advice for mitigating or fixing it) is
 released to consumers of the product, and more generally, the public at
-large. There is no single "right" way to do this. Sometimes,
+large. There is no single "right" way to do this. Sometimes,
 vulnerability information is disclosed in a blog post by the finder of
 the vulnerability, or emailed to a security mailing list. Sometimes the
 vendor issues a security advisory to its customers or to the public. At
@@ -162,7 +162,7 @@ As a result, the character of information in a vulnerability report can
 vary greatly. Some reports only warn of a general vulnerability in a
 specific product. Others are more detailed and provide actual examples
 of how to attack the flaw (these examples are called "proof of concept
-code," often shortened to "PoC"). 
+code," often shortened to "PoC"). 
 
 It is worth reiterating that disclosure is not a singular event even for
 a single vulnerability. For more on the different phases of the process,
@@ -258,50 +258,50 @@ Response terminology since this work is specifically about CVD.
 ## References
 
 1.  Kissel, Richard (Editor), "NISTIR 7298 Revision 2 Glossary of Key
-    Information Security Terms," U.S. Department of Commerce, 2013. 
+    Information Security Terms," U.S. Department of Commerce, 2013. 
 2.  R. Caralli, J. H. Allen and D. W. White, CERT Resilience Management
     Model: A Maturity Model for Managing Operational Resilience,
-    Addison-Wesley Professional, 2010. 
+    Addison-Wesley Professional, 2010. 
 3.  A. Shostack, Threat modeling: Designing for Security, John Wiley &
-    Sons, 2014. 
-4.  F. Swiderski and W. Snyder, Threat Modeling, Microsoft Press, 2004. 
+    Sons, 2014. 
+4.  F. Swiderski and W. Snyder, Threat Modeling, Microsoft Press, 2004. 
 5.  R. C. Seacord, The CERT C Secure Coding Standard, Pearson Education,
-    2008. 
+    2008. 
 6.  F. Long, D. Mohindra, R. C. Seacord and D. a. S. D. Sutherland, The
     CERT Oracle Secure Coding Standard for Java, Addison-Wesley
-    Professional, 2011. 
+    Professional, 2011. 
 7.  G. McGraw, Software Security: Building Security In, Addison-Wesley
-    Professional, 2006. 
+    Professional, 2006. 
 8.  G. Peterson, P. Hope and S. Lavenhar, "Architectural Risk
     Analysis," 2 July 2013. \[Online\]. Available:
-    [https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis](https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis). 
+    [https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis](https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis). 
 9.  J. Ryoo, R. Kazman and P. Anand, "Architectural Analysis for
     Security," IEEE Security & Privacy, vol. 13, no. 6, pp. 52-59,
-    2015. 
+    2015. 
 10. A. Householder, "Like Nailing Jelly to the Wall: Difficulties in
     Defining "Zero-Day Exploit," CERT, 7 July 2015. \[Online\].
     Available:
-    [https://insights.sei.cmu.edu/cert/2015/07/like-nailing-jelly-to-the-walldifficulties-in-defining-zero-day-exploit.html](https://insights.sei.cmu.edu/cert/2015/07/like-nailing-jelly-to-the-walldifficulties-in-defining-zero-day-exploit.md). \[Accessed 23 May 2017\]. 
+    [https://insights.sei.cmu.edu/cert/2015/07/like-nailing-jelly-to-the-walldifficulties-in-defining-zero-day-exploit.html](https://insights.sei.cmu.edu/cert/2015/07/like-nailing-jelly-to-the-walldifficulties-in-defining-zero-day-exploit.md). \[Accessed 23 May 2017\]. 
 11. MITRE, "Common Vulnerabilities and Exposures," \[Online\].
     Available:
-    [https://cve.mitre.org/](https://cve.mitre.org/). \[Accessed 16 May 2017\]. 
+    [https://cve.mitre.org/](https://cve.mitre.org/). \[Accessed 16 May 2017\]. 
 12. CERT/CC, "Vulnerability Notes Database," \[Online\]. Available:
-    [https://www.kb.cert.org/vuls](https://www.kb.cert.org/vuls). \[Accessed 16 May 2017\]. 
+    [https://www.kb.cert.org/vuls](https://www.kb.cert.org/vuls). \[Accessed 16 May 2017\]. 
 13. SecurityFocus, "Vulnerabilities," \[Online\]. Available:
-    [http://www.securityfocus.com/bid](http://www.securityfocus.com/bid). \[Accessed 23 May 2017\]. 
+    [http://www.securityfocus.com/bid](http://www.securityfocus.com/bid). \[Accessed 23 May 2017\]. 
 14. ISO/IEC, "ISO/IEC 29147:2014 Information technology---Security
-    techniques---Vulnerability disclosure," 2014. 
+    techniques---Vulnerability disclosure," 2014. 
 15. S. Christey and C. Wysopal, "Responsible Vulnerability Disclosure
     Process draft-christey-wysopal-vulndisclosure-00.txt,"
     February 2002. \[Online\]. Available:
-    [https://tools.ietf.org/html/draft-christey-wysopalvuln-disclosure-00](https://tools.ietf.org/html/draft-christey-wysopalvuln-disclosure-00). \[Accessed 17 May 2017\]. 
+    [https://tools.ietf.org/html/draft-christey-wysopalvuln-disclosure-00](https://tools.ietf.org/html/draft-christey-wysopalvuln-disclosure-00). \[Accessed 17 May 2017\]. 
 16. MSRC Ecosystem Strategy Team, "Coordinated Vulnerability
     Disclosure: Bringing Balance to the Force," 22 July 2010.
     \[Online\]. Available:
-    [https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinatedvulnerability-disclosure-bringing-balance-to-the-force/](https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinatedvulnerability-disclosure-bringing-balance-to-the-force/). \[Accessed 23 May 2017\]. 
+    [https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinatedvulnerability-disclosure-bringing-balance-to-the-force/](https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinatedvulnerability-disclosure-bringing-balance-to-the-force/). \[Accessed 23 May 2017\]. 
 17. Microsoft Security Response Center, "Coordinated Vulnerability
     Disclosure," Microsoft, \[Online\]. Available:
-    [https://technet.microsoft.com/en-us/security/dn467923.aspx](https://technet.microsoft.com/en-us/security/dn467923.aspx). \[Accessed 23 May 2017\]. 
+    [https://technet.microsoft.com/en-us/security/dn467923.aspx](https://technet.microsoft.com/en-us/security/dn467923.aspx). \[Accessed 23 May 2017\]. 
 18. M. Souppaya and K. Scarfone, "NIST Special Publication 800-40
     Revision 3 Guide to Enterprise Patch Management Technologies," U.S.
     Department of Commerce, 2013.

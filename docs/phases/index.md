@@ -31,7 +31,7 @@ CERT/CC:]{style="color: rgb(23,43,77);text-decoration: none;"}]{style="color: rg
 -   **Deployment** -- The remediation is applied to deployed systems.
     
 
-A mapping of CVD phases to CVD roles is provided in Table 2. 
+A mapping of CVD phases to CVD roles is provided in Table 2. 
 
 +----------+----------+----------+----------+----------+----------+
 | *        | **       | **Re     | **       | **Coord  | **De     |

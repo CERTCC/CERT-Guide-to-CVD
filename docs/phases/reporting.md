@@ -28,19 +28,19 @@ out how to reach a vendor we've never spoken with before.
     -   "security@" + company name
     -   company name + "PSIRT"
 -   See if the vendor has a `security.txt` file, often found at
-    `www.example.com/.well_known/security.txt` or sometimes
-    at `www.example.com/security.txt`
+    `www.example.com/.well_known/security.txt` or sometimes
+    at `www.example.com/security.txt`
     ([securitytxt.org](https://securitytxt.org/) , [IETF
     Draft](https://tools.ietf.org/html/draft-foudil-securitytxt-09))
 -   Check vulnerability disclosure / bug bounty service providers
-    ([BugCrowd](https://www.bugcrowd.com/), [Synack](https://www.synack.com/), [HackerOne](https://www.hackerone.com/), etc.) to find vendor contacts.
+    ([BugCrowd](https://www.bugcrowd.com/), [Synack](https://www.synack.com/), [HackerOne](https://www.hackerone.com/), etc.) to find vendor contacts.
 -   Check the Forum of Incident Response and Security Teams (FIRST)
     member directory
-    at [https://www.first.org/members/teams/](https://www.first.org/members/teams/)
+    at [https://www.first.org/members/teams/](https://www.first.org/members/teams/)
 -   Check the CVE Numbering Authority list
-    at [https://cve.mitre.org/cve/request_id.html#cna_participants](https://cve.mitre.org/cve/request_id.html#cna_participants)
--   Search open source code repositories
-    ([Github](https://www.github.com/), [GitLab](https://gitlab.com/), [SourceForge](https://sourceforge.net/), etc.) to find developer contacts.
+    at [https://cve.mitre.org/cve/request_id.html#cna_participants](https://cve.mitre.org/cve/request_id.html#cna_participants)
+-   Search open source code repositories
+    ([Github](https://www.github.com/), [GitLab](https://gitlab.com/), [SourceForge](https://sourceforge.net/), etc.) to find developer contacts.
     -   If no direct contact information can be found, posting to the
         Issues page of a project asking how they'd like to receive
         vulnerability reports can be useful.
@@ -48,15 +48,15 @@ out how to reach a vendor we've never spoken with before.
     -   If given the option to mark it as security-related, please do so
         as this often restricts viewing to just the vendor.
 -   Reach out through social media
-    ([Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/), etc.) to request the vendor establish a direct
-    communication channel 
+    ([Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/), etc.) to request the vendor establish a direct
+    communication channel 
     -   We recommend you avoid posting vulnerability details in public
         when making initial contact when possible. For example,
         reporters might instead post an issue to a public bug tracker
         requesting that the vendor provide a secure method of
         communication instead of just posting the vulnerability details
         directly in a publicly visible issue.
--   Try emailing commonly used addresses: 
+-   Try emailing commonly used addresses: 
     -   support@, security@, abuse@, info@, sales@
 -   Fill out a generic support or "Contact Us" form
 -   Make a phone call to the vendor
@@ -67,7 +67,7 @@ We have rarely had to resort to these techniques, but they have been
 occasionally useful.
 
 -   Send a fax (yes, we've actually done this)
--   Send snail mail\[1\] to an executive 
+-   Send snail mail\[1\] to an executive 
     -   If you have access to resources like LexisNexis, you can often
         find the names of executives in technical roles as a starting
         point.
@@ -79,7 +79,7 @@ occasionally useful.
 #### When all that fails
 
 Some vendors remain unreachable even after a number of reasonable good
-faith attempts to reach them---and by reasonable we mean considerably
+faith attempts to reach them---and by reasonable we mean considerably
 less than exhausting the entire list above. Some vendors just do not
 seem to want to be reached, and that is their prerogative. However, we
 have found that experience is often the best teacher. When a vendor gets
@@ -122,7 +122,7 @@ problem.
 
 An example of a template for a vulnerability report, based on the
 CERT/CC's own Vulnerability Reporting Form (VRF) \[5\], is provided
-in [Appendix
+in [Appendix
 D](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+D+%E2%80%93+Sample+Vulnerability+Disclosure+Document&linkCreation=true&fromPageId=47677468){.createlink}.
 Vendors that require additional information to validate reports should
 clearly document their specific requirements in their vulnerability
@@ -134,10 +134,10 @@ Vendors need a mechanism to receive vulnerability reports from others.
 This reporting mechanism should be easy enough to use that it encourages
 rather than discourages reports. It can be as simple as a dedicated
 email address for reporting security issues, a secure web form, or a bug
-bounty program. Aside from the technical aspects of encouraging
+bounty program. Aside from the technical aspects of encouraging
 reporting, vendors can also provide reporters with other incentives, as
 discussed
-in [Section ](2.4.-Incentivize-Desired-Behavior_47677454.md)[2.4](2.4.-Incentivize-Desired-Behavior_47677454.md).
+in [Section ](2.4.-Incentivize-Desired-Behavior_47677454.md)[2.4](2.4.-Incentivize-Desired-Behavior_47677454.md).
 
 ### Create Secure Channels for Reporting
 
@@ -154,7 +154,7 @@ instead. Although x.509 encrypted mail exists, we have found
 PGP-compatible tools such as GnuPG to be more widely used by CVD
 participants. Vendors are encouraged to create and publish a PGP key
 affiliated with the security email alias to allow the confidentiality of
-sensitive reports to be maintained in transit. 
+sensitive reports to be maintained in transit. 
 
 Alternatively, some vendors choose to offer a web form specifically for
 receiving reports of security-related issues. Such forms can then
@@ -183,7 +183,7 @@ observed all of the following erroneous assumptions built into vendor's
 CVD process:
 
 -   *The vendor and the reporter are engaged in a binding two-way
-    negotiation. *-- This is false for at least two reasons: First, the
+    negotiation. *-- This is false for at least two reasons: First, the
     reporter noticed an observable fact about a product flaw, and
     they're free to tell whomever they please. Similarly, the vendor is
     not obliged to keep the reporter in the loop once the report is
@@ -236,18 +236,18 @@ CVD process:
 
 ## References
 
-1.  Wassermann, Garrett. *Reach Out and Mail Someone. *6 August
-    2015. [https://insights.sei.cmu.edu/cert/2015/08/reach-out-and-mail-someone.html](https://insights.sei.cmu.edu/cert/2015/08/reach-out-and-mail-someone.md)
+1.  Wassermann, Garrett. *Reach Out and Mail Someone. *6 August
+    2015. [https://insights.sei.cmu.edu/cert/2015/08/reach-out-and-mail-someone.html](https://insights.sei.cmu.edu/cert/2015/08/reach-out-and-mail-someone.md)
 2.  K. Price, "Writing a bug report - Attack Scenario and Impact are
     key!" 2 August 2015. \[Online\].
-    Available: [https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640](https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640). \[Accessed 17 May 2017\].
+    Available: [https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640](https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640). \[Accessed 17 May 2017\].
 3.  MITRE, "Common Weakness Enumeration (CWE)," \[Online\].
-    Available: [https://cwe.mitre.org/](https://cwe.mitre.org/). \[Accessed 17 May 2017\].
+    Available: [https://cwe.mitre.org/](https://cwe.mitre.org/). \[Accessed 17 May 2017\].
 4.  MITRE, "Common Attack Pattern Enumeration and Classification,"
     \[Online\].
-    Available: [https://capec.mitre.org/](https://capec.mitre.org/). \[Accessed 17 May 2017\].
+    Available: [https://capec.mitre.org/](https://capec.mitre.org/). \[Accessed 17 May 2017\].
 5.  CERT/CC, "Vulnerability Reporting Form," \[Online\].
-    Available: [https://vulcoord.cert.org/VulReport/](https://vulcoord.cert.org/VulReport/). \[Accessed 17 May 2017\].
+    Available: [https://vulcoord.cert.org/VulReport/](https://vulcoord.cert.org/VulReport/). \[Accessed 17 May 2017\].
 
 
 

@@ -75,7 +75,7 @@ Vulnerabilities \[4\] to
 
 1. A. Arora, A. Nandkumar and R. Telang, "Does information security
     attack frequency increase with vulnerability disclosure? An
-    empirical analysis," *Information Systems Frontiers,* vol. 8, no.
+    empirical analysis," *Information Systems Frontiers,* vol. 8, no.
     5, pp. 350-362, 2006.
 3. FIRST, "Forum for Incident Response and Security Teams,"
     \[Online\]. Available:

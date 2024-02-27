@@ -6,7 +6,7 @@ The following is a list of resources on mitigating, remediating, and
 preventing vulnerabilities, for system owners that receive a
 vulnerability reports via their CVD process. After validation is
 performed on the report, these resources assist in determining an
-appropriate remediation response. 
+appropriate remediation response. 
 
 Vulnerabilities present in current operational systems must be
 remediated after a proper validation and risk assessment are performed.
@@ -51,7 +51,7 @@ remediation.
 # Testing and Validation of Web Vulnerabilities {#AppendixFAdditionalResourcesforWebVulnerabilities-TestingandValidationofWebVulnerabilities}
 
 To perform testing and validation of reported web vulnerabilities, we
-recommend the use of[ a Windows virtual machine (VM) running a recent
+recommend the use of[ a Windows virtual machine (VM) running a recent
 version of Windows with Firefox, Chrome, Burp Suite, and OWASP ZAP
 installed, along with any dependencies. Linux and/or Mac OS systems are
 recommended for additional tool support, but are not
@@ -82,7 +82,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              | easier if analysts   | w.vmware.com/){.external-link |
 |              | use virtual machines | rel="nofollow"}               |
 |              | for validation       |                               |
-|              | workstations.        | [https://www.vi               |
+|              | workstations.        | [https://www.vi               |
 |              |                      | rtualbox.org/](https://www.vi |
 |              |                      | rtualbox.org/){.external-link |
 |              |                      | rel="nofollow"}               |
@@ -227,7 +227,7 @@ periodically re-test deployed applications.
 | [S           | Website-based        | [https://securi               |
 | ecurityheade | testing tool that    | tyheaders.io/](https://securi |
 | rs.io](http: | checks a deployed    | tyheaders.io/){.external-link |
-| //Securityhe | website for HTTP     | rel="nofollow"}               |
+| //Securityhe | website for HTTP     | rel="nofollow"}               |
 | aders.io){.e | header security best |                               |
 | xternal-link | practices and        |                               |
 | rel          | provides a list of   |                               |
@@ -245,7 +245,7 @@ periodically re-test deployed applications.
 | SSL Labs     | Website-based        | [https://www.ssllabs.com/     |
 | Server Test  | testing tool that    | ssltest/](https://www.ssllabs |
 |              | checks if deployed   | .com/ssltest/){.external-link |
-|              | website uses proper  | rel="nofollow"}               |
+|              | website uses proper  | rel="nofollow"}               |
 |              | SSL/TLS certificates |                               |
 |              | and configuration.   |                               |
 |              | The tool provides a  |                               |
@@ -258,7 +258,7 @@ periodically re-test deployed applications.
 +--------------+----------------------+-------------------------------+
 | *            | Website-based        | [https://badssl.com/](https:  |
 | *[Badssl.com | testing tool for     | //badssl.com/){.external-link |
-| ](http://bad | ensuring clients     | rel="nofollow"}               |
+| ](http://bad | ensuring clients     | rel="nofollow"}               |
 | ssl.com/){.e | (not servers) are    |                               |
 | xternal-link | properly configured  |                               |
 | rel="        | for using SSL/TLS.   |                               |
@@ -286,12 +286,12 @@ or their developer will need to develop the mitigation or remediation.
 
   --------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Resource                                            Notes                                                                                                                                Link(s)
-  How to Win Friends and Remediate Vulnerabilities    Whitepaper from SANS Institute with advice on setting up a remediation capability.                                                   [https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530](https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530) 
-  Guide to Enterprise Patch Management Technologies   NIST report on managing patches for vulnerability remediation                                                                        [http://dx.doi.org/10.6028/NIST.SP.800-40r3](http://dx.doi.org/10.6028/NIST.SP.800-40r3) 
-  SQL Injection Prevention                            Advice on avoiding and fixing SQL injection vulnerabilities from OWASP                                                               [https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet) 
+  How to Win Friends and Remediate Vulnerabilities    Whitepaper from SANS Institute with advice on setting up a remediation capability.                                                   [https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530](https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530) 
+  Guide to Enterprise Patch Management Technologies   NIST report on managing patches for vulnerability remediation                                                                        [http://dx.doi.org/10.6028/NIST.SP.800-40r3](http://dx.doi.org/10.6028/NIST.SP.800-40r3) 
+  SQL Injection Prevention                            Advice on avoiding and fixing SQL injection vulnerabilities from OWASP                                                               [https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet) 
   Cross-Site Scripting                                Advice on preventing and fixing cross-site scripting (XSS) vulnerabilities from Google.                                              [https://www.google.com/about/appsecurity/learning/xss/#PreventingXSS](https://www.google.com/about/appsecurity/learning/xss/#PreventingXSS)
-  Common Weakness Enumeration (CWE)                   CWE provides a taxonomy of different types of vulnerabilities. Many CWE entries provide brief advice on potential mitigations.       [https://cwe.mitre.org/](https://cwe.mitre.org/) 
-  CWE/SANS Top 25 Most Dangerous Software Errors      List of dangerous vulnerabilities, the *Insecure Interaction Between Components* section contains web application vulnerabilities.   [[https://www.sans.org/top25-software-errors/](https://www.sans.org/top25-software-errors/)]{style="color: rgb(171,34,22);"}
+  Common Weakness Enumeration (CWE)                   CWE provides a taxonomy of different types of vulnerabilities. Many CWE entries provide brief advice on potential mitigations.       [https://cwe.mitre.org/](https://cwe.mitre.org/) 
+  CWE/SANS Top 25 Most Dangerous Software Errors      List of dangerous vulnerabilities, the *Insecure Interaction Between Components* section contains web application vulnerabilities.   [[https://www.sans.org/top25-software-errors/](https://www.sans.org/top25-software-errors/)]{style="color: rgb(171,34,22);"}
   OWASP Top Ten Project                               A list of the ten most critical web application security risks.                                                                      [[https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)]{style="color: rgb(171,34,22);"}
   Web Application Security Consortium (WASC)          Collection of web application security resources.                                                                                    [[http://www.webappsec.org/](http://www.webappsec.org/)]{style="color: rgb(171,34,22);"}
   --------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -331,13 +331,13 @@ as secure coding development principles.
 | Guide         |                            | OWASP_Secure_Coding_Pra |
 |               |                            | ctices_-_Quick_Referenc |
 |               |                            | e_Guide){.external-link |
-|               |                            | rel="nofollow"}         |
+|               |                            | rel="nofollow"}         |
 +---------------+----------------------------+-------------------------+
 | CERT Secure   | Secure coding standards    | [https://www.secur      |
 | Coding        | should be followed to      | ecoding.cert.org/](http |
 | Standards     | avoid vulnerabilities as   | s://www.securecoding.ce |
 |               | much as possible. CERT     | rt.org/){.external-link |
-|               | provides coding standards  | rel="nofollow"}         |
+|               | provides coding standards  | rel="nofollow"}         |
 |               | for common web application |                         |
 |               | programming languages like |                         |
 |               | Java and Perl. Note that   |                         |

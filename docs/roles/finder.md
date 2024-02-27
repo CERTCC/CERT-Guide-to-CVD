@@ -65,7 +65,7 @@ part of their development cycle \[3\].
 Regardless of who finds a vulnerability, there are a few common events
 that follow the discovery:
 
-1.  The finder composes a vulnerability report, as discussed in [4.2
+1.  The finder composes a vulnerability report, as discussed in [4.2
     Reporting](4.2-Reporting_47677468.md).
 2.  The finder (or reporter, if these are distinct individuals) provides
     that report to someone. Often the vulnerability report would be
@@ -75,7 +75,7 @@ that follow the discovery:
     forwarded to the responsible team within the organization---for
     example, filed as a security-related bug report. We cover the
     coordinator role in [Section 3.5](coordinator). A
-    discussion of the reporting process can be found in [4.2
+    discussion of the reporting process can be found in [4.2
     Reporting](4.2-Reporting_47677468.md).
 3.  (Optional) Finders, reporters, vendors, or coordinators might
     prepare a document to publish. The finder often wants to draw

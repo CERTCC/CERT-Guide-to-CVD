@@ -97,7 +97,7 @@ public vulnerability reports: these include (1) the vendor might lack
 proper CVD capabilities or have a history of threatening legal action
 against finders and reporters if they publish vulnerability reports, or
 (2) the product's prevalence or niche may be too small to warrant
-finder attention. 
+finder attention. 
 
 Instead, we have found that a vendor's CVD capability and vulnerability
 response process maturity is often a more important indicator of its
