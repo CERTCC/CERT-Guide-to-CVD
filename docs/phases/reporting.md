@@ -1,9 +1,5 @@
 # Reporting
 
-*No matter who you are, most of the smartest people work for someone
-else.*
-*-- Bill Joy, Sun Microsystems*
-
 Anyone who becomes aware of a vulnerability that does not appear to have
 been remediated should report the vulnerability to the vendor. One
 should not assume that a vendor is aware of a specific vulnerability
@@ -12,31 +8,16 @@ elsewhere. The easier it is to report vulnerabilities to a vendor, the
 less likely that the vendor will be surprised by vulnerability reports
 disclosed directly to the public.
 
--   [Advice for Reporters](#id-4.2Reporting-AdviceforReporters)
-    -   [Finding Vendor
-        Contacts](#id-4.2Reporting-FindingVendorContacts)
-        -   [Common Methods](#id-4.2Reporting-CommonMethods)
-        -   [Less common, but occasionally
-            useful](#id-4.2Reporting-Lesscommon,butoccasionallyuseful)
-        -   [When all that fails](#id-4.2Reporting-Whenallthatfails)
-    -   [Providing Useful
-        Information](#id-4.2Reporting-ProvidingUsefulInformation)
--   [Advice for Vendors](#id-4.2Reporting-AdviceforVendors)
-    -   [Create Secure Channels for
-        Reporting](#id-4.2Reporting-CreateSecureChannelsforReporting)
-    -   [Reduce Friction in the Reporting
-        Process](#id-4.2Reporting-ReduceFrictionintheReportingProcess)
--   [References](#id-4.2Reporting-References)
 
-# Advice for Reporters
+## Advice for Reporters
 
-## Finding Vendor Contacts
+### Finding Vendor Contacts
 
 Making initial contact with a vendor can sometimes be more difficult
 than it should be. Here is a list of techniques we've used to figure
 out how to reach a vendor we've never spoken with before.
 
-### Common Methods
+#### Common Methods
 
 -   Search the web or the vendor's web site for relevant phrases
     -   "report a vulnerability"
@@ -80,7 +61,7 @@ out how to reach a vendor we've never spoken with before.
 -   Fill out a generic support or "Contact Us" form
 -   Make a phone call to the vendor
 
-### Less common, but occasionally useful
+#### Less common, but occasionally useful
 
 We have rarely had to resort to these techniques, but they have been
 occasionally useful.
@@ -95,7 +76,7 @@ occasionally useful.
         must sign to receive the mail, and you'll get a signed receipt
         back.
 
-### When all that fails
+#### When all that fails
 
 Some vendors remain unreachable even after a number of reasonable good
 faith attempts to reach them---and by reasonable we mean considerably
@@ -108,7 +89,7 @@ failed, it can prompt the vendor to re-evaluate their vulnerability
 intake and handling processes to make it easier to reach them in the
 future.
 
-## Providing Useful Information
+### Providing Useful Information
 
 Reporting a vulnerability requires that the vulnerability is
 well-documented. This typically means providing the following
@@ -147,7 +128,7 @@ Vendors that require additional information to validate reports should
 clearly document their specific requirements in their vulnerability
 disclosure policy, reporting form, or process description.
 
-# Advice for Vendors
+## Advice for Vendors
 
 Vendors need a mechanism to receive vulnerability reports from others.
 This reporting mechanism should be easy enough to use that it encourages
@@ -158,7 +139,7 @@ reporting, vendors can also provide reporters with other incentives, as
 discussed
 in [Section ](2.4.-Incentivize-Desired-Behavior_47677454.md)[2.4](2.4.-Incentivize-Desired-Behavior_47677454.md).
 
-## Create Secure Channels for Reporting
+### Create Secure Channels for Reporting
 
 Whether you are a vendor or a coordinator, you need to have open
 channels for communication with vulnerability finders and reporters. In
@@ -188,7 +169,7 @@ Another possibility is to make use of a third-party bug bounty or
 coordination platform. For more information on common CVD tools, see
 {== TODO fixme [Section 7](7.-Operational-Considerations_47677492.md) ==}.
 
-## Reduce Friction in the Reporting Process
+### Reduce Friction in the Reporting Process
 
 As a vendor, it is important to not treat reporters with suspicion or
 hostility. It's likely they have important information about your
@@ -253,7 +234,7 @@ CVD process:
     reporters from reporting vulnerabilities to the vendor in the
     future.
 
-# References
+## References
 
 1.  Wassermann, Garrett. *Reach Out and Mail Someone. *6 August
     2015. [https://insights.sei.cmu.edu/cert/2015/08/reach-out-and-mail-someone.html](https://insights.sei.cmu.edu/cert/2015/08/reach-out-and-mail-someone.md)

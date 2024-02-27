@@ -1,18 +1,12 @@
 # Validation and Triage
 
-*Extraordinary claims require extraordinary evidence.*
-*-- Carl Sagan*
-
-*
-*
-
 When a vendor or coordinator receives a vulnerability report, it's
 usually necessary to prioritize it along with other vulnerability
 reports already in progress, new feature development, and possibly other
 non-security bug fixes. As a result, there are a few considerations to
 be made in dealing with incoming reports.
 
-# Validating Reports
+## Validating Reports
 
 Vulnerability reports received from potentially unknown sources may hold
 inaccurate information. One of the first tasks for the receiver of a
@@ -22,7 +16,7 @@ an adversary to take some action in support of a goal. But just because
 it was reported doesn't make it true. Replication of the salient claims
 made in the report is an important step in the case handling process.
 
-## Recognizing High-Quality Reports
+### Recognizing High-Quality Reports
 
 Not all reports are actionable. Some reports may under-specify the
 problem, making it difficult or impossible to reproduce. Some may
@@ -48,7 +42,7 @@ don't want to dismiss a report of a serious vulnerability just because
 it is unexpected. A reporter with a high reputation might give weight to
 an otherwise low-quality report (although in our experience finders and
 reporters with a high reputation tend to have earned that reputation by
-submitting high-quality reports). 
+submitting high-quality reports).
 
 If there is difficulty in reproducing the vulnerability, follow up with
 the reporter promptly and courteously; be sure to be specific about what
@@ -63,16 +57,16 @@ attention. It is usually reasonable to decline reports if you provide
 the reporter with a summary of your analysis and the ability to appeal
 (presumably by providing the needed clarifying information).
 
-Reporters should review [Section 4.2](4_2) to
+Reporters should review [Reporting](reporting.md) to
 ensure the report contains enough details for the recipient to verify
 and reproduce a vulnerability. Be as specific as you can. Vendors that
 follow up with questions are doing the right thing, and attempting to
 validate your report; be friendly and courteous and attempt to provide
 as much detail and help as you can.
 
-# Triage Heuristics
+## Triage Heuristics
 
-[Even for the reports a vendor accepts as legitimate and worthwhile, it
+Even for the reports a vendor accepts as legitimate and worthwhile, it
 is likely that the development team does not have time to address every
 report at the moment it arrives. Thus, if a report is found to be valid,
 the next question is how to allocate resources to the report. Most often
@@ -82,11 +76,11 @@ immediate action, while other cases might indicate a very rare and
 hard-to-exploit vulnerability that should be given a low priority.
 
 There are a number of heuristics for evaluating the severity of
-vulnerabilities. Perhaps the most commonly known of these is the Common
-Vulnerability Scoring System (CVSS) \[1\]. This system allows a short
+vulnerabilities. Perhaps the most commonly known of these is the [Common
+Vulnerability Scoring System](https://www.first.org/cvss/) (CVSS). This system allows a short
 standard description of the impact of a vulnerability and can be mapped
 to a score between 1.0 and 10.0 to help prioritization. A related but
-different metric is the Common Weakness Scoring System (CWSS) \[2\].
+different metric is the [Common Weakness Scoring System](https://cwe.mitre.org/cwss/cwss_v1.0.1.html) (CWSS).
 Whereas CVSS addresses the detailed impact of a specific vulnerability,
 CWSS can be used to evaluate the impact of a class of weaknesses. While
 scoring systems like CVSS and CWSS can be useful at establishing
@@ -104,17 +98,5 @@ be made transparent to reporters so that the process is understood by
 all stakeholders. Transparency in this part of the process can help
 prevent frustration and confusion when reporter and vendor disagree on
 severity of a
-vulnerability.]
+vulnerability.
 
-
-[
-]
-## References
-
-1.  [FIRST, "Common Vulnerability Scoring System," \[Online\].
-    Available:
-    [https://www.first.org/cvss](https://www.first.org/cvss). \[Accessed 17 May
-    2017\].]2.  [MITRE, "Common Weakness Scoring System (CWSS) version 1.0.1," 5
-    September 2014. \[Online\]. Available:
-    [https://cwe.mitre.org/cwss/cwss_v1.0.1.html](https://cwe.mitre.org/cwss/cwss_v1.0.1.md). \[Accessed 17 May
-    2017\].]

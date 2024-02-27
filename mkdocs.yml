@@ -29,12 +29,12 @@ nav:
     - Other Roles: 'roles/other_roles.md'
   - Phases:
     - Intro: 'phases/index.md'
-    - Discovery: 'phases/4_1.md'
-    - Reporting: 'phases/4_2.md'
-    - Validation and Triage: 'phases/4_3.md'
-    - Remediation: 'phases/4_4.md'
-    - Gaining Public Awareness: 'phases/4_5.md'
-    - Promote Deployment: 'phases/4_6.md'
+    - Discovery: 'phases/discovery.md'
+    - Reporting: 'phases/reporting.md'
+    - Validation and Triage: 'phases/validation_triage.md'
+    - Remediation: 'phases/remediation.md'
+    - Gaining Public Awareness: 'phases/public_awareness.md'
+    - Promote Deployment: 'phases/deployment.md'
   - Variation:
     - Intro: 'variation/index.md'
     - Choosing a Disclosure Policy: 'variation/5_1.md'

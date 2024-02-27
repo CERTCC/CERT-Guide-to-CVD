@@ -72,7 +72,7 @@ providing vulnerability and fix information to defenders:
     to the existence of the vulnerability or the availability of its
     fix?
 
-# Prepare and Circulate a Draft
+## Prepare and Circulate a Draft
 
 Prior to public announcement of a vulnerability document, we find it
 helpful to circulate a draft document describing the vulnerability to
@@ -97,7 +97,7 @@ B](Appendix-B---Traffic-Light-Protocol_47677521.md).
 An example of a template for a vulnerability disclosure document is
 provided in the appendices.
 
-# When to Engage a Coordinator
+## When to Engage a Coordinator
 
 In multiparty CVD, private notifications to other vendors and even
 public disclosures by individual vendors may not sufficiently raise
@@ -135,7 +135,7 @@ It is generally courteous for the vendor and reporter to contact each
 other after disclosure to inform one another that the disclosure went
 through as planned and provide URLs to the published
 documents.]
-## Avoid Silent Patches
+### Avoid Silent Patches
 
 Many vulnerability reports can be similar, and sometimes a vendor or
 coordinator might receive multiple reports of similar vulnerabilities at
@@ -174,7 +174,7 @@ makes it much harder for coordinators, vulnerability database providers,
 vulnerability scanning tool vendors, and deployers to differentiate
 systems affected by a vulnerability from those that are not.
 
-# Where to Publish
+## Where to Publish
 
 Publicly disclosing the existence of a vulnerability and the
 availability of its fix is usually considered to be the primary goal of
@@ -208,7 +208,7 @@ at least basic vulnerability and fix announcements to their public
 website in addition to whatever direct customer contact communications
 they provide.
 
-# References
+## References
 
 1.  Security Focus, "BugTraq Archive," \[Online\].
     Available: [http://www.securityfocus.com/archive/1](http://www.securityfocus.com/archive/1). \[Accessed 23 May 2017\].

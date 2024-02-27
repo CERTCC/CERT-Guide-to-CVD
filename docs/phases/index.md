@@ -90,17 +90,17 @@ A mapping of CVD phases to CVD roles is provided in Table 2. 
 
 We will next discuss each of these phases in more detail.
 
--   [4.1 Discovery](4_1)
--   [4.2 Reporting](4_2)
--   [4.3 Validation and Triage](4_3)
--   [4.4 Remediation](4_4)
+-   [4.1 Discovery](discovery)
+-   [4.2 Reporting](reporting)
+-   [4.3 Validation and Triage](validation_triage)
+-   [4.4 Remediation](remediation)
 -   [4.5 Gaining Public
-    Awareness](4_5)
--   [4.6 Promote Deployment](4_6)
+    Awareness](public_awareness)
+-   [4.6 Promote Deployment](deployment)
 
 \< [3.6. Other Roles and
 Variations](3.6.-Other-Roles-and-Variations_47677465.md) \| [4.1
-Discovery](4_1) \>
+Discovery](discovery) \>
 
 ## References
 

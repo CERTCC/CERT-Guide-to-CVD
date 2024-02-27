@@ -23,7 +23,7 @@ easy and secure update methods in their products. In situations where
 this is not possible, the vendor's disclosure plan should be specific
 about how to spread the word of a new patch as quickly as possible.
 
-# Give Critical Infrastructure a Head Start When Possible
+## Give Critical Infrastructure a Head Start When Possible
 
 Some vulnerabilities are pervasive in the very infrastructure required
 for the patches or information about the vulnerability to be
@@ -40,7 +40,7 @@ possible, providing these kinds of deployers with advance notification
 of either the existence of the vulnerability or access to the fix can
 reduce the risk faced by the public and improve outcomes.
 
-# Amplify the Message
+## Amplify the Message
 
 Sometimes it is necessary to draw more attention to a problem or fix.
 Critical vulnerabilities, including those that are already being
@@ -49,7 +49,7 @@ attention beyond merely publishing a document on the vendor's support
 site. In such cases, additional measures should be taken to draw
 attention to the existence of the vulnerability or the availability of
 its fix. (See also [4.5 Gaining Public
-Awareness](4_5)) 
+Awareness](public_awareness)) 
 
 Vendors should consider using:
 
@@ -63,7 +63,7 @@ Vendors should consider using:
     a vulnerability or its fix. In particular, National CSIRTs can often
     provide advice or assistance with publicity on important issues.
 
-# Post-Publication Monitoring
+## Post-Publication Monitoring
 
 Once a vulnerability and/or its fix has been disclosed, both vendors and
 reporters should look for feedback concerning any problems with either
@@ -87,33 +87,6 @@ Remember, the goal for remediation is to fix vulnerable product
 instances or at least reduce the impact of the vulnerability.
 Consequently, if a significant portion of the vulnerable product
 instances have not been remediated, that goal has not been achieved.
-
-# References
-
-1.  Havrilla, Jeffrey. "Multiple TCP/IP implementations may use
-    statistically predictable initial sequence numbers
-
-    Vulnerability Note VU#498440." 13 March
-    2001. [https://www.kb.cert.org/vuls/id/498440/](https://www.kb.cert.org/vuls/id/498440/){.external-link
-    style="letter-spacing: 0.0px;" rel="nofollow"}
-
-2.  Juniper. "2018-10 Security Bulletin: Junos OS: Receipt of a
-    specifically crafted malicious MPLS packet leads to a Junos kernel
-    crash (CVE-2018-0049)." 10 October
-    2018. [https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST){.external-link
-    style="letter-spacing: 0.0px;" rel="nofollow"}
-
-3.  Cohen, Cory. "ISC BIND 8 contains buffer overflow in transaction
-    signature (TSIG) handling code Vulnerability Note VU#196945." 29
-    January
-    2001. [https://www.kb.cert.org/vuls/id/196945/](https://www.kb.cert.org/vuls/id/196945/){.external-link
-    style="letter-spacing: 0.0px;" rel="nofollow"}
-
-4.  XEN. "Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
-    x86: 64bit PV guest breakout via pagetable use-after-mode-change."
-    2 May
-    2017. [https://xenbits.xen.org/xsa/advisory-213.html](https://xenbits.xen.org/xsa/advisory-213.md){.external-link
-    style="letter-spacing: 0.0px;" rel="nofollow"}
 
 
 
@@ -165,7 +138,7 @@ In our
 [response](https://republicans-energycommerce.house.gov/wp-content/uploads/2018/08/CERT-Response-MultiParty-CVD-Congressional-Letter.pdf), we agreed. The relevant section of our reply is
 reproduced below.
 
-# **Patch Availability is not Patch Deployment**
+## **Patch Availability is not Patch Deployment**
 
 The committees' letter asks "\...whether companies used precise
 terminology in describing the availability, not application, of patches"
@@ -224,7 +197,31 @@ decisions.
     management systems, vendors with the ability to push patches, and
     end users who must take manual action.
 
-\< [4.5 Gaining Public
-Awareness](4_5) \| [5. Process
-Variation Points](5.-Process-Variation-Points_47677473.md) \>
+
+## References
+
+1.  Havrilla, Jeffrey. "Multiple TCP/IP implementations may use
+    statistically predictable initial sequence numbers
+
+    Vulnerability Note VU#498440." 13 March
+    2001. [https://www.kb.cert.org/vuls/id/498440/](https://www.kb.cert.org/vuls/id/498440/){.external-link
+    style="letter-spacing: 0.0px;" rel="nofollow"}
+
+2.  Juniper. "2018-10 Security Bulletin: Junos OS: Receipt of a
+    specifically crafted malicious MPLS packet leads to a Junos kernel
+    crash (CVE-2018-0049)." 10 October
+    2018. [https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST){.external-link
+    style="letter-spacing: 0.0px;" rel="nofollow"}
+
+3.  Cohen, Cory. "ISC BIND 8 contains buffer overflow in transaction
+    signature (TSIG) handling code Vulnerability Note VU#196945." 29
+    January
+    2001. [https://www.kb.cert.org/vuls/id/196945/](https://www.kb.cert.org/vuls/id/196945/){.external-link
+    style="letter-spacing: 0.0px;" rel="nofollow"}
+
+4.  XEN. "Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
+    x86: 64bit PV guest breakout via pagetable use-after-mode-change."
+    2 May
+    2017. [https://xenbits.xen.org/xsa/advisory-213.html](https://xenbits.xen.org/xsa/advisory-213.md){.external-link
+    style="letter-spacing: 0.0px;" rel="nofollow"}
 
