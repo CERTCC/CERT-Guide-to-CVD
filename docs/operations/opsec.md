@@ -5,7 +5,8 @@ of CVD operations. Opsec includes your ability to maintain security and
 confidentiality for information associated with vulnerability reports
 prior to disclosure.
 
-# PGP/GPG Key Management
+## PGP/GPG Key Management
+
 Separate from the issue of maintaining encryption keys for your
 contacts, you must also maintain your own individual or organizational
 encryption key.
@@ -25,7 +26,8 @@ this report, but at the time of this writing, it is recommended to
 generate RSA keys with a length of at least 4096 bits to ensure security
 into the near-to-moderate-term future.
 
-## Use a Passphrase and Control Access
+### Use a Passphrase and Control Access
+
 We recommend setting a strong passphrase on any key. Without a
 passphrase, anyone who obtains the key file can immediately use the key
 to sign messages or decrypt messages; if the private key is leaked to
@@ -44,7 +46,8 @@ CVD communications work; private keys are only accessible from these
 systems. In this setup, users must specifically request access and can
 be allowed or denied based on need.
 
-## Use Revocation Certificates and Key Rotation
+### Use Revocation Certificates and Key Rotation
+
 A concern is that the private key may land into unauthorized hands. This
 might occur in the event of a network breach, but another possibility is
 a disgruntled former employee retaining a copy of the key. Because of
@@ -80,7 +83,8 @@ website, or pushing your key to one of many PGP public key servers. You
 can use these same mechanisms to distribute your revocation certificate
 should the need arise.
 
-## Practical Tips for Key Management
+### Practical Tips for Key Management
+
 We wrap up this discussion with a review of recommended practices for
 PGP/GPG key management:
 
@@ -99,7 +103,7 @@ PGP/GPG key management:
 -   Make your latest public key available in a known location to ensure
     recipients always have access to the latest key.
 
-# Handling Sensitive Data
+## Handling Sensitive Data
 Some of the information that passes through a CVD process may include
 information on an organization's internal processes, trade secrets, or
 even national security interests in some scenarios. Proper precautions
@@ -114,7 +118,8 @@ effectively coordinate and remediate a vulnerability prior to
 disclosure. Clearly declaring the data's sensitivity can help to make
 that determination.
 
-## Traffic Light Protocol (TLP)
+### Traffic Light Protocol (TLP)
+
 [The Traffic Light Protocol (TLP) has been adopted for a standards-track
 by FIRST \[1\]. By marking a document with a TLP level---Red, Amber,
 Green, or White---a sender can easily communicate the sensitivity of
@@ -131,7 +136,8 @@ applies:]
 See [Appendix B](Appendix-B---Traffic-Light-Protocol_47677521.md) for
 more on TLP.
 
-# Don't Automatically Trust Reports
+## Don't Automatically Trust Reports
+
 There are two reasons that organizations receiving vulnerability reports
 should maintain a degree of wariness regarding the reports they receive.
 The first is intentional misdirection of your CVD capability, which we

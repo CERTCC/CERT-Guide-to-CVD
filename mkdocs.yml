@@ -56,7 +56,11 @@ nav:
     - Hype, Marketing, and Unwanted Attention: 'troubleshooting/6_8.md'
     - What to Do When Things Go Wrong: 'troubleshooting/6_9.md'
     - Troubleshooting CVD: 'troubleshooting/6_10.md'
-  - Operations: 'operations/index.md'
+  - Operations:
+    - Intro: 'operations/index.md'
+    - Tools: 'operations/tools.md'
+    - OpSec: 'operations/opsec.md'
+    - Staffing: 'operations/staffing.md'
   - Open Problems: 'open_problems/index.md'
   - Conclusion: 'conclusion/index.md'
   - Acknowledgements: 'acknowledgements.md'

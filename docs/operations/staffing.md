@@ -19,7 +19,8 @@ In most organizations, these skills will likely be dispersed among a
 team of people rather than expecting a single person to be fluent with
 all of these topics.
 
-# Beware Analyst Burnout
+## Beware Analyst Burnout
+
 [Some organizations may have a small enough flow of incoming
 vulnerability reports that all the CVD-related roles can be fulfilled by
 a single team, or even a single person. Other organizations might choose
@@ -99,6 +100,7 @@ but do not form an exhaustive list of possible actions.
 
 
 ## References
+
 1.  [B. Rothke, "Building a Security Operations Center (SOC)," 29
     Feb 2012. \[Online\]. Available:
     [https://www.rsaconference.com/events/us12/agenda/sessions/683/building-a-security-operations-center-soc](https://www.rsaconference.com/events/us12/agenda/sessions/683/building-a-security-operations-center-soc). \[Accessed 24 May

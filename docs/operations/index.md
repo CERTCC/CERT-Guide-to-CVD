@@ -5,10 +5,13 @@ practices in order to be successful. In this chapter, we outline a few
 tools of the trade, and consider common operational security and
 personnel management issues.
 
--   [7.1 Tools of the Trade](7.1-Tools-of-the-Trade_47677493.md)
--   [7.2 Operational Security](7.2-Operational-Security_47677494.md)
--   [7.3 CVD Staffing
-    Considerations](7.3-CVD-Staffing-Considerations_47677495.md)
+<div class="grid cards" markdown>
+
+- [Tools of the Trade](tools.md)
+- [Operational Security](opsec.md)
+- [CVD Staffing Considerations](staffing.md)
+
+</div>  
 
 
 

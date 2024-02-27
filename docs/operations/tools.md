@@ -4,12 +4,13 @@ An organization's capabilities are supported by people, process, and
 tools, and CVD is no different. This section covers some commonly used
 tools.
 
-# Secure Communication Channels
+## Secure Communication Channels
 Secure communications can be nuanced to maintain in operation, so we
 first turn our attention to establishing and maintaining this
 capability.
 
-## Email
+### Email
+
 Email is a simple, tried-and-true method of communication over the
 Internet. Simply because everyone has access to it, email is likely to
 remain a common way of receiving vulnerability reports and
@@ -40,7 +41,7 @@ large-scale reporters should consider setting up a web-based case
 tracking system instead. That way, received emails can automatically
 generate new cases or augment existing ones, which can then be assigned
 to team members and tracked as necessary. More on this topic can be
-found in [Section 7.1](7.1-Tools-of-the-Trade_47677493.md).
+found in [Section 7.1](tools).
 
 [Secure Email]{style="font-size: 20.0px;letter-spacing: 0.0px;"}
 
@@ -58,9 +59,10 @@ use of S/MIME & X.509 for their CVD process; while you may offer S/MIME
 & X.509 as an option, PGP/GPG is recommended as the default. The
 greatest difficulty with PGP/GPG (and really, any email encryption
 scheme) is encryption key management. Key management will be discussed
-in [Section 7.2](7.2-Operational-Security_47677494.md).
+in [Section 7.2](opsec).
 
-## Web Forms and Portals
+### Web Forms and Portals
+
 Most vulnerability reports have a similar structure, making a web form a
 preferable method for receiving vulnerability reports for many
 organizations. To secure your web form, you will need to enable HTTPS
@@ -114,7 +116,8 @@ solution for a primary contact channel; HTTPS websites or third-party
 platforms can complement but may not always be sufficient to replace
 email for your organization's CVD needs.
 
-# Contact Management
+## Contact Management
+
 [For most reporters, the contact management process simply consists of
 maintaining a vendor's email address and PGP/GPG key in compatible mail
 client software. Contact management becomes vitally important to
@@ -143,7 +146,9 @@ our internal systems and network policies in mind. Other coordinators
 may look into similar efforts. We covered communication topologies for
 CVD in [Section
 5.5.](5.5-Response-Pacing-and-Synchronization_47677479.md)]
-# Bug Bounty Platforms
+
+## Bug Bounty Platforms
+
 [ A number of third-party CVD platforms now exist to facilitate
 communication between vendors and reporters \[11,12,13,14\]. Although
 they are often referred to as bug bounty platforms, often the "bounty"
@@ -170,7 +175,9 @@ organizations from joining the platform, locking them out of discussion.
 Organizations should consider whether the benefits of using a CVD
 service outweigh this
 concern.]
-# Case and Bug Tracking
+
+## Case and Bug Tracking
+
 Case tracking systems such as bug trackers or trouble ticket systems are
 often used by vendors, coordinators, and reporters for tracking
 vulnerability reports. Such systems can centralize the vulnerability
@@ -194,7 +201,7 @@ found that more complicated CVD cases---for example the multiparty cases
 described in [Section 5.4](5.4-Multiparty-CVD_47677477.md)---become
 more like projects than tickets.
 
-# Code and System Inventories
+## Code and System Inventories
 As we [discussed in [Section 5.4](5.4-Multiparty-CVD_47677477.md),
 software-based products are typically assembled from components rather
 than written from scratch. Economies of scale apply to code, and most
@@ -245,7 +252,8 @@ following]{style="color: rgb(23,43,77);text-decoration: none;"}:
     \[21\]]-   The Software Package Data Exchange (5PXD)
     \[[22[\]]{style="color: rgb(176,72,0);"}](/confluence/pages/createpage.action?spaceKey=CVD&title=22&linkCreation=true&fromPageId=47677493){.createlink}
 
-# Test Bench and Virtualization
+## Test Bench and Virtualization
+
 Having an [n internal testing infrastructure is vital to proper triage
 and resolution of vulnerability reports as we discussed in [Section
 4.3](4.3-Validation-and-Triage_47677469.md). Not only is testing
@@ -299,6 +307,7 @@ to have sufficient capacity to confirm reports.
 
 
 ## References
+
 1.  [N. Brownlee and E. Guttman, "Expectations for Computer Security
     Incident Response," The Internet Society,
     1998.]2.  [CERT/CC, "Sending Sensitive Information," \[Online\]. Available:
