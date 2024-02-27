@@ -4,7 +4,7 @@ There can be other roles in the CVD process too, but they tend to be
 subordinate to the ones already described. We discuss a few of them
 here.
 
-# Users
+## Users
 Individual users of vulnerable products overlap with deployers as
 described above. In the case where the user must trigger an update or
 install a patch, the user is playing the role of a deployer. In other
@@ -13,13 +13,15 @@ support staff or an app store's automatic update capability). In these
 latter cases the user does not play as active a role in the
 vulnerability response process.
 
-# Integrator
+## Integrator
+
 System integrators most often can be considered as playing the deployer
 role; however, depending on their contractual responsibilities and
 business relationships, they may also play roles as vendors or even
 coordinators in some cases.
 
-# Cloud and Application Service Providers
+## Cloud and Application Service Providers
+
 Insofar as cloud-based services are built on traditional computing
 platforms, cloud service providers can be considered deployers as we've
 described above. However, as cloud-based services (e.g., software,
@@ -42,7 +44,7 @@ direct control over the vulnerable systems makes a significant
 difference in their ability to mitigate vulnerabilities across all their
 users in short order.
 
-# Internet of Things
+## Internet of Things
 Another class of vendors are the purveyors of Internet of Things (IoT)
 products. The physicality of IoT products and services often places them
 on the opposite end of the deployment spectrum from cloud-based
@@ -92,8 +94,9 @@ black box code either in manual source code reviews or using most code
 analysis tools, IoT vendors may find it difficult to examine and improve
 the code's security.
 
-# Mobile Platforms and Applications
-[Mobile devices present yet another class of stakeholders that has grown
+## Mobile Platforms and Applications
+
+Mobile devices present yet another class of stakeholders that has grown
 distinct in recent years. The device vendors themselves are most akin to
 IoT vendors, but app developers can be quite a diverse bunch, ranging
 from very large traditional software companies, to cloud service
@@ -103,9 +106,11 @@ devices have multi-stage, vertical supply chains, each step of which can
 stand in the way of security updates reaching their intended
 beneficiaries (i.e., the users) \[1\]. In both the mobile and IoT
 spaces, high-viscosity supply chains are bad for end-user
-security.]
-# Governments
-[Governments are multifaceted stakeholders in regards to cybersecurity
+security.
+
+## Governments
+
+Governments are multifaceted stakeholders in regards to cybersecurity
 vulnerabilities and their disclosure. While they have always had a role
 as owners and operators of vulnerable networks and systems, issues
 surrounding vulnerability discovery, coordination, disclosure, and
@@ -143,15 +148,11 @@ controls and the trade in zero-day vulnerabilities \[6\]. Meanwhile, a
 quick glance at the vulnerability database catalog being developed by
 the FIRST gives a good indication of the international interest in this
 problem space
-\[7\].]
-[
-]
+\[7\].
 
+## References 
 
-[
-]
-## References
-1.  [W. Dormann, "Supporting the Android Ecosystem," 19 October 2015.
+2. [W. Dormann, "Supporting the Android Ecosystem," 19 October 2015.
     \[Online\]. Available:
     [https://insights.sei.cmu.edu/cert/2015/10/supporting-the-android-ecosystem.html](https://insights.sei.cmu.edu/cert/2015/10/supporting-the-android-ecosystem.md). \[Accessed 23 May
     2017\].]2.  [U.S. Food & Drug Administration, "Medical Device Reporting
