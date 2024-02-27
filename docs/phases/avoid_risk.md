@@ -1,22 +1,38 @@
 # Avoid Unnecessary Risk in Finding Vulnerabilities
 
-Finders should exercise an appropriate degree of care when performing
-vulnerability research. This will help to alleviate legal concerns and
-limit the potential for damage to others.
-Vulnerability research should of course be performed on equipment that
-the finder is authorized to use for the purpose. If the research is
-performed on behalf of an organization such as a private security firm
-or university, permission should be obtained before attempting research
-on organization-owned equipment. 
+Looking for vulnerabilities in software and hardware is a critical part of
+the security ecosystem. However, it is important to do so in a way that
+minimizes the potential for harm to others. This section provides advice for
+finders and vendors on how to avoid unnecessary risk when finding
+vulnerabilities.
 
-Likewise, organizations should make the rules and process for obtaining
-permission very clear and easy to find. For example, a form or email
-address provided on an intranet page might be sufficient. Employees
-hired specifically to find vulnerabilities should be briefed on
-necessary rules and provided with concrete permission as part of the
-on-boarding process. Failure to adequately document permissible scope
-and authority for vulnerability testing can lead to frustration and
-other negative consequences with various legal ramifications.
+!!! tip "Advice for Finders"
+
+    Finders should exercise an appropriate degree of care when performing
+    vulnerability research. This will help to alleviate legal concerns and
+    limit the potential for damage to others.
+    Vulnerability research should of course be performed on equipment that
+    the finder is authorized to use for the purpose. If the research is
+    performed on behalf of an organization such as a private security firm
+    or university, permission should be obtained before attempting research
+    on organization-owned equipment. 
+
+!!! tip "Advice for Vendors"
+
+    Likewise, organizations should make the rules and process for obtaining
+    permission very clear and easy to find. For example, a form or email
+    address provided on an intranet page might be sufficient. Employees
+    hired specifically to find vulnerabilities should be briefed on
+    necessary rules and provided with concrete permission as part of the
+    on-boarding process. Failure to adequately document permissible scope
+    and authority for vulnerability testing can lead to frustration and
+    other negative consequences with various legal ramifications.
+
+## Types of Risk
+
+There are several types of risk that should be considered when
+performing vulnerability research. These include operational risk,
+safety risk, and legal risk.
 
 !!! warning "Operational Risk"
 
@@ -37,7 +53,7 @@ other negative consequences with various legal ramifications.
 
     Safety-critical systems have been defined as "systems whose failure
     could result in loss of life, significant property damage, or damage to
-    the environment \[1\]." A high degree of caution is both appropriate
+    the environment [^1]." A high degree of caution is both appropriate
     and necessary when testing the security of safety-critical systems, such
     as medical devices, industrial equipment, or vehicles. A proof of
     concept exploit to demonstrate a vulnerability on a traditional computer
@@ -67,36 +83,19 @@ other negative consequences with various legal ramifications.
     
     Additionally, in some environments, such as medical devices, healthcare,
     education, or financial information systems, there may be legal
-    consequences to accessing real data (under HIPAA \[2\], FERPA \[3\],
-    COPPA \[4\], and similar laws, industry standards such as PCI DSS \[5\],
+    consequences to accessing real data (under
+    [HIPAA](https://www.hhs.gov/hipaa/),
+    [FERPA](https://ed.gov/policy/gen/guid/fpco/ferpa/index.html),
+    [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule),
+    and similar laws, industry standards such as [PCI DSS](https://www.pcisecuritystandards.org/pci_security/),
     etc.), so we again reiterate the need to perform research only in
     controlled test environments, preferably with fake data.
     
     For more information on the legal implications of vulnerability
-    disclosure, we refer you to the *EFF's Coders' Rights Project
-    Vulnerability Reporting FAQ*
-    \[6\].
+    disclosure, we refer you to the [*EFF's Coders' Rights Project
+    Vulnerability Reporting FAQ*](https://www.eff.org/issues/coders/vulnerability-reporting-faq).
 
 ## References
 
-1.  [J. C. Knight, "Safety critical systems: challenges and
-    directions," in
-    ]{style="color: rgb(23,43,77);text-decoration: none;"}*ICSE '02
-    Proceedings of the 24th International Conference on Software
-    Engineering*[, Orlando,
-    2002.]2.  [U.S. Department of Health & Human Services, "Health Information
-    Privacy," \[Online\]. Available:
-    [https://www.hhs.gov/hipaa/](https://www.hhs.gov/hipaa/). \[Accessed 23 May
-    2017\].]3.  [U.S. Department of Education, "Family Educational Rights and
-    Privacy Act (FERPA)," \[Online\]. Available:
-    [https://ed.gov/policy/gen/guid/fpco/ferpa/index.html](https://ed.gov/policy/gen/guid/fpco/ferpa/index.md). \[Accessed 23 May
-    2017\].]4.  [Federal Trade Commission, "Children's Online Privacy Protection
-    Rule ("COPPA")," \[Online\]. Available:
-    [https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule). \[Accessed 23 May
-    2017\].]5.  [PCI Security Standards Council, "PCI Security," \[Online\].
-    Available:
-    [https://www.pcisecuritystandards.org/pci_security/](https://www.pcisecuritystandards.org/pci_security/). \[Accessed 23 May
-    2017\].]6.  [Electronic Frontier Foundation, "Coders' Rights Project
-    Vulnerability Reporting FAQ," \[Online\]. Available:
-    [https://www.eff.org/issues/coders/vulnerability-reporting-faq](https://www.eff.org/issues/coders/vulnerability-reporting-faq). \[Accessed 17 May
-    2017\].]
+[^1]: J. C. Knight, [Safety critical systems: challenges and directions](https://doi.org/10.1145/581339.581406),
+    in *ICSE '02 Proceedings of the 24th International Conference on Software Engineering*, Orlando, 2002.
