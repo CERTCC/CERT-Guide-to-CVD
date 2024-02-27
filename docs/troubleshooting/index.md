@@ -22,7 +22,7 @@ asking, do we own the process or does the process own us?*
 *
 *
 
-As we've mentioned throughout this document, CVD can occasionally be a
+As we've mentioned throughout this documentation, CVD can occasionally be a
 complex process. In this section, we'll first cover some of the common
 ways things can go wrong and finish with some suggestions on what to do
 if and when they do. A summary of the advice in this section can be

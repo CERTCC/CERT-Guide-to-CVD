@@ -116,7 +116,7 @@ coordination channels, development cycles, scanning, patching, and so
 forth will need to be reevaluated in the light of hardware-based systems
 that are likely to dominate the future internet.
 
-# About This Report {#Preface-AboutThisReport}
+# About This Documentation {#Preface-AboutThisReport}
 
 This is not a technical document. You will not learn anything new about
 fuzzing, debugging, ROP gadgets, exploit mitigations, heap spraying,
@@ -142,9 +142,9 @@ the trajectory from the plan.
 
 This is not a standard. We assert no authority to bless the information
 here as "the way things ought to be done." In cases where standards
-exist, we refer to them, and this report is informed by them. In fact,
+exist, we refer to them, and this documentation is informed by them. In fact,
 we've been involved in creating some of them. But the recommendations
-made in this report should not be construed as "proper," "correct," or
+made in this documentation should not be construed as "proper," "correct," or
 "ideal" in any way. As we'll show, disclosing vulnerabilities presents a
 number of difficult challenges, with long-reaching effects. The
 recommendations found here do, however, reflect our observation over the
@@ -163,12 +163,12 @@ any party that might find itself engaged in coordinating a vulnerability
 disclosure.
 
 We wrote it in an informal tone to make the content more approachable,
-since many readers' interest in this document may have been prompted by
+since many readers' interest in this documentation may have been prompted by
 their first encounter with a vulnerability in a product they created or
 care about. The informality of our writing should not be construed as a
 lack of seriousness about the topic, however.
 
-In a sense, this report is a travel guide for what might seem a foreign
+In a sense, this documentation is a travel guide for what might seem a foreign
 territory. Maybe you've passed through once or twice. Maybe you've only
 heard about the bad parts. You may be uncertain of what to do next,
 nervous about making a mistake, or even fearful of what might befall

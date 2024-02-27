@@ -2,7 +2,7 @@
 
 **Bibliography**
 
-*URLs are valid as of the publication date of this document.*
+*URLs are valid as of the publication date of this documentation.*
 
   --------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   \[1\]     B. Cancilla, "Return of the Browser Wars," August 2004. \[Online\]. Available: http://www.ibmsystemsmag.com/ibmi/trends/whatsnew/Return-of-the-Browser-Wars/. \[Accessed 17 May 2017\].

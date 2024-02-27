@@ -22,7 +22,7 @@ team or organization has access to this key.
 
 
 A general discussion on encryption algorithms is beyond the scope of
-this report, but at the time of this writing, it is recommended to
+this documentation, but at the time of this writing, it is recommended to
 generate RSA keys with a length of at least 4096 bits to ensure security
 into the near-to-moderate-term future.
 
