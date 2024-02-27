@@ -30,10 +30,10 @@ begins.
 
 <div class="grid cards" markdown>
 
--   [Coordinated Vulnerability Disclosure is a Process, Not an Event](1_1.md)
--   [CVD Context and Terminology Notes](1_2.md)
--   [Why Coordinate Vulnerability Disclosures?](1_3.md)
--   [Previewing the Remainder of this Document](1_4.md)
+-   [Coordinated Vulnerability Disclosure is a Process, Not an Event](cvd_is_a_process)
+-   [CVD Context and Terminology Notes](terminology)
+-   [Why Coordinate Vulnerability Disclosures?](why_coordinate)
+-   [Previewing the Remainder of this documentation](preview)
 
 </div>
 

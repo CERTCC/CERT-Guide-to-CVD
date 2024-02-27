@@ -21,7 +21,7 @@ to the set that knows about the vulnerability iterate on two questions:
 The CVD process continues until the answers to these questions are
 "nothing," and "nobody."
 
-Simple enough? Hardly. If it were, this document would be considerably
+Simple enough? Hardly. If it were, this documentation would be considerably
 shorter. But with this simple iterator in mind, we'll be better able to
 frame our discussion.
 
