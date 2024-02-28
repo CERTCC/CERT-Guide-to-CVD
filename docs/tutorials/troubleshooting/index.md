@@ -10,12 +10,12 @@ Table](6_10.md).
 <div class="grid cards" markdown>
 
 -   [6.1 Unable to Find Vendor
-    Contact](6_1.md)
--   [6.2 Unresponsive Vendor](6_2.md)
+    Contact](unable_to_find_vendor_contact)
+-   [6.2 Unresponsive Vendor](unresponsive_vendor)
 -   [6.3 Somebody Stops
-    Replying](6_3.md)
+    Replying](somebody_stops_replying)
 -   [6.4 Intentional or Accidental
-    Leaks](6_4.md)
+    Leaks](leaks)
 -   [6.5 Independent Discovery](6_5.md)
 -   [6.6 Active Exploitation](6_6.md)
 -   [6.7 Relationships that Go

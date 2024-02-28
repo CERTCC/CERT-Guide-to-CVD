@@ -12,5 +12,5 @@ Vendor C is a spinoff of a conglomerate going through bankruptcy
 proceedings in a different country where they don't speak your
 language. Things can get complicated.
 
-
+{% include-markdown "./recipes/_x03.md" heading-offset=1 %}
 

@@ -8,22 +8,42 @@ A process is
 
 Publishing a document is an action. Releasing a
 fix is an action. And while both of these are common events within the
-CVD process, they do not define it. Perhaps the simplest description of
+CVD process, they do not define it. 
+
+## A Simple Description of the CVD Process
+
+Perhaps the simplest description of
 the CVD process is that it starts with at least one individual becoming
 aware of a vulnerability in a product. This discovery event immediately
-divides the world into two sets of people: those who know about the
-vulnerability, and those who don't. From that point on, those belonging
-to the set that knows about the vulnerability iterate on two questions:
+divides the world into two sets of people:
 
-1.  What actions should I take in response to this knowledge?
-2.  Who else needs to know what, and when?
+<div class="grid cards" markdown>
 
-The CVD process continues until the answers to these questions are
-"nothing," and "nobody."
+- :material-alarm-light: Those who know about the vulnerability
+- :material-alarm-light-off: Those who don't
+
+</div>
+
+From that point on, those belonging to the set that knows about the vulnerability iterate on two questions:
+
+!!! question "The Core Questions of Coordinated Vulnerability Disclosure"
+
+    1.  What actions should I take in response to this knowledge?
+    2.  Who else needs to know what, and when?
+
+    The CVD process continues until the answers to these questions are
+    "nothing," and "nobody."
 
 Simple enough? Hardly. If it were, this documentation would be considerably
 shorter. But with this simple iterator in mind, we'll be better able to
 frame our discussion.
+
+## Who's Involved in the CVD Process?
+
+!!! tip inline end  "Roles in CVD"
+
+    See [Roles in CVD](../topics/roles/index.md) for a more detailed discussion of the roles involved in the CVD process.
+
 
 Ideally, product and service vulnerabilities would be either discovered
 by the vendor (developer) of the software product or service itself or
@@ -35,8 +55,7 @@ vulnerabilities by developing and releasing an update to the product,
 also known as a patch. However, often the vendor issuing an update is
 just the first step towards remediation of the installed base of
 vulnerable systems. Deployers must still ensure that patches are
-deployed in a timely manner to the systems they need to protect. A more
-detailed discussion of [Roles in CVD](../topics/roles/index.md) is available.
+deployed in a timely manner to the systems they need to protect.
 
 
 
