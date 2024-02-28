@@ -1,11 +1,5 @@
 # Conclusion 
 
-!!! quote "Fred Rogers"
-
-    When I was a boy and I would see scary things in the news, my mother
-    would say to me, 'Look for the helpers. You will always find people who
-    are helping.
-
 The scope of the citizenry affected by cybersecurity vulnerabilities
 has widened considerably in recent years.
 
@@ -29,7 +23,7 @@ be polite, patient, humble, calm, without guile, and willing to put
 aside their own interests for those of others. We do not live in an
 ideal world. In the world we find ourselves occupying, software-based
 systems exhibit complex behaviors, increasingly exceeding the limits of
-human comprehension \[1\].
+human comprehension[^1].
 
 As a society, we have become capable of building things we don't
 fully understand. The difference between what a thing does and what you
@@ -50,7 +44,4 @@ vulnerability disclosure because we realize we're all in this together.
 
 Thanks for reading.
 
-## References
-1.  [S. Arbesman, Overcomplicated: Technology at the Limits of
-    Comprehension, Current,
-    2016.]
+[^1]: S. Arbesman, _Overcomplicated: Technology at the Limits of Comprehension_, Current, 2016.

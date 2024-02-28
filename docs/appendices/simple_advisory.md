@@ -11,19 +11,19 @@ scenarios.
 Please modify the sections and format as necessary to better suit your
 needs.
 
-# Vulnerability Disclosure Document {#AppendixDSampleVulnerabilityDisclosureDocument-VulnerabilityDisclosureDocument}
+## Vulnerability Disclosure Document 
 
-## Overview {#AppendixDSampleVulnerabilityDisclosureDocument-Overview}
+### Overview 
 
 -   Brief Vulnerability Description: (try to keep it to 1-2 sentences)
 
-## Vulnerability ID {#AppendixDSampleVulnerabilityDisclosureDocument-VulnerabilityID}
+### Vulnerability ID 
 
 -   CVE ID for this Vulnerability:
 
 -   Any other IDs (vendor tracking ID, bug tracker ID, CERT ID, etc.):
 
-## Description {#AppendixDSampleVulnerabilityDisclosureDocument-Description}
+### Description 
 
 -   Software/Product(s) containing the vulnerability:
 
@@ -39,35 +39,34 @@ needs.
 
 -   How may an attacker exploit this vulnerability? (Proof of Concept):
 
-## Impact {#AppendixDSampleVulnerabilityDisclosureDocument-Impact}
+### Impact 
 
 -   What is the impact of exploiting this vulnerability? (What does an
     attacker gain that the attacker didn't have before?)
 
-## CVSS Score {#AppendixDSampleVulnerabilityDisclosureDocument-CVSSScore}
+### CVSS Score 
 
--   CVSS:3.0/AV:?/AC:?/PR:?/UI:?/S:?/C:?/I:?/A:? -- 0.0
+- CVSS:3.0/AV:?/AC:?/PR:?/UI:?/S:?/C:?/I:?/A:? -- 0.0
     (LOW/MEDIUM/HIGH/CRITICAL)
 
--   Pr[ovide the full CVSS vector, not only the score. If possible,
+- Provide the full CVSS vector, not only the score. If possible,
     provide guidance on the temporal and environmental metrics, not only
     the base metrics. See
-    ]{style="color: rgb(23,43,77);text-decoration: none;"}[https://www.first.org/cvss/[.]{style="color: rgb(0,48,0);"}](https://www.first.org/cvss/){.external-link
-    style="text-decoration: none;text-align: left;" rel="nofollow"}
+    [https://www.first.org/cvss/](https://www.first.org/cvss/)
 
-## Resolution {#AppendixDSampleVulnerabilityDisclosureDocument-Resolution}
+### Resolution 
 
 -   Version containing the fix:
 -   URL or contact information to obtain the fix:
 -   Alternately, if no fix is available, list workaround or mitigation
     advice below:
 
-## Reporter {#AppendixDSampleVulnerabilityDisclosureDocument-Reporter}
+### Reporter 
 
 This vulnerability was reported/discovered by
 \_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-## Author and/or Contact Info {#AppendixDSampleVulnerabilityDisclosureDocument-Authorand/orContactInfo}
+### Author and/or Contact Info 
 
 For more information or questions, please contact:
 
@@ -76,7 +75,7 @@ For more information or questions, please contact:
 -   Email:
 -   PGP Public Key (ASCII Armored or a URL):
 
-## Disclosure Timeline {#AppendixDSampleVulnerabilityDisclosureDocument-DisclosureTimeline}
+### Disclosure Timeline 
 
 -   Date of First Vendor Contact Attempt:
 -   Date of Vendor Response:
@@ -87,11 +86,7 @@ For more information or questions, please contact:
 attempts.)
 
 
-
-
-
-
-## References {#AppendixDSampleVulnerabilityDisclosureDocument-References}
+### References 
 
 (List reference URLs here: for example, vendor advisory, other
 disclosures, and links to advice on mitigating problems.)
