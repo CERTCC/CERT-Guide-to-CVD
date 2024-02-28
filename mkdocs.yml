@@ -73,8 +73,14 @@ nav:
         - Intro: 'open_problems/index.md'
         - Vul IDs: 'open_problems/vul_ids.md'
         - IoT and CVD: 'open_problems/iot_cvd.md'
+        - IoT Vul Analysis: 'appendices/iot_vul_analysis.md'
   - Reference:
     - Overview: 'reference/index.md'
+    - VRF: 'appendices/simple_vrf.md'
+    - Advisory: 'appendices/simple_advisory.md'
+    - TLP: 'appendices/tlp.md'
+    - Disclosure Policy Templates: 'appendices/disclosure_policy_templates.md'
+    - Additional Resources: 'appendices/additional_resources_web_vuls.md'
     - Bibliography: 'bibliography.md'
   - About:
     - Conclusion: 'conclusion/index.md'
@@ -85,7 +91,7 @@ not_in_nav: |
   _*.md
   _*/**/*.md
 theme:
-  logo: 'assets/cert_seal.svg'
+  logo: 'assets/cert.png'
   name: 'material'
   features:
     - content.tabs.link
