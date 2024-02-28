@@ -36,7 +36,7 @@ also known as a patch. However, often the vendor issuing an update is
 just the first step towards remediation of the installed base of
 vulnerable systems. Deployers must still ensure that patches are
 deployed in a timely manner to the systems they need to protect. A more
-detailed discussion of [Roles in CVD](../roles/index.md) is available.
+detailed discussion of [Roles in CVD](../topics/roles/index.md) is available.
 
 
 

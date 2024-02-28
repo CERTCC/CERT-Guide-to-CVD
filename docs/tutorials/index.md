@@ -32,7 +32,7 @@ begins.
 
 -   [Coordinated Vulnerability Disclosure is a Process, Not an Event](cvd_is_a_process.md)
 -   [CVD Context and Terminology Notes](terminology.md)
--   [Why Coordinate Vulnerability Disclosures?](why_coordinate.md)
+-   [Why Coordinate Vulnerability Disclosures?](../howto/why_coordinate.md)
 -   [Previewing the Remainder of this documentation](preview.md)
 
 </div>
