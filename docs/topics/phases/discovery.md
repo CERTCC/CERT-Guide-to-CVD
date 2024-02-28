@@ -33,4 +33,4 @@ from sources internal or external to the vendor.
     exist and can be exploited without warning, vendors and deployers should
     establish their VR capability in preparation for this eventuality.
 
-{% include-markdown "./avoid_risk.md" heading-offset=1 %}
+{% include-markdown "../../howto/avoid_risk.md" heading-offset=1 %}
