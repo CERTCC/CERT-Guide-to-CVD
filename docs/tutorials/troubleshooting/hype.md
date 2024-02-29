@@ -19,7 +19,7 @@ vulnerability is getting the hype. Are branded vulnerabilities good or
 bad for internet security? The only good answer is the lesson of the
 Taoist [parable of the farmer and the horse](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse): "Maybe."
 
-# The Streisand Effect
+## The Streisand Effect
 
 Attempts to squash true information once it's been revealed tends not
 only to spread the information more widely, but also to backfire on

@@ -7,7 +7,7 @@ A summary of the advice in this section can be found in [Troubleshooting CVD](cv
 
 <div class="grid cards" markdown>
 
--   [Unable to Find Vendor Contact](unable_to_find_vendor_contact.md)
+-   [Unable to Find Vendor Contact](../find_vendor_contact)
 -   [Unresponsive Vendor](unresponsive_vendor.md)
 -   [Somebody Stops Replying](somebody_stops_replying.md)
 -   [Intentional or Accidental Leaks](leaks.md)

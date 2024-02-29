@@ -2,7 +2,7 @@
 
 Horst W.J. Rittel and Melvin M. Webber, in their 1973 article "Dilemmas
 in a General Theory of Planning," describe the following
-characteristics of *wicked problems* \[1\]:
+characteristics of *wicked problems*[^1]:
 
 1.  "**There is no definitive formulation of a wicked problem**" --
     solving the problem is analogous to understanding it.
@@ -50,9 +50,7 @@ We assert that vulnerability disclosure can be thought of as a wicked
 problem, offering this documentation as evidence to that effect.
 
 
-
-# References
-1.  H. W. Rittel and M. M. Webber, "Dilemmas in a General Theory of
+[^1]:  H. W. Rittel and M. M. Webber, "Dilemmas in a General Theory of
     Planning," *Policy Sciences,* vol. 4, no. 1973, pp. 155-169, June
     1973.
 

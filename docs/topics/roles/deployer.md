@@ -7,7 +7,7 @@ vulnerabilities.
 Deployers include the following:
 
 -   network and cloud infrastructure providers
--   -   outsourced IT operations
+-   outsourced IT operations
 -   in-house IT operations
 -   individual users
 
@@ -24,7 +24,7 @@ Although the deployer role is primarily concerned with Vulnerability
 Management practices that sit downstream of CVD, it's worth spending a
 few moments to understand how it fits in with CVD.
 
-# Deployer Vulnerability Response Process
+## Deployer Vulnerability Response Process
 A deployer's vulnerability response process usually involves the
 following sequence of stages:
 
@@ -41,7 +41,7 @@ following sequence of stages:
 
 We cover each of these in more detail below.
 
-## Become Aware
+### Become Aware
 In order to take action, a deployer must know about the vulnerability
 and have sufficient information to act on. Most often this information
 originates from the product vendor. However, since not all vulnerability
@@ -58,7 +58,7 @@ Deployers should be on the lookout for and pay attention to:
 -   Security discussions online including social media
 -   Mass media coverage of vulnerabilities
 
-## Prioritize Response
+### Prioritize Response
 Deployers have many responsibilities beyond deploying patches. As a
 result, they need to prioritize their work and integrate patch
 deployment into their normal operations cycle. That might mean testing,
@@ -69,7 +69,7 @@ mitigations to deploy and when to deploy them. The deployer's workload
 often makes it difficult to patch all the things as quickly as they
 would like.
 
-## Test the Solution
+### Test the Solution
 Testing prior to deployment is important if either of the following
 conditions is true:
 
@@ -84,7 +84,7 @@ portion of the affected systems are updated to confirm the fix prior to
 wider rollout---allowing deployers to balance patch deployment with the
 risk of negative side effects.
 
-## Plan the Deployment
+### Plan the Deployment
 Deployers have many options when it comes to planning to deploy a patch
 or mitigation. Highly automated environments can dramatically shorten
 the time required to complete these stages, but the functions described
@@ -109,7 +109,7 @@ Planning for a patch deployment requires two major steps:
     next maintenance window. Essentially the question boils down to
     deploy now or defer to later?
 
-## Execute the Plan
+### Execute the Plan
 Obviously, it is important to actually carry out the deployment of the
 mitigation or fix. Automated patch deployment tools can make this
 process quite efficient. Regardless of the degree of automation of patch

@@ -14,9 +14,9 @@ Because many such systems and devices are expected to remain
 operationally useful for years or even decades with minimal
 intervention, it is especially important that their security be
 thoroughly understood prior to deployment. This section collects a
-number of issues we observed in the course of recent work done by the
+number of issues we observed in the course of work done by the
 CERT Vulnerability Analysis team, and is adapted from a CERT/CC blog
-post by Householder \[1\].
+post by [Allen Householder](https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.html).
 
 ## Black Boxes
 
@@ -38,13 +38,17 @@ as dealing with complex supply chains for code components.
 
 ## Long-Lived and Hard-to-Patch
 
+!!! tip inline end "Long-Lived and Not Reachable"
+
+    See Dan Geer's [talk](http://geer.tinho.net/geer.secot.7v14.txt) at the Security of Things Forum for more on the
+    "long-lived and not reachable" problem).
+
 We observed various devices with wireless data capabilities embedded
 within a larger system yet little or no ability to patch the fielded
 systems except within very sparse service windows. Instances where
 physical contact with the device is required in order to update it can
-be especially problematic once vulnerabilities are discovered (See Dan
-Geer's talk at the Security of Things Forum for more on the
-"long-lived and not reachable" problem \[2\]).
+be especially problematic once vulnerabilities are discovered 
+
 
 ## New Interfaces Bring New Threats
 
@@ -74,17 +78,3 @@ cycles, scanning, patching, and so on, will need to be reevaluated in
 the light of hardware-based systems that are likely to dominate the
 future internet.
 
-
-
-\< [8.1 Vulnerability IDs and
-DBs](vul_ids) \| [9.
-Conclusion](9.-Conclusion_47677499.md) \>
-
-## References
-1.  [A. Householder, "Vulnerability Discovery for Emerging Networked
-    Systems," 20 November 2014. \[Online\]. Available:
-    [https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.html](https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.md). \[Accessed 16 May
-    2017\].]2.  [D. Geer, "Security of Things," 14 May 2014. \[Online\].
-    Available:
-    [http://geer.tinho.net/geer.secot.7v14.txt](http://geer.tinho.net/geer.secot.7v14.txt). \[Accessed 16 May
-    2017\].]

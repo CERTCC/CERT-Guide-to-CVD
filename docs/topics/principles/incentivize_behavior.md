@@ -8,14 +8,16 @@ better to reward good behavior than try to punish bad behavior. Such
 incentives are important as they increase the likelihood of continued
 cooperation between CVD participants.
 
-Incentives can take many forms:
+!!! example "Incentives in CVD"
 
--   **Recognition** -- Public recognition is often used as a reward for
+    Incentives can take many forms:
+
+    -   **Recognition** -- Public recognition is often used as a reward for
     "playing by the rules" in CVD.
--   **Gifts** -- Small gifts (or "swag") such as T-shirts, stickers,
+    -   **Gifts** -- Small gifts (or "swag") such as T-shirts, stickers,
     and so forth give researchers a good feeling about the organization.
--   **Money** -- Bug bounties can turn CVD into piece work.
--   **Employment** -- We have observed cases where organizations choose
+    -   **Money** -- Bug bounties can turn CVD into piece work.
+    -   **Employment** -- We have observed cases where organizations choose
     to hire the researchers who report vulnerabilities to them, either
     on a temporary (contract) or full-time basis. This is of course
     neither required nor expected, but having a reputation of doing so

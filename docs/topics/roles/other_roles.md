@@ -52,7 +52,7 @@ on the opposite end of the deployment spectrum from cloud-based
 services.
 
 Unlike most other devices (laptops, PCs, smartphones, tablets), many of
-today's IoT products are either non-updateable or require significant
+today's IoT products are either non-updatable or require significant
 effort to update. Whether we're talking about cars, televisions,
 medical devices, airplanes, sensors, home automation, or industrial
 control systems, too often today the patch deployment process involves

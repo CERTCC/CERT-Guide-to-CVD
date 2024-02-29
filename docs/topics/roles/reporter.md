@@ -2,7 +2,7 @@
 
 The defining characteristic of vulnerability *reporters* is that they
 originate the message that informs a vendor or coordinator of a
-vulnerability. In most cases, the *reporter* is also the *finder* of the
+vulnerability. In most cases, the *reporter* is also the [*finder*](finder.md) of the
 vulnerability. However, this is not always the case. For example, the
 finder might be an employee at an organization that also has in-house
 vulnerability coordinators who act as the communications liaison with

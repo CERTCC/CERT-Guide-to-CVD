@@ -10,6 +10,21 @@ Many open source libraries are maintained by a single person or a small
 independent team; we still refer to these individuals and groups as
 vendors.
 
+!!! example inline end "Vendor Perspectives"
+
+    The NTIA Awareness and Adoption Working Group survey (previously mentioned in [Section 2.2](2.3.-Avoid-Surprise_47677453.md))
+    found the following \[1\]:
+
+    - 60-80% of the more mature vendors followed CVD practices
+    - 76% of those mature vendors developed their vulnerability handling
+      procedures in-house.
+    - Vendors' perceived need for a vulnerability disclosure policy was
+      driven by a sense of corporate responsibility or customer demand.
+    - Only a third of responding companies considered and/or required
+      suppliers to have their own vulnerability handling procedures.
+
+## Vendors Include More Than Just Software Companies
+
 As software-centric systems find their way into various industries, more
 and more vendors of traditional products find themselves becoming
 software vendors.
@@ -31,8 +46,9 @@ including those below:
     industries
 -   medical devices and health-related device manufacturers
     
+## Vendors as Part of the Software Supply Chain
 
-[Furthermore, since many modern products are in fact composed of
+Furthermore, since many modern products are in fact composed of
 software and hardware components from multiple vendors, the CVD process
 increasingly involves multiple tiers of vendors, as we discuss in
 [Section 5.4](5.4-Multiparty-CVD_47677477.md). For example, the CVD
@@ -41,22 +57,11 @@ include the originating author of the vulnerable component as well as
 all the downstream vendors who incorporated that component into their
 products. Each of these vendors in turn will need to update their
 products in order for the fix to be deployed to all vulnerable
-systems.]
-[The NTIA Awareness and Adoption Working Group survey (previously
-mentioned in [Section 2.2](2.3.-Avoid-Surprise_47677453.md)) found the
-following \[1\]:]
--   60-80% of the more mature vendors followed CVD practices
+systems.
 
--   76% of those mature vendors developed their vulnerability handling
-    procedures in-house.
 
--   Vendors' perceived need for a vulnerability disclosure policy was
-    driven by a sense of corporate responsibility or customer demand.
+## Vendor as the Introducer of Vulnerabilities
 
--   Only a third of responding companies considered and/or required
-    suppliers to have their own vulnerability handling procedures.
-
-# Vendor as the Introducer of Vulnerabilities
 The vendor often plays an important but less discussed role as well, as
 the creator of the software or system that introduces the vulnerability.
 While good practices like code reviews, continuous testing and
@@ -66,7 +71,27 @@ these practices thus far have not eliminated them completely. Thus, a
 well-established CVD capability is also essential to the development
 process.
 
-# Vendor Vulnerability Response Process
+## Vendor Vulnerability Response Process
+
+!!! tip inline end "Evaluating the Vendor Security Response Process"
+
+    It is a mistake to evaluate a product favorably based solely on its
+    having a low number of publicly known vulnerabilities. In fact, the
+    known vulnerability count in a product is usually not indicative of the
+    quality of a product. There are many reasons a product may have few
+    public vulnerability reports: these include (1) the vendor might lack
+    proper CVD capabilities or have a history of threatening legal action
+    against finders and reporters if they publish vulnerability reports, or
+    (2) the product's prevalence or niche may be too small to warrant
+    finder attention. 
+    
+    Instead, we have found that a vendor's CVD capability and vulnerability
+    response process maturity is often a more important indicator of its
+    commitment to quality than its vulnerability counts alone. Development
+    practices, as human processes, inevitably fail. Vendors that acknowledge
+    this fact and create a good CVD practice are well positioned to
+    compensate for this inevitability.
+
 In order to effectively mitigate the impact of vulnerabilities in their
 products and services, vendors must be able to perform the following
 specific tasks:
@@ -78,43 +103,27 @@ specific tasks:
 -   (recommended) publish a document
 -   (recommended) improve internal development process
 
-[
-]
-[The ISO/IEC standards 29147 \_Vulnerability disclosure\_ and 30111
+The ISO/IEC standards 29147 \_Vulnerability disclosure\_ and 30111
 \_Vulnerability handling processes\_ offer specific models for external-
 and internal-facing vendor vulnerability response practices. Readers are
 encouraged to review and apply those standards to their operational
 vulnerability response practice. ISO/IEC 29147 describes an
 outward-facing CVD process \[2\]. ISO/IEC 30111 addresses the internal
 processes associated with vendor vulnerability response
-\[3\].]
-## Evaluating the Vendor Security Response Process
-It is a mistake to evaluate a product favorably based solely on its
-having a low number of publicly known vulnerabilities. In fact, the
-known vulnerability count in a product is usually not indicative of the
-quality of a product. There are many reasons a product may have few
-public vulnerability reports: these include (1) the vendor might lack
-proper CVD capabilities or have a history of threatening legal action
-against finders and reporters if they publish vulnerability reports, or
-(2) the product's prevalence or niche may be too small to warrant
-finder attention. 
+\[3\].
 
-Instead, we have found that a vendor's CVD capability and vulnerability
-response process maturity is often a more important indicator of its
-commitment to quality than its vulnerability counts alone. Development
-practices, as human processes, inevitably fail. Vendors that acknowledge
-this fact and create a good CVD practice are well positioned to
-compensate for this inevitability.
 
-# Vendor Sub-Roles
+## Vendor Sub-Roles
+
 There are various sub-roles one might find within a vendor organization.
 In small organizations, an individual might play all the sub-roles at
 once. Larger organizations often have teams that correspond to the
 sub-roles identified here. Each of these sub-roles has a part to play in
 the vendor's vulnerability response practice.
 
-## PSIRT
-[A vendor might choose to establish a Product Security Incident Response
+### PSIRT
+
+A vendor might choose to establish a Product Security Incident Response
 Team (PSIRT). This is similar to a Computer Security Incident Response
 Team (CSIRT), but is engaged for product security "incidents" (e.g.,
 vulnerability reports and reports of exploitation of the company's
@@ -122,9 +131,9 @@ products). The PSIRT acts as an interface between the public and the
 developers. Examples include the Microsoft Security Response Center
 (MSRC) \[4\] and Cisco PSIRT \[5\] . Many vendor PSIRTs are active in
 the Forum of Incident Response and Security Teams (FIRST)
-\[7\]]{style="color: rgb(23,43,77);text-decoration: none;"}.
+\[7\]
 
-## Developers
+### Developers
 For vendors of sufficient size to have a dedicated PSIRT, the
 vulnerability response and development processes are likely found in
 different parts of the organization.
@@ -139,7 +148,8 @@ The development role usually has the responsibility to:
 The PSIRT should be in close contact with the developers in order to
 coordinated fixes.
 
-## Patch Originator vs. Downstream Vendor
+### Patch Originator vs. Downstream Vendor
+
 Although a single vendor is usually the originator of a patch for a
 given vulnerability, this is not always the case. Some vendors will have
 products affected by a vulnerability while they are not the originator
@@ -148,7 +158,8 @@ patch originator but also the downstream vendors. The complexity of the
 software supply chain can make this difficult to coordinate as we
 discuss in [Section 5.4](5.4-Multiparty-CVD_47677477.md).
 
-## Process Improvement
+### Process Improvement
+
 Having a mechanism to receive and track the disposition of vulnerability
 reports is an important first step in establishing a vendor's
 vulnerability response capability. But it should not stop there; vendors
@@ -181,7 +192,7 @@ development lifecycle include the following:
 
 
 
-## References
+### References
 1.  [NTIA Awareness and Adoption Working Group, "Vulnerability
     Disclosure Attitudes and Actions: A Research Report from the NTIA
     Awareness and Adoption Group," 15 December 2016. \[Online\].

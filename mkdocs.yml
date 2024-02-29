@@ -14,7 +14,7 @@ nav:
     - Executive Summary: 'tutorials/executive_summary.md'
     - CVD Problem Solving:
         - Overview: 'tutorials/troubleshooting/index.md'
-        - Unable to Find Vendor Contact: 'tutorials/troubleshooting/unable_to_find_vendor_contact.md'
+        - Finding Vendor Contacts: 'tutorials/find_vendor_contact.md'
         - Unresponsive Vendor: 'tutorials/troubleshooting/unresponsive_vendor.md'
         - Somebody Stops Responding: 'tutorials/troubleshooting/somebody_stops_replying.md'
         - Leaks: 'tutorials/troubleshooting/leaks.md'
@@ -26,8 +26,11 @@ nav:
         - Troubleshooting CVD: 'tutorials/troubleshooting/cvd_recipes.md'
   - CVD How-To:
     - Overview: 'howto/index.md'
-    - Why Coordinate?: 'howto/why_coordinate.md'
     - Avoid Unnecessary Risk: 'howto/avoid_risk.md'
+    - Reasons to Engage a Coordinator: 'howto/coordinator_reasons.md'
+    - Reduce Reporting Friction: 'howto/reduce_reporting_friction.md'
+    - Report Validation: 'topics/phases/validation.md'
+    - Prioritization: 'topics/phases/prioritization.md'
     - Operations:
         - Intro: 'howto/operations/index.md'
         - Tools: 'howto/operations/tools.md'
@@ -46,13 +49,13 @@ nav:
     - Overview: 'topics/index.md'
     - Principles:
         - Intro: 'topics/principles/index.md'
-        - Reduce Harm: 'topics/principles/2_1.md'
-        - Presume Benevolence: 'topics/principles/2_2.md'
-        - Avoid Surprise: 'topics/principles/2_3.md'
-        - Incentivize Desired Behavior: 'topics/principles/2_4.md'
-        - Ethical Considerations: 'topics/principles/2_5.md'
-        - Process Improvement: 'topics/principles/2_6.md'
-        - CVD as a Wicked Problem: 'topics/principles/2_7.md'
+        - Reduce Harm: 'topics/principles/reduce_harm.md'
+        - Presume Benevolence: 'topics/principles/presume_benevolence.md'
+        - Avoid Surprise: 'topics/principles/avoid_surprise.md'
+        - Incentivize Desired Behavior: 'topics/principles/incentivize_behavior.md'
+        - Ethical Considerations: 'topics/principles/ethics.md'
+        - Process Improvement: 'topics/principles/process_improvement.md'
+        - CVD as a Wicked Problem: 'topics/principles/wicked_problem.md'
     - Roles:
         - Intro: 'topics/roles/index.md'
         - Finder: 'topics/roles/finder.md'
