@@ -5,7 +5,7 @@ complex process. In this section, we'll first cover some of the common
 ways things can go wrong and finish with some suggestions on what to do
 if and when they do. A summary of the advice in this section can be
 found in [6.10 Troubleshooting Coordinated Vulnerability Disclosure
-Table](6_10.md).
+Table](cvd_recipes).
 
 <div class="grid cards" markdown>
 
@@ -22,9 +22,9 @@ Table](6_10.md).
     Sideways](relationships_sideways)
 -   [6.8 Hype, Marketing, and Unwanted Attention](hype)
 -   [6.9 What to Do When Things Go
-    Wrong](6_9.md)
+    Wrong](general_tips)
 -   [6.10 Troubleshooting Coordinated Vulnerability Disclosure
-    Table](6_10.md)
+    Table](cvd_recipes)
 
 </div>
 

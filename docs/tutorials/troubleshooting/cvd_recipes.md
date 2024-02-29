@@ -1,12 +1,12 @@
-# Troubleshooting Coordinated Vulnerability Disclosure Table 
+# Troubleshooting Coordinated Vulnerability Disclosure  
 
-The following table provides advice for resolving problems in various
-CVD scenarios. It is organized according to the roles affected and the
-phases in which the problem is likely to arise. Each problem identified
-is accompanied by a description intended to help the reader diagnose the
-problem. In addition to the advice found in the table below, we
-encourage readers to be familiar with [6.9 What to Do When Things Go
-Wrong](6_9.md) for more general advice.
+The following list provides advice for resolving problems in various CVD scenarios.
+It is organized according to the roles affected and the phases in which the problem is likely to arise.
+Each problem identified is accompanied by a description intended to help the reader diagnose the problem.
+
+In addition to the advice found below, we encourage readers to be familiar with our [General Tips](general_tips.md).
+
+<div class="grid cards" markdown>
 
 - [Finder does not have the resources to shepherd a CVD case through to resolution](#01)
 - [Evidence of exploitation for an embargoed report](#02)
@@ -30,8 +30,28 @@ Wrong](6_9.md) for more general advice.
 - [A vulnerability is receiving unanticipated media attention](#20)
 - [A CVD case just isn't going well](#21)
 
-Did you notice something we missed in this table? We're taking
-[suggestions](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
+</div>
+
+Did you notice something we missed in this list?
+We're taking [suggestions](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
+
+## CVD Problem-Solving Recipe Cards 
+
+!!! info "CVD Recipe Cards"
+
+    !!! info inline end ""
+    
+        And like a recipe card, each item includes an "ingredients" list that describes
+    
+        - the _roles_ affected
+        - the _phases_ in which the problem is likely to arise
+        - the _problem_ itself
+
+    For this edition of the Guide, we have organized our advice into a set of recipe cards.
+
+    The "recipe" portion of each card provides a set of instructions for resolving the problem.
+    These aren't necessarily step-by-step instructions, but rather a set of guidelines to help you navigate the problem.
+
 
 {% include-markdown "./recipes/_x01.md" heading-offset=1 %}
 {% include-markdown "./recipes/_x02.md" heading-offset=1 %}
