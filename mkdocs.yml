@@ -12,8 +12,8 @@ nav:
         - CVD Terminology: 'tutorials/terminology.md'
         - Preview: 'tutorials/preview.md'
     - Executive Summary: 'tutorials/executive_summary.md'
-    - Troubleshooting:
-        - Intro: 'tutorials/troubleshooting/index.md'
+    - CVD Problem Solving:
+        - Overview: 'tutorials/troubleshooting/index.md'
         - Unable to Find Vendor Contact: 'tutorials/troubleshooting/unable_to_find_vendor_contact.md'
         - Unresponsive Vendor: 'tutorials/troubleshooting/unresponsive_vendor.md'
         - Somebody Stops Responding: 'tutorials/troubleshooting/somebody_stops_replying.md'

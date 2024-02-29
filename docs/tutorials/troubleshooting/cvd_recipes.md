@@ -37,21 +37,9 @@ We're taking [suggestions](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
 
 ## CVD Problem-Solving Recipe Cards 
 
-!!! info "CVD Recipe Cards"
+{% include-markdown "./recipes/_recipe_explainer.md" heading-offset=1 %}
 
-    !!! info inline end ""
-    
-        And like a recipe card, each item includes an "ingredients" list that describes
-    
-        - the _roles_ affected
-        - the _phases_ in which the problem is likely to arise
-        - the _problem_ itself
-
-    For this edition of the Guide, we have organized our advice into a set of recipe cards.
-
-    The "recipe" portion of each card provides a set of instructions for resolving the problem.
-    These aren't necessarily step-by-step instructions, but rather a set of guidelines to help you navigate the problem.
-
+---
 
 {% include-markdown "./recipes/_x01.md" heading-offset=1 %}
 {% include-markdown "./recipes/_x02.md" heading-offset=1 %}
