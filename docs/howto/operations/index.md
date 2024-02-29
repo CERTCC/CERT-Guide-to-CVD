@@ -7,7 +7,7 @@ personnel management issues.
 
 <div class="grid cards" markdown>
 
-- [Tools of the Trade](tools.md)
+- [CVD Infrastructure](infrastructure)
 - [Operational Security](opsec.md)
 - [CVD Staffing Considerations](staffing.md)
 
