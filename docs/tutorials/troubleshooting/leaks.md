@@ -28,3 +28,5 @@ mismatched expectations, or in rare cases, a malicious act.
     find it. While a partial leak of information isn't necessarily as
     serious as a detailed leak, it should at least trigger additional
     consideration of accelerating the disclosure timeline.
+
+{% include-markdown "./recipes/_x11.md" heading-offset=1 %}

@@ -16,11 +16,11 @@ Table](6_10.md).
     Replying](somebody_stops_replying)
 -   [6.4 Intentional or Accidental
     Leaks](leaks)
--   [6.5 Independent Discovery](6_5.md)
--   [6.6 Active Exploitation](6_6.md)
+-   [6.5 Independent Discovery](independent_discovery)
+-   [6.6 Active Exploitation](active_exploitation)
 -   [6.7 Relationships that Go
-    Sideways](6_7.md)
--   [6.8 Hype, Marketing, and Unwanted Attention](6_8.md)
+    Sideways](relationships_sideways)
+-   [6.8 Hype, Marketing, and Unwanted Attention](hype)
 -   [6.9 What to Do When Things Go
     Wrong](6_9.md)
 -   [6.10 Troubleshooting Coordinated Vulnerability Disclosure

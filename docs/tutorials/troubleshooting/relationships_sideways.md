@@ -7,10 +7,9 @@ People get frustrated, angry, and sometimes just have bad days.
 The first thing to do when things appear to be going awry in a CVD case
 is to give people some slack to make mistakes.
 
-The more transparent your process is---and the closer it is to what
-other folks are doing---the better you will be able to avoid problems.
+The more transparent your process is&mdash;and the closer it is to what
+other folks are doing&mdash;the better you will be able to avoid problems.
 Good documentation is a start, but documenting a byzantine process
 isn't as useful as simplifying the process and then documenting that!
 
-
-
+{% include-markdown "./recipes/_x21.md" heading-offset=1 %}
