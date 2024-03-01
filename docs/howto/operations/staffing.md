@@ -66,7 +66,7 @@ organizations must be careful to balance time in and out of CVD roles in
 order to maximize the effectiveness of the rotation.
 
 -   *Allowing analyst independence.* Generally, you should trust your
-    analysts to make good decisions during the report triage process,
+    analysts to make good decisions during the report prioritization process,
     and empower them to make CVD decisions. Allowing analyst autonomy
     with management's specific blessing provides relief to analysts
     attempting to prioritize reports. Many reports will be incomplete,

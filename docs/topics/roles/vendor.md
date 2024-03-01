@@ -97,7 +97,7 @@ products and services, vendors must be able to perform the following
 specific tasks:
 
 -   receive reports
--   triage, analyze, and test claims made in reports received
+-  prioritization, analyze, and test claims made in reports received
 -   fix bugs
 -   distribute patch(es)
 -   (recommended) publish a document

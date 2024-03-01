@@ -10,7 +10,7 @@ We will next discuss each of these phases in more detail.
 
 - [**Discovery**](discovery.md) - A researcher (not necessarily an academic one) discovers a vulnerability by using one of numerous tools and processes.
 - [**Reporting**](reporting.md) - A researcher submits a vulnerability report to a software or product vendor, or a third-party coordinator if necessary.
-- [**Validation and Triage**](validation_triage.md) - The analyst validates the report to ensure accuracy before action can be taken and prioritizes reports relative to others.
+- [**Validation andprioritization**](validation_triage.md) - The analyst validates the report to ensure accuracy before action can be taken and prioritizes reports relative to others.
 - [**Remediation**](remediation.md) - A remediation plan (ideally a software patch, but could also be other mechanisms) is developed and tested.
 - [**Public Awareness**](public_awareness.md) - The vulnerability and its remediation plan is disclosed to the public.
 - [**Deployment**](deployment.md) - The remediation is applied to deployed systems.
@@ -26,7 +26,7 @@ A mapping of CVD phases to CVD roles is provided in the following table.
 | Discovery       | Finds Vulnerabilities | -                                               | -                                              | -                                                             | -       |
 | Reporting       | Prepares report       | Reports vuls to vendor(s) and/or coordinator(s) | Receives reports                               | Receives reports                                              | -       |
 | Validation | -                 | -                                               | Validates reports received                     | Validates reports received                                    | -       |
-| Triage | -                     | -                                               | Prioritizes reports for response               | Prioritizes reports for response                              | -       |
+|prioritization | -                     | -                                               | Prioritizes reports for response               | Prioritizes reports for response                              | -       |
 | Remediation     | -                     | Confirms fix                                    | Prepares patches, develops advice, workarounds | Coordinates multiparty response, develops advice, workarounds | -       |
 | Public Awareness | Publishes report      | Publishes report                                | Publishes report                               | Publishes report                                               | Receives report |
 | Deployment      | -                     | -                                               | -                                              | -                                                             | Deploys fix or mitigation |

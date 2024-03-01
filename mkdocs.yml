@@ -33,8 +33,10 @@ nav:
     - Prioritization: 'topics/phases/prioritization.md'
     - Operations:
         - Intro: 'howto/operations/index.md'
-        - Tools: 'howto/operations/infrastructure.md'
+        - Monitoring: 'howto/operations/monitoring.md'
         - OpSec: 'howto/operations/opsec.md'
+        - Technical Analysis: 'howto/operations/technical_analysis.md'
+        - Tools: 'howto/operations/infrastructure.md'
         - Staffing: 'howto/operations/staffing.md'
     - Variation:
       - Intro: 'howto/variation/index.md'

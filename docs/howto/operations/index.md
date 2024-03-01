@@ -7,7 +7,8 @@ personnel management issues.
 
 <div class="grid cards" markdown>
 
-- [CVD Infrastructure](infrastructure)
+- [Monitoring](monitoring.md)
+- [CVD Infrastructure](infrastructure.md)
 - [Operational Security](opsec.md)
 - [CVD Staffing Considerations](staffing.md)
 
