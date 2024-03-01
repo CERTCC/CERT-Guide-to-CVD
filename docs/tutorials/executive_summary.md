@@ -132,7 +132,7 @@ following order:
 -   **Discovery** -- Someone discovers a vulnerability in a product.
 -   **Reporting** -- The product's vendor or a third-party coordinator
     receives a vulnerability report.
--   **Validation andprioritization** -- The receiver of a report validates it
+-   **Validation and prioritization** -- The receiver of a report validates it
     to ensure accuracy before prioritizing it for further action.
 -   **Remediation** -- A remediation plan (ideally a software patch, but
     could also be other mechanisms) is developed and tested.

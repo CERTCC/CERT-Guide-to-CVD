@@ -1,4 +1,4 @@
-# Validation andprioritization
+# Validation and prioritization
 
 When a vendor or coordinator receives a vulnerability report, it's
 usually necessary to prioritize it along with other vulnerability
