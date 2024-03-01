@@ -25,8 +25,8 @@ not originally produced within a secure development process. Andy Ozment
 and Stuart Schechter studied the impact of legacy code on the security
 of modern software and how large code changes might introduce
 vulnerabilities \[1\]. The positive news is that *foundational
-vulnerabilities*---ones that existed in the very first release and
-carried through the most recent version of the software---decay over
+vulnerabilities*&mdash;ones that existed in the very first release and
+carried through the most recent version of the software&mdash;decay over
 time. We can find them, fix them, and make the code base stronger
 overall. However, the bad news is that as the low-hanging fruit of
 foundational vulnerabilities are fixed, the remaining foundational
@@ -52,7 +52,7 @@ for the variety of environments the software may operate in \[3\]. If we
 cannot predict the environment, we cannot predict all the ways that
 things may go wrong. In fact, research has shown that it appears
 impossible to model or predict the number of vulnerabilities that may be
-found through tools like fuzzing---and, by extension, the number of
+found through tools like fuzzing&mdash;and, by extension, the number of
 vulnerabilities that exist in a product \[4,5\]. The best advice seems
 to be to assume that vulnerabilities will be found indefinitely into the
 future and work to ensure that any remaining vulnerabilities cause
@@ -88,10 +88,10 @@ can facilitate field testing of new analysis methods for finding bugs.
 4. J. M. Wing, "A Symbiotic Relationship Between Formal Methods and
     Security," in *Proceedings of the Conference on Computer Security,
     Dependability and Assurance: From Needs to Solutions*, 1998.
-5. E. Bobukh, "Equation of a Fuzzing Curve --- Part 1/2," 18
+5. E. Bobukh, "Equation of a Fuzzing Curve &mdash; Part 1/2," 18
     December 2014. \[Online\]. Available:
     [https://blogs.msdn.microsoft.com/eugene_bobukh/2014/12/18/equation-of-a-fuzzing-curve-part-12/](https://blogs.msdn.microsoft.com/eugene_bobukh/2014/12/18/equation-of-a-fuzzing-curve-part-12/). \[Accessed 23 May 2017\].
-6. E. Bobukh, "Equation of a Fuzzing Curve --- Part 2/2," 6
+6. E. Bobukh, "Equation of a Fuzzing Curve &mdash; Part 2/2," 6
     January 2015. \[Online\]. Available:
     [https://blogs.msdn.microsoft.com/eugene_bobukh/2015/01/06/equation-of-a-fuzzing-curve-part-22/](https://blogs.msdn.microsoft.com/eugene_bobukh/2015/01/06/equation-of-a-fuzzing-curve-part-22/). \[Accessed 23 May 2017\].
 

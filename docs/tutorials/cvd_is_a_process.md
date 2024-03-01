@@ -1,11 +1,5 @@
 # Coordinated Vulnerability Disclosure is a Process, Not an Event 
 
-A process is 
-
-!!! quote "Oxford Living Dictionaries (English)"
-    [process](https://en.oxforddictionaries.com/definition/process): a series of actions or steps taken in 
-    order to achieve a particular end
-
 Publishing a document is an action. Releasing a
 fix is an action. And while both of these are common events within the
 CVD process, they do not define it. 

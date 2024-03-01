@@ -31,7 +31,7 @@ disruption"\[2\]. A summary of the VAR process area of the CERT RMM can
 be found below.
 
 While vulnerabilities can be found in many assets belonging to an
-organization---people, information, technology, and facilities---in this
+organization&mdash;people, information, technology, and facilities&mdash;in this
 document we primarily focus on vulnerabilities in software or
 software-centric products and to a lesser degree services built on
 software-dependent products While precisely defining vulnerability can
@@ -110,7 +110,7 @@ operator, but often do not result in a public disclosure.
 
 ISO/IEC 29147 \[14\] defines Vulnerability Disclosure as follows:
 
-!!! quote "ISO/IEC 29147:2014 Information technology---Security techniques---Vulnerability disclosure"
+!!! quote "ISO/IEC 29147:2014 Information technology&mdash;Security techniques&mdash;Vulnerability disclosure"
 
     Vulnerability disclosure is a process through which vendors and
     vulnerability finders may work cooperatively in finding solutions that
@@ -123,8 +123,8 @@ ISO/IEC 29147 \[14\] defines Vulnerability Disclosure as follows:
     the risk from vulnerabilities; c) providing users with sufficient
     information to evaluate risks from vulnerabilities to their systems;
 
-The stakeholders---in other words, the people who care about the
-existence of a vulnerability---vary on a case by case basis, but
+The stakeholders&mdash;in other words, the people who care about the
+existence of a vulnerability&mdash;vary on a case by case basis, but
 typically include those below:
 
 -   the reporter or finder of the vulnerability (often an independent
@@ -239,8 +239,8 @@ configuration state would actually be unaffected by the vulnerability,
 despite the product at-large being vulnerable.
 
 This distinction becomes important when one is talking about the
-practices associated with Vulnerability Management (VM)---namely
-*vulnerability scanning*---in contrast to CVD and *vulnerability
+practices associated with Vulnerability Management (VM)&mdash;namely
+*vulnerability scanning*&mdash;in contrast to CVD and *vulnerability
 discovery*. VM entails the identification of *instances* of a *product*
 on which action must be taken to remediate known vulnerabilities in the
 product. VM is concerned with the eradication of the instances of known
@@ -292,8 +292,8 @@ Response terminology since this work is specifically about CVD.
     [https://www.kb.cert.org/vuls](https://www.kb.cert.org/vuls). \[Accessed 16 May 2017\]. 
 13. SecurityFocus, "Vulnerabilities," \[Online\]. Available:
     [http://www.securityfocus.com/bid](http://www.securityfocus.com/bid). \[Accessed 23 May 2017\]. 
-14. ISO/IEC, "ISO/IEC 29147:2014 Information technology---Security
-    techniques---Vulnerability disclosure," 2014. 
+14. ISO/IEC, "ISO/IEC 29147:2014 Information technology&mdash;Security
+    techniques&mdash;Vulnerability disclosure," 2014. 
 15. S. Christey and C. Wysopal, "Responsible Vulnerability Disclosure
     Process draft-christey-wysopal-vulndisclosure-00.txt,"
     February 2002. \[Online\]. Available:

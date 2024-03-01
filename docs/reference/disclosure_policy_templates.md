@@ -84,7 +84,7 @@ The United States Department of Justice (DoJ) has published a white
 paper containing guidance aimed at developing vulnerability disclosure
 programs for online systems and services. This report makes a point to
 distinguish online systems and services from "third-party vulnerability
-disclosure and hands-on---rather than remote---examination of software,
+disclosure and hands-on&mdash;rather than remote&mdash;examination of software,
 devices, or hardware" because of potentially distinct legal issues that
 may arise.
 

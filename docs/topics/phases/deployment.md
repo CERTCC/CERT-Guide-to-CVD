@@ -188,7 +188,7 @@ instances have not been remediated, that goal has not been achieved.
     stakeholders are able to apply patches," our experience indicates that
     it is impractical to privately notify all affected stakeholders without
     public disclosure. Thus, public disclosure is usually the best practice
-    to inform affected parties---including end users---who may need to take
+    to inform affected parties&mdash;including end users&mdash;who may need to take
     action in order to apply patches to their software and devices.
     
     The committees' letter correctly points out that the deployers' need to

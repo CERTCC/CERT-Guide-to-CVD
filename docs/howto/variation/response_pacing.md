@@ -21,7 +21,7 @@ Vendor A was faster at its vulnerability response process? There is no
 single right answer to this dilemma. The best you can do is keep the
 communication channels open and try to reduce the amount of surprise
 among participants. Planning for contingencies can be a useful exercise
-too---the focus of such a contingency should be how to respond if
+too&mdash;the focus of such a contingency should be how to respond if
 information about the vulnerability got out before you were ready for
 it.
 
@@ -119,7 +119,7 @@ The CERT/CC has historically applied a hub-and-spoke approach to
 coordination for cases where it was feasible to maintain separate
 conversations with the affected parties. Maintaining a hub-and-spoke
 coordination topology for each distinct case requires some forethought
-into tools and practices, though---you can't just carbon-copy
+into tools and practices, though&mdash;you can't just carbon-copy
 everybody, and without good tracking tools, keeping tabs on who knows
 what can be difficult. A hub-and-spoke topology allows a coordinator to
 maintain operational security since each conversation has only two

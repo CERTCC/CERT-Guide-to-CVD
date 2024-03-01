@@ -158,7 +158,7 @@ and Information Technology's cyber security threat and vulnerability
 information sharing program within 2 days
 
 > The DSL's provisions require all Chinese security researchers, Chinese
-> businesses, and --- most notably --- foreign companies with a
+> businesses, and &mdash; most notably &mdash; foreign companies with a
 > footprint inside China to report any zero-day vulnerability to the
 > Chinese Ministry of Industry and Information Technology (MIIT) within
 > two days of a vulnerability's discovery. The DSL also prohibits

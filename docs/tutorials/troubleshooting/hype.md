@@ -12,7 +12,7 @@ vulnerabilities, including
 Does having a marketing department behind a vulnerability
 disclosure make that vulnerability worse than others without the
 marketing push? Not in any technical sense, no. Instead, what it does is
-draw additional attention to the vulnerability---so vendors can be
+draw additional attention to the vulnerability&mdash;so vendors can be
 forced to adjust the priority of the vulnerability cases they're
 working on and allocate resources toward addressing whatever
 vulnerability is getting the hype. Are branded vulnerabilities good or
@@ -42,7 +42,7 @@ of the case within the security community, which draws more attention to
 the vendor and its products at the same time it demotivates reporters'
 willingness to participate in the CVD process. Even more problematic is
 that when such attention comes to focus on the vendors' products, it is
-very likely that additional vulnerabilities will be found---while
+very likely that additional vulnerabilities will be found&mdash;while
 simultaneously less likely that anyone will bother to report them to the
 vendor before disclosing them publicly. Vendors should not underestimate
 spite as a motivation for vulnerability

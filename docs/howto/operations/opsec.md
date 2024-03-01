@@ -51,9 +51,9 @@ already discussed in [Section
 that the technical infrastructure you deploy to manage CVD cases can
 potentially be affected by the vulnerabilities you are coordinating.
 
-Vulnerability reports may contain hostile attachments---not necessarily
+Vulnerability reports may contain hostile attachments&mdash;not necessarily
 as an attack, but simply a reporter sending a proof-of-concept for your
-review---so vendors and coordinators should design their report tracking
+review&mdash;so vendors and coordinators should design their report tracking
 systems and process accordingly. Be sure attachments to vulnerability
 reports are not opened automatically anywhere along the process. You
 might also institute a policy that such attachments are only to be
@@ -101,7 +101,7 @@ to others earlier than you'd prefer.
 
 ## References
 1.  [FIRST, "TRAFFIC LIGHT PROTOCOL (TLP) FIRST Standards Definitions
-    and Usage Guidance --- Version 1.0," \[Online\]. Available:
+    and Usage Guidance &mdash; Version 1.0," \[Online\]. Available:
     [https://www.first.org/tlp](https://www.first.org/tlp). \[Accessed 16 May
     2017\].]
 

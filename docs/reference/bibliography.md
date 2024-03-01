@@ -21,7 +21,7 @@
   \[14\]    MITRE, "Common Vulnerabilities and Exposures," \[Online\]. Available: https://cve.mitre.org/. \[Accessed 16 May 2017\].
   \[15\]    CERT/CC, "Vulnerability Notes Database," \[Online\]. Available: https://www.kb.cert.org/vuls. \[Accessed 16 May 2017\].
   \[16\]    SecurityFocus, "Vulnerabilities," \[Online\]. Available: http://www.securityfocus.com/bid. \[Accessed 23 May 2017\].
-  \[17\]    ISO/IEC, "ISO/IEC 29147:2014 Information technology---Security techniques---Vulnerability disclosure," 2014.
+  \[17\]    ISO/IEC, "ISO/IEC 29147:2014 Information technology&mdash;Security techniques&mdash;Vulnerability disclosure," 2014.
   \[18\]    S. Christey and C. Wysopal, "Responsible Vulnerability Disclosure Process draft-christey-wysopal-vuln-disclosure-00.txt," February 2002. \[Online\]. Available: https://tools.ietf.org/html/draft-christey-wysopal-vuln-disclosure-00. \[Accessed 17 May 2017\].
   \[19\]    MSRC Ecosystem Strategy Team, "Coordinated Vulnerability Disclosure: Bringing Balance to the Force," 22 July 2010. \[Online\]. Available: https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinated-vulnerability-disclosure-bringing-balance-to-the-force/. \[Accessed 23 May 2017\].
   \[20\]    Microsoft Security Response Center, "Coordinated Vulnerability Disclosure," Microsoft, \[Online\]. Available: https://technet.microsoft.com/en-us/security/dn467923.aspx. \[Accessed 23 May 2017\].
@@ -43,13 +43,13 @@
   \[36\]    A. Ozment and S. E. Schechter, "Milk or wine: Does software security improve with age?" in *USENIX Security*, 2006.
   \[37\]    K. Matsudaira, "Bad Software Architecture Is a People Problem," *Communications of the ACM,* vol. 59, no. 9, pp. 42-43, September 2016.
   \[38\]    J. M. Wing, "A Symbiotic Relationship Between Formal Methods and Security," in *Proceedings of the Conference on Computer Security, Dependability and Assurance: From Needs to Solutions*, 1998.
-  \[39\]    E. Bobukh, "Equation of a Fuzzing Curve --- Part 1/2," 18 December 2014. \[Online\]. Available: https://blogs.msdn.microsoft.com/eugene_bobukh/2014/12/18/equation-of-a-fuzzing-curve-part-12/. \[Accessed 23 May 2017\].
-  \[40\]    E. Bobukh, "Equation of a Fuzzing Curve --- Part 2/2," 6 January 2015. \[Online\]. Available: https://blogs.msdn.microsoft.com/eugene_bobukh/2015/01/06/equation-of-a-fuzzing-curve-part-22/. \[Accessed 23 May 2017\].
+  \[39\]    E. Bobukh, "Equation of a Fuzzing Curve &mdash; Part 1/2," 18 December 2014. \[Online\]. Available: https://blogs.msdn.microsoft.com/eugene_bobukh/2014/12/18/equation-of-a-fuzzing-curve-part-12/. \[Accessed 23 May 2017\].
+  \[40\]    E. Bobukh, "Equation of a Fuzzing Curve &mdash; Part 2/2," 6 January 2015. \[Online\]. Available: https://blogs.msdn.microsoft.com/eugene_bobukh/2015/01/06/equation-of-a-fuzzing-curve-part-22/. \[Accessed 23 May 2017\].
   \[41\]    H. W. Rittel and M. M. Webber, "Dilemmas in a General Theory of Planning," *Policy Sciences,* vol. 4, no. 1973, pp. 155-169, June 1973.
   \[42\]    BBC, "Xbox password flaw exposed by five-year-old boy," 4 April 2014. \[Online\]. Available: http://www.bbc.com/news/technology-26879185. \[Accessed 16 May 2017\].
   \[43\]    Microsoft, "What is the Security Development Lifecycle?" \[Online\]. Available: https://www.microsoft.com/en-us/sdl/. \[Accessed 16 May 2017\].
   \[44\]    BSIMM, "BSIMM Framework," \[Online\]. Available: https://www.bsimm.com/framework/. \[Accessed 16 May 2017\].
-  \[45\]    ISO/IEC, "ISO/IEC 30111:2013 Information technology---Security techniques---Vulnerability handling processes," 2013.
+  \[45\]    ISO/IEC, "ISO/IEC 30111:2013 Information technology&mdash;Security techniques&mdash;Vulnerability handling processes," 2013.
   \[46\]    Microsoft, "Microsoft Security Response Center," \[Online\]. Available: https://technet.microsoft.com/en-us/security/dn440717.aspx. \[Accessed 23 May 2017\].
   \[47\]    Cisco Systems, "Security Vulnerability Policy," \[Online\]. Available: https://www.cisco.com/c/en/us/about/security-center/security-vulnerability-policy.html. \[Accessed 23 May 2017\].
   \[48\]    FIRST, "FIRST Teams," \[Online\]. Available: https://www.first.org/members/teams. \[Accessed 16 May 2017\].
@@ -144,7 +144,7 @@
   \[137\]   SPDX Workgroup, "Software Package Data Exchange," \[Online\]. Available: https://spdx.org/ . \[Accessed 16 May 2017\].
   \[138\]   CERT, "Dranzer," \[Online\]. Available: https://vuls.cert.org/confluence/display/tools/Dranzer. \[Accessed 24 May 2017\].
   \[139\]   CERT, "BFF - Basic Fuzzing Framework," \[Online\]. Available: https://vuls.cert.org/confluence/display/tools/CERT+BFF+-+Basic+Fuzzing+Framework. \[Accessed 24 May 2017\].
-  \[140\]   FIRST, "TRAFFIC LIGHT PROTOCOL (TLP) FIRST Standards Definitions and Usage Guidance --- Version 1.0," \[Online\]. Available: https://www.first.org/tlp. \[Accessed 16 May 2017\].
+  \[140\]   FIRST, "TRAFFIC LIGHT PROTOCOL (TLP) FIRST Standards Definitions and Usage Guidance &mdash; Version 1.0," \[Online\]. Available: https://www.first.org/tlp. \[Accessed 16 May 2017\].
   \[141\]   B. Rothke, "Building a Security Operations Center (SOC)," 29 Feb 2012. \[Online\]. Available: https://www.rsaconference.com/events/us12/agenda/sessions/683/building-a-security-operations-center-soc. \[Accessed 24 May 2017\].
   \[142\]   S. Ragan, "Avoiding burnout: Ten tips for hackers working incident response," 30 April 2014. \[Online\]. Available: http://www.csoonline.com/article/2149900/infosec-careers/avoiding-burnout-ten-tips-for-hackers-working-incident-response.html. \[Accessed 24 May 2017\].
   \[143\]   S. C. Sundaramurthy, A. G. Bardas, J. Case, X. Ou, M. Wesch, J. McHugh and S. R. Rajagopalan, "A human capital model for mitigating security analyst burnout," in *Proceedings of the Eleventh Symposium on Usable Privacy and Security (SOUPS 2015)*, July 2015.

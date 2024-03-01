@@ -198,10 +198,10 @@ development lifecycle include the following:
     Awareness and Adoption Group," 15 December 2016. \[Online\].
     Available:
     [https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a_a_vulnerability_disclosure_insights_report.pdf](https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a_a_vulnerability_disclosure_insights_report.pdf). \[Accessed 6 June
-    2017\].]2.  [ISO/IEC, "ISO/IEC 29147:2014 Information technology---Security
-    techniques---Vulnerability disclosure,"
-    2014.]3.  [ISO/IEC, "ISO/IEC 30111:2013 Information technology---Security
-    techniques---Vulnerability handling processes,"
+    2017\].]2.  [ISO/IEC, "ISO/IEC 29147:2014 Information technology&mdash;Security
+    techniques&mdash;Vulnerability disclosure,"
+    2014.]3.  [ISO/IEC, "ISO/IEC 30111:2013 Information technology&mdash;Security
+    techniques&mdash;Vulnerability handling processes,"
     2013.]4.  [Microsoft, "Microsoft Security Response Center," \[Online\].
     Available:
     [https://technet.microsoft.com/en-us/security/dn440717.aspx](https://technet.microsoft.com/en-us/security/dn440717.aspx). \[Accessed 23 May

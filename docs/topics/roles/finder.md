@@ -47,7 +47,7 @@ finding vulnerabilities in the interest of their security consulting
 practice's business development.
 
 Furthermore, vendors may choose to look for vulnerabilities in their own
-products---a practice that we strongly encourage. This can be done via
+products&mdash;a practice that we strongly encourage. This can be done via
 
 - in-house expertise and testing
 - contracted security testing
@@ -72,7 +72,7 @@ that follow the discovery:
     provided to the vendor, but that's not always the case. Sometimes
     the report might be sent to a coordinator. If the vulnerability is
     discovered internally to a vendor, then the report may simply be
-    forwarded to the responsible team within the organization---for
+    forwarded to the responsible team within the organization&mdash;for
     example, filed as a security-related bug report. We cover the
     coordinator role in [Section 3.5](coordinator). A
     discussion of the reporting process can be found in [4.2

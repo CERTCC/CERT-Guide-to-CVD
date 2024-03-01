@@ -1,6 +1,6 @@
 # Executive Summary 
 
-Software-based products and services have vulnerabilities---conditions
+Software-based products and services have vulnerabilities&mdash;conditions
 or behaviors that allow the violation of an explicit or implicit
 security policy. This should come as no surprise to those familiar with
 software. What many find surprising nowadays is just how many products

@@ -121,7 +121,7 @@ parties in light of their prior experience.
     of a vulnerability's existence in a feature of some product is
     sufficient for a skillful person to discover it for themselves. Rumor of
     a vulnerability draws attention from knowledgeable people with
-    vulnerability finding skills---and there's no guarantee that all those
+    vulnerability finding skills&mdash;and there's no guarantee that all those
     people will have users' best interests in mind. Thus, teasing the
     existence of a vulnerability in a product can sometimes provide an
     adversarial advantage that increases risk to end users.

@@ -79,9 +79,9 @@ conditions is true:
 In environments with efficient automated deployment and rollback
 capabilities, it may not be as necessary to test as heavily. But that's
 often an ideal scenario that few deployers find themselves in. Staged
-deployments or rollouts can be a significant help here---where some
+deployments or rollouts can be a significant help here&mdash;where some
 portion of the affected systems are updated to confirm the fix prior to
-wider rollout---allowing deployers to balance patch deployment with the
+wider rollout&mdash;allowing deployers to balance patch deployment with the
 risk of negative side effects.
 
 ### Plan the Deployment

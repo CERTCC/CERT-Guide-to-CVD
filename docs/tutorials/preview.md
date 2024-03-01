@@ -18,13 +18,13 @@ open issues in the CVD space. Our conclusion can be found in [Section
 [bibliography](Bibliography_47677529.md) and multiple
 [appendices](Appendices_49414192.md). The appendices contain
 additional information about CVD issues specific to the [Internet of
-Things](Appendix-A---On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.md),
+Things](Appendix-A&mdash;On-the-Internet-of-Things-and-Vulnerability-Analysis_47677518.md),
 [sample](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+C+%E2%80%93+Sample+Vulnerability+Report+Form&linkCreation=true&fromPageId=47677449){.createlink}
 [forms](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+D+%E2%80%93+Sample+Vulnerability+Disclosure+Document&linkCreation=true&fromPageId=47677449){.createlink}
 used in CVD processes, as well as references to [disclosure
 policies](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677449){.createlink},
 practices, and [related
-information](Appendix-B---Traffic-Light-Protocol_47677521.md).
+information](Appendix-B&mdash;Traffic-Light-Protocol_47677521.md).
 
 
 

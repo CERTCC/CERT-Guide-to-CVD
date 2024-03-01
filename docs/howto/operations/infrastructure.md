@@ -153,7 +153,7 @@ CVD in [Section
 [ A number of third-party CVD platforms now exist to facilitate
 communication between vendors and reporters \[11,12,13,14\]. Although
 they are often referred to as bug bounty platforms, often the "bounty"
-aspect is in fact optional---vendors can use bug bounty platforms to
+aspect is in fact optional&mdash;vendors can use bug bounty platforms to
 receive reports without needing to compensate reporters unless they
 choose to do so.
 
@@ -198,8 +198,8 @@ vulnerability reports to be linked to one or more bug reports.
 That said, bug tracking systems can still be useful for vulnerability
 report tracking if this distinction is kept in mind, and the bug
 tracking system has the appropriate capabilities. At the CERT/CC, we've
-found that more complicated CVD cases---for example the multiparty cases
-described in [Section 5.4](5.4-Multiparty-CVD_47677477.md)---become
+found that more complicated CVD cases&mdash;for example the multiparty cases
+described in [Section 5.4](5.4-Multiparty-CVD_47677477.md)&mdash;become
 more like projects than tickets.
 
 ## Code and System Inventories
