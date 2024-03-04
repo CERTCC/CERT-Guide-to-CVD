@@ -1,5 +1,5 @@
-site_name: CERT Guide to Coordinated Vulnerability Disclosure
-copyright: Copyright &copy; 2024 Carnegie Mellon University.
+site_name: CERT<sup>&reg;</sup> Guide to Coordinated Vulnerability Disclosure
+copyright: Copyright &copy; 2017-2024 Carnegie Mellon University.
 nav:
   - Home:
     - CERT Guide to CVD: 'index.md'
@@ -96,7 +96,7 @@ not_in_nav: |
   _*.md
   _*/**/*.md
 theme:
-  logo: 'assets/cert.png'
+  logo: 'assets/cert_seal.svg'
   name: 'material'
   features:
     - content.tabs.link
@@ -157,6 +157,16 @@ markdown_extensions:
   - pymdownx.tilde
   - tables
 extra:
+  analytics:
+    provider: google
+    property: G-87WECW6HCS
+  consent:
+    title: About our use of cookies on this site
+    description: >-
+      We use cookies to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better. 
+      See our <a href="https://www.sei.cmu.edu/legal/privacy-notice/index.cfm">Privacy Notice</a> for more.
   social:
 #    - icon: material/message-question
 #      link: https://github.com/CERTCC/CERT-Guide-to_CVD/issues/new?template=question.md
