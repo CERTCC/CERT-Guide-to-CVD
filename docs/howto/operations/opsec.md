@@ -70,7 +70,7 @@ which their CVD support infrastructure is integrated with normal
 business operations systems. In some scenarios, maintaining parallel
 infrastructure may be preferable.
 
-## Maintaining Pre-Disclosure Secrecy {#sec:maintaining_secrecy}
+## Maintaining Pre-Disclosure Secrecy
 
 The more people who know a secret, the more likely it is to leak. Simple
 probability theory tells us that even if the probability of any given

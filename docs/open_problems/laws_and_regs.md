@@ -1,4 +1,4 @@
-# Legal and Regulatory Issues {#sec:legal_issues}
+# Legal and Regulatory Issues
 
 ## DMCA and CFAA
 
@@ -30,10 +30,8 @@ Do we know anything about EU CVD status?
 
 ## International Trade Sanctions and CVD
 
-Individuals and organizations conducting [CVD]{acronym-label="CVD"
-acronym-form="singular+short"} on a global scale might encounter a
-challenge at the intersection of [CVD]{acronym-label="CVD"
-acronym-form="singular+short"} and international trade sanctions imposed
+Individuals and organizations conducting CVD on a global scale might encounter a
+challenge at the intersection of CVD and international trade sanctions imposed
 by their home government. Here we present an anecdote from our own
 experience at the [CERT/CC]{acronym-label="CERT/CC"
 acronym-form="singular+short"} (in the United States), highlighting how
@@ -43,7 +41,7 @@ should be taken as legal advice. We include this with the observation
 that organizations in other countries may be subject to similar
 requirements imposed by their respective governments.
 
-The [OFAC]{acronym-label="OFAC" acronym-form="singular+full"} within the
+The OFAC within the
 U.S. Department of the Treasury administers and enforces economic and
 trade sanctions based on U.S. foreign policy and national security
 goals.[@0]
@@ -58,13 +56,12 @@ goals.[@0]
 
 As a vendor, reporter, or coordinator in the U.S., should you become
 aware that an individual or organization participating in a
-[CVD]{acronym-label="CVD" acronym-form="singular+short"} case is named
-on [OFAC]{acronym-label="OFAC" acronym-form="singular+short"}'s
-[SDN]{acronym-label="SDN" acronym-form="singular+short"}[^1], you need
+CVD case is named
+on OFAC's
+SDN[^1], you need
 to decide whether you are willing to continue coordinating with the
 sanctioned party. You may already know that your reporter or the
-organization is on an [OFAC]{acronym-label="OFAC"
-acronym-form="singular+short"} list. If they know, they'll often tell
+organization is on an OFAC list. If they know, they'll often tell
 you.
 
 U.S.-based organizations participating in CVD internationally may need
@@ -72,18 +69,14 @@ to engage their legal counsel to request a review of the sanctions list.
 ~~Take care when using the sanctions list search application, as common
 names may result in a false-positive result.~~
 
-Should it be necessary, [CVD]{acronym-label="CVD"
-acronym-form="singular+short"} participants can work with their legal
-counsel and the [CISA]{acronym-label="CISA"
-acronym-form="singular+full"} to obtain a license from
-[OFAC]{acronym-label="OFAC" acronym-form="singular+short"}[^2]. ~~The
+Should it be necessary, CVD participants can work with their legal
+counsel and the CISA to obtain a license from
+OFAC[^2]. ~~The
 [CERT/CC]{acronym-label="CERT/CC" acronym-form="singular+short"} has on
-two occasions contacted [CISA]{acronym-label="CISA"
-acronym-form="singular+short"} for support in obtaining an
-[OFAC]{acronym-label="OFAC" acronym-form="singular+short"} license.~~
-Inform the [SDN]{acronym-label="SDN" acronym-form="singular+short"} that
-you are in the process of obtaining an [OFAC]{acronym-label="OFAC"
-acronym-form="singular+short"} license and ask for their patience and
+two occasions contacted CISA for support in obtaining an
+OFAC license.~~
+Inform the SDN that
+you are in the process of obtaining an OFAC license and ask for their patience and
 understanding. Maintain your flexibility, as the approval and issuance
 of a License can take 30 to 60 days.
 
@@ -95,23 +88,21 @@ you must follow the requirements. The CERT/CC has been party to two
 licenses. These licenses had four sections:
 
 1. A description of the authorization. In our case, it stated that the
-    License was being issued to [CISA]{acronym-label="CISA"
-    acronym-form="singular+short"} and listed the other parties, known
+    License was being issued to CISA and listed the other parties, known
     as *Licensees*, which have been authorized to engage with the
-    [SDN]{acronym-label="SDN" acronym-form="singular+short"} "for the
+    SDN "for the
     purpose of addressing certain software vulnerabilities that threaten
     U.S. companies, as described in the Application."
 
 2. A set of limitations on the license. In our case, the license
-    indicated that the [SDN]{acronym-label="SDN"
-    acronym-form="singular+short"} is subject to the "blocked property"
+    indicated that the SDN is subject to the "blocked property"
     requirement: there can be no transaction of property.
 
 3. Record keeping and reporting requirements. The
     [CERT/CC]{acronym-label="CERT/CC" acronym-form="singular+short"} met
     this requirement by maintaining copies of email records and database
     entries separately to facilitate timely reporting. The
-    [OFAC]{acronym-label="OFAC" acronym-form="singular+short"} License
+    OFAC License
     required a report every 90 days as well as a detailed final report
     no later than 30 days following the expiration of the License. As
     the time, all reports needed to be physically mailed to the
@@ -122,26 +113,23 @@ licenses. These licenses had four sections:
 
 ~~Section 4 states the "License is limited to the facts and
 circumstances specified in the Application."~~ If you are working
-directly with [CISA]{acronym-label="CISA"
-acronym-form="singular+short"}, you will need to create a compliance
+directly with CISA, you will need to create a compliance
 plan. Where possible, limit the number of your personnel impacted by the
 compliance plan. Request participation from your legal department for
 creation and implementation of the compliance plan. Your compliance plan
 will state who is involved, that they agreed to abide by the blocked
 property restriction, and the frequency of which you will be reporting
-contact with the [SDN]{acronym-label="SDN"
-acronym-form="singular+short"}. The [CERT/CC]{acronym-label="CERT/CC"
+contact with the SDN. The [CERT/CC]{acronym-label="CERT/CC"
 acronym-form="singular+short"} Compliance Plan consisted of two pages.
 Personnel involved in the coordination efforts will be asked to sign an
 Individual Compliance Certification, indicating they have read and
 understand the requirements of the License and agree to comply.
 
 ~~Conduct the coordination effort with special attention to the meeting
-your [CVD]{acronym-label="CVD" acronym-form="singular+short"} goals and
-recording all correspondence with the [SDN]{acronym-label="SDN"
-acronym-form="singular+short"}.~~ A potential for breaking the license
+your CVD goals and
+recording all correspondence with the SDN.~~ A potential for breaking the license
 agreement comes with bug bounty programs. ~~Remember, the
-[OFAC]{acronym-label="OFAC" acronym-form="singular+short"} License
+OFAC License
 strictly enforces the "blocked property" requirement, and does not allow
 for material transactions or rewards.~~ ~~Maintain your recordkeeping
 and submit timely reports.~~ ~~Continue to submit timely reports whether
@@ -171,6 +159,5 @@ from [@0]
 
 [^1]: <https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists>
 
-[^2]: A license is an authorization from [OFAC]{acronym-label="OFAC"
-    acronym-form="singular+short"} to engage in a transaction that
+[^2]: A license is an authorization from OFAC to engage in a transaction that
     otherwise would be prohibited.
