@@ -38,7 +38,7 @@ nav:
         - Technical Analysis: 'howto/operations/technical_analysis.md'
         - Tools: 'howto/operations/infrastructure.md'
         - Staffing: 'howto/operations/staffing.md'
-    - Variation:
+    - Variation in CVD:
       - Intro: 'howto/variation/index.md'
       - Choosing a Disclosure Policy: 'howto/variation/choosing_policy.md'
       - Disclosure Choices: 'howto/variation/disclosure_choices.md'
