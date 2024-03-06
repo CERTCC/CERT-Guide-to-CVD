@@ -6,6 +6,8 @@ minimizes the potential for harm to others. This section provides advice for
 finders and vendors on how to avoid unnecessary risk when finding
 vulnerabilities.
 
+<div class="grid" markdown>
+
 !!! tip "Advice for Finders"
 
     Finders should exercise an appropriate degree of care when performing
@@ -27,6 +29,8 @@ vulnerabilities.
     on-boarding process. Failure to adequately document permissible scope
     and authority for vulnerability testing can lead to frustration and
     other negative consequences with various legal ramifications.
+
+</div>
 
 ## Types of Risk
 
