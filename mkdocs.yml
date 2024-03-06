@@ -3,8 +3,8 @@ copyright: Copyright &copy; 2017-2024 Carnegie Mellon University.
 nav:
   - Home:
     - CERT Guide to CVD: 'index.md'
-    - Preface: 'preface.md'
-    - About this Guide: 'about.md'
+    - Why This Guide: 'preface.md'
+    - About This Guide: 'about.md'
   - Learning CVD:
     - Overview: 'tutorials/index.md'
     - CVD Overview:
