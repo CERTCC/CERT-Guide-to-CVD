@@ -1,4 +1,4 @@
-# Copyright 
+# Copyright
 
 Copyright® 2017-2024 Carnegie Mellon University. All Rights Reserved.
 
@@ -39,7 +39,6 @@ other external and/or commercial use. Requests for permission should be
 directed to the Software Engineering Institute at
 [permission@sei.cmu.edu](mailto:permission@sei.cmu.edu).
 
-[^1]: These restrictions do not apply to U.S. government entities. 
+[^1]: These restrictions do not apply to U.S. government entities.
 
 DM17-0508
-

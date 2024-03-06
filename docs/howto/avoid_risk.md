@@ -97,5 +97,4 @@ safety risk, and legal risk.
 
 ## References
 
-[^1]: J. C. Knight, [Safety critical systems: challenges and directions](https://doi.org/10.1145/581339.581406),
     in *ICSE '02 Proceedings of the 24th International Conference on Software Engineering*, Orlando, 2002.

@@ -1,4 +1,4 @@
-!!! info "Sightings" 
+!!! info "Sightings"
 
     Here is a partial list of places The CERT Guide to Coordinated
     Vulnerability Disclosure has appeared.

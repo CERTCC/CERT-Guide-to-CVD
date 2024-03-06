@@ -1,4 +1,4 @@
-# Ethical Considerations 
+# Ethical Considerations
 
 !!! info inline end "ethicsfIRST"
 
@@ -16,14 +16,11 @@
     - responsible collection
     - jurisdictional boundaries
     - evidence-based reasoning
-    
 
 In the security response arena, work toward defining ethical
 guidelines is ongoing. The Forum of Incident Response and Security Teams
 (FIRST) has established an [Ethics special interest group](https://www.first.org/global/sigs/ethics/)
 to develop a [code of ethics](https://ethicsfirst.org/) for its member teams and liaisons.
-
-
 
 !!! quote "FIRST Ethics SIG: Duty of coordinated vulnerability disclosure"
 
@@ -31,14 +28,13 @@ to develop a [code of ethics](https://ethicsfirst.org/) for its member teams and
     
     Team members should coordinate with appropriate stakeholders to agree upon clear timelines and expectations for the release of information, providing enough details to allow users to evaluate their risk and take actionable defensive measures."
 
-
 We also highlight some ethics advice from related sources.
 
 ## Ethics in Related Professional Societies
 
 Various computing-related professional societies have established their
 own codes of ethics. Each of these has some application to CVD.
-While we are not attempting to replicate their ethical guidelines, 
+While we are not attempting to replicate their ethical guidelines,
 we do want to highlight that these codes exist and are relevant to the
 work of CVD.
 
@@ -52,17 +48,15 @@ work of CVD.
     - Respect privacy.
     - Honor confidentiality.
 
-
 !!! quote "Usenix System Administrators' [Code of Ethics](https://www.usenix.org/system-administrators-code-ethics)"
 
     I will do my best to make decisions consistent with the safety, privacy, and well-being of my community and the
     public, and to disclose promptly factors that might pose unexamined risks or dangers.
 
-
 ## Journalism Ethics
 
 In many ways, disclosing a vulnerability can be thought of as a form of
-journalistic reporting, in that 
+journalistic reporting, in that
 
 !!! quote "American Press Institute: [What is the purpose of journalism?](https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/)"
 
@@ -91,4 +85,3 @@ Journalists Code of Ethics to be relevant to CVD as well:
     -   **Be accountable and transparent** -- Ethical journalism means
     taking responsibility for one's work and explaining one's
     decisions to the public.
-    

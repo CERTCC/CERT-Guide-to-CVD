@@ -1,4 +1,4 @@
-# Appendix C - Sample Vulnerability Report Form 
+# Appendix C - Sample Vulnerability Report Form
 
 This is a vulnerability report, typically sent from a reporter to a
 vendor. These reports may also be shared among other third parties, by
@@ -20,8 +20,8 @@ The information below should be handled as (choose one):
 - TLP:AMBER
 - TLP:GREEN
 - TLP:WHITE
-    
-### Vulnerability Information                                            
+
+### Vulnerability Information
 
 - Software/Product(s) containing the vulnerability:
 - Vulnerability Description:
@@ -39,8 +39,8 @@ The information below should be handled as (choose one):
 - If yes, then provide URL/evidence.
 - I plan to publicly disclose this vulnerability YES/NO
 
-    - ...on this date: (Please include your time zone.)
-    - ...at this URL:
+  - ...on this date: (Please include your time zone.)
+  - ...at this URL:
 
 ### Reporter Contact Information
 
@@ -56,10 +56,3 @@ The information below should be handled as (choose one):
 
 - Vendor Tracking ID, CERT Tracking ID, or CVE ID if known:
 - Additional Comments:
-
-
-
-
-
-
-

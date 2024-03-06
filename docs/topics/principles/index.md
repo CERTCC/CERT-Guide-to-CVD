@@ -1,7 +1,7 @@
-# Principles of Coordinated Vulnerability Disclosure 
+# Principles of Coordinated Vulnerability Disclosure
 
 Over the years, the CERT/CC has identified a number of principles that guide our efforts in coordinating vulnerability disclosures and which
-seem to be present in many successful CVD programs. 
+seem to be present in many successful CVD programs.
 
 These principles include the following:
 
@@ -15,4 +15,4 @@ These principles include the following:
 - [Process Improvement](process_improvement)
 - [CVD as a Wicked Problem](wicked_problem)
 
-</div>    
+</div>

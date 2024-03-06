@@ -18,17 +18,16 @@ Making initial contact with a vendor can sometimes be more difficult
 than it should be. Here is a list of techniques we've used to figure
 out how to reach a vendor we've never spoken with before.
 
-
 ## Common Methods
 
 - Search the web or the vendor's web site for relevant phrases
-    -   "report a vulnerability"
-    -   "security"
-    -   "report a bug"
-    -   "bug bounty"
-    -   "vulnerability disclosure policy"
-    -   "security@" + company name
-    -   company name + "PSIRT"
+  - "report a vulnerability"
+  - "security"
+  - "report a bug"
+  - "bug bounty"
+  - "vulnerability disclosure policy"
+  - "security@" + company name
+  - company name + "PSIRT"
 - See if the vendor has a `security.txt` file, often found at
     `www.example.com/.well_known/security.txt` or sometimes
     at `www.example.com/security.txt`
@@ -39,8 +38,7 @@ out how to reach a vendor we've never spoken with before.
 - Check the Forum of Incident Response and Security Teams (FIRST) [member directory](https://www.first.org/members/teams/)
 - Check the [CVE Partner List](https://www.cve.org/PartnerInformation/ListofPartners)
 
-
-!!! tip inline end "Avoid posting vulnerability details in public" 
+!!! tip inline end "Avoid posting vulnerability details in public"
 
     We recommend you avoid posting vulnerability details in public
     when making initial contact when possible. For example,
@@ -51,19 +49,19 @@ out how to reach a vendor we've never spoken with before.
 
 - Search open source code repositories
     ([Github](https://www.github.com/), [GitLab](https://gitlab.com/), [SourceForge](https://sourceforge.net/), etc.) to find developer contacts.
-    -   If no direct contact information can be found, posting to the
+  - If no direct contact information can be found, posting to the
         Issues page of a project asking how they'd like to receive
         vulnerability reports can be useful.
 
 - Submit a bug report through the vendor's online bug tracker
-    -   If given the option to mark it as security-related, please do so
+  - If given the option to mark it as security-related, please do so
         as this often restricts viewing to just the vendor.
 - Reach out through social media
     ([Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/), etc.) to request the vendor establish a direct
-    communication channel 
- 
-- Try emailing commonly used addresses: 
-    -   `support@`, `security@`, `abuse@`, `info@`, `sales@`
+    communication channel
+
+- Try emailing commonly used addresses:
+  - `support@`, `security@`, `abuse@`, `info@`, `sales@`
 
 - Fill out a generic support or "Contact Us" form
 - Make a phone call to the vendor
@@ -82,7 +80,7 @@ out how to reach a vendor we've never spoken with before.
 
 ## When all that fails
 
-Some vendors remain unreachable even after a number of reasonable good faith attempts to reach them&mdash;and by 
+Some vendors remain unreachable even after a number of reasonable good faith attempts to reach them&mdash;and by
 reasonable we mean considerably less than exhausting the entire list above.
 Some vendors just do not seem to want to be reached, and that is their prerogative.
 However, we have found that experience is often the best teacher.
@@ -91,4 +89,3 @@ that attempts to notify them were made but failed, it can prompt the vendor to r
 intake and handling processes to make it easier to reach them in the future.
 
 {% include-markdown "./troubleshooting/recipes/_x03.md" heading-offset=1 %}
-

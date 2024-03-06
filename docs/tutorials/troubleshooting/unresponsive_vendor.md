@@ -4,11 +4,11 @@ Furthermore, even when you can find the vendor, not all vendors have
 established processes for receiving vulnerability reports. Again,
 potential reasons abound:
 
--   They haven't thought about it, even though they should have.
--   They don't realize they need it, even though they do.
--   They think their software process is already good enough, even if
+- They haven't thought about it, even though they should have.
+- They don't realize they need it, even though they do.
+- They think their software process is already good enough, even if
     it's not.
--   They assume anyone reporting a problem is an evil hacker, even
+- They assume anyone reporting a problem is an evil hacker, even
     though they're wrong.
 
 !!! example "FTC Actions Against Vendors"

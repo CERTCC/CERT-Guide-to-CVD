@@ -12,6 +12,7 @@ complicated multiparty disclosure case if that vendor cannot be trusted
 to cooperate with the coordination effort.
 
 ## When One Party Wants to Release Early
+
 In a multiparty coordination scenario, some vendors may want to release
 early to protect their customers. They have a good point: should Vendor
 A's customers be kept vulnerable just because Vendor B is taking longer
@@ -26,6 +27,7 @@ information about the vulnerability got out before you were ready for
 it.
 
 ## Communication Topology
+
 The complexity of coordination problems increases rapidly as more
 parties are involved in the coordination effort. Graph theory tells us
 the number of participant pairs increases as N(N-1)/2 for N
@@ -169,7 +171,4 @@ response processes, so helping the laggards become more efficient can
 sometimes become a secondary goal of the coordination
 process.
 
-
 [^1]: R. M. Axelrod, The Evolution of Cooperation, Revised ed., Basic books, 2006.
-
-

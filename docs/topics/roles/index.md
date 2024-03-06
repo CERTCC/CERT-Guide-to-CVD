@@ -1,5 +1,4 @@
-# Roles in CVD 
-
+# Roles in CVD
 
 Certain roles are critical to the Coordinated Vulnerability Disclosure
 process, as described in the following sections:
@@ -23,10 +22,9 @@ process, as described in the following sections:
     fact, the CERT/CC has played all five roles over time, although not
     usually simultaneously.
 
-
 ## Relationships Between Roles
 
-Although a more detailed description of the CVD process is provided in Section 4, a simple sketch of the relationships 
+Although a more detailed description of the CVD process is provided in Section 4, a simple sketch of the relationships
 between these roles is shown in the figure below.
 
 ```mermaid
@@ -51,4 +49,3 @@ flowchart TD
     Reporter -.->|provides vul<br/>info to| Deployer
     
 ```
-

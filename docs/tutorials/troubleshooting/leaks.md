@@ -10,7 +10,7 @@ supply chain for the fix.
 Unfortunately, not everyone plays by the same rules. You might find
 information you thought was shared in confidence showing up in some
 non-confidential location. It might be a simple misunderstanding,
-mismatched expectations, or in rare cases, a malicious act. 
+mismatched expectations, or in rare cases, a malicious act.
 
 !!! question "Questions to Ask When Information Leaks"
 

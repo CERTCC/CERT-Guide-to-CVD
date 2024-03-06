@@ -44,7 +44,6 @@ The following are some of the sources that CVD participants might choose to moni
 | Media reports            | Paying attention to what the world knows about vulnerabilities and exploits.                                                                                          |
 | Conference presentations | Paying attention to what the technical and research community knows about vulnerabilities and exploits.                                                               |
 
-
 !!! tip "Advice for Vendors"
 
     Vendors need to monitor for public information about security vulnerabilities in their products. Knowing about attacks and published exploits is key.

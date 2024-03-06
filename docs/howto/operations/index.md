@@ -1,4 +1,4 @@
-# Operational Considerations 
+# Operational Considerations
 
 Participating in a CVD process over time requires a set of tools and
 practices in order to be successful. In this chapter, we outline a few
@@ -13,6 +13,3 @@ personnel management issues.
 - [CVD Staffing Considerations](staffing.md)
 
 </div>  
-
-
-

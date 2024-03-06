@@ -1,8 +1,8 @@
-# Coordinated Vulnerability Disclosure is a Process, Not an Event 
+# Coordinated Vulnerability Disclosure is a Process, Not an Event
 
 Publishing a document is an action. Releasing a
 fix is an action. And while both of these are common events within the
-CVD process, they do not define it. 
+CVD process, they do not define it.
 
 ## A Simple Description of the CVD Process
 
@@ -38,7 +38,6 @@ frame our discussion.
 
     See [Roles in CVD](../topics/roles/index.md) for a more detailed discussion of the roles involved in the CVD process.
 
-
 Ideally, product and service vulnerabilities would be either discovered
 by the vendor (developer) of the software product or service itself or
 reported to the vendor by a third party (finder, reporter). Informing
@@ -50,6 +49,3 @@ also known as a patch. However, often the vendor issuing an update is
 just the first step towards remediation of the installed base of
 vulnerable systems. Deployers must still ensure that patches are
 deployed in a timely manner to the systems they need to protect.
-
-
-

@@ -35,7 +35,6 @@
     past few decades of what works (and what doesn't) in the pursuit of
     reducing the vulnerability of software and related products.
 
-
 ## What This Guide Is
 
 This is a summary of what we know about a complex social process that

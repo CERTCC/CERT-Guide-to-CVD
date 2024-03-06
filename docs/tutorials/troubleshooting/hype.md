@@ -8,7 +8,6 @@ vulnerabilities, including
 - [Shell Shock](https://nvd.nist.gov/vuln/detail/CVE-2014-6271)
 - [GHOST](https://nvd.nist.gov/vuln/detail/CVE-2015-0235)
 
-
 Does having a marketing department behind a vulnerability
 disclosure make that vulnerability worse than others without the
 marketing push? Not in any technical sense, no. Instead, what it does is
@@ -23,7 +22,7 @@ Taoist [parable of the farmer and the horse](https://en.wikipedia.org/wiki/The_o
 
 Attempts to squash true information once it's been revealed tends not
 only to spread the information more widely, but also to backfire on
-whoever is trying to conceal it. 
+whoever is trying to conceal it.
 The [name](https://www.techdirt.com/articles/20150107/13292829624/10-years-everyones-been-using-streisand-effect-without-paying-now-im-going-to-start-issuing-takedowns.shtml),
 coined by [Mike Masnick](https://www.techdirt.com/user/mmasnick/),
 comes from a case involving
@@ -50,4 +49,3 @@ discovery.
 
 {% include-markdown "./recipes/_x20.md" heading-offset=1 %}
 {% include-markdown "./recipes/_x05.md" heading-offset=1 %}
-

@@ -9,7 +9,6 @@ scenarios, the vulnerability may be a critical flaw that requires
 immediate action, while other cases might indicate a very rare and
 hard-to-exploit vulnerability that should be given a low priority.
 
-
 !!! tip inline end "Stakeholder-Specific Vulnerability Categorization (SSVC)"
 
     The CERT/CC's [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC) (SSVC)
@@ -39,4 +38,3 @@ be made transparent to reporters so that the process is understood by
 all stakeholders. Transparency in this part of the process can help
 prevent frustration and confusion when reporter and vendor disagree on
 severity of a vulnerability.
-

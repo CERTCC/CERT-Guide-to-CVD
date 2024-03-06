@@ -1,4 +1,4 @@
-# Conclusion 
+# Conclusion
 
 The scope of the citizenry affected by cybersecurity vulnerabilities
 has widened considerably in recent years.
@@ -44,4 +44,4 @@ vulnerability disclosure because we realize we're all in this together.
 
 Thanks for reading.
 
-[^1]: S. Arbesman, _Overcomplicated: Technology at the Limits of Comprehension_, Current, 2016.
+[^1]: S. Arbesman, *Overcomplicated: Technology at the Limits of Comprehension*, Current, 2016.

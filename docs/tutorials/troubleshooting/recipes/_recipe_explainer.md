@@ -12,4 +12,3 @@
 
     The "recipe" portion of each card provides a set of instructions for resolving the problem.
     These aren't necessarily step-by-step instructions, but rather a set of guidelines to help you navigate the problem.
-

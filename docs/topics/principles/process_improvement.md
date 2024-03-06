@@ -1,4 +1,4 @@
-# Process Improvement 
+# Process Improvement
 
 In reviewing their experience in the CVD process, participants should
 capture ideas that worked well and note failures. This feedback can be
@@ -15,6 +15,7 @@ Lifecycle, not as a wholesale replacement for internally driven security
 testing.
 
 ## CVD and the Security Feedback Loop
+
 A successful CVD program feeds vulnerability information back into the
 vendor's Software Development Lifecycle. This information can result in
 more secure development processes, helping to prevent the introduction
@@ -64,10 +65,11 @@ successful CVD process can expect to see the overall security of their
 code improve over time as vulnerabilities are found and removed.
 
 ## Improving the CVD Process Itself
+
 Feeding lessons learned back into the development process, CVD can:
 
--   reduce creation of new vulnerabilities
--   increase pre-release testing to find vulnerabilities
+- reduce creation of new vulnerabilities
+- increase pre-release testing to find vulnerabilities
 
 Participation in CVD may allow discussions between your developers and
 security researchers on new tools or methods for vulnerability discovery
@@ -76,9 +78,7 @@ evaluated for inclusion in ongoing development processes if they succeed
 in finding bugs and vulnerabilities in your product. Essentially, CVD
 can facilitate field testing of new analysis methods for finding bugs.
 
-
-
-## References 
+## References
 
 2. A. Ozment and S. E. Schechter, "Milk or wine: Does software
     security improve with age?" in *USENIX Security*, 2006.
@@ -94,4 +94,3 @@ can facilitate field testing of new analysis methods for finding bugs.
 6. E. Bobukh, "Equation of a Fuzzing Curve &mdash; Part 2/2," 6
     January 2015. \[Online\]. Available:
     [https://blogs.msdn.microsoft.com/eugene_bobukh/2015/01/06/equation-of-a-fuzzing-curve-part-22/](https://blogs.msdn.microsoft.com/eugene_bobukh/2015/01/06/equation-of-a-fuzzing-curve-part-22/). \[Accessed 23 May 2017\].
-

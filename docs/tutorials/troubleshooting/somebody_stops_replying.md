@@ -11,7 +11,7 @@ vendor a "heads up" message with some lead time before publishing,
 optionally including a draft of the document about to be published. This
 helps the vendor prepare its communication plan if necessary, and
 sometimes helps to identify any lingering misunderstandings on the
-technical aspects of the vulnerability. 
+technical aspects of the vulnerability.
 
 !!! example "Example: A 2015 Minecraft Vulnerability"
 
@@ -28,4 +28,3 @@ technical aspects of the vulnerability.
 
 {% include-markdown "./recipes/_x06.md" heading-offset=1 %}
 {% include-markdown "./recipes/_x10.md" heading-offset=1 %}
-

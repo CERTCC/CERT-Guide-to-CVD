@@ -50,7 +50,7 @@ this section, we adapt and expand some terminology from Shepherd
     the issue.
 
 !!! info "Full Disclosure"
-    
+
     When a vulnerability is found, all
     information about the vulnerability is disclosed to the public.
     Typically, this scenario results in the release of proof of concept
@@ -71,7 +71,7 @@ this section, we adapt and expand some terminology from Shepherd
     themselves: many open source projects, for example, handle security
     issues in the open in order to maximize review of the vulnerability
     and testing of the proposed solution.
-    
+
 [^1]:  S. Shepherd, "Vulnerability Disclosure: How Do We Define
     Responsible Disclosure?" SANS GIAC SEC Practical Repository,
     2003.

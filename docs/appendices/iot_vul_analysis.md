@@ -1,4 +1,4 @@
-# Appendix A - On the Internet of Things and Vulnerability Analysis 
+# Appendix A - On the Internet of Things and Vulnerability Analysis
 
 This appendix is adapted from two CERT/CC Blog Posts:
 
@@ -25,7 +25,6 @@ descending order of popularity in the research we surveyed:
 | **Writing code** | This technique involves developing custom tools to assist with extracting, characterizing, and analyzing data to identify vulnerabilities. |
 | **Application of specialized knowledge and skills** | In some cases, just knowing how a system works and approaching it with a security mindset is sufficient to find vulnerabilities. Examples include RFID and ModBus. |
 
-
 Many of the techniques listed above are common to vulnerability
 discovery in the traditional computing and mobile world. However, the
 low-hanging fruit appears to hang much lower in the IoT than in
@@ -36,8 +35,6 @@ thus far in IoT would be considered trivial&mdash;and rightly so&mdash;in the
 more mature market of servers and desktop computing. Yet the relative
 scale of the IoT market makes even trivial vulnerabilities potentially
 risky in aggregate.
-
-
 
 # IoT Vulnerability Analysis
 
@@ -60,8 +57,6 @@ including
 | **Unprepared vendors** | Often we find that IoT vendors are not prepared to receive and handle vulnerability reports from outside parties, such as the security researcher community. Many also lack the ability to perform their own vulnerability discovery within their development lifecycle. These difficulties tend to arise from one of two causes: 1. The vendor is comparatively small or new and has yet to form a product security incident response capability. 2. The vendor has deep engineering experience in its domain but has not fully incorporated the effect of network-enabling its devices into its engineering quality assurance (this is related to the inadequate threat model point above). Typically, vendors in the latter group may have very strong skills in safety engineering or regulatory compliance, yet their internet security capability is lacking. Our experience is that many IoT vendors are surprised by the vulnerability disclosure process. We frequently find ourselves having conversations that rehash two decades of vulnerability coordination and disclosure debates with vendors who appear to experience something similar to the Kübler-Ross stages of grief during the process. (The Kübler-Ross stages of grief are denial, anger, bargaining, depression, and acceptance. See [http://www.ekrfoundation.org/](http://www.ekrfoundation.org/)) |
 | **Unresolved vulnerability disclosure debates** | If we have learned anything in decades of CVD at the CERT/CC, it is that there is no single right answer to most vulnerability disclosure questions. However, in the traditional computing arena, most vendors and researchers have settled into a reasonable rhythm of allowing the vendor some time to fix vulnerabilities prior to publishing a vulnerability report more widely. Software as a service (SAAS) and software distributed through app stores can often fix and deploy patches to most customers quickly. On the opposite end of the spectrum, we find many IoT and embedded device vendors for whom fixing a vulnerability might require a firmware upgrade or even physical replacement of affected devices. This diversity of requirements forces vendors and researchers alike to reconsider their expectations with respect to the timing and level of detail provided in vulnerability reports based on the systems affected. Coupled with the proliferation of IoT vendors who are relative novices at internet-enabled devices and just becoming exposed to the world of vulnerability research and disclosure, the shift toward IoT can be expected to reinvigorate numerous disclosure debates as the various stakeholders work out their newfound positions.                                                                                          |
 
-
-
 # IoT Parting Thoughts
 
 Although vulnerability analysis for IoT has much in common with security
@@ -81,7 +76,7 @@ attack vector share your home with you? How would you patch them?
 
 Dan Geer puts it thus:
 
-!!! quote "Dan Geer, [_Security of Things_](http://geer.tinho.net/geer.secot.7v14.txt), 7 May 2014"
+!!! quote "Dan Geer, [*Security of Things*](http://geer.tinho.net/geer.secot.7v14.txt), 7 May 2014"
 
     An advanced persistent threat, one that is difficult to discover,
     difficult to remove, and difficult to attribute, is easier in a
@@ -93,4 +88,3 @@ Dan Geer puts it thus:
     scales much less the scales coming soon.
 
 We agree.
-

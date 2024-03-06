@@ -40,4 +40,3 @@ chain of disclosure will be equally trustworthy. That's not to say they
 are actively malicious, just that they may have incompatible values or
 priorities that lead them to disclose the existence of the vulnerability
 to others earlier than you'd prefer.
-

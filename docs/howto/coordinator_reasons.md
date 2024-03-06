@@ -46,7 +46,6 @@ We discuss horizontal and vertical supply chains in [Section
 
 {% include-markdown "../tutorials/troubleshooting/recipes/_x09.md" heading-offset=1 %}
 
-
 ## CVD Disputes
 
 Occasionally vendors and reporters have difficulty arriving at a
@@ -54,14 +53,14 @@ mutually acceptable response to the existence of a vulnerability.
 
 Disputes can arise for many reasons, including the following:
 
--   Whether the behavior described in the report is reproducible
--   Whether the behavior described in the report has security
+- Whether the behavior described in the report is reproducible
+- Whether the behavior described in the report has security
     implications
--   The impact of the vulnerability to deployed systems
--   Whether to publicly disclose the vulnerability
--   How much detail to include in a public disclosure
--   The timing of public disclosure
--   Whether extensions should be made to deadlines set by one party or
+- The impact of the vulnerability to deployed systems
+- Whether to publicly disclose the vulnerability
+- How much detail to include in a public disclosure
+- The timing of public disclosure
+- Whether extensions should be made to deadlines set by one party or
     another, whether or not they have been mutually agreed to previously
 
 In these situations, and many others, reporters and/or vendors may find
@@ -71,7 +70,6 @@ neutrality of a third-party coordinator can often dissipate some of the
 potential animosity that can arise in contentious cases.
 
 {% include-markdown "../tutorials/troubleshooting/recipes/_x21.md" heading-offset=1 %}
-
 
 ## Major Infrastructure Impacts
 
@@ -90,4 +88,3 @@ services such as DNS (which also serves as an example of a horizontal
 supply chain) affect a massive number of vendors; a coordinator can help
 contact and disseminate information to vendors, service providers, and
 other critical organizations for quick remediation.
-

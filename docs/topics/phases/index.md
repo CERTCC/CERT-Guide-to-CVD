@@ -1,4 +1,4 @@
-# Phases of CVD 
+# Phases of CVD
 
 There are a number of proposed models of the CVD process that have slightly varying phases [^1][^2][^3][^4].
 Below, we adapt a version of the ISO/IEC 30111[^5] process with more phases to better describe what we have seen at the
@@ -16,7 +16,7 @@ We will next discuss each of these phases in more detail.
 - [**Deployment**](deployment.md) - The remediation is applied to deployed systems.
 
 </div>
-    
+
 ## Who Does What?
 
 A mapping of CVD phases to CVD roles is provided in the following table.
@@ -30,7 +30,6 @@ A mapping of CVD phases to CVD roles is provided in the following table.
 | Remediation     | -                     | Confirms fix                                    | Prepares patches, develops advice, workarounds | Coordinates multiparty response, develops advice, workarounds | -       |
 | Public Awareness | Publishes report      | Publishes report                                | Publishes report                               | Publishes report                                               | Receives report |
 | Deployment      | -                     | -                                               | -                                              | -                                                             | Deploys fix or mitigation |
-
 
 ## References
 
@@ -54,5 +53,3 @@ A mapping of CVD phases to CVD roles is provided in the following table.
 [^5]: [ISO/IEC, "ISO/IEC 30111:2013 Information technology&mdash;Security
     techniques&mdash;Vulnerability handling processes,"
     2013.]
-
-

@@ -5,7 +5,6 @@ of CVD operations. Opsec includes your ability to maintain security and
 confidentiality for information associated with vulnerability reports
 prior to disclosure.
 
-
 ## Handling Sensitive Data
 
 Some of the information that passes through a CVD process may include information on an
@@ -29,14 +28,14 @@ a document with a TLP level-----{== Red, Amber, Green, or White ==}-----a sender
 vulnerability information and expectations about sharing it further. In
 the context of CVD, the following applies:
 
--   TLP:GREEN and TLP:AMBER are best suited for information shared
+- TLP:GREEN and TLP:AMBER are best suited for information shared
     between reporters, vendors, and coordinators during phases prior to
     public announcement of a vulnerability.
 
--   If pre-publication announcements are made to deployers or other
+- If pre-publication announcements are made to deployers or other
     stakeholders, TLP:RED or TLP:AMBER could be a good fit.
 
--   TLP:WHITE is most useful for public disclosures.
+- TLP:WHITE is most useful for public disclosures.
 
 See Appendix [\[apx:tlp\]](#apx:tlp){reference-type="ref"
 reference="apx:tlp"} for more on TLP.
@@ -100,9 +99,8 @@ to others earlier than you'd prefer.
 {% include-markdown "./pgp.md" heading-offset=1 %}
 
 ## References
-1.  [FIRST, "TRAFFIC LIGHT PROTOCOL (TLP) FIRST Standards Definitions
+
+1. [FIRST, "TRAFFIC LIGHT PROTOCOL (TLP) FIRST Standards Definitions
     and Usage Guidance &mdash; Version 1.0," \[Online\]. Available:
     [https://www.first.org/tlp](https://www.first.org/tlp). \[Accessed 16 May
     2017\].]
-
-

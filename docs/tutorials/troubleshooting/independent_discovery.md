@@ -1,9 +1,9 @@
 # Independent Discovery
 
-If one person can find a vulnerability, somebody else can, too. 
+If one person can find a vulnerability, somebody else can, too.
 [Andy Ozment](https://web.archive.org/web/20220718203842id_/http://infosecon.net/workshop/pdf/10.pdf)
 showed that "vulnerability rediscovery occurs 'in the
-wild' and that it is not particularly uncommon." 
+wild' and that it is not particularly uncommon."
 [Finifter and colleagues](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/finifter),
 reviewing a dataset of Chrome vulnerabilities, identified 15
 out of 668 (2.25%) that had been independently discovered by multiple
@@ -12,7 +12,7 @@ vulnerabilities.
 [Ablon and Bogart](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1700/RR1751/RAND_RR1751.pdf)
 studied a stockpile of zero day vulnerabilities, estimating that "after a year approximately 5.7
 percent have been discovered and disclosed by others."
-[Herr and Schneier](https://ssrn.com/abstract=2928758) 
+[Herr and Schneier](https://ssrn.com/abstract=2928758)
 find browser vulnerabilities having rediscovery rates
 between 11% and 20% annually for the years 2013-2015. For Android
 vulnerabilities during the 2015-2016 timeframe, they found an annual
@@ -76,6 +76,5 @@ particular case.
 
 {% include-markdown "./recipes/_x15.md" heading-offset=1 %}
 
-[^1]: B. Grubb, "Heartbleed disclosure timeline: who knew what and
-    when," The Sydney Morning Herald, 15 April 2014. 
+    when," The Sydney Morning Herald, 15 April 2014.
     [http://www.smh.com.au/it-pro/security-it/heartbleed-disclosure-timeline-who-knew-what-and-when-20140414-zqurk.html](http://www.smh.com.au/it-pro/security-it/heartbleed-disclosure-timeline-who-knew-what-and-when-20140414-zqurk.md)

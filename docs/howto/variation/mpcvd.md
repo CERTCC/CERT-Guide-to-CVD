@@ -39,7 +39,7 @@ documented instances of independent discovery are relatively rare,
 independent discovery of vulnerabilities can and does happen.
 
 Perhaps the best known example of multiple finders is Heartbleed
-(CVE-2014-0160). 
+(CVE-2014-0160).
 In part because of the complexity of the coordinated disclosure
 process, a second CVE identifier was assigned to the same vulnerability
 (CVE-2014-0346) [^3].
@@ -50,7 +50,7 @@ We discuss independent discovery further in {== [Section 6.5](6.5-Independent-Di
 
 Many products today are not developed by a single organization.
 Instead, they are assembled from components sourced from other
-organizations. 
+organizations.
 
 !!! example "Library Components and the Software Supply Chain"
 
@@ -167,7 +167,7 @@ establishing a direct communication channel with vulnerable sites.
 
 The following is from their conclusion:
 
-!!! quote 
+!!! quote
 
     How do we inform affected parties about vulnerabilities on large
     scale? Identifying contact points remains the main challenge that has to
@@ -180,9 +180,6 @@ The following is from their conclusion:
     effects of large-scale notifications are likely to remain low in the
     future.
 
-
-
-
 [^1]:  [[FIRST, "Vulnerability Coordination SIG," \[Online\]. Available:
     [https://www.first.org/global/sigs/vulnerability-coordination](https://www.first.org/global/sigs/vulnerability-coordination). \[Accessed 17 May
     2017\].]{style="color: rgb(23,43,77);text-decoration: none;"}]
@@ -194,45 +191,36 @@ The following is from their conclusion:
     Available:
     [http://heartbleed.com/](http://heartbleed.com/). \[Accessed 16 May
     2017\].]{style="color: rgb(23,43,77);text-decoration: none;"}]
-[^4]:  [[W. Dormann, "Supporting the Android Ecosystem," 19 October 2015.
     \[Online\]. Available:
     [https://insights.sei.cmu.edu/cert/2015/10/supporting-the-android-ecosystem.html](https://insights.sei.cmu.edu/cert/2015/10/supporting-the-android-ecosystem.md). \[Accessed 23 May
     2017\].]    ]
-[^5]:  [J. P. Lanza, "Vulnerability Note VU#484891 Microsoft SQL Server
     2000 contains stack buffer overflow in SQL Server Resolution
     Service," 26 July 2002. \[Online\]. Available:
     [https://www.kb.cert.org/vuls/id/484891](https://www.kb.cert.org/vuls/id/484891). \[Accessed 23 May
     2017\].]
-[^6]:  [W. Dormann, "Vulnerability Note VU#916896 Oracle Outside In 8.5.2
     contains multiple stack buffer overflows," 20 January 2016.
     \[Online\]. Available:
     [https://www.kb.cert.org/vuls/id/916896](https://www.kb.cert.org/vuls/id/916896). \[Accessed 23 May
     2017\].]
-[^7]:  [[W. Dormann, "Vulnerability Note VU#582497 Multiple Android
     applications fail to properly validate SSL certificates," CERT/CC,
     3 September 2014. \[Online\]. Available:
     [https://www.kb.cert.org/vuls/id/582497](https://www.kb.cert.org/vuls/id/582497). \[Accessed 16 May
     2017\].]{style="color: rgb(23,43,77);text-decoration: none;"}]
-[^8]:  [[W. Dormann, "Android apps that fail to validate SSL," 29
     August 2014. \[Online\]. Available:
     [https://docs.google.com/spreadsheets/d/1t5GXwjw82SyunALVJb2w0zi3FoLRIkfGPc7AMjRF0r4](https://docs.google.com/spreadsheets/d/1t5GXwjw82SyunALVJb2w0zi3FoLRIkfGPc7AMjRF0r4). \[Accessed 16 May
     2017\].]{style="color: rgb(23,43,77);text-decoration: none;"}]
-[^9]:  [[University of Oulu, "PROTOS Test-Suite: c06-snmpv1," 2002.
     \[Online\]. Available:
     [https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1](https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1). \[Accessed 16 May
     2017\].]{style="color: rgb(23,43,77);text-decoration: none;"}]
-[^10]: [[I. A. Finlay, S. V. Hernan, J. A. Rafail, C. Dougherty, A. D.
     Householder, M. Lindner and A. Manion, "Multiple Vulnerabilities in
     Many Implementations of the Simple Network Management Protocol
     (SNMP)," CERT/CC, 12 February 2002. \[Online\]. Available:
     [https://www.cert.org/historical/advisories/CA-2002-03.cfm](https://www.cert.org/historical/advisories/CA-2002-03.cfm). \[Accessed 16 May
     2017\].]{style="color: rgb(23,43,77);text-decoration: none;"}]
-[^11]: [[I. A. Finlay, "Vulnerability Note VU#854306 Multiple
     vulnerabilities in SNMPv1 request handling," CERT/CC, 12
     February 2002. \[Online\]. Available:
     [https://www.kb.cert.org/vuls/id/854306](https://www.kb.cert.org/vuls/id/854306). \[Accessed 16 May
     2017\].]{style="color: rgb(23,43,77);text-decoration: none;"}]
-[^12]: [[I. A. Finlay, "Vulnerability Note VU#107186 Multiple
     vulnerabilities in SNMPv1 trap handling," CERT/CC, 12
     February 2002. \[Online\]. Available:
     [https://www.kb.cert.org/vuls/id/107186](https://www.kb.cert.org/vuls/id/107186). \[Accessed 16 May

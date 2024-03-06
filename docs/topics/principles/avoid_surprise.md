@@ -1,4 +1,4 @@
-# Avoid Surprise 
+# Avoid Surprise
 
 As with most situations in which multiple parties are engaged in a
 potentially stressful and contentious negotiation, surprise tends to
@@ -14,5 +14,3 @@ cooperation from vendors and finders alike.
 
 CVD promotes continued cooperation and increases the likelihood that
 future vulnerabilities will also be addressed and remedied.
-
-

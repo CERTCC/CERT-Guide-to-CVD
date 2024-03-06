@@ -1,9 +1,10 @@
-# CVD Context and Terminology Notes 
+# CVD Context and Terminology Notes
 
 Before we proceed to place CVD in context, we start with a few
 definitions.
 
 ## Vulnerability
+
 A *vulnerability* is a set of conditions or behaviors that allows the
 violation of an explicit or implicit security policy. Vulnerabilities
 can be caused by software defects, configuration or design decisions,
@@ -14,12 +15,12 @@ early as the design phase and as late as system deployment.
 
 NIST offers the following definitions of vulnerability \[1\]:
 
-1.  "Weakness in an information system, system security procedures,
+1. "Weakness in an information system, system security procedures,
     internal controls, or implementation that could be exploited or
     triggered by a threat source"
-2.  "A weakness in a system, application, or network that is subject to
+2. "A weakness in a system, application, or network that is subject to
     exploitation or misuse"
-3.  "Weakness in an information system, system security procedures,
+3. "Weakness in an information system, system security procedures,
     internal controls, or implementation that could be exploited by a
     threat source"
 
@@ -44,20 +45,22 @@ private data, to taking control of a computer, to causing physical
 damage and bodily injury.
 
 ## Exploits, Malware, and Incidents
+
 We also need to get a few quick technical terms out of the way so they
 don't cloud the remaining discussion.
 
--   An *exploit* is software that uses a vulnerability to achieve some
+- An *exploit* is software that uses a vulnerability to achieve some
     effect. Sometimes the effect is as simple as demonstrating the
     existence of the vulnerability. Other times it plays a role in
-    enabling adversaries to attack systems. 
--   *Malware* is software used by adversaries to compromise the security
-    of a system or systems. But not all malware involves exploits. 
--   Finally, an *incident* is a violation or an attempted violation of a
+    enabling adversaries to attack systems.
+- *Malware* is software used by adversaries to compromise the security
+    of a system or systems. But not all malware involves exploits.
+- Finally, an *incident* is a violation or an attempted violation of a
     security policy, and may involve malware, exploits, or
     vulnerabilities (or none of these!)
 
 ## Vulnerability Response (VR)
+
 Vulnerability Response (VR) is the overall set of processes and
 practices that deal with the existence of vulnerabilities in systems. VR
 encompasses everything from reducing the introduction of vulnerabilities
@@ -75,12 +78,13 @@ disclosure.
 
 The goals of vulnerability response include the following:
 
--   Limit attacker advantage over defenders.
--   Reduce the population of vulnerable product instances as quickly as
+- Limit attacker advantage over defenders.
+- Reduce the population of vulnerable product instances as quickly as
     possible.
--   Reduce the impact of attacks against vulnerable systems.
+- Reduce the impact of attacks against vulnerable systems.
 
 ## Vulnerability Discovery
+
 Vulnerability discovery can take many forms, from specifically targeted
 software testing to simple use of a system by a security-aware
 individual who notices some feature that seems out of place. In order
@@ -93,6 +97,7 @@ vulnerability* here, see \[10\]. We further distinguish *vulnerability
 discovery* from *vulnerability scanning* below.
 
 ## Coordinated Vulnerability Disclosure
+
 Coordinated Vulnerability Disclosure is the process of gathering
 information from vulnerability finders, coordinating the sharing of that
 information between relevant stakeholders, and disclosing the existence
@@ -127,15 +132,15 @@ The stakeholders&mdash;in other words, the people who care about the
 existence of a vulnerability&mdash;vary on a case by case basis, but
 typically include those below:
 
--   the reporter or finder of the vulnerability (often an independent
+- the reporter or finder of the vulnerability (often an independent
     security researcher)
--   the vendor (developer) of the component that contains the
+- the vendor (developer) of the component that contains the
     vulnerability ("originating vendor")
--   vendors that utilize the component containing the vulnerability in
+- vendors that utilize the component containing the vulnerability in
     their own products ("downstream vendors")
--   coordinators, vulnerability databases, or other organizations that
+- coordinators, vulnerability databases, or other organizations that
     specialize in incident response and vulnerability handling
--   the general public / consumers who purchase and use products
+- the general public / consumers who purchase and use products
     containing the vulnerable component
 
 Disclosure, in turn, is the process by which information about a
@@ -162,13 +167,13 @@ As a result, the character of information in a vulnerability report can
 vary greatly. Some reports only warn of a general vulnerability in a
 specific product. Others are more detailed and provide actual examples
 of how to attack the flaw (these examples are called "proof of concept
-code," often shortened to "PoC"). 
+code," often shortened to "PoC").
 
 It is worth reiterating that disclosure is not a singular event even for
 a single vulnerability. For more on the different phases of the process,
 see {== TODO fixme [Section 4](4.-Phases-of-CVD_47677466.md) ==}.
 
-!!! question "Who is _Responsible_ Here?"
+!!! question "Who is *Responsible* Here?"
 
     You may be familiar with the term *responsible disclosure* \[15\] and
     wonder how it's different from CVD. The history of *responsible
@@ -214,7 +219,6 @@ see {== TODO fixme [Section 4](4.-Phases-of-CVD_47677466.md) ==}.
     organizational exposure. Perform review of identified
     vulnerabilities to determine and address underlying causes.
 
-
 Vulnerability Management (VM) is the common term for tasks such as
 vulnerability scanning, patch testing, and deployment. VM practices
 nearly always deal with the output of CVD practices, not the inputs. VM
@@ -227,6 +231,7 @@ such as patches or configuration changes. NIST Special Publication
 Resolution operational process of the CERT RMM \[2\].
 
 ## Products and Instances
+
 In talking about things that have vulnerabilities, we try to maintain a
 clear distinction between a *product* being vulnerable, and an *instance
 of a product* being vulnerable. For example, Windows 10 (the product)
@@ -248,6 +253,7 @@ vulnerabilities in deployed systems, whereas CVD is concerned with the
 repair of vulnerabilities at the product level.
 
 ## Incident vs. Vulnerability Response
+
 Sometimes the term "Incident Response" is used synonymously with
 Vulnerability Response. These two concepts are related, but different;
 Vulnerability Response specifically indicates responding to reports of
@@ -256,56 +262,53 @@ Response is more general and can also include other security events such
 as network intrusions. We will generally stick to the Vulnerability
 Response terminology since this work is specifically about CVD.
 
-
-
 ## References
 
-1.  Kissel, Richard (Editor), "NISTIR 7298 Revision 2 Glossary of Key
-    Information Security Terms," U.S. Department of Commerce, 2013. 
-2.  R. Caralli, J. H. Allen and D. W. White, CERT Resilience Management
+1. Kissel, Richard (Editor), "NISTIR 7298 Revision 2 Glossary of Key
+    Information Security Terms," U.S. Department of Commerce, 2013.
+2. R. Caralli, J. H. Allen and D. W. White, CERT Resilience Management
     Model: A Maturity Model for Managing Operational Resilience,
-    Addison-Wesley Professional, 2010. 
-3.  A. Shostack, Threat modeling: Designing for Security, John Wiley &
-    Sons, 2014. 
-4.  F. Swiderski and W. Snyder, Threat Modeling, Microsoft Press, 2004. 
-5.  R. C. Seacord, The CERT C Secure Coding Standard, Pearson Education,
-    2008. 
-6.  F. Long, D. Mohindra, R. C. Seacord and D. a. S. D. Sutherland, The
+    Addison-Wesley Professional, 2010.
+3. A. Shostack, Threat modeling: Designing for Security, John Wiley &
+    Sons, 2014.
+4. F. Swiderski and W. Snyder, Threat Modeling, Microsoft Press, 2004.
+5. R. C. Seacord, The CERT C Secure Coding Standard, Pearson Education,
+    2008.
+6. F. Long, D. Mohindra, R. C. Seacord and D. a. S. D. Sutherland, The
     CERT Oracle Secure Coding Standard for Java, Addison-Wesley
-    Professional, 2011. 
-7.  G. McGraw, Software Security: Building Security In, Addison-Wesley
-    Professional, 2006. 
-8.  G. Peterson, P. Hope and S. Lavenhar, "Architectural Risk
+    Professional, 2011.
+7. G. McGraw, Software Security: Building Security In, Addison-Wesley
+    Professional, 2006.
+8. G. Peterson, P. Hope and S. Lavenhar, "Architectural Risk
     Analysis," 2 July 2013. \[Online\]. Available:
-    [https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis](https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis). 
-9.  J. Ryoo, R. Kazman and P. Anand, "Architectural Analysis for
+    [https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis](https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis).
+9. J. Ryoo, R. Kazman and P. Anand, "Architectural Analysis for
     Security," IEEE Security & Privacy, vol. 13, no. 6, pp. 52-59,
-    2015. 
+    2015.
 10. A. Householder, "Like Nailing Jelly to the Wall: Difficulties in
     Defining "Zero-Day Exploit," CERT, 7 July 2015. \[Online\].
     Available:
-    [https://insights.sei.cmu.edu/cert/2015/07/like-nailing-jelly-to-the-walldifficulties-in-defining-zero-day-exploit.html](https://insights.sei.cmu.edu/cert/2015/07/like-nailing-jelly-to-the-walldifficulties-in-defining-zero-day-exploit.md). \[Accessed 23 May 2017\]. 
+    [https://insights.sei.cmu.edu/cert/2015/07/like-nailing-jelly-to-the-walldifficulties-in-defining-zero-day-exploit.html](https://insights.sei.cmu.edu/cert/2015/07/like-nailing-jelly-to-the-walldifficulties-in-defining-zero-day-exploit.md). \[Accessed 23 May 2017\].
 11. MITRE, "Common Vulnerabilities and Exposures," \[Online\].
     Available:
-    [https://cve.mitre.org/](https://cve.mitre.org/). \[Accessed 16 May 2017\]. 
+    [https://cve.mitre.org/](https://cve.mitre.org/). \[Accessed 16 May 2017\].
 12. CERT/CC, "Vulnerability Notes Database," \[Online\]. Available:
-    [https://www.kb.cert.org/vuls](https://www.kb.cert.org/vuls). \[Accessed 16 May 2017\]. 
+    [https://www.kb.cert.org/vuls](https://www.kb.cert.org/vuls). \[Accessed 16 May 2017\].
 13. SecurityFocus, "Vulnerabilities," \[Online\]. Available:
-    [http://www.securityfocus.com/bid](http://www.securityfocus.com/bid). \[Accessed 23 May 2017\]. 
+    [http://www.securityfocus.com/bid](http://www.securityfocus.com/bid). \[Accessed 23 May 2017\].
 14. ISO/IEC, "ISO/IEC 29147:2014 Information technology&mdash;Security
-    techniques&mdash;Vulnerability disclosure," 2014. 
+    techniques&mdash;Vulnerability disclosure," 2014.
 15. S. Christey and C. Wysopal, "Responsible Vulnerability Disclosure
     Process draft-christey-wysopal-vulndisclosure-00.txt,"
     February 2002. \[Online\]. Available:
-    [https://tools.ietf.org/html/draft-christey-wysopalvuln-disclosure-00](https://tools.ietf.org/html/draft-christey-wysopalvuln-disclosure-00). \[Accessed 17 May 2017\]. 
+    [https://tools.ietf.org/html/draft-christey-wysopalvuln-disclosure-00](https://tools.ietf.org/html/draft-christey-wysopalvuln-disclosure-00). \[Accessed 17 May 2017\].
 16. MSRC Ecosystem Strategy Team, "Coordinated Vulnerability
     Disclosure: Bringing Balance to the Force," 22 July 2010.
     \[Online\]. Available:
-    [https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinatedvulnerability-disclosure-bringing-balance-to-the-force/](https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinatedvulnerability-disclosure-bringing-balance-to-the-force/). \[Accessed 23 May 2017\]. 
+    [https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinatedvulnerability-disclosure-bringing-balance-to-the-force/](https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinatedvulnerability-disclosure-bringing-balance-to-the-force/). \[Accessed 23 May 2017\].
 17. Microsoft Security Response Center, "Coordinated Vulnerability
     Disclosure," Microsoft, \[Online\]. Available:
-    [https://technet.microsoft.com/en-us/security/dn467923.aspx](https://technet.microsoft.com/en-us/security/dn467923.aspx). \[Accessed 23 May 2017\]. 
+    [https://technet.microsoft.com/en-us/security/dn467923.aspx](https://technet.microsoft.com/en-us/security/dn467923.aspx). \[Accessed 23 May 2017\].
 18. M. Souppaya and K. Scarfone, "NIST Special Publication 800-40
     Revision 3 Guide to Enterprise Patch Management Technologies," U.S.
     Department of Commerce, 2013.
-

@@ -1,4 +1,4 @@
-# Other Roles and Variations 
+# Other Roles and Variations
 
 There can be other roles in the CVD process too, but they tend to be
 subordinate to the ones already described. We discuss a few of them
@@ -29,7 +29,7 @@ described above. However, as cloud-based services (e.g., software,
 platform, and infrastructure as a service) have risen to prominence,
 they have also distinguished themselves from traditional software
 vendors in that their development, deployment, and delivery processes
-for security fixes tend to be much more direct. 
+for security fixes tend to be much more direct.
 
 For many cloud providers, the number of distinct instances of their
 software is quite limited, and control is centralized, so there are
@@ -46,6 +46,7 @@ difference in their ability to mitigate vulnerabilities across all their
 users in short order.
 
 ## Internet of Things
+
 Another class of vendors are the purveyors of Internet of Things (IoT)
 products. The physicality of IoT products and services often places them
 on the opposite end of the deployment spectrum from cloud-based
@@ -68,7 +69,7 @@ if not decades of increasingly insecure devices acting as reservoirs of
 infection or as platforms for lateral movement by adversaries of all
 types. Patch deployment will likely improve as more connected things get
 over-the-air (OTA) update capabilities, but there is already a large
-installed base of systems lacking such features. 
+installed base of systems lacking such features.
 
 Furthermore, systems at the lower end of the price range might have
 "fire and forget" assumptions built into their pricing model, meaning
@@ -151,7 +152,7 @@ the FIRST gives a good indication of the international interest in this
 problem space
 \[7\].
 
-## References 
+## References
 
 2. [W. Dormann, "Supporting the Android Ecosystem," 19 October 2015.
     \[Online\]. Available:

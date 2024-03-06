@@ -42,7 +42,7 @@ development of automated discovery processes.
 By far the easiest way to build a vulnerability testing infrastructure
 is the use of virtualization technologies. Many different virtual
 machine environments can be built for receivers of vulnerability reports
-to verify or clarify the reports they receive. 
+to verify or clarify the reports they receive.
 
 At the CERT/CC, we maintain a firewalled testing network in which
 virtual machines can be placed for testing. We also maintain a few
@@ -60,18 +60,16 @@ open source alternatives are available.
 Toolkits often include the
 following:
 
--   Virtualization platform, often a need to support multiple operating
+- Virtualization platform, often a need to support multiple operating
     systems
--   Debuggers
--   Source code analysis tools
--   Binary analysis tools (decompilers, etc.)
--   Network sniffing tools
--   Hex editors
--   Text editors
--   Visualization (often built into other tools)
+- Debuggers
+- Source code analysis tools
+- Binary analysis tools (decompilers, etc.)
+- Network sniffing tools
+- Hex editors
+- Text editors
+- Visualization (often built into other tools)
 
 Vendors with more hardware-centric products may need to additionally
 maintain more physical gear or specialized test bench equipment in order
 to have sufficient capacity to confirm reports.
-
-

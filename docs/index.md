@@ -18,7 +18,7 @@ here](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
 <br/>
 ---
 
-!!! abstract 
+!!! abstract
 
     Security vulnerabilities remain a problem for vendors and deployers of
     software-based systems alike. Vendors play a key role by providing fixes
@@ -58,9 +58,9 @@ to achieve.
 <div class="grid cards" markdown>
 
 - **Finders, Reporters, Vendors, and Coordinators**
- 
+
     ---
-    
+
     If you're a *researcher*, *vendor*, or *coordinator* trying to coordinate a disclosure and you need help, you might
     want to start with the
     [Troubleshooting Coordinated Vulnerability Disclosure Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md)
@@ -70,7 +70,7 @@ to achieve.
 - **Vendor PSIRTs**
 
     ---
-    
+
     If you're a *vendor* trying to establish a vendor product security
     incident response team (PSIRT), you may be interested in [2.
     Principles of Coordinated Vulnerability
@@ -91,7 +91,7 @@ to achieve.
 - **Coordinators**
 
     ---
-    
+
     If you're a *coordinator* spinning up your CVD capability, you
     should become familiar with [2. Principles of Coordinated
     Vulnerability
@@ -106,7 +106,7 @@ to achieve.
 - **Policy-Makers**
 
     ---
-    
+
     If you're a *policy-maker* (or influencer thereof), the
     sections {== TODO fixme [1. Introduction](1.-Introduction_47677445.md) ==} , [2.
     Principles of Coordinated Vulnerability
@@ -130,7 +130,4 @@ the entire document, but hopefully the hints above will help you find
 the most effective places to start. If you're already familiar with the
 guide and just want to see what's new, see the update log below.
 
-
 {% include-markdown "./sightings.md" %}
-
-

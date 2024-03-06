@@ -1,4 +1,4 @@
-# Coordinator 
+# Coordinator
 
 Complicated or complex CVD cases can often benefit from the help of a
 coordinator. A coordinator acts as a relay or information broker between
@@ -79,7 +79,7 @@ response efforts.
 However, bug bounty programs by themselves are not the same as a vulnerability coordination capability.
 Bug bounty programs are a way to incentivize security researchers to report vulnerabilities to
 the vendor. Importantly, they do not inherently create the internal plumbing necessary to
-respond to those vulnerabilities. 
+respond to those vulnerabilities.
 In some cases, vendor bug bounty programs are enabled by other companies that provide tools
 and services to facilitate vulnerability coordination.
 
@@ -113,10 +113,9 @@ vendors have become more mature in their handling of vulnerabilities in their pr
 role of MPCVD has increased in importance for more traditional vulnerability coordinators
 such as the {== CERT/CC [26], NCSC-NL [21], NCSC-FI [110], and JPCERT/CC ==}.
 
-
-
 ### References
-1.  [CERT Division, "CSIRT Frequently Asked Questions (FAQ)," Software
+
+1. [CERT Division, "CSIRT Frequently Asked Questions (FAQ)," Software
     Engineering Institute, \[Online\]. Available:
     [https://www.cert.org/incident-management/csirt-development/csirt-faq.cfm](https://www.cert.org/incident-management/csirt-development/csirt-faq.cfm)? \[Accessed 16 May
     2017\].]2.  [CERT Division, "Incident Management: Resources for National

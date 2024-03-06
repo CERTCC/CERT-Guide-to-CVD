@@ -80,19 +80,17 @@ should the need arise.
 We wrap up this discussion with a review of recommended practices for
 PGP/GPG key management:
 
--   Generate an RSA key of at least 4096 bits.
--   Restrict access to the private key material.
--   Use a strong passphrase on the key.
--   Restrict knowledge of the key passphrase to only those members of
+- Generate an RSA key of at least 4096 bits.
+- Restrict access to the private key material.
+- Use a strong passphrase on the key.
+- Restrict knowledge of the key passphrase to only those members of
     the CVD team involved in communications.
--   Generate a revocation certificate for each key.
--   Store the key passphrase and a revocation certificate in a safe
+- Generate a revocation certificate for each key.
+- Store the key passphrase and a revocation certificate in a safe
     location, such as a locked cabinet or safe in a secured area of the
     organization.
--   Generate a new key whenever a member leaves the CVD team, and revoke
+- Generate a new key whenever a member leaves the CVD team, and revoke
     the old key.
--   Generate a new key periodically, regardless of other factors.
--   Make your latest public key available in a known location to ensure
+- Generate a new key periodically, regardless of other factors.
+- Make your latest public key available in a known location to ensure
     recipients always have access to the latest key.
-
-

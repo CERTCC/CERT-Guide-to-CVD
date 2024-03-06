@@ -83,27 +83,26 @@ does come up: how do you acknowledge receipt of the report?
 
 Possibilities include the following:
 
--   *Echoing back the message in a confirmation email.* The reporter
+- *Echoing back the message in a confirmation email.* The reporter
     knows you received the text, but now the text was sent in plain text
     email for everyone to read. It is unlikely you want to do this.
 
--   *Send a brief thank you message, but without details.* The reporter
+- *Send a brief thank you message, but without details.* The reporter
     can now be assured that the report was received. But what if you
     have a follow up question for the reporter? It's likely you will
     need to send an email, which will require encryption to keep the
     details of the question and answer secure.
 
--   *Send a brief thank you message, and ask the reporter to log in to a
+- *Send a brief thank you message, and ask the reporter to log in to a
     portal to view the message conversation.* This resolves the issue of
     two-way secure communications, but now you need to establish a
     public-facing portal and manage portal credentials. This raises
     additional operational considerations, for example those below:
 
--   user account management and password changes
+- user account management and password changes
 
--   two-factor authentication or X.509 as possible requirement to ensure
+- two-factor authentication or X.509 as possible requirement to ensure
     user identity
-    
 
 Portal credential maintenance introduces more complications, and for
 many vendors is likely not worth the effort. Another disadvantage of
@@ -186,7 +185,6 @@ response process and provide the ability to track individual cases. Case
 tracking systems also provide a means of collecting data about recurring
 security issues and the performance of the response process itself.
 
-
 We have found it important to distinguish that vulnerability reports are
 not always bug reports. A single vulnerability report might contain
 information on more than one bug; alternately, it may describe a
@@ -213,7 +211,7 @@ inclusion into their own products. As a result, each product is not
 merely the result of a single vendor's development process, but of an
 entire supply chain. Libraries get included in other libraries, which
 form subcomponents in the composition of larger and more complex
-products. 
+products.
 
 For product vendors, an important part of the vulnerability response
 process is knowing what weaknesses your products might have. You can
@@ -255,10 +253,9 @@ These include the following
 - Common Platform Enumeration (CPE) \cite{nist2016cpe}
 - The Software Package Data Exchange (SPDX) \cite{spdx}
 
-
 ## References
 
-1.  [N. Brownlee and E. Guttman, "Expectations for Computer Security
+1. [N. Brownlee and E. Guttman, "Expectations for Computer Security
     Incident Response," The Internet Society,
     1998.]2.  [CERT/CC, "Sending Sensitive Information," \[Online\]. Available:
     [https://www.cert.org/contact/sensitive-information.cfm](https://www.cert.org/contact/sensitive-information.cfm). \[Accessed 24 May

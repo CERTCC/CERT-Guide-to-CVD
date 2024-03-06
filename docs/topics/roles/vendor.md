@@ -1,4 +1,4 @@
-# Vendor 
+# Vendor
 
 The *vendor* is the party responsible for updating the product
 containing the vulnerability. Most often a vendor is a company or other
@@ -33,19 +33,19 @@ Moving beyond traditional software companies, recent years have seen the
 rise in networked products and services from a variety of industries,
 including those below:
 
--   consumer products, such as home automation and the internet of
+- consumer products, such as home automation and the internet of
     things (IoT)
--   internet service providers (ISPs) and the makers of devices that
+- internet service providers (ISPs) and the makers of devices that
     access ISP services: internet modems, routers, access points, and
     the like
--   mobile phone manufacturers and service providers
--   industrial control systems, building automation, HVAC manufacturers
--   infrastructure suppliers and increasingly "smart" utility services
+- mobile phone manufacturers and service providers
+- industrial control systems, building automation, HVAC manufacturers
+- infrastructure suppliers and increasingly "smart" utility services
     including water and sewer services and the energy industry
--   transportation services, including the airline and automotive
+- transportation services, including the airline and automotive
     industries
--   medical devices and health-related device manufacturers
-    
+- medical devices and health-related device manufacturers
+
 ## Vendors as Part of the Software Supply Chain
 
 Furthermore, since many modern products are in fact composed of
@@ -58,7 +58,6 @@ all the downstream vendors who incorporated that component into their
 products. Each of these vendors in turn will need to update their
 products in order for the fix to be deployed to all vulnerable
 systems.
-
 
 ## Vendor as the Introducer of Vulnerabilities
 
@@ -96,12 +95,12 @@ In order to effectively mitigate the impact of vulnerabilities in their
 products and services, vendors must be able to perform the following
 specific tasks:
 
--   receive reports
--  prioritization, analyze, and test claims made in reports received
--   fix bugs
--   distribute patch(es)
--   (recommended) publish a document
--   (recommended) improve internal development process
+- receive reports
+- prioritization, analyze, and test claims made in reports received
+- fix bugs
+- distribute patch(es)
+- (recommended) publish a document
+- (recommended) improve internal development process
 
 The ISO/IEC standards 29147 \_Vulnerability disclosure\_ and 30111
 \_Vulnerability handling processes\_ offer specific models for external-
@@ -111,7 +110,6 @@ vulnerability response practice. ISO/IEC 29147 describes an
 outward-facing CVD process \[2\]. ISO/IEC 30111 addresses the internal
 processes associated with vendor vulnerability response
 \[3\].
-
 
 ## Vendor Sub-Roles
 
@@ -134,16 +132,16 @@ the Forum of Incident Response and Security Teams (FIRST)
 \[7\]
 
 ### Developers
+
 For vendors of sufficient size to have a dedicated PSIRT, the
 vulnerability response and development processes are likely found in
 different parts of the organization.
 
 The development role usually has the responsibility to:
 
--   identify what to fix and how to fix it
--   create the patch
--   integrate the patch into releasable products
-    
+- identify what to fix and how to fix it
+- create the patch
+- integrate the patch into releasable products
 
 The PSIRT should be in close contact with the developers in order to
 coordinated fixes.
@@ -172,28 +170,27 @@ Lessons learned can then inform modifications to the development
 process. Some of the ways vulnerability response can feed back into the
 development lifecycle include the following:
 
--   **Root cause analysis** -- to identify common causes and learn how
+- **Root cause analysis** -- to identify common causes and learn how
     to reduce future introduction of similar vulnerabilities. Questions
     to ask include the following: How did this vulnerability make it
     into the released product without being detected? How could it have
     been found and fixed earlier, before release? How might the
     vulnerability have been avoided entirely?
--   **Automated testing** -- to find vulnerabilities sooner, ideally
+- **Automated testing** -- to find vulnerabilities sooner, ideally
     before release. Continuous integration (CI) systems and DevOps
     practices provide excellent opportunities to incorporate automated
     security testing. For example, a CI server could initiate a fuzzing
     campaign on each nightly build of a product. An automated release
     process might require that code pass all static analysis tests with
     no significant findings before proceeding.
--   **Threat modeling** -- to identify high**-**risk portions of a
+- **Threat modeling** -- to identify high**-**risk portions of a
     product earlier in the development process so potential
     vulnerabilities can be found and addressed at design time, before
     they are even implemented.
 
-
-
 ### References
-1.  [NTIA Awareness and Adoption Working Group, "Vulnerability
+
+1. [NTIA Awareness and Adoption Working Group, "Vulnerability
     Disclosure Attitudes and Actions: A Research Report from the NTIA
     Awareness and Adoption Group," 15 December 2016. \[Online\].
     Available:
@@ -211,5 +208,3 @@ development lifecycle include the following:
     2017\].]6.  [FIRST, "FIRST Teams," \[Online\]. Available:
     [https://www.first.org/members/teams](https://www.first.org/members/teams). \[Accessed 16 May
     2017\].]
-
-

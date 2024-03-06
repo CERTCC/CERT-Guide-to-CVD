@@ -61,7 +61,7 @@ Whether you are a vendor or a coordinator, you need to have open
 channels for communication with vulnerability finders and reporters. In
 our experience, the most common means of communication is email. For
 this reason, the CERT/CC recommends that vendors establish a specific
-and well-publicized email alias such as \<security@example.com\> solely
+and well-publicized email alias such as \<<security@example.com>\> solely
 for receipt of vulnerability reports.
 
 However, since email is an insecure communications channel by default,
@@ -70,18 +70,18 @@ instead. Although x.509 encrypted mail exists, we have found
 PGP-compatible tools such as GnuPG to be more widely used by CVD
 participants. Vendors are encouraged to create and publish a PGP key
 affiliated with the security email alias to allow the confidentiality of
-sensitive reports to be maintained in transit. 
+sensitive reports to be maintained in transit.
 
 {== TODO revise the following ==}
 
 {== PGP / GnuPG, never popular outside of the infosec community, has been falling out of
-favor. Critiques abound: https://blog.cryptographyengineering.com/2014/08/13/
-whats-matter-with-pgp/ https://moxie.org/2015/02/24/gpg-and-me.html https:
+favor. Critiques abound: <https://blog.cryptographyengineering.com/2014/08/13/>
+whats-matter-with-pgp/ <https://moxie.org/2015/02/24/gpg-and-me.html> https:
 //arstechnica.com/information-technology/2016/12/op-ed-im-giving-up-on-pgp/
 Common complaints (summarize the above)...Nobody gets it right.
 PGP-based operations are hard to manage at scale.
 There are many ways to make mistakes with PGP, and the consequences of those mistakes can be severe.
-Consider the threat: who are you trying to protect against? 
+Consider the threat: who are you trying to protect against?
 Further problem: CVD is often a process requiring the interaction of teams of individuals
 from different organizations. Encrypted email was designed more as a way of enabling in-
 dividuals to communicate directly with each other. But what happens in team situations is
@@ -109,23 +109,20 @@ coordination platform. For more information on common CVD tools, see
 CVD program now, focus on encrypted transport + strong authentication. E.g., VINCE.
 Don’t build a new process around PGP email. ==}
 
-
 ## References
 
-1.  Wassermann, Garrett. *Reach Out and Mail Someone. *6 August
+1. Wassermann, Garrett. *Reach Out and Mail Someone.*6 August
     2015. [https://insights.sei.cmu.edu/cert/2015/08/reach-out-and-mail-someone.html](https://insights.sei.cmu.edu/cert/2015/08/reach-out-and-mail-someone.md)
-2.  K. Price, "Writing a bug report - Attack Scenario and Impact are
+2. K. Price, "Writing a bug report - Attack Scenario and Impact are
     key!" 2 August 2015. \[Online\].
     Available: [https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640](https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640). \[Accessed 17 May 2017\].
-3.  MITRE, "Common Weakness Enumeration (CWE)," \[Online\].
+3. MITRE, "Common Weakness Enumeration (CWE)," \[Online\].
     Available: [https://cwe.mitre.org/](https://cwe.mitre.org/). \[Accessed 17 May 2017\].
-4.  MITRE, "Common Attack Pattern Enumeration and Classification,"
+4. MITRE, "Common Attack Pattern Enumeration and Classification,"
     \[Online\].
     Available: [https://capec.mitre.org/](https://capec.mitre.org/). \[Accessed 17 May 2017\].
-5.  CERT/CC, "Vulnerability Reporting Form," \[Online\].
+5. CERT/CC, "Vulnerability Reporting Form," \[Online\].
     Available: [https://vulcoord.cert.org/VulReport/](https://vulcoord.cert.org/VulReport/). \[Accessed 17 May 2017\].
-
-
 
 [
 ]

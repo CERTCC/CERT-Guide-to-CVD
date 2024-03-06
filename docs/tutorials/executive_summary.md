@@ -1,4 +1,4 @@
-# Executive Summary 
+# Executive Summary
 
 Software-based products and services have vulnerabilities&mdash;conditions
 or behaviors that allow the violation of an explicit or implicit
@@ -34,7 +34,7 @@ CVD participants can be thought of as repeatedly asking these questions:
 What actions should I take in response to knowledge of this
 vulnerability in this product? Who else needs to know what, and when do
 they need to know it? The CVD process for a vulnerability ends when the
-answers to these questions are *nothing*, and *no one*. 
+answers to these questions are *nothing*, and *no one*.
 
 CVD should not be confused with Vulnerability Management (VM). VM
 encompasses the process downstream of CVD, once the vulnerability has
@@ -42,17 +42,17 @@ been disclosed and deployers must take action to respond. [Section
 1](1.-Introduction_47677445.md) introduces the CVD process and
 provides notes on relevant terminology.
 
--   [Principles of CVD](#ExecutiveSummary-PrinciplesofCVD)
--   [Roles in CVD](#ExecutiveSummary-RolesinCVD)
--   [Phases of CVD](#ExecutiveSummary-PhasesofCVD)
--   [CVD Process Variation](#ExecutiveSummary-CVDProcessVariation)
--   [Troubleshooting CVD](#ExecutiveSummary-TroubleshootingCVD)
--   [Operational
+- [Principles of CVD](#ExecutiveSummary-PrinciplesofCVD)
+- [Roles in CVD](#ExecutiveSummary-RolesinCVD)
+- [Phases of CVD](#ExecutiveSummary-PhasesofCVD)
+- [CVD Process Variation](#ExecutiveSummary-CVDProcessVariation)
+- [Troubleshooting CVD](#ExecutiveSummary-TroubleshootingCVD)
+- [Operational
     Considerations](#ExecutiveSummary-OperationalConsiderations)
--   [Open Problems in CVD](#ExecutiveSummary-OpenProblemsinCVD)
--   [Conclusion and
+- [Open Problems in CVD](#ExecutiveSummary-OpenProblemsinCVD)
+- [Conclusion and
     Appendices](#ExecutiveSummary-ConclusionandAppendices)
--   [References](#ExecutiveSummary-References)
+- [References](#ExecutiveSummary-References)
 
 # **Principles of CVD** {#ExecutiveSummary-PrinciplesofCVD .conf-macro .output-block}
 
@@ -60,29 +60,29 @@ provides notes on relevant terminology.
 2](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.md)
 covers principles of CVD, including the following:
 
--   **Reduce Harm** --Decrease the potential for damage by publishing
+- **Reduce Harm** --Decrease the potential for damage by publishing
     vulnerability information; using exploit mitigation technologies;
     reducing days of risk; releasing high-quality patches; and
     automating vulnerable host identification and patch deployment.
--   **Presume Benevolence** -- Assume that any individual who has taken
+- **Presume Benevolence** -- Assume that any individual who has taken
     the time and effort to reach out to a vendor or a coordinator to
     report an issue is likely benevolent and sincerely wishes to reduce
     the harm of the vulnerability.
--   **Avoid Surprise** -- Surprise tends to increase the risk of a
+- **Avoid Surprise** -- Surprise tends to increase the risk of a
     negative outcome from the disclosure of a vulnerability and should
     be avoided.
--   **Incentivize Desired Behavior** -- It's usually better to reward
+- **Incentivize Desired Behavior** -- It's usually better to reward
     good behavior than try to punish bad behavior. Incentives are
     important as they increase the likelihood of future cooperation
     between security researchers and organizations.
--   **Ethical Considerations** -- A number of ethical guidelines from
+- **Ethical Considerations** -- A number of ethical guidelines from
     both technical and journalistic professional societies can find
     application in the CVD process.
--   **Process Improvement** -- Participants in the CVD process should
+- **Process Improvement** -- Participants in the CVD process should
     learn from their experience and improve their process accordingly.
     CVD can also provide important feedback to an organization's
     Software Development Lifecycle (SDL).
--   **CVD as a Wicked Problem** -- As we've already mentioned,
+- **CVD as a Wicked Problem** -- As we've already mentioned,
     vulnerability disclosure is a multifaceted problem for which there
     appear to be no "right" answers, only "better" or "worse"
     solutions in a given context.
@@ -94,21 +94,21 @@ patches or mitigations. As a result, several distinct roles and
 stakeholders are involved in the CVD process. These include the
 following:
 
--   **Finder (Discoverer)** -- the individual or organization that
+- **Finder (Discoverer)** -- the individual or organization that
     identifies the vulnerability
--   **Reporter** -- the individual or organization that notifies the
+- **Reporter** -- the individual or organization that notifies the
     vendor of the vulnerability
--   **Vendor** -- the individual or organization that created or
+- **Vendor** -- the individual or organization that created or
     maintains the product that is vulnerable
--   **Deployer** -- the individual or organization that must deploy a
+- **Deployer** -- the individual or organization that must deploy a
     patch or take other remediation action
--   **Coordinator** -- an individual or organization that facilitates
+- **Coordinator** -- an individual or organization that facilitates
     the coordinated response process
 
 It is possible and often the case that individuals and organizations
 play multiple roles. For example, a cloud service provider might act as
 both vendor and deployer, while a researcher might act as both finder
-and reporter. A vendor may also be both a deployer and a coordinator. 
+and reporter. A vendor may also be both a deployer and a coordinator.
 
 Reasons to engage a coordinator include reporter inexperience, reporter
 capacity, multiparty coordination cases, disputes among CVD
@@ -129,16 +129,16 @@ single vulnerability case (for example, each recipient of a case may
 need to independently validate a report), they often happen in the
 following order:
 
--   **Discovery** -- Someone discovers a vulnerability in a product.
--   **Reporting** -- The product's vendor or a third-party coordinator
+- **Discovery** -- Someone discovers a vulnerability in a product.
+- **Reporting** -- The product's vendor or a third-party coordinator
     receives a vulnerability report.
--   **Validation and prioritization** -- The receiver of a report validates it
+- **Validation and prioritization** -- The receiver of a report validates it
     to ensure accuracy before prioritizing it for further action.
--   **Remediation** -- A remediation plan (ideally a software patch, but
+- **Remediation** -- A remediation plan (ideally a software patch, but
     could also be other mechanisms) is developed and tested.
--   **Public Awareness** -- The vulnerability and its remediation plan
+- **Public Awareness** -- The vulnerability and its remediation plan
     is disclosed to the public.
--   **Deployment** -- The remediation is applied to deployed systems.
+- **Deployment** -- The remediation is applied to deployed systems.
 
 # **CVD Process Variation** {#ExecutiveSummary-CVDProcessVariation}
 
@@ -147,18 +147,18 @@ organization levels, the CVD process can vary from participant to
 participant, over time, and in varying contexts. Some points of
 variation include those below:
 
--   **Choosing a disclosure policy** -- Disclosure policies may need to
+- **Choosing a disclosure policy** -- Disclosure policies may need to
     be adapted for different organizations, industries, and even
     products due to variations in business needs such as patch
     distribution or safety risks.
--   **Coordinating among multiple parties** -- Coordination between a
+- **Coordinating among multiple parties** -- Coordination between a
     single finder and a single vendor is relatively straightforward, but
     cases involving multiple finders, or complex supply chains often
     require extra care.
--   **Pacing and synchronization** -- Different organizations work at
+- **Pacing and synchronization** -- Different organizations work at
     different operational tempos, which can increase the difficulty of
     synchronizing release of vulnerability information along with fixes.
--   **Coordination Scope** -- CVD participants must decide how far to go
+- **Coordination Scope** -- CVD participants must decide how far to go
     with the coordination process. For example, it may be preferable to
     coordinate the disclosure of critical infrastructure vulnerabilities
     all the way out to the system deployers, while for a mobile
@@ -175,24 +175,24 @@ number of obstacles along the way, which we describe in [Section
 6](6.-Troubleshooting-CVD_47677482.md). These are among the things
 that can go wrong:
 
--   **No vendor contact available** -- This can occur because a contact
+- **No vendor contact available** -- This can occur because a contact
     could not be found, or the contact is unresponsive.
--   **Participants stop responding** -- Participants in CVD might have
+- **Participants stop responding** -- Participants in CVD might have
     other priorities that draw their attention away from completing a
     CVD process in progress.
--   **Information leaks** -- Whether intentional or not, information
+- **Information leaks** -- Whether intentional or not, information
     that was intended for a private audience can find its way to others
     not involved in the CVD process.
--   **Independent discovery** -- Any vulnerability that can be found by
+- **Independent discovery** -- Any vulnerability that can be found by
     one individual can be found by another, and not all of them will
     tell you about it.
--   **Active exploitation** -- Evidence that a vulnerability is being
+- **Active exploitation** -- Evidence that a vulnerability is being
     actively exploited by adversaries often implies a need to accelerate
     the CVD process to reduce users' exposure to risk.
--   **Relationships go awry** -- CVD is a process of coordinating human
+- **Relationships go awry** -- CVD is a process of coordinating human
     activities. As such, its success depends on building relationships
     among the participants.
--   **Hype, marketing, and unwanted attention** -- The reasons for
+- **Hype, marketing, and unwanted attention** -- The reasons for
     reporting and disclosing vulnerabilities are many, but in some cases
     they can be used as a tool for marketing. This is not always
     conducive to the smooth flow of the CVD process.
@@ -277,14 +277,12 @@ background on IoT vulnerability analysis, Traffic Light Protocol,
 examples of vulnerability report forms and disclosure templates,
 pointers to publicly available disclosure policy templates, and pointers
 to additional resources for web vulnerabilities. An extensive
-[bibliography](Bibliography_47677529.md) is also included. 
+[bibliography](Bibliography_47677529.md) is also included.
 
 # References {#ExecutiveSummary-References}
 
-1.  [H. W. Rittel and M. M. Webber, "Dilemmas in a General Theory of
+1. [H. W. Rittel and M. M. Webber, "Dilemmas in a General Theory of
     Planning,"
     ]{style="color: rgb(23,43,77);text-decoration: none;"}*Policy
     Sciences,*[ vol. 4, no. 1973, pp. 155-169, June
     1973.]
-
-

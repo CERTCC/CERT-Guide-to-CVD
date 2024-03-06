@@ -35,7 +35,7 @@ In addition to the advice found below, we encourage readers to be familiar with 
 Did you notice something we missed in this list?
 We're taking [suggestions](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
 
-## CVD Problem-Solving Recipe Cards 
+## CVD Problem-Solving Recipe Cards
 
 {% include-markdown "./recipes/_recipe_explainer.md" heading-offset=1 %}
 

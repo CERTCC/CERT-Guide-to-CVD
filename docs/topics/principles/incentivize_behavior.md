@@ -1,4 +1,4 @@
-# Incentivize Desired Behavior 
+# Incentivize Desired Behavior
 
 A degree of community outreach is an important part of any CVD process.
 Not everyone shares the same values, concerns, perspectives, or even
@@ -23,5 +23,3 @@ cooperation between CVD participants.
     neither required nor expected, but having a reputation of doing so
     can be an effective way for a vendor to encourage positive
     interactions.
-    
-

@@ -4,16 +4,16 @@ Vulnerability analysis and response may require networking and forensics
 skills for certain classes of vulnerabilities, but often also requires
 some mix of the following skills:
 
--   Programming skills, especially in common languages (C, C++, Python,
+- Programming skills, especially in common languages (C, C++, Python,
     Java)
--   Reverse engineering and debugging
--   Knowledge of low-level operating system features for Windows, Mac
+- Reverse engineering and debugging
+- Knowledge of low-level operating system features for Windows, Mac
     and/or Linux
--   Hardware architecture and basic electrical engineering
--   Software security testing
--   Virtualization and some infrastructure automation
--   Written communications
--   Customer-service mindset
+- Hardware architecture and basic electrical engineering
+- Software security testing
+- Virtualization and some infrastructure automation
+- Written communications
+- Customer-service mindset
 
 In most organizations, these skills will likely be dispersed among a
 team of people rather than expecting a single person to be fluent with
@@ -43,7 +43,7 @@ suggestions below. Research has shown that many of these are effective
 responses to commonly-held morale problems
 \[3\].
 
--   *Staying well-staffed* *and rotating responsibility.* Organizations
+- *Staying well-staffed* *and rotating responsibility.* Organizations
     may choose to have several team members, trained in the CVD process
     and tools, who can temporarily assist should a regular CVD analyst
     be unavailable for any reason, even if these additional team members
@@ -54,8 +54,6 @@ responses to commonly-held morale problems
     are not pulled away from their own work so often that they
     themselves experience burnout.
 
-
-
 A related possibility shared with us by a vendor is the possibility of
 *work rotation,* whereby team members are rotated in and out of CVD
 roles; rather than temporary, the rotation is permanent among a larger
@@ -65,7 +63,7 @@ role. The same concerns in our above discussion would apply;
 organizations must be careful to balance time in and out of CVD roles in
 order to maximize the effectiveness of the rotation.
 
--   *Allowing analyst independence.* Generally, you should trust your
+- *Allowing analyst independence.* Generally, you should trust your
     analysts to make good decisions during the report prioritization process,
     and empower them to make CVD decisions. Allowing analyst autonomy
     with management's specific blessing provides relief to analysts
@@ -73,7 +71,7 @@ order to maximize the effectiveness of the rotation.
     inaccurate, unimportant, or not actionable; allowing analysts to
     make the judgment on which reports deserve priority and which should
     be closed may help reduce work-related stress.
--   *Allotting professional development time*. Analysts schedule some
+- *Allotting professional development time*. Analysts schedule some
     time each week to focus on professional development or projects.
     During these times, the analyst is not expected to perform CVD
     duties. Providing this time in whole-day chunks is preferable to
@@ -82,14 +80,12 @@ order to maximize the effectiveness of the rotation.
     handled by other on-duty analysts as much as possible. This
     suggestion may be combined with work rotation to allow for regular
     project work outside of the scope of CVD.
--   *Seeking out automation*. We have encouraged analysts to document
+- *Seeking out automation*. We have encouraged analysts to document
     procedures and processes that need updating or could even be
     automated. Prototypes can be implemented and rolled out to decrease
     the cognitive workload of analysts. Processes and tools should be
     reviewed regularly to ensure they are aiding the analyst, rather
     than fighting the analyst.
-
-
 
 Due to the possibility of burnout and the associated costs, the CERT/CC
 recommends that CVD capability be established within a well-resourced
@@ -98,11 +94,9 @@ concentrating the responsibilities to a small team, or even a single
 person. Our suggestions above may be helpful to combat analyst burnout,
 but do not form an exhaustive list of possible actions.
 
-
-
 ## References
 
-1.  [B. Rothke, "Building a Security Operations Center (SOC)," 29
+1. [B. Rothke, "Building a Security Operations Center (SOC)," 29
     Feb 2012. \[Online\]. Available:
     [https://www.rsaconference.com/events/us12/agenda/sessions/683/building-a-security-operations-center-soc](https://www.rsaconference.com/events/us12/agenda/sessions/683/building-a-security-operations-center-soc). \[Accessed 24 May
     2017\].]2.  [S. Ragan, "Avoiding burnout: Ten tips for hackers working incident
@@ -115,4 +109,5 @@ but do not form an exhaustive list of possible actions.
     of the Eleventh Symposium on Usable Privacy and Security (SOUPS
     2015)*[, July
     2015.]
+
 ##  

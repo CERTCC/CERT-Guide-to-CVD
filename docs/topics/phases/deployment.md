@@ -2,9 +2,9 @@
 
 Although we tend to think of the CVD process as ending with the disclosure of a vulnerability, if the fix is not
 deployed the rest of the exercise is futile.
-A fix that is quietly posted to a website and not well advertised is almost useless in protecting users from vulnerabilities. 
+A fix that is quietly posted to a website and not well advertised is almost useless in protecting users from vulnerabilities.
 
-Let's say that again, but this time with a box around it: 
+Let's say that again, but this time with a box around it:
 
 !!! note "CVD isn't over until the fix is deployed"
 
@@ -12,19 +12,19 @@ Let's say that again, but this time with a box around it:
     But systems are not secure until those fixes are deployed.
 
 Deploying fixes often implies provoking users, customers, and deployers to take positive action.
-Many software products are used by non-technical users. 
-These users are often unaware of how to take remediative action for a vulnerability. 
+Many software products are used by non-technical users.
+These users are often unaware of how to take remediative action for a vulnerability.
 A vendor's disclosure plan should consider how to reach the widest audience with actionable advice.
 
-It is worth remembering that public awareness is just _one_ way to achieve widespread deployment. 
+It is worth remembering that public awareness is just *one* way to achieve widespread deployment.
 The following are a few examples of others, in approximate order according to how often we encounter them.
 
-## Automatic updates 
+## Automatic updates
 
 Vendors might choose to design their software with automated updates as part of their deployment strategy.
-Products with secure automatic updates provide a good way to get a patch deployed quickly to a wide audience. 
+Products with secure automatic updates provide a good way to get a patch deployed quickly to a wide audience.
 However, not all users are able or willing to use automatic updates, so it is still important for vendors to draw attention to their fixes.
-Vendors should strive to implement easy and secure update methods in their products. 
+Vendors should strive to implement easy and secure update methods in their products.
 In addition to improving deployment efficiency, automatic updates provide an opportunity for vendors to have visibility into the deployment status across their customer base via telemetry[^1].
 In situations where automated deployment is not possible, the vendor's disclosure plan should be specific about how to spread the word of a new patch as quickly as possible.
 
@@ -32,12 +32,11 @@ In situations where automated deployment is not possible, the vendor's disclosur
 
 ## Single Instance Software
 
-Vendors who provide Software-as-a-Service can often just deploy fixes directly to their own infrastructure since they are both the developer and deployer of the software. 
+Vendors who provide Software-as-a-Service can often just deploy fixes directly to their own infrastructure since they are both the developer and deployer of the software.
 In this case SAAS need not be restricted to just subscriber-based services, it can include infrastructure (i.e., cloud) or public-facing websites regardless of their size.
 The distinguishing factor is that the vendor is both the originator of the fix and the deployer.
 Many bug bounty programs or Vulnerability Disclosure Programs (VDPs) exist in this space.
 For example, many of the reports received by the DoD's VDP are for this kind of vulnerability, often involving custom-developed web sites or misconfigured web servers that can be fixed directly without user involvement \cite{dod2020vdp}.
-
 
 ## Close-hold software communities
 
@@ -45,8 +44,6 @@ As mentioned in [Publishing](publishing.md), Vendors may choose to directly noti
 This kind of private notification may be appropriate when the deployers are well known to the vendor, as might be the case in a closely-held bespoke software package.
 For example, software developers for highly specialized equipment are often in direct communication with both the equipment makers and its deployers just as a matter of everyday business.
 Such vendors can be well-positioned to reach their entire deployment base via private channels.
-
-
 
 !!! tip "Give Critical Infrastructure a Head Start When Possible"
 
@@ -112,8 +109,6 @@ Remember, the goal for remediation is to fix vulnerable product
 instances or at least reduce the impact of the vulnerability.
 Consequently, if a significant portion of the vulnerable product
 instances have not been remediated, that goal has not been achieved.
-
-
 
 !!! note "CVD Goes to Washington"
 
@@ -226,31 +221,29 @@ instances have not been remediated, that goal has not been achieved.
     management systems, vendors with the ability to push patches, and
     end users who must take manual action.
 
-
 ## References
 
-1.  Havrilla, Jeffrey. "Multiple TCP/IP implementations may use
+1. Havrilla, Jeffrey. "Multiple TCP/IP implementations may use
     statistically predictable initial sequence numbers
 
     Vulnerability Note VU#498440." 13 March
     2001. [https://www.kb.cert.org/vuls/id/498440/](https://www.kb.cert.org/vuls/id/498440/){.external-link
     style="letter-spacing: 0.0px;" rel="nofollow"}
 
-2.  Juniper. "2018-10 Security Bulletin: Junos OS: Receipt of a
+2. Juniper. "2018-10 Security Bulletin: Junos OS: Receipt of a
     specifically crafted malicious MPLS packet leads to a Junos kernel
     crash (CVE-2018-0049)." 10 October
     2018. [https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST){.external-link
     style="letter-spacing: 0.0px;" rel="nofollow"}
 
-3.  Cohen, Cory. "ISC BIND 8 contains buffer overflow in transaction
+3. Cohen, Cory. "ISC BIND 8 contains buffer overflow in transaction
     signature (TSIG) handling code Vulnerability Note VU#196945." 29
     January
     2001. [https://www.kb.cert.org/vuls/id/196945/](https://www.kb.cert.org/vuls/id/196945/){.external-link
     style="letter-spacing: 0.0px;" rel="nofollow"}
 
-4.  XEN. "Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
+4. XEN. "Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
     x86: 64bit PV guest breakout via pagetable use-after-mode-change."
     2 May
     2017. [https://xenbits.xen.org/xsa/advisory-213.html](https://xenbits.xen.org/xsa/advisory-213.md){.external-link
     style="letter-spacing: 0.0px;" rel="nofollow"}
-

@@ -15,4 +15,3 @@ Group management will be an issue. Are groups local to a specific organization? 
 
 Membership -- employees move around. What expectations are there for use of personal accounts vs org-managed ones?
 -->
-

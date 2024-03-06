@@ -1,4 +1,4 @@
-# Preface 
+# Preface
 
 Software and software-based products have vulnerabilities. Left
 unaddressed, those vulnerabilities expose to risk the systems on which
@@ -119,4 +119,3 @@ many vulnerability handling processes about disclosure timing,
 coordination channels, development cycles, scanning, patching, and so
 forth will need to be reevaluated in the light of hardware-based systems
 that are likely to dominate the future internet.
-

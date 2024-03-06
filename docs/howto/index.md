@@ -1,4 +1,4 @@
-# Why Coordinate Vulnerability Disclosures? 
+# Why Coordinate Vulnerability Disclosures?
 
 Vulnerability disclosures fall between two extremes:
 
@@ -53,8 +53,6 @@ ideal scenario occurs when everyone coordinates and cooperates to
 protect the public. This coordination may also be turned into a public
 relations win for the vendor by quickly addressing the issue, thereby
 avoiding bad press for being unprepared.
-
-
 
 The [Forum of Incident Response and Security Teams](https://www.first.org) (FIRST),
 which consists of many public and private organizations and companies involved

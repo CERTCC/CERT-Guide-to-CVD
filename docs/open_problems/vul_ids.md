@@ -9,30 +9,30 @@ vulnerability databases is significant.
 This section is adapted from a CERT/CC blog post by Householder \[1\].
 
 ## On the Complexities of Vulnerability Identity
+
 Vulnerability identifiers can serve multiple purposes.
 
 They may be used to identify the following:
 
--   A vulnerability report or case
--   A document or database entry that describes a vulnerability (e.g.,
+- A vulnerability report or case
+- A document or database entry that describes a vulnerability (e.g.,
     CERT Vulnerability Notes \[2\])
--   The specific flaw that such a document or report describes \[3\]
-    
+- The specific flaw that such a document or report describes \[3\]
 
 Now this isn't really a problem as long as one case describes one
 vulnerability and that case results in the creation of one document. But
 that's not always the case, for a number of reasons, including those
 below:
 
--   Different processes use different abstractions to define what "unit
+- Different processes use different abstractions to define what "unit
     vulnerability" is. For example, CVE has specific guidance on
     counting rules \[4\].
 
--   It's rare for vendors to release single-issue patches. More often
+- It's rare for vendors to release single-issue patches. More often
     they prefer to roll up multiple fixes into a single release, and
     then publish a document about the release \[5\].
 
--   In the case of independent discovery, or at least duplicate
+- In the case of independent discovery, or at least duplicate
     reporting, multiple cases may be opened describing the same
     vulnerability. In some instances, this fact may not become obvious
     until considerable effort has been put into isolating the bugs in
@@ -40,11 +40,9 @@ below:
     different ways depending on how it's triggered. The connection
     might only be discovered on root cause analysis.
 
--   Automated testing such as fuzzing can lead to rapid discovery of
+- Automated testing such as fuzzing can lead to rapid discovery of
     very large numbers of unique failure cases that are difficult to
     resolve into specific bugs.
-
-
 
 Automated testing can also identify so many individual vulnerabilities
 that human-oriented case handling processes cannot scale to treat each
@@ -69,18 +67,20 @@ to each other, the VRDX work represents the following concepts:
 "superset," "subset," and "overlap."
 
 ## What CVE Isn't
+
 Because of the prevalence and popular use of CVE IDs in the
 vulnerability response space, many people assume that vulnerability
 identity is synonymous with Common Vulnerabilities and Exposures (CVE)
 \[9\]. However, let's briefly look at some ways in which that
 assumption is inaccurate:
 
--   CVE has limited scope of coverage.
--   Not all known vulnerabilities are assigned a CVE ID.
--   Not all vulnerabilities assigned a CVE ID have a corresponding
+- CVE has limited scope of coverage.
+- Not all known vulnerabilities are assigned a CVE ID.
+- Not all vulnerabilities assigned a CVE ID have a corresponding
     record in the CVE database.
 
 ## Every Vulnerability Database Makes Choices
+
 As the CERT/CC's vulnerability analysis efforts have expanded into
 vulnerability coordination for non-traditional computing products
 (mobile, vehicles, medical devices, IoT, etc.) \[10\], we've also begun
@@ -91,17 +91,15 @@ namely, bias.
 Steve Christey Coley and Brian Martin mention a number of biases that
 affect all VDBs in their BlackHat 2013 talk \[11\]:
 
--   **Selection bias**. Not all products receive equal scrutiny. Not all
+- **Selection bias**. Not all products receive equal scrutiny. Not all
     vul reports are included in VDBs.
--   **Publication bias**. Not all results get published. Some vuls are
+- **Publication bias**. Not all results get published. Some vuls are
     found but never reported to anyone.
--   **Abstraction bias**. This bias is an artifact of the process that
+- **Abstraction bias**. This bias is an artifact of the process that
     VDBs use to assign identifiers to vulnerabilities. (Is it 1 vul or
     3?, 23,667 or 1?)
--   **Measurement bias**. This bias encompasses errors in how a
+- **Measurement bias**. This bias encompasses errors in how a
     vulnerability is analyzed, verified, and catalogued.
-
-
 
 In an ideal scientific world, bias can be factored into analytical
 results based on the data collected. But VDBs don't exist solely in the
@@ -111,12 +109,12 @@ environments in which those VDBs operate.
 
 These choices include the following:
 
-1.  **Sources of vulnerability information monitored.** Monitoring all
+1. **Sources of vulnerability information monitored.** Monitoring all
     the potential sources of vulnerability information is unrealistic
     for resource-constrained VDBs; to date we have found none that are
     not so constrained. This choice is one source of selection bias.
 
-2.  **Inclusion and exclusion criteria.** Rules that define what subset
+2. **Inclusion and exclusion criteria.** Rules that define what subset
     of records from the sources monitored will be included (or not) in
     the VDB must be decided. What kind of vulnerabilities does the VDB
     track? Is it platform specific? Is it just a single vendor
@@ -124,34 +122,34 @@ These choices include the following:
     particular business sector? This choice is another source of
     selection bias.
 
-3.  **Content detail.** How much (and what kind of) detail goes into
+3. **Content detail.** How much (and what kind of) detail goes into
     each record in a VDB is something that must be decided: for example,
     whether to include exploit information, workarounds, detection
     criteria, and so forth.
 
-4.  **Abstraction.** What is a "unit" vulnerability? Does this report
+4. **Abstraction.** What is a "unit" vulnerability? Does this report
     represent one vul or many? That choice depends on what purpose the
     VDB serves. Christey and Martin cover this issue in their list of
     biases, describing it as "the most prevalent source of problems for
     analysis." CVE has made their abstraction content decision guidance
     available \[12\].
 
-5.  **Uncertainty tolerance.** How certain is the information included
+5. **Uncertainty tolerance.** How certain is the information included
     in the record? Is the goal of the VDB to be authoritative on first
     publication? Or can it tolerate being wrong sometimes in favor of
     getting things out more quickly?
 
-6.  **Latency tolerance.** How quickly do new records need to be placed
+6. **Latency tolerance.** How quickly do new records need to be placed
     in the VDB following the initial disclosure? This choice is a
     distinct tradeoff with uncertainty: consider the differences between
     breaking news coverage and a history book.
 
-7.  **Capacity constraints.** For a VDB, incoming vulnerability report
+7. **Capacity constraints.** For a VDB, incoming vulnerability report
     volume is unconstrained while the capacity to consume and process
     those reports into database records is decidedly not (especially
     with humans in the loop, and as of this writing they still are).
 
-8.  **Users and consumers of the data.** Ultimately, a VDB must serve
+8. **Users and consumers of the data.** Ultimately, a VDB must serve
     some useful purpose to some audience in order for it to continue to
     exist. There is a wide variety of uses for the information contained
     in VDBs (vulnerability scanning, vulnerability management systems,
@@ -161,8 +159,6 @@ These choices include the following:
     that user requirements can drive many of the other choices the VDB
     operators have to make.
 
-
-
 It's important to note that even if two vulnerability databases agree
 on the first four items in the list above (sources to watch, inclusion
 criteria, content detail, and abstraction), over time it's easy to wind
@@ -171,6 +167,7 @@ up with completely distinct data sets due to the latter items
 user needs).
 
 ## Where We Are vs. Where We Need to Be
+
 The vulnerability databases you are probably most familiar with, such as
 the National Vulnerability Database (NVD) \[13\], Common Vulnerabilities
 and Exposures (CVE) \[14\], and the CERT Vulnerability Notes Database
@@ -210,6 +207,7 @@ across all those coordination processes and the VDBs into which they
 feed.
 
 ## Vulnerability IDs, Fast and Slow
+
 Over time, it has become clear that the days of the "One Vulnerability
 ID to Rule Them All" are coming to a close and we need to start
 planning for that change. As we've covered above, one of the key
@@ -223,12 +221,10 @@ Slow]{style="color: rgb(0,51,102);"}]{.underline}, Daniel Kahneman
 describes human thought processes in terms of two distinct systems
 \[20\]:
 
--   System 1: Fast, automatic, frequent, emotional, stereotypic,
+- System 1: Fast, automatic, frequent, emotional, stereotypic,
     subconscious
--   System 2: Slow, effortful, infrequent, logical, calculating,
+- System 2: Slow, effortful, infrequent, logical, calculating,
     conscious
-
-
 
 Making the analogy to CVD processes, notice that historically there has
 been a need for slower, consistently high-quality, authoritative
@@ -252,30 +248,27 @@ out does the \_master\_ branch get updated (and merge conflicts are as
 inevitable as death and taxes).
 
 ## A Path Toward VDB Interoperability
+
 As mentioned above, the FIRST VRDX-SIG is working on a vulnerability
 cross-reference scheme that would allow for widely distributed
 vulnerability ID assignments and VDBs to run at whatever rate is
 necessary, while enabling the ability to reconcile them later once the
 dust clears:
 
--   When necessary, the CVD process could operate in System 1 for quick
+- When necessary, the CVD process could operate in System 1 for quick
     response, and clean up any resulting confusion afterwards.
--   A tactical response-focused VDB might be able to tolerate more
+- A tactical response-focused VDB might be able to tolerate more
     uncertainty in trade for lower latency.
--   A VDB with more academic leanings could do a deep-dive analysis on
+- A VDB with more academic leanings could do a deep-dive analysis on
     root causes in exchange for having fewer records and higher latency.
-
-
 
 The main idea was that VDB records can be related to each other in one
 of the following ways:
 
--   equality and inequality (two records describe the same vulnerability
+- equality and inequality (two records describe the same vulnerability
     or vulnerabilities, or they refer to different ones)
--   superset and subset (one record is more abstract than the other)
--   overlap (related but not fully contained)
-
-
+- superset and subset (one record is more abstract than the other)
+- overlap (related but not fully contained)
 
 This work builds on both prior work at the CERT/CC and Harold Booth and
 Karen Scarfone's October 2013 IETF Draft Vulnerability Data Model
@@ -307,10 +300,9 @@ everyone who shares our interest in seeing that vulnerabilities get
 coordinated and disclosed, and that patches are created and deployed,
 all with an eye toward minimizing societal harm in the process.
 
-
-
 ## References
-1.  [A. Householder, "Vulnerability IDs, Fast and Slow," 11
+
+1. [A. Householder, "Vulnerability IDs, Fast and Slow," 11
     March 2016. \[Online\]. Available:
     [https://insights.sei.cmu.edu/cert/2016/03/vulnerability-ids-fast-and-slow.html](https://insights.sei.cmu.edu/cert/2016/03/vulnerability-ids-fast-and-slow.md). \[Accessed 7 June
     2017\].]2.  [CERT/CC, "Vulnerability Notes Database," \[Online\]. Available:

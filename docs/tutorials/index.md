@@ -1,4 +1,4 @@
-# Introduction 
+# Introduction
 
 Imagine you've found a vulnerability in a product. What do you do with
 this knowledge?
@@ -14,7 +14,7 @@ will supersede this version anyway. There are plenty of good reasons
 that it might not be worth the hassle of fixing it or reporting it.
 Although this is what a mathematician would refer to as a degenerate
 case of the disclosure process in which no disclosure occurs, it's
-important to recognize that even _starting_ the process of disclosure is a
+important to recognize that even *starting* the process of disclosure is a
 choice one must consider carefully.
 
 Often, though, you will likely feel a need to take some action in
@@ -30,10 +30,9 @@ begins.
 
 <div class="grid cards" markdown>
 
--   [Coordinated Vulnerability Disclosure is a Process, Not an Event](cvd_is_a_process.md)
--   [CVD Context and Terminology Notes](terminology.md)
--   [Why Coordinate Vulnerability Disclosures?](../howto/why_coordinate.md)
--   [Previewing the Remainder of this documentation](preview.md)
+- [Coordinated Vulnerability Disclosure is a Process, Not an Event](cvd_is_a_process.md)
+- [CVD Context and Terminology Notes](terminology.md)
+- [Why Coordinate Vulnerability Disclosures?](../howto/why_coordinate.md)
+- [Previewing the Remainder of this documentation](preview.md)
 
 </div>
-

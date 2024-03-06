@@ -94,7 +94,7 @@ Once you have been granted a Cyber-Related Sanctions Regulations License
 you must follow the requirements. The CERT/CC has been party to two
 licenses. These licenses had four sections:
 
-1.  A description of the authorization. In our case, it stated that the
+1. A description of the authorization. In our case, it stated that the
     License was being issued to [CISA]{acronym-label="CISA"
     acronym-form="singular+short"} and listed the other parties, known
     as *Licensees*, which have been authorized to engage with the
@@ -102,12 +102,12 @@ licenses. These licenses had four sections:
     purpose of addressing certain software vulnerabilities that threaten
     U.S. companies, as described in the Application."
 
-2.  A set of limitations on the license. In our case, the license
+2. A set of limitations on the license. In our case, the license
     indicated that the [SDN]{acronym-label="SDN"
     acronym-form="singular+short"} is subject to the "blocked property"
     requirement: there can be no transaction of property.
 
-3.  Record keeping and reporting requirements. The
+3. Record keeping and reporting requirements. The
     [CERT/CC]{acronym-label="CERT/CC" acronym-form="singular+short"} met
     this requirement by maintaining copies of email records and database
     entries separately to facilitate timely reporting. The
@@ -117,7 +117,7 @@ licenses. These licenses had four sections:
     the time, all reports needed to be physically mailed to the
     Department of the Treasury.
 
-4.  A description of license dependencies, including the expiration date
+4. A description of license dependencies, including the expiration date
     for the License.
 
 ~~Section 4 states the "License is limited to the facts and
@@ -169,7 +169,7 @@ information sharing program within 2 days
 
 from [@0]
 
-[^1]: https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists
+[^1]: <https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists>
 
 [^2]: A license is an authorization from [OFAC]{acronym-label="OFAC"
     acronym-form="singular+short"} to engage in a transaction that

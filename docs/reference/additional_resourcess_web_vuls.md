@@ -1,4 +1,4 @@
-# Appendix F - Additional Resources for Web Vulnerabilities 
+# Appendix F - Additional Resources for Web Vulnerabilities
 
 # Summary {#AppendixFAdditionalResourcesforWebVulnerabilities-Summary}
 
@@ -6,7 +6,7 @@ The following is a list of resources on mitigating, remediating, and
 preventing vulnerabilities, for system owners that receive a
 vulnerability reports via their CVD process. After validation is
 performed on the report, these resources assist in determining an
-appropriate remediation response. 
+appropriate remediation response.
 
 Vulnerabilities present in current operational systems must be
 remediated after a proper validation and risk assessment are performed.
@@ -14,17 +14,17 @@ Custom development should integrate secure coding practices, and risk
 analysis should be performed before the custom web application is placed
 on the internet in operation.
 
--   [Summary](#AppendixFAdditionalResourcesforWebVulnerabilities-Summary)
--   [Overview](#AppendixFAdditionalResourcesforWebVulnerabilities-Overview)
--   [Testing and Validation of Web
+- [Summary](#AppendixFAdditionalResourcesforWebVulnerabilities-Summary)
+- [Overview](#AppendixFAdditionalResourcesforWebVulnerabilities-Overview)
+- [Testing and Validation of Web
     Vulnerabilities](#AppendixFAdditionalResourcesforWebVulnerabilities-TestingandValidationofWebVulnerabilities)
-    -   [Client-based Testing
+  - [Client-based Testing
         Tools](#AppendixFAdditionalResourcesforWebVulnerabilities-Client-basedTestingTools)
-    -   [Web-based Testing
+  - [Web-based Testing
         Tools](#AppendixFAdditionalResourcesforWebVulnerabilities-Web-basedTestingTools)
--   [Vulnerability Remediation
+- [Vulnerability Remediation
     Resources](#AppendixFAdditionalResourcesforWebVulnerabilities-VulnerabilityRemediationResources)
--   [Development
+- [Development
     Resources](#AppendixFAdditionalResourcesforWebVulnerabilities-DevelopmentResources)
 
 # Overview {#AppendixFAdditionalResourcesforWebVulnerabilities-Overview}
@@ -73,17 +73,17 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 +--------------+----------------------+-------------------------------+
 | Virtual      | Due to the small     | [https://www                  |
 | Machine      | chance that a report | .linux-kvm.org/page/Main_Page |
-| Validation   | will contain         | ](https://www.linux-kvm.org/p |
+| Validation   | will contain         | ](<https://www.linux-kvm.org/p> |
 | Workstation  | malicious a          | age/Main_Page){.external-link |
 |              | proof-of-concept or  | rel="nofollow"}               |
 |              | Trojan horse,        |                               |
 |              | recovery and         | [https:                       |
-|              | containment may be   | //www.vmware.com/](https://ww |
+|              | containment may be   | //www.vmware.com/](<https://ww> |
 |              | easier if analysts   | w.vmware.com/){.external-link |
 |              | use virtual machines | rel="nofollow"}               |
 |              | for validation       |                               |
 |              | workstations.        | [https://www.vi               |
-|              |                      | rtualbox.org/](https://www.vi |
+|              |                      | rtualbox.org/](<https://www.vi> |
 |              |                      | rtualbox.org/){.external-link |
 |              |                      | rel="nofollow"}               |
 |              |                      |                               |
@@ -94,7 +94,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              | access to Internet   |                               |
 |              | Explorer, Firefox,   | [https://www.microsoft.com/en |
 |              | Chrome, and Edge     | -us/download/internet-explore |
-|              | with any necessary   | r.aspx](https://www.microsoft |
+|              | with any necessary   | r.aspx](<https://www.microsoft> |
 |              | enterprise           | .com/en-us/download/internet- |
 |              | certificate          | explorer.aspx){.external-link |
 |              | authorities          | rel="nofollow"}               |
@@ -103,14 +103,14 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              |                      |                               |
 |              |                      | [https:/                      |
 |              |                      | /www.mozilla.org/en-US/firefo |
-|              |                      | x/](https://www.mozilla.org/e |
+|              |                      | x/](<https://www.mozilla.org/e> |
 |              |                      | n-US/firefox/){.external-link |
 |              |                      | rel="nofollow"}               |
 |              |                      |                               |
 |              |                      | Chrome                        |
 |              |                      |                               |
 |              |                      | [https://www.google.c         |
-|              |                      | om/chrome/](https://www.googl |
+|              |                      | om/chrome/](<https://www.googl> |
 |              |                      | e.com/chrome/){.external-link |
 |              |                      | rel="nofollow"}               |
 |              |                      |                               |
@@ -118,7 +118,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              |                      |                               |
 |              |                      | [https://ww                   |
 |              |                      | w.microsoft.com/en-us/windows |
-|              |                      | /microsoft-edge](https://www. |
+|              |                      | /microsoft-edge](<https://www>. |
 |              |                      | microsoft.com/en-us/windows/m |
 |              |                      | icrosoft-edge){.external-link |
 |              |                      | s                             |
@@ -128,12 +128,12 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              |                      | Safari                        |
 |              |                      |                               |
 |              |                      | [https://www.apple.           |
-|              |                      | com/safari/](https://www.appl |
+|              |                      | com/safari/](<https://www.appl> |
 |              |                      | e.com/safari/){.external-link |
 |              |                      | rel="nofollow"}               |
 +--------------+----------------------+-------------------------------+
 | Burp Suite   | Requires Java JRE.   | [https://portswigge           |
-|              |                      | r.net/burp/](https://portswig |
+|              |                      | r.net/burp/](<https://portswig> |
 |              |                      | ger.net/burp/){.external-link |
 |              |                      | rel="nofollow"}               |
 +--------------+----------------------+-------------------------------+
@@ -147,7 +147,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 | Firefox      | There are several    | Web Developer Add-on\         |
 | Add-ons      | Firefox add-ons      | [https://addons.mozilla.o     |
 |              | which can aid in     | rg/en-US/firefox/addon/web-de |
-|              | validating reports.  | veloper/](https://addons.mozi |
+|              | validating reports.  | veloper/](<https://addons.mozi> |
 |              |                      | lla.org/en-US/firefox/addon/w |
 |              |                      | eb-developer/){.external-link |
 |              |                      | rel="nofollow"}               |
@@ -155,7 +155,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              |                      | Firebug\                      |
 |              |                      | [https://addo                 |
 |              |                      | ns.mozilla.org/en-US/firefox/ |
-|              |                      | addon/firebug/](https://addon |
+|              |                      | addon/firebug/](<https://addon> |
 |              |                      | s.mozilla.org/en-US/firefox/a |
 |              |                      | ddon/firebug/){.external-link |
 |              |                      | rel="nofollow"}               |
@@ -163,7 +163,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              |                      | Proxy Switcher\               |
 |              |                      | [https://addons.mozilla.org   |
 |              |                      | /en-US/firefox/addon/proxy-sw |
-|              |                      | itcher/](https://addons.mozil |
+|              |                      | itcher/](<https://addons.mozil> |
 |              |                      | la.org/en-US/firefox/addon/pr |
 |              |                      | oxy-switcher/){.external-link |
 |              |                      | rel="nofollow"}               |
@@ -171,7 +171,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              |                      | Tamper Data\                  |
 |              |                      | [https://addons.mozil         |
 |              |                      | la.org/en-US/firefox/addon/ta |
-|              |                      | mper-data/](https://addons.mo |
+|              |                      | mper-data/](<https://addons.mo> |
 |              |                      | zilla.org/en-US/firefox/addon |
 |              |                      | /tamper-data/){.external-link |
 |              |                      | rel="nofollow"}               |
@@ -179,7 +179,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              |                      | RESTClient\                   |
 |              |                      | [https://addons.moz           |
 |              |                      | illa.org/en-US/firefox/addon/ |
-|              |                      | restclient/](https://addons.m |
+|              |                      | restclient/](<https://addons.m> |
 |              |                      | ozilla.org/en-US/firefox/addo |
 |              |                      | n/restclient/){.external-link |
 |              |                      | rel="nofollow"}               |
@@ -188,7 +188,7 @@ usually (but not always) outbound connections to HTTP/S ports TCP 80 and
 |              |                      | [https://a                    |
 |              |                      | ddons.mozilla.org/en-US/firef |
 |              |                      | ox/addon/cookies-manager-plus |
-|              |                      | /](https://addons.mozilla.org |
+|              |                      | /](<https://addons.mozilla.org> |
 |              |                      | /en-US/firefox/addon/cookies- |
 |              |                      | manager-plus/){.external-link |
 |              |                      | rel="nofollow"}               |
@@ -237,13 +237,13 @@ periodically re-test deployed applications.
 +--------------+----------------------+-------------------------------+
 | OWASP        | Explanations and     | [https://www.owasp.org/       |
 | Security     | implementation       | index.php/OWASP_Secure_Header |
-| Headers      | guidance for HTTP    | s_Project](https://www.owasp. |
+| Headers      | guidance for HTTP    | s_Project](<https://www.owasp>. |
 | Project      | security headers.    | org/index.php/OWASP_Secure_He |
 |              |                      | aders_Project){.external-link |
 |              |                      | rel="nofollow"}               |
 +--------------+----------------------+-------------------------------+
 | SSL Labs     | Website-based        | [https://www.ssllabs.com/     |
-| Server Test  | testing tool that    | ssltest/](https://www.ssllabs |
+| Server Test  | testing tool that    | ssltest/](<https://www.ssllabs> |
 |              | checks if deployed   | .com/ssltest/){.external-link |
 |              | website uses proper  | rel="nofollow"}               |
 |              | SSL/TLS certificates |                               |
@@ -256,9 +256,9 @@ periodically re-test deployed applications.
 |              | any tests are        |                               |
 |              | failed.              |                               |
 +--------------+----------------------+-------------------------------+
-| *            | Website-based        | [https://badssl.com/](https:  |
+| *| Website-based        | [https://badssl.com/](https:  |
 | *[Badssl.com | testing tool for     | //badssl.com/){.external-link |
-| ](http://bad | ensuring clients     | rel="nofollow"}               |
+| ](<http://bad> | ensuring clients     | rel="nofollow"}               |
 | ssl.com/){.e | (not servers) are    |                               |
 | xternal-link | properly configured  |                               |
 | rel="        | for using SSL/TLS.   |                               |
@@ -269,13 +269,11 @@ periodically re-test deployed applications.
 | **OWASP      | Tool for detecting   | [https://w                    |
 | WAP**        | vulnerabilities in   | ww.owasp.org/index.php/OWASP_ |
 |              | PHP web              | WAP-Web_Application_Protectio |
-|              | applications.        | n](https://www.owasp.org/inde |
+|              | applications.        | n](<https://www.owasp.org/inde> |
 |              |                      | x.php/OWASP_WAP-Web_Applicati |
 |              |                      | on_Protection){.external-link |
 |              |                      | rel="nofollow"}               |
 +--------------+----------------------+-------------------------------+
-
-
 
 # Vulnerability Remediation Resources {#AppendixFAdditionalResourcesforWebVulnerabilities-VulnerabilityRemediationResources}
 
@@ -286,11 +284,11 @@ or their developer will need to develop the mitigation or remediation.
 
   --------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Resource                                            Notes                                                                                                                                Link(s)
-  How to Win Friends and Remediate Vulnerabilities    Whitepaper from SANS Institute with advice on setting up a remediation capability.                                                   [https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530](https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530) 
-  Guide to Enterprise Patch Management Technologies   NIST report on managing patches for vulnerability remediation                                                                        [http://dx.doi.org/10.6028/NIST.SP.800-40r3](http://dx.doi.org/10.6028/NIST.SP.800-40r3) 
-  SQL Injection Prevention                            Advice on avoiding and fixing SQL injection vulnerabilities from OWASP                                                               [https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet) 
+  How to Win Friends and Remediate Vulnerabilities    Whitepaper from SANS Institute with advice on setting up a remediation capability.                                                   [https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530](https://www.sans.org/reading-room/whitepapers/application/win-friends-remediate-vulnerabilities-34530)
+  Guide to Enterprise Patch Management Technologies   NIST report on managing patches for vulnerability remediation                                                                        [http://dx.doi.org/10.6028/NIST.SP.800-40r3](http://dx.doi.org/10.6028/NIST.SP.800-40r3)
+  SQL Injection Prevention                            Advice on avoiding and fixing SQL injection vulnerabilities from OWASP                                                               [https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet)
   Cross-Site Scripting                                Advice on preventing and fixing cross-site scripting (XSS) vulnerabilities from Google.                                              [https://www.google.com/about/appsecurity/learning/xss/#PreventingXSS](https://www.google.com/about/appsecurity/learning/xss/#PreventingXSS)
-  Common Weakness Enumeration (CWE)                   CWE provides a taxonomy of different types of vulnerabilities. Many CWE entries provide brief advice on potential mitigations.       [https://cwe.mitre.org/](https://cwe.mitre.org/) 
+  Common Weakness Enumeration (CWE)                   CWE provides a taxonomy of different types of vulnerabilities. Many CWE entries provide brief advice on potential mitigations.       [https://cwe.mitre.org/](https://cwe.mitre.org/)
   CWE/SANS Top 25 Most Dangerous Software Errors      List of dangerous vulnerabilities, the *Insecure Interaction Between Components* section contains web application vulnerabilities.   [[https://www.sans.org/top25-software-errors/](https://www.sans.org/top25-software-errors/)]{style="color: rgb(171,34,22);"}
   OWASP Top Ten Project                               A list of the ten most critical web application security risks.                                                                      [[https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)]{style="color: rgb(171,34,22);"}
   Web Application Security Consortium (WASC)          Collection of web application security resources.                                                                                    [[http://www.webappsec.org/](http://www.webappsec.org/)]{style="color: rgb(171,34,22);"}
@@ -326,7 +324,7 @@ as secure coding development principles.
 | Application   | coding principles          | //www.owasp.org/index.p |
 | Security      | specifically tailored for  | hp/OWASP_Secure_Coding_ |
 | Project       | web applications.          | Practices\_-\_Quick_Ref |
-| (OWASP)       |                            | erence_Guide](https://w |
+| (OWASP)       |                            | erence_Guide](<https://w> |
 | Secure Coding |                            | ww.owasp.org/index.php/ |
 | Guide         |                            | OWASP_Secure_Coding_Pra |
 |               |                            | ctices_-_Quick_Referenc |
@@ -363,32 +361,3 @@ as secure coding development principles.
 |               |                            | 94.aspx){.external-link |
 |               |                            | rel="nofollow"}         |
 +---------------+----------------------------+-------------------------+
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

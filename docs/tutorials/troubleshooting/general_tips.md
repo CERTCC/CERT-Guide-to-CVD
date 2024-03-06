@@ -54,7 +54,6 @@ following guidelines to help you navigate the complexity.
     
     See also [Leaks](leaks.md), [Independent Discovery](independent_discovery.md), and [Active Exploitation](active_exploitation.md).
 
-
 !!! tip "Engage a Third-Party Coordinator"
 
     We have outlined a variety of ways in which the CVD process might not go
@@ -90,5 +89,3 @@ following guidelines to help you navigate the complexity.
         -   What went well?
         -   What went wrong?
         -   What could we do differently to improve?
-    
-

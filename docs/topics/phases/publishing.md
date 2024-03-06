@@ -77,7 +77,6 @@ parties can keep track of the issue.
     should be included in any pre-disclosure shared drafts, so that all
     parties are aware of the common identifier.
 
-
 ## Product Versioning
 
 A related issue arises when vendors fail to increment their product
@@ -86,9 +85,7 @@ makes it much harder for coordinators, vulnerability database providers,
 vulnerability scanning tool vendors, and deployers to differentiate
 systems affected by a vulnerability from those that are not.
 
-
 ## Where to Publish
-
 
 Publicly disclosing the existence of a vulnerability and the
 availability of its fix is usually considered to be the primary goal of
@@ -108,27 +105,23 @@ the CVD process.
     If the goal of the CVD process is for the fixes for vulnerable software to be *deployed*,
     then simply making the information public is insufficient -- it must be *publicized*.
 
-
 Vendors will often provide vulnerability information:
 
--   On the vendor's public website. Many vendors offer a
+- On the vendor's public website. Many vendors offer a
     security-focused section within the support section of their online
     offerings.
--   To a public mailing list or a vendor-specific list
-    
+- To a public mailing list or a vendor-specific list
 
 Vendors of bespoke software or products with highly focused customer
 bases are sometimes reasonably confident that they can reach their
-affected users directly. 
+affected users directly.
 
 These vendors often publish vulnerability and fix information:
 
--   On a customer-only site
--   Via a customer support mailing list
--   By individually notifying customers, for example through the
+- On a customer-only site
+- Via a customer support mailing list
+- By individually notifying customers, for example through the
     technical sales channel
-
-
 
 However, even with a well-organized customer contact database, it can be
 difficult for a vendor to be certain that all relevant decision makers
@@ -139,14 +132,11 @@ they provide.
 
 ## References
 
-1.  Security Focus, "BugTraq Archive," \[Online\].
+1. Security Focus, "BugTraq Archive," \[Online\].
     Available: [http://www.securityfocus.com/archive/1](http://www.securityfocus.com/archive/1). \[Accessed 23 May 2017\].
-2.  [Seclists.org](http://seclists.org/),
+2. [Seclists.org](http://seclists.org/),
     "Full Disclosure Mailing List," \[Online\].
     Available: [http://seclists.org/fulldisclosure/](http://seclists.org/fulldisclosure/). \[Accessed 23 May 2017\].
-5.  Sharwood, Simon. "Intel didn't tell CERTS, govs, about Meltdown
+5. Sharwood, Simon. "Intel didn't tell CERTS, govs, about Meltdown
     and Spectre because they couldn't help fix it." 23 February
     2018. [https://www.theregister.co.uk/2018/02/23/meltdown_spectre_letters_to_congress/](https://www.theregister.co.uk/2018/02/23/meltdown_spectre_letters_to_congress/)
-
-
-

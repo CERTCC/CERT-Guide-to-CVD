@@ -1,9 +1,8 @@
 # Disclosure Timing
 
-
 How long is "long enough" to respond to a vulnerability? Is 45 days
 long enough? Is 90 days too short? Is 217 days unreasonable? Three
-years? Talk among yourselves. We can wait. 
+years? Talk among yourselves. We can wait.
 
 As with so many questions that arise in the CVD process, there is no
 single right answer. So rather than trying to solve an underspecified
@@ -11,7 +10,7 @@ set of inequalities, let's have a look at some of the factors that tend
 to play into timing choices. This will give us an opportunity to see
 where some of the variability comes from.
 
-!!! tip inline end "All Disclosure Agreements Are Contingent" 
+!!! tip inline end "All Disclosure Agreements Are Contingent"
 
     When vendors, reporters, and/or coordinators negotiate and agree to a
     release timeline for a vulnerability, they may behave as if they've
@@ -87,21 +86,21 @@ earlier or later than planned.
 
 Reasons to release early include:
 
--   Evidence of active exploitation
--   Vendor fails to respond, is not acting in good faith, or denies the
+- Evidence of active exploitation
+- Vendor fails to respond, is not acting in good faith, or denies the
     existence of a vulnerability
--   Vulnerability is known to be discovered by adversaries, so the race
+- Vulnerability is known to be discovered by adversaries, so the race
     to defend vulnerable systems is more focused
--   All known users have been notified and patched (usually via private
+- All known users have been notified and patched (usually via private
     channels)
 
 Reasons to hold back release include:
 
--   Vendor not ready with fix, but continuing to make progress and is
+- Vendor not ready with fix, but continuing to make progress and is
     acting in good faith
--   Vulnerabilities with severe impact, especially those affecting
+- Vulnerabilities with severe impact, especially those affecting
     safety-critical or critical infrastructure
--   Cases where new information is found late in the process, for
+- Cases where new information is found late in the process, for
     example that there are important but previously unrecognized
     dependencies that alter the impact of the vulnerability or patch
     deployability
@@ -127,20 +126,18 @@ parties in light of their prior experience.
     adversarial advantage that increases risk to end users.
 
 ## References
-1.  Black Hat, "Black Hat," \[Online\].
+
+1. Black Hat, "Black Hat," \[Online\].
     Available: [https://www.blackhat.com/](https://www.blackhat.com/). \[Accessed 23 May 2017\].
-2.  DEF CON, "DEF CON," \[Online\].
+2. DEF CON, "DEF CON," \[Online\].
     Available: [https://www.defcon.org/](https://www.defcon.org/). \[Accessed 23 May 2017\].
-3.  USENIX, "USENIX Security Conferences," \[Online\].
+3. USENIX, "USENIX Security Conferences," \[Online\].
     Available: [https://www.usenix.org/conferences/byname/108](https://www.usenix.org/conferences/byname/108). \[Accessed 23 May 2017\].
-4.  RSA, "RSA Conference," \[Online\].
+4. RSA, "RSA Conference," \[Online\].
     Available: [https://www.rsaconference.com/](https://www.rsaconference.com/). \[Accessed 23 May 2017\].
-5.  CanSecWest, "CanSecWest Vancouver 2018," \[Online\].
+5. CanSecWest, "CanSecWest Vancouver 2018," \[Online\].
     Available: [https://cansecwest.com/](https://cansecwest.com/). \[Accessed 23 May 2017\].
-
-
 
 \< [5.6 Maintaining Pre-Disclosure
 Secrecy](maintaining_secrecy) \| [6.
 Troubleshooting CVD](6.-Troubleshooting-CVD_47677482.md) \>
-

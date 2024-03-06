@@ -1,4 +1,4 @@
-# Reduce Harm 
+# Reduce Harm
 
 Harm reduction is a term borrowed from the public health community. In
 that context, it is used to describe efforts intended to reduce the harm
@@ -33,15 +33,15 @@ CVD works best when it focuses on reducing the harm vulnerabilities can
 cause. Some approaches to reducing the harm caused by vulnerable
 software and systems include the following:
 
--   Publishing vulnerability information. Providing high-quality,
+- Publishing vulnerability information. Providing high-quality,
     timely, targeted, automated dissemination of vulnerability
     information enables defenders to make informed decisions and take
     action quickly.
 
--   Encouraging the adoption and widespread use of exploit mitigation
+- Encouraging the adoption and widespread use of exploit mitigation
     techniques on all platforms.
 
--   Reducing days of risk. Selecting reasonable disclosure deadlines is
+- Reducing days of risk. Selecting reasonable disclosure deadlines is
     one way of achieving the goal of minimizing the time between a
     vulnerability's discovery and the remediation of its last deployed
     instance \[4\]. Another way is to shorten the time between
@@ -49,14 +49,12 @@ software and systems include the following:
     distribution using secure update mechanisms that make use of
     cryptographically signed updates or other technologies.
 
--   Releasing high-quality patches. Increasing defenders' trust that
+- Releasing high-quality patches. Increasing defenders' trust that
     patches won't break things or have undesirable side effects reduces
     lag in patch deployment by reducing the defenders' testing burden.
 
--   When possible, automated patch deployment can improve patch
+- When possible, automated patch deployment can improve patch
     deployment rates too.
-
-    
 
     :::: {.panel style="border-style: solid;border-width: 1px;"}
     ::: panelContent
@@ -68,20 +66,20 @@ software and systems include the following:
     ::::
 
 # References
-1.  Harm Reduction Coalition, "Principles of Harm Reduction,"
+
+1. Harm Reduction Coalition, "Principles of Harm Reduction,"
     \[Online\]. Available:
-    [http://harmreduction.org/about-us/principles-of-harm-reduction/](http://harmreduction.org/about-us/principles-of-harm-reduction/). 
-2.  Harm Reduction Coalition, "What is harm reduction?" \[Online\].
+    [http://harmreduction.org/about-us/principles-of-harm-reduction/](http://harmreduction.org/about-us/principles-of-harm-reduction/).
+2. Harm Reduction Coalition, "What is harm reduction?" \[Online\].
     Available:
     [https://www.hri.global/what-is-harm-reduction](https://www.hri.global/what-is-harm-reduction){.external-link
     style="letter-spacing: 0.0px;" rel="nofollow"}.
-3.  A. Householder, "Systemic Vulnerabilities: An Allegorical Tale of
+3. A. Householder, "Systemic Vulnerabilities: An Allegorical Tale of
     SteampunkVulnerability to Aero-Physical Threats," August 2015.
     \[Online\]. Available:
     [https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=442528](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=442528).
-4.  A. Arora, A. Nandkumar and R. Telang, "Does information security
+4. A. Arora, A. Nandkumar and R. Telang, "Does information security
     attack frequency increase with vulnerability disclosure? An
     empirical analysis," *Information Systems Frontiers,* vol. 8, no.
     5, pp. 350-362,
     2006. [https://link.springer.com/article/10.1007/s10796-006-9012-5](https://link.springer.com/article/10.1007/s10796-006-9012-5).
-

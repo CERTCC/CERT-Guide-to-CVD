@@ -25,9 +25,3 @@ used in CVD processes, as well as references to [disclosure
 policies](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677449){.createlink},
 practices, and [related
 information](Appendix-B&mdash;Traffic-Light-Protocol_47677521.md).
-
-
-
-
-
-

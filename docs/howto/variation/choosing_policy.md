@@ -6,41 +6,39 @@ makes it clear what other participants in the CVD process can expect
 when they engage with you and establishes good relationships between
 finders, reporters, vendors, coordinators, and other stakeholders.
 
-
-
 A disclosure policy typically describes what CVD stakeholders (finders,
 reporters, vendors, coordinators) can expect in terms of these factors:
 
--   **Scope** -- A description of the scope of issues to which the
+- **Scope** -- A description of the scope of issues to which the
     policy applies. This scope should be as explicit as possible,
     especially when there are specific boundaries of concern to the
     organization. If a bounty is to be paid for some classes of
     vulnerability reports, the scope definition should clearly delineate
     which kinds of reports will be eligible for the bounty.
 
--   **Exceptions** -- Any exceptional conditions that may alter the
+- **Exceptions** -- Any exceptional conditions that may alter the
     typical flow of the process
 
--   **Safe Harbor** -- Should your organization choose to explicitly
+- **Safe Harbor** -- Should your organization choose to explicitly
     disavow legal retribution against reporters who otherwise follow the
     policy, that fact should be clearly laid out in the policy document.
 
--   [**Report quality requirements** -- It's okay to require reports to
+- [**Report quality requirements** -- It's okay to require reports to
     meet a certain level of quality before committing to taking action
     on them. However, it's also useful to judiciously apply the
     principle of robustness here: "In general, an implementation should
     be conservative in its sending behavior, and liberal in its
     receiving behavior"
     \[1\].]
--   **Preferred Communication Language(s)** -- If the organization has
+- **Preferred Communication Language(s)** -- If the organization has
     preferences for specific (human) languages for reports, the policy
     should specify this. That said, English is usually acceptable as a
     default.
 
--   **Contact Information** -- How should reports be submitted? How can
+- **Contact Information** -- How should reports be submitted? How can
     you be reached?
 
--   **Timing** -- Setting expectations for response timelines of the
+- **Timing** -- Setting expectations for response timelines of the
     various milestones in a vulnerability report case can be helpful
     too. Most important are expected time to acknowledge receipt of a
     report and a default disclosure timeframe if one has been defined.
@@ -60,14 +58,13 @@ E](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+D
 your CSIRT and disclosure policy and procedures
 \[2\]]{style="color: rgb(23,43,77);text-decoration: none;"}.
 
-
-
 \< [5. Process Variation
 Points](5.-Process-Variation-Points_47677473.md) \| [5.2 Disclosure
 Choices](disclosure_choices) \>
 
 ## References
-1.  [J. Postel, "Internet Protocol (RFC 760),"
+
+1. [J. Postel, "Internet Protocol (RFC 760),"
     1980.]2.  [N. Brownlee and E. Guttman, "Expectations for Computer Security
     Incident Response," The Internet Society,
     1998.]

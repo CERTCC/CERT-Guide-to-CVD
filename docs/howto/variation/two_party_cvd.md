@@ -12,6 +12,3 @@ work with the finder toward a resolution.
 
 Personalities, attitudes, expectations, assumptions, and egos all play a
 part in the success or failure of even two-party CVD.
-
-
-

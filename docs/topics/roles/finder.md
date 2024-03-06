@@ -1,12 +1,10 @@
-# Finder 
-
+# Finder
 
 !!! quote "ISO/IEC 29147:2014"
-    
+
     Finder: individual or organization that identifies a potential
     vulnerability in a product or online service. Note that finders can be researchers, security companies, users, 
     governments, or coordinators.
-
 
 In the interest of consistency, we will use this
 definition of finder, although in other documentation we've used the
@@ -61,13 +59,12 @@ in various industries already employ techniques in architecture
 analysis, code review, and security testing to find vulnerabilities as
 part of their development cycle \[3\].
 
-
 Regardless of who finds a vulnerability, there are a few common events
 that follow the discovery:
 
-1.  The finder composes a vulnerability report, as discussed in [4.2
+1. The finder composes a vulnerability report, as discussed in [4.2
     Reporting](4.2-Reporting_47677468.md).
-2.  The finder (or reporter, if these are distinct individuals) provides
+2. The finder (or reporter, if these are distinct individuals) provides
     that report to someone. Often the vulnerability report would be
     provided to the vendor, but that's not always the case. Sometimes
     the report might be sent to a coordinator. If the vulnerability is
@@ -77,7 +74,7 @@ that follow the discovery:
     coordinator role in [Section 3.5](coordinator). A
     discussion of the reporting process can be found in [4.2
     Reporting](4.2-Reporting_47677468.md).
-3.  (Optional) Finders, reporters, vendors, or coordinators might
+3. (Optional) Finders, reporters, vendors, or coordinators might
     prepare a document to publish. The finder often wants to draw
     attention to his or her discovery and subsequent analysis by
     publishing a document, blog post, or conference presentation, to
@@ -94,11 +91,9 @@ that follow the discovery:
     no one. However, in that case there is no disclosure involved so we do
     not address that scenario further in this documentation.
 
-
-
-
 ## References
-1.  [BBC, "Xbox password flaw exposed by five-year-old boy," 4
+
+1. [BBC, "Xbox password flaw exposed by five-year-old boy," 4
     April 2014. \[Online\]. Available:
     [http://www.bbc.com/news/technology-26879185](http://www.bbc.com/news/technology-26879185). \[Accessed 16 May
     2017\].]2.  [Microsoft, "What is the Security Development Lifecycle?"

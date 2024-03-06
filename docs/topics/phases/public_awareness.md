@@ -16,7 +16,7 @@ For defenders, deploying patches requires effort and is often avoided
 unless there is sufficient justification. Therefore it is important to
 provide at least a brief description of the vulnerability in the release
 notes for the updated code. Knowledge of the existence of a
-vulnerability is often the key driver causing patches to be deployed. 
+vulnerability is often the key driver causing patches to be deployed.
 
 ## Disclosure Decisions
 
@@ -32,7 +32,7 @@ the following questions in establishing their policies and practices:
 <div class="grid" markdown>
 
 !!! question "Should you disclose at all?"
-    
+
     Generally, the answer will be yes,
     but there may be factors that influence this decision. For example,
     some vulnerabilities, if exploited, could place lives in danger or
@@ -66,7 +66,7 @@ the following questions in establishing their policies and practices:
     disclosure may be unnecessary.
 
 !!! question "Via what channel(s) will you disclose?"
-    
+
     Will the vulnerability
     information be published on the vendor's website? The reporter's
     blog? {== BugTraq \[1\], Full Disclosure \[2\] DATED? ==}, or other mailing lists?
@@ -85,7 +85,6 @@ the following questions in establishing their policies and practices:
 
     Be sure to discuss your expectations with all stakeholders and be
     prepared to negotiate.
-    
 
 !!! tip "Three Key Questions for Vendors"
 
@@ -97,7 +96,6 @@ the following questions in establishing their policies and practices:
     -   What, if any, additional measures should be taken to draw attention
         to the existence of the vulnerability or the availability of its
         fix?
-
 
 ## Prepare and Circulate a Draft
 
@@ -124,8 +122,6 @@ give CVD participants an opportunity for discussion and commentary.
     understand the issue while preparing their advisories, leading to
     erroneous or inadequate advice to their constituencies.
 
-
-
 At a minimum, a draft advisory should be shared between the reporter and
 vendor to reduce the likelihood of either party being taken by surprise.
 Ideally, both parties should use this documentation to coordinate how much
@@ -147,4 +143,3 @@ An example of a template for a vulnerability disclosure document is
 provided in the appendices.
 
 {% include-markdown "./publishing.md" heading-offset=1 %}
-
