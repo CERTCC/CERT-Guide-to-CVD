@@ -11,8 +11,8 @@ flowchart LR
     cvd <--> never
 ```
 
-Prior research at Carnegie Mellon into vulnerability disclosure practices has shown
-that neither extreme is socially optimal[^1]. Thus, we are given to hope
+Prior research at Carnegie Mellon into [vulnerability disclosure practices](https://doi.org/10.1007/s10796-006-9012-5) has shown
+that neither extreme is socially optimal. Thus, we are given to hope
 that we can improve on these extremes by striking a balance in between.
 But doing so requires several questions to be answered:
 
