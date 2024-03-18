@@ -1,9 +1,12 @@
 site_name: CERT<sup>&reg;</sup> Guide to Coordinated Vulnerability Disclosure
-copyright: Copyright &copy; 2017-2024 Carnegie Mellon University.
+copyright: >
+  Copyright &copy; 2017-2024 Carnegie Mellon University.
+  <br/><a href="#__consent">Change cookie settings</a>
+
 nav:
   - Home:
     - CERT Guide to CVD: 'index.md'
-    - Why This Guide: 'preface.md'
+    - Why We Wrote This Guide: 'preface.md'
     - About This Guide: 'about.md'
   - Learning CVD:
     - Overview: 'tutorials/index.md'
@@ -49,7 +52,7 @@ nav:
       - Disclosure Timing: 'howto/variation/disclosure_timing.md'
   - Understanding CVD:
     - Overview: 'topics/index.md'
-    - Principles:
+    - Principles of CVD:
         - Intro: 'topics/principles/index.md'
         - Reduce Harm: 'topics/principles/reduce_harm.md'
         - Presume Benevolence: 'topics/principles/presume_benevolence.md'
@@ -58,7 +61,7 @@ nav:
         - Ethical Considerations: 'topics/principles/ethics.md'
         - Process Improvement: 'topics/principles/process_improvement.md'
         - CVD as a Wicked Problem: 'topics/principles/wicked_problem.md'
-    - Roles:
+    - Roles in CVD:
         - Intro: 'topics/roles/index.md'
         - Finder: 'topics/roles/finder.md'
         - Reporter: 'topics/roles/reporter.md'
@@ -66,7 +69,7 @@ nav:
         - Deployer: 'topics/roles/deployer.md'
         - Coordinator: 'topics/roles/coordinator.md'
         - Other Roles: 'topics/roles/other_roles.md'
-    - Phases:
+    - Phases of CVD:
         - Intro: 'topics/phases/index.md'
         - Discovery: 'topics/phases/discovery.md'
         - Reporting: 'topics/phases/reporting.md'
@@ -74,7 +77,7 @@ nav:
         - Remediation: 'topics/phases/remediation.md'
         - Gaining Public Awareness: 'topics/phases/public_awareness.md'
         - Promote Deployment: 'topics/phases/deployment.md'
-    - Open Problems:
+    - Open Problems in CVD:
         - Intro: 'open_problems/index.md'
         - Vul IDs: 'open_problems/vul_ids.md'
         - IoT and CVD: 'open_problems/iot_cvd.md'
