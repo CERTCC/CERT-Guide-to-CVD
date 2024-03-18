@@ -23,30 +23,43 @@ declaring the data's sensitivity can help to make that determination.
 
 ### Traffic light Protocol
 
-The Traffic Light Protocol has been adopted for a standards-track by FIRST [@first_tlp]. By marking
-a document with a TLP level-----{== Red, Amber, Green, or White ==}-----a sender can easily communicate the sensitivity of
-vulnerability information and expectations about sharing it further. In
-the context of CVD, the following applies:
+The [Traffic Light Protocol](https://www.first.org/tlp) is managed by the Forum of Incident Response and Security Teams (FIRST).
+It is a set of designations used to ensure that sensitive information is shared with the appropriate audience.
+By marking a document with a TLP level, a sender can easily communicate the sensitivity of
+information and expectations about sharing it further.
 
-- TLP:GREEN and TLP:AMBER are best suited for information shared
-    between reporters, vendors, and coordinators during phases prior to
+TLP 2.0 has five levels, each with a different meaning:
+
+| Label | Description |
+|-------|-------------|
+| <span style="color:#FF2B2B;background-color:#000000">**TLP:RED**</span> | For the eyes and ears of individual recipients only, no further disclosure. | 
+| <span style="color:#FFC000;background-color:#000000">**TLP:AMBER+STRICT**</span> | Limited disclosure, recipients can only spread this on a need-to-know basis within their organization only. |
+| <span style="color:#FFC000;background-color:#000000">**TLP:AMBER**</span> | Limited disclosure, recipients can only spread this on a need-to-know basis within their organization and its clients.| 
+| <span style="color:#33FF00;background-color:#000000">**TLP:GREEN**</span> | Limited disclosure, recipients can spread this within their community. |
+| <span style="color:#FFFFFF;background-color:#000000">**TLP:CLEAR**</span> | Recipients can spread this to the world, there is no limit on disclosure. |
+
+!!! tip "TLP Levels and CVD"
+
+    We recommend using TLP:AMBER for most cases prior to public disclosure.
+
+    In the context of CVD, the following applies:
+
+    - TLP:GREEN and TLP:AMBER are best suited for information shared between reporters, vendors, and coordinators during phases prior to
     public announcement of a vulnerability.
 
-- If pre-publication announcements are made to deployers or other
-    stakeholders, TLP:RED or TLP:AMBER could be a good fit.
+    - If pre-publication announcements are made to deployers or other stakeholders, TLP:RED or TLP:AMBER+STRICT could be a good fit.
 
-- TLP:WHITE is most useful for public disclosures.
+    - TLP:CLEAR is most useful for public disclosures.
 
-See Appendix [\[apx:tlp\]](#apx:tlp){reference-type="ref"
-reference="apx:tlp"} for more on TLP.
+{% include-markdown "../../_includes/tlp_red_amber_strict_warning.md" heading-offset=1 %}
 
 ## Don't Automatically Trust Reports
 
 There are two reasons that organizations receiving vulnerability reports
 should maintain a degree of wariness regarding the reports they receive.
 The first is intentional misdirection of your CVD capability, which we
-already discussed in [Section
-4.3](4.3-Validation-and-Triage_47677469.md). The second is subtler, in
+already discussed in [Validation and Prioritization](../../topics/phases/validation_triage.md).
+The second is subtler, in
 that the technical infrastructure you deploy to manage CVD cases can
 potentially be affected by the vulnerabilities you are coordinating.
 
@@ -70,23 +83,6 @@ which their CVD support infrastructure is integrated with normal
 business operations systems. In some scenarios, maintaining parallel
 infrastructure may be preferable.
 
-## Maintaining Pre-Disclosure Secrecy
-
-The more people who know a secret, the more likely it is to leak. Simple
-probability theory tells us that even if the probability of any given
-party leaking is very low, the cumulative probability of a leak
-increases exponentially with the number of parties involved
-[@grimes2016viability].
-
-Returning to our simple model, and the "Who needs to know what, when?"
-question, multiparty disclosure highlights the need to balance
-need-to-know with need-to-share. There are varying degrees of
-need-to-know. Not everyone needs to know the same thing at the same
-time. Patch originators are usually notified early in the process, since
-their answer to "What do I need to do in response to this knowledge?"
-(i.e., create a patch) is often on the critical path for any downstream
-parties to be able to take action. Downstream vendors (patch consumers)
-and deployers can be notified later.
 
 ### Complex Communications Reduce Trust
 
