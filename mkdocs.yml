@@ -25,8 +25,8 @@ nav:
         - Active Exploitation: 'tutorials/troubleshooting/active_exploitation.md'
         - Relationships that Go Sideways: 'tutorials/troubleshooting/relationships_sideways.md'
         - Hype, Marketing, and Unwanted Attention: 'tutorials/troubleshooting/hype.md'
-        - What to Do When Things Go Wrong: 'tutorials/troubleshooting/general_tips.md'
         - Troubleshooting CVD: 'tutorials/troubleshooting/cvd_recipes.md'
+        - What to Do When Things Go Wrong: 'tutorials/troubleshooting/general_tips.md'
   - CVD How-To:
     - Overview: 'howto/index.md'
     - Avoid Unnecessary Risk: 'howto/avoid_risk.md'
