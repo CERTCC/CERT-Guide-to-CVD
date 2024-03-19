@@ -8,9 +8,10 @@ following guidelines to help you navigate the complexity.
 
     Although problems with the disclosure process can be stressful, it's
     better to keep emotions in check while resolving issues. Recall from
-    [Section 2.2](2.2.-Presume-Benevolence_47677452.md) that a presumption
+    [Presume Benevolence](../../topics/principles/presume_benevolence.md) 
+    that a presumption
     of benevolence is helpful when navigating the CVD process. As we have
-    described thus far in {== TODO fixme [Section 6](6.-Troubleshooting-CVD_47677482.md) ==},
+    described in [CVD Problem Solving](index.md),
     multiple things can go wrong in the disclosure process, but often these
     problems do not arise as a result of intentional acts of malice. So even
     if something has gone wrong, it's still good to give the benefit of the
@@ -20,7 +21,7 @@ following guidelines to help you navigate the complexity.
 
     Whatever the issue is in the context of a vulnerability disclosure,
     lawyers alone are rarely the right answer. Cease-and-desist letters tend
-    to backfire as described in [Section 6.8 ](hype).
+    to backfire as described in [Hype](hype.md).
     
     Responding with legal threats can have negative public relations effects
     in the long term for vendors as well:
@@ -29,19 +30,33 @@ following guidelines to help you navigate the complexity.
     -   It can give the impression that the organization is bullying an individual.
     -   It can drive future researchers away from reporting the vulnerabilities they find.
 
-!!! tip "Recognize the Helpers"
 
-    **For vendors:** A person who shows up at your door to tell you about a
+<div class="grid cards" markdown>
+
+!!! tip "Recognize the Helpers: Vendors"
+
+    A person who shows up at your door to tell you about a
     vulnerability in your product is not the enemy. That person is your
     friend.
 
-    **For researchers:** A vendor who is responsive is doing better than many.
+!!! tip "Recognize the Helpers: Finders/Reporters"
+
+    A vendor who is responsive is doing better than many.
     
-    **For all parties involved in CVD:** Give credit where it's due. Many
-    participants in CVD are there because they care about making things
-    better (see [Cavalry's Finder / Reporter
-    Motivations](https://www.iamthecavalry.org/motivations/)). Recognizing them for their good work keeps them
-    engaged and helps everybody in the long run.
+
+</div>
+
+!!! tip "Recognize the Helpers: Everyone"
+
+    !!! example inline end "CVD Motivations"
+    
+        [I am the Cavalry](https://www.iamthecavalry.org/motivations/) lists five motivations for security researchers:
+        Protect, Puzzle, Prestige, Profit, and Protest/Patriotism.
+
+    Give credit where it's due. 
+    Many participants in CVD are there because they care about making things better.
+    Recognizing them for their good work keeps them engaged and helps everybody in the long run.
+
 
 !!! tip "Consider Publishing Early"
 
@@ -56,22 +71,35 @@ following guidelines to help you navigate the complexity.
 
 !!! tip "Engage a Third-Party Coordinator"
 
+    !!! example inline end "Third-Party Coordinators"
+
+        Examples of third-party coorinators include the following:
+    
+        - CERT/CC
+        - National CSIRTs that handle CVD cases
+        - JPCERT/CC
+        - NCSC-FI
+        - NCSC-NL
+        - Larger vendors (Google, Microsoft, etc.)
+        - Bug bounty operators (BugCrowd, HackerOne, etc.)
+
     We have outlined a variety of ways in which the CVD process might not go
     as smoothly as you'd like, whether you are a finder, reporter, vendor,
     coordinator, or deployer. When problems arise that you're not prepared
     to handle, or even if you just need a quick opinion on what to do next,
     there are a number of coordinating organizations available to help.
-    These include the following:
 
-    - CERT/CC
-    - National CSIRTs that handle CVD cases
-    - JPCERT/CC
-    - NCSC-FI
-    - NCSC-NL
-    - Larger vendors (Google, Microsoft, etc.)
-    - Bug bounty operators (BugCrowd, HackerOne, etc.)
 
 !!! tip "Learn from the Experience"
+
+    !!! example inline end "Retrospective Questions"
+
+        As an example of questions to begin a retrospective discussion, consider
+        this list derived from the [Scrum Alliance](https://resources.scrumalliance.org/Article/sprint-retrospective):
+
+        -   What went well?
+        -   What went wrong?
+        -   What could we do differently to improve?
 
     Any process worth doing more than once is one worth improving. To that
     end, we recommend that participants in CVD take good notes. Hold a
@@ -81,11 +109,3 @@ following guidelines to help you navigate the complexity.
     "lessons learned" sessions with vulnerability coordinators at the
     CERT/CC.
 
-    !!! example "Retrospective Questions"
-
-        As an example of questions to begin a retrospective discussion, consider
-        this list derived from the [Scrum Alliance](https://resources.scrumalliance.org/Article/sprint-retrospective):
-
-        -   What went well?
-        -   What went wrong?
-        -   What could we do differently to improve?
