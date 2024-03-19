@@ -1,16 +1,20 @@
 # Intentional or Accidental Leaks
 
-Sometimes information leaks out of the CVD process. Perhaps an email
-gets CC'ed to someone who didn't need to know. Somebody might talk too
-much at a conference. Somebody could tweet that they just found a
-vulnerability in product X, providing no other details. Somebody might
-intentionally disclose the information to someone not involved in the
-supply chain for the fix.
 
 Unfortunately, not everyone plays by the same rules. You might find
 information you thought was shared in confidence showing up in some
 non-confidential location. It might be a simple misunderstanding,
 mismatched expectations, or in rare cases, a malicious act.
+
+!!! example "Ways Information Can Leak"
+
+    Sometimes information leaks out of the CVD process. 
+    
+    - Perhaps an email gets CC'ed to someone who didn't need to know. 
+    - Somebody might talk too much at a conference.
+    - Somebody could post that they just found a vulnerability in a product, providing no other details. 
+    - Somebody might intentionally disclose the information to someone not involved in the supply chain for the fix.
+
 
 !!! question "Questions to Ask When Information Leaks"
 
