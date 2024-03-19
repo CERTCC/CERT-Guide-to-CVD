@@ -1,22 +1,28 @@
 # Hype, Marketing, and Unwanted Attention
 
-In the past few years we've witnessed the rise of branded
-vulnerabilities, including
+!!! example inline end "Branded Vulnerabilities"
 
-- [Heartbleed](https://nvd.nist.gov/vuln/detail/CVE-2014-0160)
-- [Badlock](https://nvd.nist.gov/vuln/detail/CVE-2016-2118)
-- [Shell Shock](https://nvd.nist.gov/vuln/detail/CVE-2014-6271)
-- [GHOST](https://nvd.nist.gov/vuln/detail/CVE-2015-0235)
+    In recent years we've witnessed the rise of branded vulnerabilities, including
+    [Heartbleed](https://nvd.nist.gov/vuln/detail/CVE-2014-0160),
+    [Poodle](https://nvd.nist.gov/vuln/detail/CVE-2014-3566),
+    [Badlock](https://nvd.nist.gov/vuln/detail/CVE-2016-2118),
+    [Shell Shock](https://nvd.nist.gov/vuln/detail/CVE-2014-6271),
+    [GHOST](https://nvd.nist.gov/vuln/detail/CVE-2015-0235),
+    [Spectre and Meltdown](https://nvd.nist.gov/vuln/detail/CVE-2017-5753).
 
 Does having a marketing department behind a vulnerability
 disclosure make that vulnerability worse than others without the
 marketing push? Not in any technical sense, no. Instead, what it does is
 draw additional attention to the vulnerability&mdash;so vendors can be
 forced to adjust the priority of the vulnerability cases they're
-working on and allocate resources toward addressing whatever
-vulnerability is getting the hype. Are branded vulnerabilities good or
-bad for internet security? The only good answer is the lesson of the
-Taoist [parable of the farmer and the horse](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse): "Maybe."
+working on and allocate resources toward addressing whatever 
+vulnerability is getting the hype. 
+
+!!! question "Are branded vulnerabilities good or bad for internet security?"
+    
+    The only good answer is the lesson of the Taoist [parable of the farmer and the horse](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse): "Maybe."
+
+
 
 ## The Streisand Effect
 
@@ -43,9 +49,12 @@ willingness to participate in the CVD process. Even more problematic is
 that when such attention comes to focus on the vendors' products, it is
 very likely that additional vulnerabilities will be found&mdash;while
 simultaneously less likely that anyone will bother to report them to the
-vendor before disclosing them publicly. Vendors should not underestimate
-spite as a motivation for vulnerability
-discovery.
+vendor before disclosing them publicly. 
+
+!!! tip "Beware The Power of Spite"
+
+    Vendors should not underestimate spite as a motivation for vulnerability discovery.
+
 
 {% include-markdown "./recipes/_x20.md" heading-offset=1 %}
 {% include-markdown "./recipes/_x05.md" heading-offset=1 %}
