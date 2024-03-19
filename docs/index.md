@@ -126,8 +126,6 @@ to achieve.
 </div>
 
 Of course, we think it's best if you eventually become familiar with
-the entire document, but hopefully the hints above will help you find
-the most effective places to start. If you're already familiar with the
-guide and just want to see what's new, see the update log below.
+the entire site, but hopefully the hints above will help you find
+the most effective places to start.
 
-{% include-markdown "./sightings.md" %}

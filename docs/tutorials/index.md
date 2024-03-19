@@ -36,3 +36,6 @@ begins.
 - [Previewing the Remainder of this documentation](preview.md)
 
 </div>
+
+{% include-markdown "../sightings.md" %}
+

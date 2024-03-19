@@ -1,5 +1,11 @@
 # IoT and CVD
 
+!!! info inline end "About this page"
+
+    This section is adapted from a [CERT/CC blog
+    post](https://insights.sei.cmu.edu/blog/vulnerability-discovery-for-emerging-networked-systems/)
+    by Allen Householder.
+
 Next we turn our attention to the implications that the Internet of
 Things brings to the CVD discussion. "Smart things" are expected to
 outnumber traditional computers in the near future and will likely
@@ -13,50 +19,52 @@ could allow an attacker to gain a foothold.
 Because many such systems and devices are expected to remain
 operationally useful for years or even decades with minimal
 intervention, it is especially important that their security be
-thoroughly understood prior to deployment. This section collects a
-number of issues we observed in the course of work done by the
-CERT Vulnerability Analysis team, and is adapted from a CERT/CC blog
-post by [Allen Householder](https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.html).
+thoroughly understood prior to deployment. 
 
-## Black Boxes
+We have observed a number of issues in the course of work done by the
+CERT Vulnerability Analysis team. These issues are summarized below.
 
-We identified issues such as the inclusion of networked appliances in a
-larger system where the appliances provided networked services based on
-sensor data. Enterprise security policy treated the device as a black
-box rather than a general-purpose computer with regard to patch levels,
-included software, and so forth. The attack vector posed by the sensor
-data interface had not been considered either.
+<div class="grid" markdown>
 
-## Unrecognized Subcomponents
+!!! danger "IoT Devices as Black Boxes"
 
-In a number of projects, we observed that while many systems were
-composed of highly specified off-the-shelf and custom components, the
-vendors providing those systems often could not identify the third-party
-subcomponents present in the delivered codebase. The problem can be as
-simple as not identifying statically linked libraries or as complicated
-as dealing with complex supply chains for code components.
+    We identified issues such as the inclusion of networked appliances in a
+    larger system where the appliances provided networked services based on
+    sensor data. Enterprise security policy treated the device as a black
+    box rather than a general-purpose computer with regard to patch levels,
+    included software, and so forth. The attack vector posed by the sensor
+    data interface had not been considered either.
 
-## Long-Lived and Hard-to-Patch
+!!! danger "Unrecognized Subcomponents"
 
-!!! tip inline end "Long-Lived and Not Reachable"
+    In a number of projects, we observed that while many systems were
+    composed of highly specified off-the-shelf and custom components, the
+    vendors providing those systems often could not identify the third-party
+    subcomponents present in the delivered codebase. The problem can be as
+    simple as not identifying statically linked libraries or as complicated
+    as dealing with complex supply chains for code components.
 
+!!! danger "Long-Lived and Hard-to-Patch"
+
+
+    We observed various devices with wireless data capabilities embedded
+    within a larger system yet little or no ability to patch the fielded
+    systems except within very sparse service windows. Instances where
+    physical contact with the device is required in order to update it can
+    be especially problematic once vulnerabilities are discovered
     See Dan Geer's [talk](http://geer.tinho.net/geer.secot.7v14.txt) at the Security of Things Forum for more on the
     "long-lived and not reachable" problem).
 
-We observed various devices with wireless data capabilities embedded
-within a larger system yet little or no ability to patch the fielded
-systems except within very sparse service windows. Instances where
-physical contact with the device is required in order to update it can
-be especially problematic once vulnerabilities are discovered
+!!! danger "New Interfaces Bring New Threats"
 
-## New Interfaces Bring New Threats
+    We also encountered smart grid devices built out of a traditional
+    electrical component coupled to an embedded Linux system to provide
+    networked services. In a deployment context, the device was treated as
+    an appliance. However, the impact of potential vulnerabilities in the
+    general-purpose operating system embedded in the device had not been
+    fully addressed.
 
-We also encountered smart grid devices built out of a traditional
-electrical component coupled to an embedded Linux system to provide
-networked services. In a deployment context, the device was treated as
-an appliance. However, the impact of potential vulnerabilities in the
-general-purpose operating system embedded in the device had not been
-fully addressed.
+</div>
 
 ## Summarizing the IoT's Impact on CVD
 
