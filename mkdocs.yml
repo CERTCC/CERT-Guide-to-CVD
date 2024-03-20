@@ -14,6 +14,8 @@ nav:
         - A Process, Not an Event: 'tutorials/cvd_is_a_process.md'
         - CVD Terminology: 'tutorials/terminology.md'
     - Executive Summary: 'tutorials/executive_summary.md'
+    - Vulnerability Response Processes:
+        - Deployer: 'tutorials/response_process/deployer.md'
     - CVD Problem Solving:
         - Overview: 'tutorials/troubleshooting/index.md'
         - Finding Vendor Contacts: 'tutorials/find_vendor_contact.md'
