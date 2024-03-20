@@ -11,12 +11,17 @@ the CVD process is that it starts with at least one individual becoming
 aware of a vulnerability in a product. This discovery event immediately
 divides the world into two sets of people:
 
-<div class="grid cards" markdown>
 
-- :material-alarm-light: Those who know about the vulnerability
-- :material-alarm-light-off: Those who don't
+```mermaid
+flowchart TD
+    a([Everybody])
+    b([Those who know<br/>about the vulnerability])
+    c([Those who don't know<br/>about the vulnerability])
+    a -->|Finds out| b
+    a -->|Doesn't find out| c
+    
 
-</div>
+```
 
 From that point on, those belonging to the set that knows about the vulnerability iterate on two questions:
 
