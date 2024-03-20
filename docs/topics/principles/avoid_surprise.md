@@ -12,5 +12,7 @@ minimize their surprise. Publicly disclosing a vulnerability without
 coordinating first can result in panic and an aversion to future
 cooperation from vendors and finders alike.
 
-CVD promotes continued cooperation and increases the likelihood that
-future vulnerabilities will also be addressed and remedied.
+!!! tip "Future Cooperation is Built on Trust"
+
+    CVD promotes continued cooperation and increases the likelihood that
+    future vulnerabilities will also be addressed and remedied.
