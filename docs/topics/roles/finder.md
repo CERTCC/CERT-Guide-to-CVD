@@ -12,7 +12,15 @@ term discoverer for this same role. We do, however, distinguish between
 the role of finder and the role of reporter, as seen in this section and
 the next.
 
-!!! example inline end "Vulnerabilities have been found by people of many backgrounds"
+## Who Finds Vulnerabilities?
+
+Vulnerabilities can be found by just about anyone. All it takes is for
+someone to notice an unexpected or surprising behavior of a system.
+Although it is common for independent security researchers to hunt
+vulnerabilities as either a hobby or profession, finders need not
+self-identify as security researchers or hackers.
+
+!!! example "Vulnerabilities have been found by people of many backgrounds"
 
     - students and professional academics studying novel ways to exploit
     systems or protocols
@@ -25,17 +33,11 @@ the next.
     infrastructure during a penetration test engagement
     - people using software or web services who mistyped some input or
     simply clicked on the wrong thing
-    - children who like to press buttons. Kristoffer Von Hassel, a
-    five-year-old from San Diego discovered a vulnerability in
+    - children who like to press buttons. A [BBC article](http://www.bbc.com/news/technology-26879185)
+    describes how a 5-year old found a vulnerability in
     Microsoft's Xbox Live service just by holding down the space bar
-    and was able to log in to his father's account without the password
-    \[1\].
+    and was able to log in to his father's account without the password.
 
-Vulnerabilities can be found by just about anyone. All it takes is for
-someone to notice an unexpected or surprising behavior of a system.
-Although it is common for independent security researchers to hunt
-vulnerabilities as either a hobby or profession, finders need not
-self-identify as security researchers or hackers.
 
 There are also organizations that look for vulnerabilities. Some of them
 work under contract to vendors directly. Some work for the vendors'
@@ -51,39 +53,38 @@ products&mdash;a practice that we strongly encourage. This can be done via
 - contracted security testing
 - solicited on a per-vulnerability basis using a bug bounty program
 
-Many vendors integrate testing for vulnerabilities into their
-development process. Microsoft, for example, includes static, dynamic,
-and fuzz testing for vulnerabilities in its phases of the Security
-Development Lifecycle \[2\]. The BSIMM model suggests that many vendors
-in various industries already employ techniques in architecture
-analysis, code review, and security testing to find vulnerabilities as
-part of their development cycle \[3\].
+!!! example "Vendors Integrate Testing for Vulnerabilities into Development"
+
+    Many vendors integrate testing for vulnerabilities into their development process.
+    Microsoft, for example, includes static, dynamic,
+    and fuzz testing for vulnerabilities in its phases of the [Security
+    Development Lifecycle](https://www.microsoft.com/en-us/sdl/).
+    The [Building Security In Maturity Model](https://www.bsimm.com/framework/) (BSIMM)
+    suggests that many vendors in various industries already employ techniques in architecture
+    analysis, code review, and security testing to find vulnerabilities as
+    part of their development cycle.
+
+## What Happens After a Vulnerability is Found?
 
 Regardless of who finds a vulnerability, there are a few common events
 that follow the discovery:
 
-1. The finder composes a vulnerability report, as discussed in [4.2
-    Reporting](4.2-Reporting_47677468.md).
+1. The finder composes a vulnerability report, as discussed in [Reporting](../phases/reporting.md)
 2. The finder (or reporter, if these are distinct individuals) provides
     that report to someone. Often the vulnerability report would be
-    provided to the vendor, but that's not always the case. Sometimes
-    the report might be sent to a coordinator. If the vulnerability is
+    provided to the [vendor](vendor.md), but that's not always the case. Sometimes
+    the report might be sent to a [coordinator](coordinator.md). If the vulnerability is
     discovered internally to a vendor, then the report may simply be
     forwarded to the responsible team within the organization&mdash;for
-    example, filed as a security-related bug report. We cover the
-    coordinator role in [Section 3.5](coordinator). A
-    discussion of the reporting process can be found in [4.2
-    Reporting](4.2-Reporting_47677468.md).
+    example, filed as a security-related bug report. 
 3. (Optional) Finders, reporters, vendors, or coordinators might
-    prepare a document to publish. The finder often wants to draw
+    [prepare a document to publish](../phases/public_awareness.md). The finder often wants to draw
     attention to his or her discovery and subsequent analysis by
     publishing a document, blog post, or conference presentation, to
     share the findings with a larger audience. Vendors typically want to
     publish a document as well to inform their users that action has
     been taken to resolve the problem, and to prompt their users to take
-    any required remediation actions. Publishing of vulnerability
-    information is covered in [4.5 Gaining Public
-    Awareness](4.5-Gaining-Public-Awareness_47677471.md).
+    any required remediation actions.
 
 !!! tip "Regarding Non-Disclosure"
 
@@ -91,14 +92,28 @@ that follow the discovery:
     no one. However, in that case there is no disclosure involved so we do
     not address that scenario further in this documentation.
 
-## References
+## Reporter
 
-1. [BBC, "Xbox password flaw exposed by five-year-old boy," 4
-    April 2014. \[Online\]. Available:
-    [http://www.bbc.com/news/technology-26879185](http://www.bbc.com/news/technology-26879185). \[Accessed 16 May
-    2017\].]2.  [Microsoft, "What is the Security Development Lifecycle?"
-    \[Online\]. Available:
-    [https://www.microsoft.com/en-us/sdl/](https://www.microsoft.com/en-us/sdl/). \[Accessed 16 May
-    2017\].]3.  [BSIMM, "BSIMM Framework," \[Online\]. Available:
-    [https://www.bsimm.com/framework/](https://www.bsimm.com/framework/). \[Accessed 16 May
-    2017\].]
+The defining characteristic of vulnerability *reporters* is that they
+originate the message that informs a vendor or coordinator of a
+vulnerability.
+
+!!! example "When the finder is not the reporter"
+
+    In most cases, the *reporter* is also the [*finder*](finder.md) of the
+    vulnerability. However, this is not always the case. For example, the
+    finder might be an employee at an organization that also has in-house
+    vulnerability coordinators who act as the communications liaison with
+    the affected vendor(s).
+
+    Alternatively, it could be that someone analyzing a piece of malware
+    realized that it exploited a previously undisclosed vulnerability. In
+    both cases, the party communicating the vulnerability information to the
+    vendor is not the original finder.
+
+That said, whether or not the
+reporter is the original finder is often not as relevant as whether the
+newly provided information is sufficient to determine the existence and
+impact of the problem reported.
+
+

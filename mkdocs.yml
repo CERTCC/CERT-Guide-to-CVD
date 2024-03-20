@@ -74,7 +74,8 @@ nav:
         - Reporting: 'topics/phases/reporting.md'
         - Validation and Triage: 'topics/phases/validation_triage.md'
         - Remediation: 'topics/phases/remediation.md'
-        - Gaining Public Awareness: 'topics/phases/public_awareness.md'
+        - Preparing for Public Awareness: 'topics/phases/public_awareness.md'
+        - Publishing: 'topics/phases/publishing.md'
         - Promote Deployment: 'topics/phases/deployment.md'
     - Open Problems in CVD:
         - Intro: 'open_problems/index.md'
