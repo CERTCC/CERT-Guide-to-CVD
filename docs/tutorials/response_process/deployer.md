@@ -19,6 +19,21 @@ plan_deployment --> execute_plan
 
 We cover each of these in more detail below.
 
+!!! note "Deployer Vulnerability Response Process in Context"
+
+    This brief tutorial outlines the main steps of the deployer vulnerability response process.
+    Many of the steps here are covered in more detail (and from a more process-oriented rather than role-oriented perspective)
+    in the [Phases of CVD](../../topics/phases/index.md) section.
+
+{% include-markdown "../../_includes/_rmm_vm.md" %}
+
+!!! tip "Vulnerability Management"
+
+    We're calling it the "deployer vulnerability response process" here, 
+    but it's also known as "vulnerability management" or "patch management."
+    The process is the same, regardless of the name.
+
+
 ## Become Aware
 
 In order to take action, a deployer must know about the vulnerability
