@@ -13,7 +13,6 @@ nav:
     - CVD Overview:
         - A Process, Not an Event: 'tutorials/cvd_is_a_process.md'
         - CVD Terminology: 'tutorials/terminology.md'
-        - Preview: 'tutorials/preview.md'
     - Executive Summary: 'tutorials/executive_summary.md'
     - CVD Problem Solving:
         - Overview: 'tutorials/troubleshooting/index.md'
