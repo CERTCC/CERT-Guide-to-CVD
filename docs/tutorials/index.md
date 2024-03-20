@@ -54,9 +54,8 @@ begins.
 
 <div class="grid cards" markdown>
 
-- [Coordinated Vulnerability Disclosure is a Process, Not an Event](cvd_is_a_process.md)
-- [CVD Context and Terminology Notes](terminology.md)
-- [Why Coordinate Vulnerability Disclosures?](../howto/why_coordinate.md)
-- [Previewing the Remainder of this documentation](preview.md)
+- :material-motion-outline: [Coordinated Vulnerability Disclosure is a Process, Not an Event](cvd_is_a_process.md)
+- :octicons-list-ordered-16: [CVD Context and Terminology Notes](terminology.md)
+- :material-comment-question-outline: [Why Coordinate Vulnerability Disclosures?](../howto/why_coordinate.md)
 
 </div>
