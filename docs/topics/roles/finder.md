@@ -66,6 +66,23 @@ products&mdash;a practice that we strongly encourage. This can be done via
 
 ## What Happens After a Vulnerability is Found?
 
+!!! example inline end "First Steps After Finding a Vulnerability"
+
+    The following flowchart illustrates the process of finding a
+    vulnerability and the subsequent steps that might be taken.
+
+    ```mermaid
+    flowchart TD
+        start([Vulnerability Found])
+        compose_report[1. Compose a vulnerability report]
+        provide_report[2. Provide the report to someone]
+        prepare_document[3. Prepare & Publish]
+        start --> compose_report
+        compose_report --> provide_report
+        provide_report -.->|optional| prepare_document
+    
+    ```
+
 Regardless of who finds a vulnerability, there are a few common events
 that follow the discovery:
 
@@ -85,6 +102,7 @@ that follow the discovery:
     publish a document as well to inform their users that action has
     been taken to resolve the problem, and to prompt their users to take
     any required remediation actions.
+
 
 !!! tip "Regarding Non-Disclosure"
 
