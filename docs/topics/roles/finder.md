@@ -117,9 +117,3 @@ newly provided information is sufficient to determine the existence and
 impact of the problem reported.
 
 
-## References
-
-1. [BBC, "Xbox password flaw exposed by five-year-old boy," 4
-    April 2014. \[Online\]. Available:
-    [http://www.bbc.com/news/technology-26879185](http://www.bbc.com/news/technology-26879185). \[Accessed 16 May
-    2017\].]
