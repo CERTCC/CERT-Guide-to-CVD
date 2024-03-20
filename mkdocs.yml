@@ -17,6 +17,7 @@ nav:
         - CVD Terminology: 'tutorials/terminology.md'
     - Executive Summary: 'tutorials/executive_summary.md'
     - Vulnerability Response Processes:
+        - Vendor: 'tutorials/response_process/vendor.md'
         - Deployer: 'tutorials/response_process/deployer.md'
     - CVD Problem Solving:
         - Overview: 'tutorials/troubleshooting/index.md'
