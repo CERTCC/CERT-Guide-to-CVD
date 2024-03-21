@@ -10,12 +10,9 @@
     conflicting values, and where the ramifications in the whole system
     are thoroughly confusing. The term *wicked* is used, not in the sense
     of evil, but rather in the sense that these problems are tricky and
-    difficult. The problems are *wicked* in the sense that they are
-    resistant to resolution, and they are not solved by a single
-    solution, but rather by a series of solutions that are better or
-    worse. The term *wicked problem* is used to describe a problem that
+    difficult. <!--excerpt-start-->The term *wicked problem* is used to describe a problem that
     is difficult or impossible to solve because of incomplete, contradictory,
-    and changing requirements that are often difficult to recognize. 
+    and changing requirements that are often difficult to recognize.<!--excerpt-end--> 
 
     For a broader discussion of wicked problems, see the Wikipedia
     article on [Wicked Problems](https://en.wikipedia.org/wiki/Wicked_problem).

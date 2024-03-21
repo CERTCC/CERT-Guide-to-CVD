@@ -32,8 +32,8 @@ We also highlight some ethics advice from related sources.
 
 ## Ethics in Related Professional Societies
 
-Various computing-related professional societies have established their
-own codes of ethics. Each of these has some application to CVD.
+<!--excerpt-start-->Various computing-related professional societies have established their
+own codes of ethics. Each of these has some application to CVD.<!--excerpt-end-->
 While we are not attempting to replicate their ethical guidelines,
 we do want to highlight that these codes exist and are relevant to the
 work of CVD.

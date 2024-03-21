@@ -1,10 +1,10 @@
 # Incentivize Desired Behavior
 
 A degree of community outreach is an important part of any CVD process.
-Not everyone shares the same values, concerns, perspectives, or even
+<!--excerpt-start-->Not everyone shares the same values, concerns, perspectives, or even
 ethical foundations, so it's not reasonable to expect everyone to play
 by your rules. Keeping that in mind, we've found that it's usually
-better to reward good behavior than try to punish bad behavior. Such
+better to reward good behavior than try to punish bad behavior.<!--excerpt-end--> Such
 incentives are important as they increase the likelihood of continued
 cooperation between CVD participants.
 

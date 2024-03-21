@@ -1,8 +1,8 @@
 # Avoid Surprise
 
-As with most situations in which multiple parties are engaged in a
+<!--excerpt-start-->As with most situations in which multiple parties are engaged in a
 potentially stressful and contentious negotiation, surprise tends to
-increase the risk of a negative outcome. The importance of clearly
+increase the risk of a negative outcome.<!--excerpt-end--> The importance of clearly
 communicating expectations across all parties involved in a CVD process
 cannot be overemphasized.
 

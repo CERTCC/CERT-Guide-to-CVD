@@ -7,12 +7,46 @@ These principles include the following:
 
 <div class="grid cards" markdown>
 
-- [Reduce Harm](reduce_harm)
-- [Presume Benevolence](presume_benevolence)
-- [Avoid Surprise](avoid_surprise)
-- [Incentivize Desired Behavior](incentivize_behavior)
-- [Ethical Considerations](ethics)
-- [Process Improvement](process_improvement)
-- [CVD as a Wicked Problem](wicked_problem)
+- :material-safety-goggles: [Reduce Harm](reduce_harm)
+
+    ---
+    {% include-markdown "./reduce_harm.md" start="<!--excerpt-start-->"
+    end="<!--excerpt-end-->" %}
+
+- :fontawesome-solid-handshake-angle: [Presume Benevolence](presume_benevolence)
+
+    ---
+    {% include-markdown "./presume_benevolence.md" start="<!--excerpt-start-->"
+    end="<!--excerpt-end-->" %}
+
+- :material-sail-boat: [Avoid Surprise](avoid_surprise)
+
+    ---
+    {% include-markdown "./avoid_surprise.md" start="<!--excerpt-start-->"
+    end="<!--excerpt-end-->" %}
+
+- :fontawesome-solid-ice-cream: [Incentivize Desired Behavior](incentivize_behavior)
+ 
+    ---
+    {% include-markdown "./incentivize_behavior.md" start="<!--excerpt-start-->"
+    end="<!--excerpt-end-->" %}
+
+- :material-ruler-square: [Ethical Considerations](ethics)
+
+    ---
+    {% include-markdown "./ethics.md" start="<!--excerpt-start-->"
+    end="<!--excerpt-end-->" %}
+  
+- :octicons-graph-16: [Process Improvement](process_improvement)
+    
+    ---
+    {% include-markdown "./process_improvement.md" start="<!--excerpt-start-->"
+        end="<!--excerpt-end-->" %}
+
+- :material-vector-triangle: [CVD is a Wicked Problem](wicked_problem)
+
+    ---
+    {% include-markdown "./wicked_problem.md" start="<!--excerpt-start-->"
+    end="<!--excerpt-end-->" %}
 
 </div>
