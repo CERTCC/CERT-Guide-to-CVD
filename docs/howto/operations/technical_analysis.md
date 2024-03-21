@@ -22,7 +22,7 @@ And so on.
 
 Having an internal testing infrastructure is vital to proper prioritization
 and resolution of vulnerability reports as we discussed in
-[Validation and Prioritization](../../topics/phases/validation_triage.md).
+[Validation](../../topics/phases/validation.md) and [Prioritization](../../topics/phases/prioritization.md).
 Not only is testing useful for confirming reports, or reproducing and isolating bugs; it can
 also serve as a platform for an organization to develop its own
 vulnerability discovery capability.

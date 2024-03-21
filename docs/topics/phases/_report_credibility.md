@@ -26,41 +26,45 @@ The indicators for or against are not commensurate, and so they cannot be put on
 
     If neither of these confirmations are available, then the value of the [*Report Credibility*](#report-credibility) decision point depends on a balancing test among the following indicators.
 
-**Indicators *for* Credibility** include:
+!!! tip "Indicators for Credibility"
 
-- The report is specific about what is affected
-- The report provides sufficient detail to reproduce the vulnerability.
-- The report describes an attack scenario.
-- The report suggests mitigations.
-- The report includes proof-of-concept exploit code or steps to reproduce.
-- Screenshots and videos, if provided, support the written text of the report and do not replace it.
-- The report neither exaggerates nor understates the impact.
+    Indicators in favor of credibility include when the report
 
-**Indicators *against* Credibility** include:
+    - is specific about what is affected
+    - provides sufficient detail to reproduce the vulnerability.
+    - describes an attack scenario.
+    - suggests mitigations.
+    - includes proof-of-concept exploit code or steps to reproduce.
+    - neither exaggerates nor understates the impact.
 
-- The report is “spammy” or exploitative (for example, the report is an attempt to upsell the receiver on some product or service).
-- The report is vague or ambiguous about which vendors, products, or versions are affected (for example, the report claims that all “cell phones” or “wifi” or “routers” are affected).
-- The report is vague or ambiguous about the preconditions necessary to exploit the vulnerability.
-- The report is vague or ambiguous about the impact if exploited.
-- The report exaggerates the impact if exploited.
-- The report makes extraordinary claims without correspondingly extraordinary evidence (for example, the report claims that exploitation could result in catastrophic damage to some critical system without a clear causal connection between the facts presented and the impacts claimed).
-- The report is unclear about what the attacker gains by exploiting the vulnerability. What do they get that they didn't already have? For example, an attacker with system privileges can already do lots of bad things, so a report that assumes system privileges as a precondition to exploitation needs to explain what else this gives the attacker.
-- The report depends on preconditions that are extremely rare in practice, and lacks adequate evidence for why those preconditions might be expected to occur (for example, the vulnerability is only exposed in certain non-default configurations—unless there is evidence that a community of practice has established a norm of such a non-default setup).
-- The report claims dire impact for a trivially found vulnerability. It is not impossible for this to occur, but most products and services that have been around for a while have already had their low-hanging fruit major vulnerabilities picked. One notable exception would be if the reporter applied a completely new method for finding vulnerabilities to discover the subject of the report.
-- The report is rambling and is more about a narrative than describing the vulnerability. One description is that the report reads like a food recipe with the obligatory search engine optimization preamble.
-- The reporter is known to have submitted low-quality reports in the past.
-- The report conspicuously misuses technical terminology. This is evidence that the reporter may not understand what they are talking about.
-- The analyst's professional colleagues consider the report to be not credible.
-- The report consists of mostly raw tool output. Fuzz testing outputs are not vulnerability reports.
-- The report lacks sufficient detail for someone to reproduce the vulnerability.
-- The report is just a link to a video or set of images, or lacks written detail while claiming “it's all in the video”. Imagery should support a written description, not replace it.
-- The report describes a bug with no discernible security impact.
-- The report fails to describe an attack scenario, and none is obvious.
+    Additionally, screenshots and videos, if provided, support the written text of the report and do not replace it.
+    
 
-Two additional indicators of non-credible reports are:
+!!! warning "Indicators against Credibility"
 
-- The reporter is known to have submitted low-quality reports in the past.
-- The analyst’s professional colleagues consider the report to be not credible.
+    Indicators against credibility include when the report
+
+    - is “spammy” or exploitative (for example, the report is an attempt to upsell the receiver on some product or service).
+    - is vague or ambiguous about which vendors, products, or versions are affected (for example, the report claims that all “cell phones” or “wifi” or “routers” are affected).
+    - is vague or ambiguous about the preconditions necessary to exploit the vulnerability.
+    - is vague or ambiguous about the impact if exploited.
+    - exaggerates the impact if exploited.
+    - makes extraordinary claims without correspondingly extraordinary evidence (for example, the report claims that exploitation could result in catastrophic damage to some critical system without a clear causal connection between the facts presented and the impacts claimed).
+    - is unclear about what the attacker gains by exploiting the vulnerability. What do they get that they didn't already have? For example, an attacker with system privileges can already do lots of bad things, so a report that assumes system privileges as a precondition to exploitation needs to explain what else this gives the attacker.
+    - depends on preconditions that are extremely rare in practice, and lacks adequate evidence for why those preconditions might be expected to occur (for example, the vulnerability is only exposed in certain non-default configurations—unless there is evidence that a community of practice has established a norm of such a non-default setup).
+    - claims dire impact for a trivially found vulnerability. It is not impossible for this to occur, but most products and services that have been around for a while have already had their low-hanging fruit major vulnerabilities picked. One notable exception would be if the reporter applied a completely new method for finding vulnerabilities to discover the subject of the report.
+    - is rambling and is more about a narrative than describing the vulnerability. One description is that the report reads like a food recipe with the obligatory search engine optimization preamble.
+    - conspicuously misuses technical terminology. This is evidence that the reporter may not understand what they are talking about.
+    - consists of mostly raw tool output. Fuzz testing outputs are not vulnerability reports.
+    - lacks sufficient detail for someone to reproduce the vulnerability.
+    - is just a link to a video or set of images, or lacks written detail while claiming “it's all in the video”. Imagery should support a written description, not replace it.
+    - describes a bug with no discernible security impact.
+    - fails to describe an attack scenario, and none is obvious.
+
+    Two additional indicators of non-credible reports are:
+    
+    - The reporter is known to have submitted low-quality reports in the past.
+    - The analyst’s professional colleagues consider the report to be not credible.
 
 !!! question "Why isn't poor grammar on this list?"
 
@@ -72,7 +76,7 @@ Two additional indicators of non-credible reports are:
 ## Credibility of what to whom
 
 We are interested in the coordinating analyst's assessment of the credibility of a report.
-This is separate from the fact that a reporter probably reports something because they believe the report is credible.
+This is separate from the fact that a reporter probably reports something because _they_ believe the report is credible.
 
 The analyst should assess the credibility of the report of the vulnerability, not the claims of the impact of the vulnerability.
 A report may be credible in terms of the fact of the vulnerability's existence even if the stated impacts are inaccurate.

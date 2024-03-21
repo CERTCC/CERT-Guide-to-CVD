@@ -58,7 +58,8 @@ TLP 2.0 has five levels, each with a different meaning:
 There are two reasons that organizations receiving vulnerability reports
 should maintain a degree of wariness regarding the reports they receive.
 The first is intentional misdirection of your CVD capability, which we
-already discussed in [Validation and Prioritization](../../topics/phases/validation_triage.md).
+already discussed in [Validation](../../topics/phases/validation.md) and
+[Prioritization](../../topics/phases/prioritization.md).
 The second is subtler, in
 that the technical infrastructure you deploy to manage CVD cases can
 potentially be affected by the vulnerabilities you are coordinating.

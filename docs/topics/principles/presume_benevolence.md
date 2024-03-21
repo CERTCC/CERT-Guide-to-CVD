@@ -11,7 +11,7 @@ difficult to work with at times, allowing negative associations about a
 CVD participants' motives to accumulate can color your language and
 discussions with them.
 
-!!! tip "Some""
+!!! tip "Balancing Trust and Skepticism"
 
     This isn't to say you should maintain your belief that researcher is
     acting in good faith when presented with evidence to the contrary.
