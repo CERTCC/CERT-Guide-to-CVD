@@ -130,53 +130,17 @@ flowchart LR
 
 !!! tip "Product Security Incident Response Team (PSIRT)"
 
+    {% include-markdown "../../_includes/_psirt_example.md" %}
+
     A vendor might choose to establish a Product Security Incident Response
     Team (PSIRT). This is similar to a Computer Security Incident Response
     Team (CSIRT), but is engaged for product security "incidents" (e.g.,
     vulnerability reports and reports of exploitation of the company's
     products). The PSIRT acts as an interface between the public and the
-    developers.
+    developers. We describe PSIRTs in more detail in the [Coordinator](coordinator.md) section.
 
-!!! example "PSIRTs"
+{% include-markdown "../../_includes/_first_psirt.md" %}
 
-    Examples include the [Microsoft Security Response Center](https://www.microsoft.com/en-us/msrc)
-    (MSRC) and [Cisco PSIRT](https://sec.cloudapps.cisco.com/security/center/home.x).
-    Many vendor PSIRTs are active in the
-    [Forum of Incident Response and Security Teams](https://www.first.org/members/teams) (FIRST).
-
-!!! info "FIRST PSIRT Services Framework"
-
-    !!! info inline end ""
-
-        ```mermaid
-        ---
-        title: PSIRT Services Framework
-        ---
-        
-        flowchart TD
-            subgraph sa[Service Areas]
-            direction TB
-            sa1[Stakeholder<br/>Ecosystem<br/>Management]
-            sa2[Vulnerability<br/>Discovery]
-            sa3[Vulnerability<br/>Triage]
-            sa4[Vulnerability<br/>Remediation]
-            sa5[Vulnerability<br/>Disclosure]
-            sa6[Training &<br/>Education]
-            end
-            of[Organizational<br/>Foundations]
-            of ~~~ sa
-            sa1 ~~~ sa2
-            sa2 ~~~ sa3
-            sa6 ~~~ sa4
-            sa4 ~~~ sa5
-
-        ```
-
-    FIRST has published a
-    [PSIRT Services Framework](https://www.first.org/standards/frameworks/psirts/psirt_services_framework_v1.1) that
-    provides a comprehensive guide to the services that a PSIRT can provide.
-    It is organized into Service Areas, Services, Functions, and Sub-Functions.
-    The diagram at right shows the top-level Service Areas.
 
 
 !!! tip "Developers"
