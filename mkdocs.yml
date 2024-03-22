@@ -22,6 +22,7 @@ nav:
   - CVD How-To:
     - Overview: 'howto/index.md'
     - Avoid Unnecessary Risk: 'howto/avoid_risk.md'
+    - Providing Useful Reports: 'howto/useful_reports.md'
     - Reasons to Engage a Coordinator: 'howto/coordinator_reasons.md'
     - Reduce Reporting Friction: 'howto/reduce_reporting_friction.md'
     - Report Validation: 'topics/phases/validation.md'
@@ -49,11 +50,15 @@ nav:
         - What to Do When Things Go Wrong: 'tutorials/troubleshooting/general_tips.md'
     - Operations:
         - Intro: 'howto/operations/index.md'
-        - Monitoring: 'howto/operations/monitoring.md'
-        - OpSec: 'howto/operations/opsec.md'
-        - Technical Analysis: 'howto/operations/technical_analysis.md'
-        - Tools: 'howto/operations/infrastructure.md'
-        - Staffing: 'howto/operations/staffing.md'
+        - Tooling:
+          - Secure Communications: 'howto/operations/secure_comms.md'
+          - Contact Management: 'howto/operations/contact_management.md'
+          - Case Tracking: 'howto/operations/case_tracking.md'
+        - Practices:
+          - Technical Analysis: 'howto/operations/technical_analysis.md'
+          - Monitoring: 'howto/operations/monitoring.md'
+          - OpSec: 'howto/operations/opsec.md'
+          - Staffing: 'howto/operations/staffing.md'
   - Understanding CVD:
     - Overview: 'topics/index.md'
     - Principles of CVD:

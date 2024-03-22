@@ -16,10 +16,17 @@ as private unless explicitly given permission to share.
 Of course, there is some ambiguity when you say private: does that mean
 the information is for the whole organization? Just the
 CVD team? Possibly even a single analyst?
-In general, vulnerability information should be
-shared with the fewest number of people possible to effectively
-coordinate and remediate a vulnerability prior to disclosure. Clearly
-declaring the data's sensitivity can help to make that determination.
+
+!!! tip "Need-to-Know Principle"
+
+    The "need-to-know" principle is a good starting point for determining
+    who should have access to sensitive information. This principle
+    states that only those who need to know the information to perform
+    their job should have access to it.
+    In general, vulnerability information should be
+    shared with the fewest number of people possible to effectively
+    coordinate and remediate a vulnerability prior to disclosure. Clearly
+    declaring the data's sensitivity can help to make that determination.
 
 ### Traffic light Protocol
 
@@ -40,16 +47,19 @@ TLP 2.0 has five levels, each with a different meaning:
 
 !!! tip "TLP Levels and CVD"
 
-    We recommend using TLP:AMBER for most cases prior to public disclosure.
+    We recommend using <span style="color:#FFC000;background-color:#000000">**TLP:AMBER**</span> for most cases prior to public disclosure.
 
     In the context of CVD, the following applies:
 
-    - TLP:GREEN and TLP:AMBER are best suited for information shared between reporters, vendors, and coordinators during phases prior to
+    - <span style="color:#33FF00;background-color:#000000">**TLP:GREEN**</span> and <span style="color:#FFC000;background-color:#000000">**TLP:AMBER**</span> are best suited for information shared between reporters, vendors, and coordinators during phases prior to
     public announcement of a vulnerability.
 
-    - If pre-publication announcements are made to deployers or other stakeholders, TLP:RED or TLP:AMBER+STRICT could be a good fit.
+    - If pre-publication announcements are made to deployers or other stakeholders, 
+    <span style="color:#FFC000;background-color:#000000">**TLP:AMBER+STRICT**</span> could be a good fit.
 
-    - TLP:CLEAR is most useful for public disclosures.
+    - <span style="color:#FF2B2B;background-color:#000000">**TLP:RED**</span> would usually be reserved for very sensitive information.
+
+    - <span style="color:#FFFFFF;background-color:#000000">**TLP:CLEAR**</span> is most useful for public disclosures.
 
 {% include-markdown "../../_includes/tlp_red_amber_strict_warning.md" heading-offset=1 %}
 
@@ -67,22 +77,30 @@ potentially be affected by the vulnerabilities you are coordinating.
 Vulnerability reports may contain hostile attachments&mdash;not necessarily
 as an attack, but simply a reporter sending a proof-of-concept for your
 review&mdash;so vendors and coordinators should design their report tracking
-systems and process accordingly. Be sure attachments to vulnerability
-reports are not opened automatically anywhere along the process. You
-might also institute a policy that such attachments are only to be
-opened within an isolated testing environment, not on production
-systems.
+systems and process accordingly. 
 
-CVD participants should keep in mind that their case tracking and email
-systems themselves present attack surface and may be affected by the
+!!! tip "Isolate Attachments"
+
+    Be sure attachments to vulnerability
+    reports are not opened automatically anywhere along the process. You
+    might also institute a policy that such attachments are only to be
+    opened within an isolated testing environment, not on production
+    systems.
+
+CVD participants should keep in mind that their [case tracking](case_tracking.md) and [email
+systems](secure_comms.md) themselves present attack surface and may be affected by the
 very vulnerabilities they are designed to coordinate. We have witnessed
 reports containing examples of image parsing vulnerabilities causing
 problems for both webmail and ticketing systems that automatically
-generate thumbnail previews of image attachments. Vendors and
-coordinators concerned about such risks should consider the degree to
-which their CVD support infrastructure is integrated with normal
-business operations systems. In some scenarios, maintaining parallel
-infrastructure may be preferable.
+generate thumbnail previews of image attachments.
+
+!!! tip "Consider Separate Infrastructure"
+
+    Vendors and
+    coordinators concerned about such risks should consider the degree to
+    which their CVD support infrastructure is integrated with normal
+    business operations systems. In some scenarios, maintaining parallel
+    infrastructure may be preferable.
 
 
 ### Complex Communications Reduce Trust
@@ -93,11 +111,3 @@ are actively malicious, just that they may have incompatible values or
 priorities that lead them to disclose the existence of the vulnerability
 to others earlier than you'd prefer.
 
-{% include-markdown "./pgp.md" heading-offset=1 %}
-
-## References
-
-1. [FIRST, "TRAFFIC LIGHT PROTOCOL (TLP) FIRST Standards Definitions
-    and Usage Guidance &mdash; Version 1.0," \[Online\]. Available:
-    [https://www.first.org/tlp](https://www.first.org/tlp). \[Accessed 16 May
-    2017\].]

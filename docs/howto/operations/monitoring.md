@@ -3,14 +3,7 @@
 CVD participants should maintain some level of monitoring for external activity that may materially affect their
 prioritization or decision-making while handling a case.
 
-!!! info inline end "CERT RMM Monitoring Process Area"
-
-    The [Monitoring Process Area](https://insights.sei.cmu.edu/library/monitoring-mon-cert-rmm-process-area/) (MON)
-    of the [CERT Resilience Management Model](https://insights.sei.cmu.edu/library/cert-resilience-management-model-cert-rmm-collection/) (CERT-RMM) 
-    includes practices surrounding monitoring for security events, incidents, and other operationally relevant information.
-    The CERT-RMM is a process improvement model designed to help organizations to improve their operational resilience.
-
-## What to monitor for
+## What to Monitor For
 
 While cybersecurity monitoring is a practice unto itself, there are some specific things that CVD participants should be on the lookout for
 because they can affect the handling of a case. Items most directly relevant include:
@@ -22,8 +15,20 @@ because they can affect the handling of a case. Items most directly relevant inc
 | Attacks observed                        | Attacks are observed in the wild.                                                         |
 | Parallel discovery                      | Someone else finds the same vulnerability.                                                |
 
+<div class="grid" markdown>
+
+!!! tip "Advice for Vendors"
+
+    Vendors need to monitor for public information about security vulnerabilities in their products. Knowing about attacks and published exploits is key.
+
+!!! tip "Advice for Deployers"
+
+    Deployers need to monitor for public information about security vulnerabilities in the systems they have deployed (including reports coming as a result of the vendor's CVD process). They need to be on the lookout for fix announcements, mitigation advice, exploits, and attacks.
+
+</div>
+
 Although usually less-specific to individual cases, the following are also important to monitor for anyone involved
-in vulnerabilty management:
+in vulnerability management:
 
 | Type of Information   | Description                                                               |
 |-----------------------|---------------------------------------------------------------------------|
@@ -44,10 +49,9 @@ The following are some of the sources that CVD participants might choose to moni
 | Media reports            | Paying attention to what the world knows about vulnerabilities and exploits.                                                                                          |
 | Conference presentations | Paying attention to what the technical and research community knows about vulnerabilities and exploits.                                                               |
 
-!!! tip "Advice for Vendors"
+!!! info "CERT RMM Monitoring Process Area"
 
-    Vendors need to monitor for public information about security vulnerabilities in their products. Knowing about attacks and published exploits is key.
-
-!!! tip "Advice for Deployers"
-
-    Deployers need to monitor for public information about security vulnerabilities in the systems they have deployed (including reports coming as a result of the vendor's CVD process). They need to be on the lookout for fix announcements, mitigation advice, exploits, and attacks.
+    The [Monitoring Process Area](https://insights.sei.cmu.edu/library/monitoring-mon-cert-rmm-process-area/) (MON)
+    of the [CERT Resilience Management Model](https://insights.sei.cmu.edu/library/cert-resilience-management-model-cert-rmm-collection/) (CERT-RMM) 
+    includes practices surrounding monitoring for security events, incidents, and other operationally relevant information.
+    The CERT-RMM is a process improvement model designed to help organizations to improve their operational resilience.
