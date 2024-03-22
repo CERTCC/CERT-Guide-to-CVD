@@ -19,6 +19,22 @@ nav:
     - Vulnerability Response Processes:
         - Vendor: 'tutorials/response_process/vendor.md'
         - Deployer: 'tutorials/response_process/deployer.md'
+  - CVD How-To:
+    - Overview: 'howto/index.md'
+    - Avoid Unnecessary Risk: 'howto/avoid_risk.md'
+    - Reasons to Engage a Coordinator: 'howto/coordinator_reasons.md'
+    - Reduce Reporting Friction: 'howto/reduce_reporting_friction.md'
+    - Report Validation: 'topics/phases/validation.md'
+    - Prioritization: 'topics/phases/prioritization.md'
+    - Variation in CVD:
+      - Intro: 'howto/variation/index.md'
+      - Choosing a Disclosure Policy: 'howto/variation/choosing_policy.md'
+      - Disclosure Choices: 'howto/variation/disclosure_choices.md'
+      - Two-Party CVD: 'howto/variation/two_party_cvd.md'
+      - Multi-Party CVD: 'howto/variation/mpcvd.md'
+      - Response Pacing and Synchronization:  'howto/variation/response_pacing.md'
+      - Maintaining Pre-Disclosure Confidentiality: 'howto/variation/maintaining_secrecy.md'
+      - Disclosure Timing: 'howto/variation/disclosure_timing.md'
     - CVD Problem Solving:
         - Overview: 'tutorials/troubleshooting/index.md'
         - Finding Vendor Contacts: 'tutorials/find_vendor_contact.md'
@@ -31,13 +47,6 @@ nav:
         - Hype, Marketing, and Unwanted Attention: 'tutorials/troubleshooting/hype.md'
         - Troubleshooting CVD: 'tutorials/troubleshooting/cvd_recipes.md'
         - What to Do When Things Go Wrong: 'tutorials/troubleshooting/general_tips.md'
-  - CVD How-To:
-    - Overview: 'howto/index.md'
-    - Avoid Unnecessary Risk: 'howto/avoid_risk.md'
-    - Reasons to Engage a Coordinator: 'howto/coordinator_reasons.md'
-    - Reduce Reporting Friction: 'howto/reduce_reporting_friction.md'
-    - Report Validation: 'topics/phases/validation.md'
-    - Prioritization: 'topics/phases/prioritization.md'
     - Operations:
         - Intro: 'howto/operations/index.md'
         - Monitoring: 'howto/operations/monitoring.md'
@@ -45,15 +54,6 @@ nav:
         - Technical Analysis: 'howto/operations/technical_analysis.md'
         - Tools: 'howto/operations/infrastructure.md'
         - Staffing: 'howto/operations/staffing.md'
-    - Variation in CVD:
-      - Intro: 'howto/variation/index.md'
-      - Choosing a Disclosure Policy: 'howto/variation/choosing_policy.md'
-      - Disclosure Choices: 'howto/variation/disclosure_choices.md'
-      - Two-Party CVD: 'howto/variation/two_party_cvd.md'
-      - Multi-Party CVD: 'howto/variation/mpcvd.md'
-      - Response Pacing and Synchronization:  'howto/variation/response_pacing.md'
-      - Maintaining Pre-Disclosure Confidentiality: 'howto/variation/maintaining_secrecy.md'
-      - Disclosure Timing: 'howto/variation/disclosure_timing.md'
   - Understanding CVD:
     - Overview: 'topics/index.md'
     - Principles of CVD:

@@ -120,4 +120,4 @@ When a vendor gets surprised by the publication of a vulnerability in their prod
 that attempts to notify them were made but failed, it can prompt the vendor to re-evaluate their vulnerability
 intake and handling processes to make it easier to reach them in the future.
 
-{% include-markdown "./troubleshooting/recipes/_x03.md" heading-offset=1 %}
+{% include-markdown "../howto/troubleshooting/recipes/_x03.md" heading-offset=1 %}

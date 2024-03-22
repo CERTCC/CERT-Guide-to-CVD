@@ -7,10 +7,12 @@ Vulnerability Disclosure iterate over the following questions:
 2. Who else should I tell about it?
 3. What should I tell them?
 
-Let's take a moment to explore questions 2 and 2a in a few scenarios.
+Let's take a moment to explore questions 2 and 3 in a few scenarios.
 Each of these disclosure options have advantages and disadvantages. In
 this section, we adapt and expand some terminology from Shepherd
 [^1].
+
+<div class="grid" markdown>
 
 !!! info "No Disclosure"
 
@@ -71,6 +73,8 @@ this section, we adapt and expand some terminology from Shepherd
     themselves: many open source projects, for example, handle security
     issues in the open in order to maximize review of the vulnerability
     and testing of the proposed solution.
+
+</div>
 
 [^1]:  S. Shepherd, "Vulnerability Disclosure: How Do We Define
     Responsible Disclosure?" SANS GIAC SEC Practical Repository,

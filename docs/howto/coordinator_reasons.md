@@ -27,7 +27,7 @@ cases they choose to take on. As a result, coordinators and reporters
 alike should take care to set clear expectations with each other as to
 what roles they expect to play in any given coordination case.
 
-{% include-markdown "../tutorials/troubleshooting/recipes/_x01.md" heading-offset=1 %}
+{% include-markdown "./troubleshooting/recipes/_x01.md" heading-offset=1 %}
 
 ## Multiple Vendors Involved
 
@@ -44,7 +44,7 @@ implementations often have horizontal supply chains.
 We discuss horizontal and vertical supply chains in [Section
 5.4](5.4-Multiparty-CVD_47677477.md) below.
 
-{% include-markdown "../tutorials/troubleshooting/recipes/_x09.md" heading-offset=1 %}
+{% include-markdown "./troubleshooting/recipes/_x09.md" heading-offset=1 %}
 
 ## CVD Disputes
 
@@ -69,7 +69,7 @@ with conflict resolution. Drawing on the experience and relative
 neutrality of a third-party coordinator can often dissipate some of the
 potential animosity that can arise in contentious cases.
 
-{% include-markdown "../tutorials/troubleshooting/recipes/_x21.md" heading-offset=1 %}
+{% include-markdown "./troubleshooting/recipes/_x21.md" heading-offset=1 %}
 
 ## Major Infrastructure Impacts
 

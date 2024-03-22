@@ -116,7 +116,7 @@ the following questions in establishing their policies and practices:
 Many vulnerability reports can be similar, and sometimes a vendor or
 coordinator might receive multiple reports of similar vulnerabilities at
 the same time.
-Sometimes this is due to [independent discovery](../../tutorials/troubleshooting/independent_discovery.md).
+Sometimes this is due to [independent discovery](../../howto/troubleshooting/independent_discovery.md).
 Other
 times it reflects a report traversing multiple paths to arrive at its
 destination within the CVD process. This is fairly common in cases where
