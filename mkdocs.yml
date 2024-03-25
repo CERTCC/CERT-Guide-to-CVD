@@ -73,7 +73,6 @@ nav:
     - Roles in CVD:
         - Intro: 'topics/roles/index.md'
         - Finder: 'topics/roles/finder.md'
-        - Reporter: 'topics/roles/reporter.md'
         - Vendor: 'topics/roles/vendor.md'
         - Deployer: 'topics/roles/deployer.md'
         - Coordinator: 'topics/roles/coordinator.md'
@@ -88,11 +87,12 @@ nav:
         - Preparing for Public Awareness: 'topics/phases/public_awareness.md'
         - Publishing: 'topics/phases/publishing.md'
         - Promote Deployment: 'topics/phases/deployment.md'
-    - Open Problems in CVD:
-        - Intro: 'open_problems/index.md'
-        - Vul IDs: 'open_problems/vul_ids.md'
-        - IoT and CVD: 'open_problems/iot_cvd.md'
-        - IoT Vul Analysis: 'appendices/iot_vul_analysis.md'
+    - Special Topics:
+        - Internet of Things:
+          - IoT and CVD: 'topics/special/iot/index.md'
+          - IoT Vul Discovery: 'topics/special/iot/discovery.md'
+          - IoT Vul Analysis: 'topics/special/iot/analysis.md'
+        - Vulnerability IDs: 'topics/special/vul_ids.md'
   - Reference:
     - Overview: 'reference/index.md'
     - VRF: 'reference/simple_vrf.md'

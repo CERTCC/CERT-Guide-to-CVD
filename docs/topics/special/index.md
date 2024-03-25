@@ -10,6 +10,6 @@ Second, we'll cover the changes that IoT implies to CVD now and for the foreseea
 <div class="grid cards" markdown>
 
 - [Vulnerability IDs and DBs](vul_ids.md)
-- [IoT and CVD](iot_cvd.md)
+- [IoT and CVD](iot/index)
 
 </div>

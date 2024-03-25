@@ -1,12 +1,8 @@
 # IoT and CVD
 
-!!! info inline end "About this page"
+{% include-markdown "./_blog_post_info.md" heading-offset=1 %}
 
-    This section is adapted from a [CERT/CC blog
-    post](https://insights.sei.cmu.edu/blog/vulnerability-discovery-for-emerging-networked-systems/)
-    by Allen Householder.
-
-Next we turn our attention to the implications that the Internet of
+In this section, we turn our attention to the implications that the Internet of
 Things brings to the CVD discussion. "Smart things" are expected to
 outnumber traditional computers in the near future and will likely
 surpass mobile phones not long thereafter. IoT will have implications to
@@ -84,3 +80,6 @@ CVD process about disclosure timing, coordination channels, development
 cycles, scanning, patching, and so on, will need to be reevaluated in
 the light of hardware-based systems that are likely to dominate the
 future internet.
+
+
+

@@ -6,7 +6,7 @@ process, as described in the following sections:
 <div class="grid cards" markdown>
 
 - :material-magnify: [**Finder (Discoverer)**](finder.md) -- the individual or organization that identifies the vulnerability
-- :material-message-alert: [**Reporter**](reporter.md) -- the individual or organization that notifies the vendor of the vulnerability
+- :material-message-alert: [**Reporter**](finder.md) -- the individual or organization that notifies the vendor of the vulnerability
 - :material-code-braces: [**Vendor**](vendor.md) -- the individual or organization that created or maintains the product that is vulnerable
 - :material-server: [**Deployer**](deployer.md) -- the individual or organization that must deploy a patch or take other remediation action
 - :material-arrow-decision: [**Coordinator**](coordinator.md) -- an individual or organization that facilitates the coordinated response process

@@ -1,47 +1,28 @@
-# Appendix A - On the Internet of Things and Vulnerability Analysis
-
-This appendix is adapted from two CERT/CC Blog Posts:
-
-- [What's Different About Vulnerability Analysis and Discovery in Emerging Networked Systems?](https://insights.sei.cmu.edu/cert/2015/01/-whats-different-about-vulnerability-analysis-and-discovery-in-emerging-networked-systems.html)
-- [Vulnerability Discovery for Emerging Networked Systems](https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.html)
-
-# IoT Vulnerability Discovery
-
-In 2014 CERT performed a study of vulnerability discovery techniques for IoT systems.
-As we reviewed the literature, we found a number of techniques in common use. Here they are, ranked in approximately
-descending order of popularity in the research we surveyed:
-
-| Technique | Description |
-|-----------|-------------|
-| **Reading documentation** | This includes product data sheets, protocol specifications, Internet Drafts and RFCs, manufacturer documentation and specs, patents, hardware documentation, support sites, bug trackers, discussion forums, FCC filings, developer documentation, and related information. |
-| **Reverse engineering** | In most cases, this consists of reverse engineering (RE) binary firmware or other software to understand its function. However, there are instances in which merely understanding a proprietary file format is sufficient to direct further analyses. Hardware RE appears in some research, but has not been as prevalent as RE of software or file formats. |
-| **Protocol analysis** | Understanding the communication protocols used by a system is vital to identifying remotely exploitable vulnerabilities. This technique can take the form of simply sniffing traffic to find mistrusted input or channels, or reverse engineering a proprietary protocol enough to build a fuzzer for it. Decoding both the syntax and semantics can be important. In wireless systems, this technique can also take the form of using a software defined radio (SDR) to perform signal analysis, which for this purpose is essentially protocol analysis at a lower level of the stack. |
-| **Threat modeling and simulation** | Threat modeling from the attacker perspective was mentioned in a handful of papers, as was modeling and simulation of either the system or its protocols for further analysis using mathematical techniques such as game or graph theory. |
-| **Fuzzing** | Generating randomized input is a common way to test how a system deals with arbitrary input. Fuzzing of network protocols is a common method cited in a number of reports. |
-| **Input or traffic generation and spoofing** | Unlike fuzzing, spoofing usually consists of constructing otherwise valid input to a system to cause it to exhibit unexpected behavior. Constructing bogus input from a valid or trusted source also falls into this category. |
-| **Scanning** | Because most IoT are composed of multiple components, each of which may have its own architecture and code base, it is often the case that a researcher can find known vulnerabilities in systems simply by using available vulnerability scanning tools such as Nessus or Metasploit. |
-| **Hardware hacking** | This technique involves interfacing directly with the electronics at the circuit level. It is a form of physical-level reverse engineering and can include mapping circuits and connecting with JTAG to dump memory state or firmware. |
-| **Debugging** | This technique uses software-based or hardware-based debuggers. JTAG is a common hardware debugging interface mentioned in many reports. |
-| **Writing code** | This technique involves developing custom tools to assist with extracting, characterizing, and analyzing data to identify vulnerabilities. |
-| **Application of specialized knowledge and skills** | In some cases, just knowing how a system works and approaching it with a security mindset is sufficient to find vulnerabilities. Examples include RFID and ModBus. |
-
-Many of the techniques listed above are common to vulnerability
-discovery in the traditional computing and mobile world. However, the
-low-hanging fruit appears to hang much lower in the IoT than in
-traditional computing. From a security perspective, even mobile systems
-have a head start, although they are not as far along as traditional
-computing platforms. The fact is that many of the vulnerabilities found
-thus far in IoT would be considered trivial&mdash;and rightly so&mdash;in the
-more mature market of servers and desktop computing. Yet the relative
-scale of the IoT market makes even trivial vulnerabilities potentially
-risky in aggregate.
-
 # IoT Vulnerability Analysis
 
-In our review of recent security research that focused on vulnerability
+{% include-markdown "./_blog_post_info.md" heading-offset=1 %}
+
+In our 2014 review of security research that focused on vulnerability
 discovery in the Internet of Things, we identified several key
-differences between IoT and traditional computing and mobile platforms,
-including
+differences between IoT and traditional computing and mobile platforms.
+
+In the intervening years, the IoT has continued to grow at a rapid pace.
+Many specialized devices have been developed and deployed, and the
+security of these devices has become a significant concern.
+Techniques for discovering vulnerabilities in IoT systems have evolved
+and matured, but the challenges of securing these systems remain. 
+We are retaining the list of differences below as a reference for those
+interested in the unique challenges of IoT security.
+
+!!! tip "Broader Applicability of this Analysis"
+
+    Although the following analysis was focused on IoT, many of the
+    observations are applicable to other emerging networked systems as
+    well. Today, systems including artificial intelligence (AI) and machine learning (ML) are
+    becoming more prevalent, and the security challenges they present are
+    in many ways similar to those listed below.
+
+
 
 | Difference | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -57,22 +38,33 @@ including
 | **Unprepared vendors** | Often we find that IoT vendors are not prepared to receive and handle vulnerability reports from outside parties, such as the security researcher community. Many also lack the ability to perform their own vulnerability discovery within their development lifecycle. These difficulties tend to arise from one of two causes: 1. The vendor is comparatively small or new and has yet to form a product security incident response capability. 2. The vendor has deep engineering experience in its domain but has not fully incorporated the effect of network-enabling its devices into its engineering quality assurance (this is related to the inadequate threat model point above). Typically, vendors in the latter group may have very strong skills in safety engineering or regulatory compliance, yet their internet security capability is lacking. Our experience is that many IoT vendors are surprised by the vulnerability disclosure process. We frequently find ourselves having conversations that rehash two decades of vulnerability coordination and disclosure debates with vendors who appear to experience something similar to the Kübler-Ross stages of grief during the process. (The Kübler-Ross stages of grief are denial, anger, bargaining, depression, and acceptance. See [http://www.ekrfoundation.org/](http://www.ekrfoundation.org/)) |
 | **Unresolved vulnerability disclosure debates** | If we have learned anything in decades of CVD at the CERT/CC, it is that there is no single right answer to most vulnerability disclosure questions. However, in the traditional computing arena, most vendors and researchers have settled into a reasonable rhythm of allowing the vendor some time to fix vulnerabilities prior to publishing a vulnerability report more widely. Software as a service (SAAS) and software distributed through app stores can often fix and deploy patches to most customers quickly. On the opposite end of the spectrum, we find many IoT and embedded device vendors for whom fixing a vulnerability might require a firmware upgrade or even physical replacement of affected devices. This diversity of requirements forces vendors and researchers alike to reconsider their expectations with respect to the timing and level of detail provided in vulnerability reports based on the systems affected. Coupled with the proliferation of IoT vendors who are relative novices at internet-enabled devices and just becoming exposed to the world of vulnerability research and disclosure, the shift toward IoT can be expected to reinvigorate numerous disclosure debates as the various stakeholders work out their newfound positions.                                                                                          |
 
-# IoT Parting Thoughts
+## IoT Parting Thoughts
 
 Although vulnerability analysis for IoT has much in common with security
 research in traditional computing and mobile environments, there are a
-number of important distinctions outlined in this appendix. The threats
-posed by these systems given their current proliferation trajectory are
-concerning. Even as they become more common, it can be difficult to
-identify the threats posed to a network by IoT either alone or in
-aggregate. In the simplest sense one might think of it as a "hidden
-Linux" problem: How many devices can you find in your immediate
-vicinity containing some form of Linux? Do you know what their patch
-status is? Do you know how you'd deal with a critical vulnerability
-affecting them? Furthermore, while the hidden Linux problem isn't going
-away any time soon, we believe the third-party library problem will long
-outlast it. How many vulnerable image parsers with a network-accessible
-attack vector share your home with you? How would you patch them?
+number of important distinctions outlined above.
+The threats posed by these systems given their current proliferation trajectory are
+concerning.
+Even as they become more common, it can be difficult to identify the threats posed to a network by IoT either alone or in
+aggregate.
+
+<div class="grid" markdown>
+!!! tip "The Hidden Linux Problem"
+
+    In the simplest sense one might think of it as a "hidden
+    Linux" problem: How many devices can you find in your immediate
+    vicinity containing some form of Linux? Do you know what their patch
+    status is? Do you know how you'd deal with a critical vulnerability
+    affecting them?
+
+!!! tip "The Third-Party Library Problem"
+
+    Furthermore, while the hidden Linux problem isn't going away any time
+    soon, we believe the third-party library problem will long outlast it.
+    How many vulnerable image parsers with a network-accessible attack
+    vector share your home with you? How would you patch them?
+
+</div>
 
 Dan Geer puts it thus:
 
