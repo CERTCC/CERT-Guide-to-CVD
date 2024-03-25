@@ -8,9 +8,11 @@ We refer to these groups of people as "communities of interest."
 
 !!! tip "_Community Management_ is closely related to _Policy Management_"
 
-    [_Policy Management_](./policy_management.md) is about defining the rules and guidelines that govern the vulnerability disclosure process
+    [_Policy Management_](./policy_management.md) is about defining the rules and guidelines that govern the
+    vulnerability disclosure process
     for a particular organization or community.
-    Disclosure policies define the scope of the organization's interest in vulnerability reports, the exceptions to the policy, and the safe harbor provisions for reporters.
+    Disclosure policies define the scope of the organization's interest in vulnerability reports, the exceptions
+    to the policy, and the safe harbor provisions for reporters.
     They can also include requirements for who will be engaged during the disclosure process and how they will be engaged.
     
     In contrast, _Community Management_ is about the relationships that an organization must maintain with the people and
@@ -80,9 +82,9 @@ Who do you include in a notification?
 Who do you exclude? How do you maintain relationships outside of individual case handling? 
 etc.
 
-For coordinators, each case in the \ac{CVD} process affects some set of stakeholders.
+For coordinators, each case in the CVD process affects some set of stakeholders.
 One way of organizing stakeholders is by technology type.
-For example, the \ac{CERT/CC} groups vendors into groups by technology (networking, operating systems, DNS, etc.). 
+For example, the CERT/CC groups vendors into groups by technology (networking, operating systems, DNS, etc.). 
 When a case arrives that affects multiple vendors' products in the networking space (like VU\#962459), we will notify the vendors in the networking group.
 
 Of course, this means we need to be able to trust the vendors we notify with that information.

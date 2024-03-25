@@ -122,7 +122,7 @@ If it's protecting users from exposure to attacks prior to fix readiness $.f.p.a
 If it's protecting companies or organizations from bad PR, not ok.
 
 Related to the above, but somewhat distinct:
-Most of the complexity of \ac{CVD} and especially \ac{MPCVD} evaporates if we take the need for long embargoes away and just focus on increasing $Vfd... \xrightarrow{F,D} VFD...$ speed.
+Most of the complexity of CVD and especially MPCVD evaporates if we take the need for long embargoes away and just focus on increasing $Vfd... \xrightarrow{F,D} VFD...$ speed.
 Yes, that is to idealistic to achieve across the board.
 But for every case where you can eliminate the need for complicated secret-keeping schemes, you can focus more attention on the cases where it remains necessary.
 Much of the ``pretend it's government classification'' stuff is not much more than an expensive and cumbersome LARP.
