@@ -1,5 +1,21 @@
 # Multiparty CVD
 
+The simplest instance of CVD is when there are only two parties
+involved: the finder of the vulnerability and the vendor who can fix the
+software. In this case, many of the complexities that arise in
+multiparty situations do not come into play.
+
+!!! tip "Two-Party CVD is Not Always Easy"
+
+    That is not to say that two-party CVD is always straightforward or easy.
+    It can still be difficult for the finder of a vulnerability to make
+    contact with the vendor. It can sometimes be difficult for the vendor to
+    work with the finder toward a resolution.
+    
+    Personalities, attitudes, expectations, assumptions, and egos all play a
+    part in the success or failure of even two-party CVD.
+
+
 Most of the interesting cases in CVD involve more than two parties, as
 these are the cases where the most care must be taken. Automation of the
 process can help somewhat, but the impact technology can have on the

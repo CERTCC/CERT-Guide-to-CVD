@@ -32,7 +32,6 @@ nav:
       - Intro: 'howto/variation/index.md'
       - Choosing a Disclosure Policy: 'howto/variation/choosing_policy.md'
       - Disclosure Choices: 'howto/variation/disclosure_choices.md'
-      - Two-Party CVD: 'howto/variation/two_party_cvd.md'
       - Multi-Party CVD: 'howto/variation/mpcvd.md'
       - Response Pacing and Synchronization:  'howto/variation/response_pacing.md'
       - Maintaining Pre-Disclosure Confidentiality: 'howto/variation/maintaining_secrecy.md'
