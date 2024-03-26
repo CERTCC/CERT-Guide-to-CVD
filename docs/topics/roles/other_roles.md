@@ -112,27 +112,6 @@ mitigate the vulnerabilities they inevitably contain.
 
 ## Mobile Platforms and Applications
 
-!!! example inline end "Mobile Supply Chain Example"
-
-    In a 2015 [blog post](https://insights.sei.cmu.edu/blog/supporting-android-ecosystem/),
-    we discussed the complexity of the Android
-    ecosystem and the challenges of coordinating vulnerability
-    disclosure and patch deployment in that environment at the time.
-    A generalized example of the supply chain for some mobile devices
-    is shown in the following diagram.
-
-    ```mermaid
-    flowchart TD
-        os[Mobile OS Vendor]
-        phone[Mobile Phone Vendor]
-        wireless[Wireless Carrier Vendor]
-        customer[Customer]
-        
-        os --> phone
-        phone --> wireless
-        wireless --> customer
-    ```
-
 Mobile devices present yet another class of stakeholders that has grown
 distinct in recent years. The device vendors themselves are most akin to
 IoT vendors, but app developers can be quite a diverse bunch, ranging
@@ -144,6 +123,8 @@ stand in the way of security updates reaching their intended
 beneficiaries (i.e., the users). In both the mobile and IoT
 spaces, high-viscosity supply chains are bad for end-user
 security.
+
+{% include-markdown "../../_includes/_mobile_supply_chain.md" heading-offset=1 %}
 
 ## Governments
 
