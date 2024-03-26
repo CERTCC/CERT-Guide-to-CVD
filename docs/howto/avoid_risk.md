@@ -38,6 +38,8 @@ There are several types of risk that should be considered when
 performing vulnerability research. These include operational risk,
 safety risk, and legal risk.
 
+<div class="grid" markdown>
+
 !!! warning "Operational Risk"
 
     In general, the software or devices tested should not be production
@@ -55,9 +57,10 @@ safety risk, and legal risk.
 
 !!! warning "Safety Risk"
 
-    Safety-critical systems have been defined as "systems whose failure
+    [Safety-critical systems](https://ieeexplore.ieee.org/document/1007998)
+    have been defined as "systems whose failure
     could result in loss of life, significant property damage, or damage to
-    the environment [^1]." A high degree of caution is both appropriate
+    the environment." A high degree of caution is both appropriate
     and necessary when testing the security of safety-critical systems, such
     as medical devices, industrial equipment, or vehicles. A proof of
     concept exploit to demonstrate a vulnerability on a traditional computer
@@ -67,6 +70,8 @@ safety risk, and legal risk.
     systems outside a controlled environment, or when there is any chance of
     harming unwitting bystanders is unacceptable under any
     circumstances.
+
+</div>
 
 !!! warning "Legal Risk"
 
@@ -99,6 +104,3 @@ safety risk, and legal risk.
     disclosure, we refer you to the [*EFF's Coders' Rights Project
     Vulnerability Reporting FAQ*](https://www.eff.org/issues/coders/vulnerability-reporting-faq).
 
-## References
-
-    in *ICSE '02 Proceedings of the 24th International Conference on Software Engineering*, Orlando, 2002.

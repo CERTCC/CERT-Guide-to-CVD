@@ -94,6 +94,7 @@ mitigate the vulnerabilities they inevitably contain.
     large and will likely be difficult to close entirely unless market
     incentives shift toward more holistic and improved security posture.
 
+    We have more to say about [IoT and CVD](../special/iot/index.md) in our Special Topics section.
 
 !!! warning "Dependencies and *black box* code"
 
