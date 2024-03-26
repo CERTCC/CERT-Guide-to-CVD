@@ -6,7 +6,8 @@
     ------------------------------------------------------------------------
 
     - 2021-06-24 - [See Something, Say Something: Coordinating the Disclosure of Security Vulnerabilities in Canada](https://www.cybersecurepolicy.ca/vulnerability-disclosure) (Cyberspace Policy Exchange)
-    - 2019-09-17 - [Update on the CERT Guide to Coordinated Vulnerability Disclosure](https://insights.sei.cmu.edu/cert/2019/09/update-on-the-cert-guide-to-coordinated-vulnerability-disclosure.md) - (Software Engineering Institute)
+    - 2020-03-23 - [The CERT Guide to Coordinated Vulnerability Disclosure](https://insights.sei.cmu.edu/library/the-cert-guide-to-coordinated-vulnerability-disclosure/) (SEI Podcast)
+    - 2019-09-17 - [Update on the CERT Guide to Coordinated Vulnerability Disclosure](https://insights.sei.cmu.edu/blog/update-on-the-cert-guide-to-coordinated-vulnerability-disclosure/) - (Software Engineering Institute)
     - 2018-12-14 - [Economics of Vulnerability Disclosure](https://www.enisa.europa.eu/publications/economics-of-vulnerability-disclosure) (ENISA)
     - 2018-10-23 - [The Criticality of Coordinated Disclosure in Modern Cybersecurity](https://republicans-energycommerce.house.gov/wp-content/uploads/2018/10/10-23-18-CoDis-White-Paper.pdf) (US House Energy and Commerce Committee, Majority Staff)
     - 2018-10-10 - [Announcing Arduino's Coordinated Vulnerability Disclosure Policy](https://blog.arduino.cc/2018/10/10/announcing-arduino-coordinated-vulnerability-disclosure-policy/) (Arduino)
@@ -20,4 +21,4 @@
     - 2017-11-28 - [AMA with Authors of The CERT Guide to Coordinated Vulnerability Disclosure](https://youtu.be/oshHrujqPjc) (HackerOne)
     - 2017-10-26 - [Your TL;DR Summary of the CERT Guide to Coordinated Vulnerability Disclosure](https://www.hackerone.com/blog/Your-TLDR-Summary-of-The-CERT-Guide-to-Coordinated-Vulnerability-Disclosure) (HackerOne)
     - 2017-08-16 - [This one matters, too: Carnegie Mellon issues guide to disclosing software vulnerabilities responsibly](https://www.cyberscoop.com/carnegie-mellon-sei-cert-vulnerability-disclosure/) (cyberscoop)
-    - 2017-08-15 - [CERT Guide to Coordinated Vulnerability Disclosure Released](https://www.sei.cmu.edu/news-events/news/article.cfm?assetid=503398) (Software Engineering Institute)
+    - 2017-08-15 - [CERT Guide to Coordinated Vulnerability Disclosure Released](https://insights.sei.cmu.edu/news/cert-guide-to-coordinated-vulnerability-disclosure-released/) (Software Engineering Institute)

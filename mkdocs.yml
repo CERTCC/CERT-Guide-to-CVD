@@ -101,10 +101,10 @@ nav:
     - Additional Resources: 'reference/additional_resources_web_vuls.md'
     - Bibliography: 'reference/bibliography.md'
   - About:
-    - Conclusion: 'conclusion/index.md'
-    - Acknowledgements: 'acknowledgements.md'
-    - Sightings: 'sightings.md'
-    - Copyright: 'copyright.md'
+    - Conclusion: 'about/conclusion.md'
+    - Acknowledgements: 'about/acknowledgements.md'
+    - Sightings: 'about/sightings.md'
+    - Copyright: 'about/copyright.md'
 not_in_nav: |
   _*.md
   _*/**/*.md
@@ -134,14 +134,14 @@ plugins:
 #  - table-reader:
 #      data_path: 'data/csvs'
 #  - bibtex:
-#      bib_file: 'doc/md_src_files/sources_CERT-Guide-to_CVD.bib'
+#      bib_file: 'doc/md_src_files/sources_CERT-Guide-to-CVD.bib'
 #  - mkdocstrings:
 #      handlers:
 #        python:
 #          paths: [ 'src' ]
   - print-site
-repo_url: 'https://github.com/CERTCC/CERT-Guide-to_CVD'
-repo_name: 'CERTCC/CERT-Guide-to_CVD'
+repo_url: 'https://github.com/CERTCC/CERT-Guide-to-CVD'
+repo_name: 'CERTCC/CERT-Guide-to-CVD'
 markdown_extensions:
   - admonition
   - attr_list
@@ -182,22 +182,22 @@ extra:
       See our <a href="https://www.sei.cmu.edu/legal/privacy-notice/index.cfm">Privacy Notice</a> for more.
   social:
 #    - icon: material/message-question
-#      link: https://github.com/CERTCC/CERT-Guide-to_CVD/issues/new?template=question.md
+#      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md
 #      name: Ask a Question
     - icon: fontawesome/solid/bug
       link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=bug_report.md
       name: Report a Problem
 #    - icon: material/lightbulb-on
-#      link: https://github.com/CERTCC/CERT-Guide-to_CVD/issues/new?template=feature_request.md
+#      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=feature_request.md
 #      name: Request a Feature
     - icon: fontawesome/regular/comments
-      link: https://github.com/CERTCC/CERT-Guide-to_CVD/discussions
-      name: CERT-Guide-to_CVD Community Discussions
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD/discussions
+      name: CERT-Guide-to-CVD Community Discussions
     - icon: fontawesome/brands/github
-      link: https://github.com/CERTCC/CERT-Guide-to_CVD
-      name: CERTCC/CERT-Guide-to_CVD on Github
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD
+      name: CERTCC/CERT-Guide-to-CVD on Github
     - icon: fontawesome/regular/envelope
-      link: mailto:cert@cert.org?subject=CERT-Guide-to_CVD%20Feedback
+      link: mailto:cert@cert.org?subject=CERT-Guide-to-CVD%20Feedback
       name: Email CERT/CC
     - icon: fontawesome/solid/house
       link: https://www.sei.cmu.edu/
