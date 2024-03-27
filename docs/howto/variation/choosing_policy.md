@@ -23,13 +23,13 @@ reporters, vendors, coordinators) can expect in terms of these factors:
     disavow legal retribution against reporters who otherwise follow the
     policy, that fact should be clearly laid out in the policy document.
 
-- [**Report quality requirements** -- It's okay to require reports to
+- **Report quality requirements** -- It's okay to require reports to
     meet a certain level of quality before committing to taking action
     on them. However, it's also useful to judiciously apply the
-    principle of robustness here: "In general, an implementation should
-    be conservative in its sending behavior, and liberal in its
-    receiving behavior"
-    \[1\].]
+    [principle of robustness](https://datatracker.ietf.org/doc/rfc760/)
+    here: "In general, an implementation should be conservative in its sending behavior,
+    and liberal in its receiving behavior."
+
 - **Preferred Communication Language(s)** -- If the organization has
     preferences for specific (human) languages for reports, the policy
     should specify this. That said, English is usually acceptable as a
@@ -44,27 +44,28 @@ reporters, vendors, coordinators) can expect in terms of these factors:
     report and a default disclosure timeframe if one has been defined.
     An acknowledgement timeframe of 24-48 hours is common for vendors
     and coordinators, while 45-90 days seems to be the normal range for
-    disclosures these days. That said, we recommend that both vendors
+    public disclosures these days. That said, we recommend that both vendors
     and reporters treat policy-declared disclosure timeframes as the
     starting point of a negotiation process rather than a hard deadline.
 
-[
-]
-[A few examples of vulnerability disclosure policies can be found in
-[Appendix
-E](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677474){.createlink}.
-]
-[RFC 2350 provides recommendations on how to publish information about
-your CSIRT and disclosure policy and procedures
-\[2\]]{style="color: rgb(23,43,77);text-decoration: none;"}.
 
-\< [5. Process Variation
-Points](5.-Process-Variation-Points_47677473.md) \| [5.2 Disclosure
-Choices](disclosure_choices) \>
+!!! info "Disclosure Policy Templates"
 
-## References
+    Following are some resources that can help you create a disclosure policy:
 
-1. [J. Postel, "Internet Protocol (RFC 760),"
-    1980.]2.  [N. Brownlee and E. Guttman, "Expectations for Computer Security
-    Incident Response," The Internet Society,
-    1998.]
+    - CISA provides a [Vulnerability Disclosure Policy Template](https://www.cisa.gov/vulnerability-disclosure-policy-template)
+      for U.S. Federal Agencies. This template is also useful as a starting point for other organizations
+      looking to establish a vulnerability disclosure policy.
+
+    - UK National Cyber Security Centre has a [policy template](https://github.com/ukncsc/Vulnerability-Disclosure) as part of their
+      [Vulnerability Disclosure Toolkit](https://www.ncsc.gov.uk/information/vulnerability-disclosure-toolkit)
+
+    - The [disclose.io](https://disclose.io/) [Policymaker](https://policymaker.disclose.io/policymaker/introduction) tool can help you create a policy that fits your organization's needs.
+
+    - CERT/CC has a set of [Disclosure Policy Templates](https://github.com/CERTCC/vulnerability_disclosure_policy_templates)
+      derived from multiple sources. Our templates are a collection of statements that can be used to create a policy that fits your organization's needs.
+
+    - [IETF RFC 2350](https://datatracker.ietf.org/doc/html/rfc2350) provides recommendations on how to publish information about your CSIRT and disclosure policy and procedures.
+
+    - [ISO/IEC 29147:2018 _Information technology -- Security techniques -- Vulnerability disclosure_](https://www.iso.org/standard/72311.html) provides guidelines for vulnerability disclosure, including a section on required, recommended, and optional policy elements.
+

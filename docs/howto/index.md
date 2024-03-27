@@ -54,15 +54,17 @@ protect the public. This coordination may also be turned into a public
 relations win for the vendor by quickly addressing the issue, thereby
 avoiding bad press for being unprepared.
 
-The [Forum of Incident Response and Security Teams](https://www.first.org) (FIRST),
-which consists of many public and private organizations and companies involved
-in vulnerability and security incident handling, has established a
-[Vulnerability Coordination Special Interest Group](https://www.first.org/global/sigs/vulnerability-coordination)
-to develop some common
-CVD best practices and guidelines. While the existence of
-individual vulnerabilities may be unexpected and surprising, these
-common practices should help lead to fewer surprises for all
-stakeholders in the CVD process itself.
+!!! info "FIRST's Vulnerability Coordination Special Interest Group"
+
+    The [Forum of Incident Response and Security Teams](https://www.first.org) (FIRST),
+    which consists of many public and private organizations and companies involved
+    in vulnerability and security incident handling, has established a
+    [Vulnerability Coordination Special Interest Group](https://www.first.org/global/sigs/vulnerability-coordination)
+    to develop some common
+    CVD best practices and guidelines. While the existence of
+    individual vulnerabilities may be unexpected and surprising, these
+    common practices should help lead to fewer surprises for all
+    stakeholders in the CVD process itself.
 
 !!! info "CVD is Recognized by Governments and International Organizations"
 

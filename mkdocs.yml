@@ -34,6 +34,7 @@ nav:
       - Disclosure Choices: 'howto/variation/disclosure_choices.md'
       - Multi-Party CVD: 'howto/variation/mpcvd.md'
       - Response Pacing and Synchronization:  'howto/variation/response_pacing.md'
+      - Communication Topology: 'howto/variation/topology.md'
       - Maintaining Pre-Disclosure Confidentiality: 'howto/variation/maintaining_secrecy.md'
       - Disclosure Timing: 'howto/variation/disclosure_timing.md'
     - CVD Problem Solving:
