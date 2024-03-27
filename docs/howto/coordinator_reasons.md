@@ -41,8 +41,7 @@ may need to update their products after the original fix is available.
 Software libraries tend to have vertical supply chains. Protocol
 implementations often have horizontal supply chains.
 
-We discuss horizontal and vertical supply chains in [Section
-5.4](5.4-Multiparty-CVD_47677477.md) below.
+We discuss horizontal and vertical supply chains in [Multiparty CVD](variation/mpcvd.md).
 
 {% include-markdown "./troubleshooting/recipes/_x09.md" heading-offset=1 %}
 

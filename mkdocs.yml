@@ -53,6 +53,7 @@ nav:
           - Secure Communications: 'howto/operations/secure_comms.md'
           - Contact Management: 'howto/operations/contact_management.md'
           - Case Tracking: 'howto/operations/case_tracking.md'
+          - Inventory: 'howto/operations/inventory.md'
         - Practices:
           - Technical Analysis: 'howto/operations/technical_analysis.md'
           - Monitoring: 'howto/operations/monitoring.md'

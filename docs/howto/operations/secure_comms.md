@@ -73,12 +73,13 @@ organizations.
         user identity
 
     Portal credential maintenance introduces more complications, and for
-    many vendors is likely not worth the effort. Another disadvantage of 
+    many vendors may not be worth the effort. Another disadvantage of 
     using a portal is that vendors and organizations may be unwilling to
     create accounts on another vendor's portal. This may discourage
     multi-party communication and coordination, effectively preventing a
     vendor or reporter from participating in multi-party CVD.
 
+{% include-markdown "./_cvd_platform.md" heading-offset=1 %}
 
 ## Email
 

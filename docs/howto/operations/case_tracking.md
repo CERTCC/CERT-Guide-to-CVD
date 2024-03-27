@@ -36,5 +36,5 @@ security issues and the performance of the response process itself.
     challenges. The [Vultron Protocol](https://certcc.github.io/Vultron) is a work in progress
     that aims to provide interoperability across organizations' CVD processes.
 
-
+{% include-markdown "./_cvd_platform.md" heading-offset=1 %}
 

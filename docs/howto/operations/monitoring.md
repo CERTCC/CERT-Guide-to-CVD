@@ -14,16 +14,19 @@ because they can affect the handling of a case. Items most directly relevant inc
 | Exploit made public                     | An exploit for a vulnerability is made public.                                            |
 | Attacks observed                        | Attacks are observed in the wild.                                                         |
 | Parallel discovery                      | Someone else finds the same vulnerability.                                                |
+| Vulnerabilities in upstream components  | Vulnerabilities are discovered in components that your product depends on.               |
 
 <div class="grid" markdown>
 
 !!! tip "Advice for Vendors"
 
     Vendors need to monitor for public information about security vulnerabilities in their products. Knowing about attacks and published exploits is key.
+    Furthermore, for vendors that use third-party components, monitoring for vulnerabilities in those components is also important.
 
 !!! tip "Advice for Deployers"
 
-    Deployers need to monitor for public information about security vulnerabilities in the systems they have deployed (including reports coming as a result of the vendor's CVD process). They need to be on the lookout for fix announcements, mitigation advice, exploits, and attacks.
+    Deployers need to monitor for public information about security vulnerabilities in the systems they have deployed (including reports coming as a result of the vendor's CVD process).
+    They need to be on the lookout for fix announcements, mitigation advice, exploits, and attacks.
 
 </div>
 
