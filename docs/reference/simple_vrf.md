@@ -1,21 +1,20 @@
-# Example Vulnerability Report Form
+# Basic Vulnerability Report Form
 
-!!! tip inline end "CERT/CC's Vulnerability Reporting Form"
+Organizations that need to receive vulnerability reports should have a form that helps them collect the necessary 
+information.
+This form should be easy to use and understand, and should help the reporter provide the information needed to 
+understand and address the vulnerability.
+Specific details may vary depending on the organization's needs and its role(s) in the CVD process 
+([Vendor](../topics/roles/vendor.md), [Coordinator](../topics/roles/coordinator.md), etc.), but
+much of the content will be the same across organizations.
 
-  The CERT/CC's [Vulnerability Reporting Form](https://www.kb.cert.org/vuls/vulcoordrequest/)
-  is a good example of a vulnerability report form. 
-
-
-This is a report example based on the CERT/CC's [Vulnerability
+This page contains a report example based on the CERT/CC's [Vulnerability
 Reporting Form](https://www.kb.cert.org/vuls/report/), and is not meant to be exhaustive of all possibilities.
 Please modify the sections and format as necessary to better suit your
 needs.
 
 
 ## Vulnerability Report
-
-
-
 
 
 !!! question "Tell us about the Vulnerability"

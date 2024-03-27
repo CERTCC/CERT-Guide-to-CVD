@@ -96,12 +96,10 @@ nav:
         - Vulnerability IDs: 'topics/special/vul_ids.md'
   - Reference:
     - Overview: 'reference/index.md'
-    - VRF: 'reference/simple_vrf.md'
-    - Advisory: 'reference/simple_advisory.md'
-    - TLP: 'reference/tlp.md'
-    - Disclosure Policy Templates: 'reference/disclosure_policy_templates.md'
-    - Additional Resources: 'reference/additional_resources_web_vuls.md'
-    - Bibliography: 'reference/bibliography.md'
+    - Basic Vul Report Form: 'reference/simple_vrf.md'
+    - Basic Vul Advisory: 'reference/simple_advisory.md'
+    - Disclosure Policy Resources: 'reference/disclosure_policy_templates.md'
+    - Other Resources: 'reference/resources.md'
   - About:
     - Conclusion: 'about/conclusion.md'
     - Acknowledgements: 'about/acknowledgements.md'

@@ -1,15 +1,20 @@
-# Appendix D - Sample Vulnerability Disclosure Document
+# Basic Vulnerability Advisory Document
 
 The vulnerability disclosure document is also often referred to as a
 "security advisory," particularly if published by the vendor.
 
 This is an example of a vulnerability disclosure document based on
-CERT/CC's [Vulnerability
-Notes](https://www.kb.cert.org/vuls/) format. It is not meant to be exhaustive of all
-scenarios.
+CERT/CC's [Vulnerability Notes](https://www.kb.cert.org/vuls/) format. 
+It is not meant to be exhaustive of all scenarios.
 
 Please modify the sections and format as necessary to better suit your
 needs.
+
+!!! tip "Common Security Advisory Format"
+
+    The [Common Security Advisory Format](https://oasis-open.github.io/csaf-documentation/) (CSAF) is a standardized 
+    format for publishing security advisories. It is designed to be machine-readable and is
+    intended to be used by vendors, coordinators, and reporters to communicate with the public about vulnerabilities.
 
 ## Vulnerability Disclosure Document
 
