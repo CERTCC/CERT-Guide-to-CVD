@@ -45,7 +45,7 @@ Outreach, conferences, etc.
 
 #### Deployer/Operator Communities
 
-<!-- system administrators, IT managers, security operations teams, operational technology staff -->
+<!-- system administrators, IT managers, security operation teams, operational technology staff -->
 
 #### Coordinator Communities
 
