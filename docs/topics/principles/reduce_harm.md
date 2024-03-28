@@ -1,11 +1,12 @@
 # Reduce Harm
 
+
 Harm reduction is a term borrowed from the public health community. In
 that context, it is used to describe efforts intended to reduce the harm
 caused by drug use and unsafe health practices, rather than on the
 eradication of the problem.
 
-!!! info inline end "Harm Reduction in Public Health"
+!!! info "Harm Reduction in Public Health"
 
     One of the tenets of harm reduction is that there will never be a drug-free society, 
     and so preparations must be made to reduce the harm of drugs that currently
@@ -18,7 +19,6 @@ eradication of the problem.
 
     - [National Harm Reduction Coalition](http://harmreduction.org/about-us/principles-of-harm-reduction/)
     - [Harm Reduction International](https://www.hri.global/what-is-harm-reduction)
-
 
 <!--excerpt-start-->At its core, harm reduction with respect to vulnerable software is about
 balancing the ability for system defenders to take action while avoiding

@@ -1,6 +1,6 @@
 # Presume Benevolence
 
-Benevolence refers to the morally valuable character trait or virtue of
+[Benevolence](https://plato.stanford.edu/entries/principle-beneficence/) refers to the morally valuable character trait or virtue of
 being inclined to act to benefit others. <!--excerpt-start-->In terms of the CVD process, we
 have found that it is usually best to assume that any individual who has
 taken the time and effort to reach out to a vendor or a coordinator to

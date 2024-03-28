@@ -64,7 +64,7 @@ products&mdash;a practice that we strongly encourage. This can be done via
     analysis, code review, and security testing to find vulnerabilities as
     part of their development cycle.
 
-## What Happens After a Vulnerability is Found?
+### What Happens After a Vulnerability is Found?
 
 !!! example inline end "First Steps After Finding a Vulnerability"
 
@@ -106,7 +106,7 @@ that follow the discovery:
 
 !!! tip "Regarding Non-Disclosure"
 
-    It is of course possible for a finder to find a vulnerability and tell
+    It is of course [possible](../../howto/preparation/disclosure_choices.md) for a finder to find a vulnerability and tell
     no one. However, in that case there is no disclosure involved so we do
     not address that scenario further in this documentation.
 

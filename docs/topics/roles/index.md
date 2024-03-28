@@ -1,4 +1,4 @@
-# Roles in CVD
+# Roles in Coordinated Vulnerability Disclosure
 
 Certain roles are critical to the Coordinated Vulnerability Disclosure
 process, as described in the following sections:
@@ -30,35 +30,6 @@ between these roles is shown in the figure below.
 
 ```mermaid
 ---
-title: CVD Role Relationships
----
-flowchart TB
-    subgraph A[Often Same Entity]
-        Reporter([Reporter])
-        Finder([Finder])
-    end
-    Vendor([Vendor])
-    Coordinator([Coordinator])
-    Deployer([Deployer])
-        
-    Finder -->|shares vul<br/>info with| Reporter
-    Reporter -->|reports<br/>vul to| Vendor
-    Vendor -->|coordinates<br/>with| Reporter
-    Reporter -.->|reports<br/>vul to| Coordinator
-    Coordinator -.->|coordinates<br/>with| Vendor
-    Coordinator -.->|coordinates<br/>with| Reporter
-    Vendor -.->|coordinates<br/>with| Coordinator
-    Vendor -->|provides vul info<br/>and/or patch to| Deployer
-    Deployer -->|provides</br>feedback to| Vendor
-    Coordinator -.->|provides vul<br/>info to| Deployer
-    Reporter -.->|provides vul<br/>info to| Deployer
-    
-```
-
-An even simpler sketch of the relationships between these roles is shown in the figure below.
-
-```mermaid
----
 title: Coordination Relationships in CVD
 ---
 flowchart TB
@@ -85,3 +56,5 @@ flowchart TB
     reporter <-.-> deployer
     C -->|publish| public
 ```
+
+

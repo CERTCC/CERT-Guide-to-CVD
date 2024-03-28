@@ -6,7 +6,7 @@ A fix that is quietly posted to a website and not well advertised is almost usel
 
 Let's say that again, but this time with a box around it:
 
-!!! note "CVD isn't over until the fix is deployed"
+!!! warning "CVD isn't over until the fix is deployed"
 
     Vendors make fixes available. 
     But systems are not secure until those fixes are deployed.
@@ -21,14 +21,19 @@ The following are a few examples of others, in approximate order according to ho
 
 ## Automatic updates
 
+
 Vendors might choose to design their software with automated updates as part of their deployment strategy.
 Products with secure automatic updates provide a good way to get a patch deployed quickly to a wide audience.
+
+!!! note inline end "Software Telemetry and Privacy"
+
+    Software telemetry is not without [privacy concerns](https://www.theregister.com/2023/05/17/googles_go_data_collection/), but further discussion of that topic is out of scope here.
+
 However, not all users are able or willing to use automatic updates, so it is still important for vendors to draw attention to their fixes.
 Vendors should strive to implement easy and secure update methods in their products.
-In addition to improving deployment efficiency, automatic updates provide an opportunity for vendors to have visibility into the deployment status across their customer base via telemetry[^1].
+In addition to improving deployment efficiency, automatic updates provide an opportunity for vendors to have visibility into the deployment status across their customer base via telemetry.
 In situations where automated deployment is not possible, the vendor's disclosure plan should be specific about how to spread the word of a new patch as quickly as possible.
 
-[^1]: Software telemetry is not without privacy concerns, but further discussion of that topic is out of scope here.
 
 ## Single Instance Software
 
@@ -49,10 +54,8 @@ Such vendors can be well-positioned to reach their entire deployment base via pr
 
     Some vulnerabilities are pervasive in the very infrastructure required
     for the patches or information about the vulnerability to be
-    distributed. Vulnerabilities in foundational network protocols^1^, or
-    problems such as denial of service against backbone routers^2^, remote
-    code execution on Domain Name System (DNS) servers^3^, or virtualization
-    escapes^4^ in cloud services serve as examples. Other vulnerabilities
+    distributed.
+    Other vulnerabilities
     may disproportionately affect critical infrastructure services that
     directly impact public safety -- for example the water system, power
     grid, or hospital medical gear. All these types of systems often require
@@ -61,6 +64,24 @@ Such vendors can be well-positioned to reach their entire deployment base via pr
     possible, providing these kinds of deployers with advance notification
     of either the existence of the vulnerability or access to the fix can
     reduce the risk faced by the public and improve outcomes.
+
+!!! example "Vulnerabilities in Internet Infrastructure"
+
+    Vulnerabilities in foundational network protocols,
+    problems such as denial of service against backbone routers, remote
+    code execution on Domain Name System (DNS) servers, or virtualization
+    escapes in cloud services serve as examples. 
+
+    - [VU#498440](https://www.kb.cert.org/vuls/id/498440/) _Multiple TCP/IP implementations may use
+    statistically predictable initial sequence numbers_
+    - [JSA10883](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST) _2018-10 Security Bulletin: Junos OS: Receipt of a
+    specifically crafted malicious MPLS packet leads to a Junos kernel
+    crash (CVE-2018-0049)_
+    - [VU#196945](https://www.kb.cert.org/vuls/id/196945/) _ISC BIND 8 contains buffer overflow in transaction
+    signature (TSIG) handling code_
+    - [XSA-213](https://xenbits.xen.org/xsa/advisory-213.html) _Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
+    x86: 64bit PV guest breakout via pagetable use-after-mode-change_
+
 
 !!! tip "Amplify the Message"
 
@@ -101,7 +122,7 @@ In the event of slow uptake of the fix, additional effort might be
 warranted to call attention the vulnerability (for example, using social
 media).
 
-It is also possible that the remediation advice is incorrect, or may not
+It is also possible that the mitigation advice is incorrect, or may not
 apply to all scenarios. Therefore the vendor and reporter should monitor
 for public discussion or reports of problems, so that the disclosure
 advisory and remediation information can be updated as necessary.
@@ -174,9 +195,9 @@ instances have not been remediated, that goal has not been achieved.
     we agree that vendors should take care not to overstate the status of
     patch deployment, the best many vendors can do today is to make patches
     available, along with sufficient vulnerability information for users to
-    make informed patching and other risk decisions.^^1^^ Ultimate
+    make informed patching and other risk decisions.^1^ Ultimate
     responsibility for installing patches often falls to
-    deployers,^^2^^ including end users.
+    deployers,^2^ including end users.
     
     While we appreciate the committees' desire that "sound CVD strategies
     would seek to limit disclosure of vulnerability information before
@@ -221,29 +242,3 @@ instances have not been remediated, that goal has not been achieved.
     management systems, vendors with the ability to push patches, and
     end users who must take manual action.
 
-## References
-
-1. Havrilla, Jeffrey. "Multiple TCP/IP implementations may use
-    statistically predictable initial sequence numbers
-
-    Vulnerability Note VU#498440." 13 March
-    2001. [https://www.kb.cert.org/vuls/id/498440/](https://www.kb.cert.org/vuls/id/498440/){.external-link
-    style="letter-spacing: 0.0px;" rel="nofollow"}
-
-2. Juniper. "2018-10 Security Bulletin: Junos OS: Receipt of a
-    specifically crafted malicious MPLS packet leads to a Junos kernel
-    crash (CVE-2018-0049)." 10 October
-    2018. [https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST){.external-link
-    style="letter-spacing: 0.0px;" rel="nofollow"}
-
-3. Cohen, Cory. "ISC BIND 8 contains buffer overflow in transaction
-    signature (TSIG) handling code Vulnerability Note VU#196945." 29
-    January
-    2001. [https://www.kb.cert.org/vuls/id/196945/](https://www.kb.cert.org/vuls/id/196945/){.external-link
-    style="letter-spacing: 0.0px;" rel="nofollow"}
-
-4. XEN. "Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
-    x86: 64bit PV guest breakout via pagetable use-after-mode-change."
-    2 May
-    2017. [https://xenbits.xen.org/xsa/advisory-213.html](https://xenbits.xen.org/xsa/advisory-213.md){.external-link
-    style="letter-spacing: 0.0px;" rel="nofollow"}

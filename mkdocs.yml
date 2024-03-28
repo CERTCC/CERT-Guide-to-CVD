@@ -22,17 +22,20 @@ nav:
   - CVD How-To:
     - Overview: 'howto/index.md'
     - Preparation:
+      - Preparation Intro: 'howto/preparation/index.md'
       - Disclosure Choices: 'howto/preparation/disclosure_choices.md'
       - Why Coordinate?: 'howto/preparation/why_coordinate.md'
       - Avoid Unnecessary Risk: 'howto/preparation/avoid_risk.md'
       - Choosing a Disclosure Policy: 'howto/preparation/choosing_policy.md'
       - Communication Topology: 'howto/preparation/topology.md'
     - Initiating CVD:
+      - Initiation Intro: 'howto/initiation/index.md'
       - Providing Useful Reports: 'howto/initiation/useful_reports.md'
       - Finding Vendor Contacts: 'howto/initiation/find_vendor_contact.md'
       - Unresponsive Vendor: 'howto/initiation/unresponsive_vendor.md'
       - Reduce Reporting Friction: 'howto/initiation/reduce_reporting_friction.md'
     - Doing CVD:
+      - Coordination Intro: 'howto/coordination/index.md'
       - Reasons to Engage a Coordinator: 'howto/coordination/coordinator_reasons.md'
       - Validation: 'topics/phases/validation.md'
       - Prioritization: 'topics/phases/prioritization.md'
@@ -51,6 +54,7 @@ nav:
       - Troubleshooting CVD: 'howto/coordination/cvd_recipes.md'
       - What to Do When Things Go Wrong: 'howto/coordination/general_tips.md'
     - Ongoing Operations:
+        - Operations Intro: 'howto/operation/index.md'
         - Tooling:
           - Secure Communications: 'howto/operation/secure_comms.md'
           - Contact Management: 'howto/operation/contact_management.md'
@@ -64,7 +68,7 @@ nav:
   - Understanding CVD:
     - Overview: 'topics/index.md'
     - Principles of CVD:
-        - Intro: 'topics/principles/index.md'
+        - Principles Intro: 'topics/principles/index.md'
         - Reduce Harm: 'topics/principles/reduce_harm.md'
         - Presume Benevolence: 'topics/principles/presume_benevolence.md'
         - Avoid Surprise: 'topics/principles/avoid_surprise.md'
@@ -73,22 +77,22 @@ nav:
         - Process Improvement: 'topics/principles/process_improvement.md'
         - CVD is a Wicked Problem: 'topics/principles/wicked_problem.md'
     - Roles in CVD:
-        - Intro: 'topics/roles/index.md'
-        - Finder: 'topics/roles/finder.md'
+        - Roles Intro: 'topics/roles/index.md'
+        - Finder/Reporter: 'topics/roles/finder.md'
         - Vendor: 'topics/roles/vendor.md'
         - Deployer: 'topics/roles/deployer.md'
         - Coordinator: 'topics/roles/coordinator.md'
         - Other Roles: 'topics/roles/other_roles.md'
     - Phases of CVD:
-        - Intro: 'topics/phases/index.md'
+        - Phases Intro: 'topics/phases/index.md'
         - Discovery: 'topics/phases/discovery.md'
         - Reporting: 'topics/phases/reporting.md'
         - Validation: 'topics/phases/validation.md'
         - Prioritization: 'topics/phases/prioritization.md'
         - Remediation: 'topics/phases/remediation.md'
         - Preparing for Public Awareness: 'topics/phases/public_awareness.md'
-        - Publishing: 'topics/phases/publishing.md'
-        - Promote Deployment: 'topics/phases/deployment.md'
+        - Publication: 'topics/phases/publishing.md'
+        - Deployment: 'topics/phases/deployment.md'
     - Special Topics:
         - Internet of Things:
           - IoT and CVD: 'topics/special/iot/index.md'

@@ -3,7 +3,7 @@
 This section provides guidance for folks who are actively engaged in Coordinated Vulnerability Disclosure (CVD)
 and are looking for advice on how to handle specific situations.
 We have organized it roughly in the order that you might encounter these problems,
-although we're not strictly adhering to the [Phases](../topics/phases) we've outlined elsewhere.
+although we're not strictly adhering to the [Phases](../topics/phases) we've outlined in the [Understanding CVD](../topics/index.md) section.
 
 !!! note "How to Use This Section"
 

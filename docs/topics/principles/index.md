@@ -2,7 +2,6 @@
 
 Over the years, the CERT/CC has identified a number of principles that guide our efforts in coordinating vulnerability disclosures and which
 seem to be present in many successful CVD programs.
-
 These principles include the following:
 
 <div class="grid cards" markdown>
