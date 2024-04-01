@@ -195,15 +195,15 @@ extra:
       make our documentation better. 
       See our <a href="https://www.sei.cmu.edu/legal/privacy-notice/index.cfm">Privacy Notice</a> for more.
   social:
-#    - icon: material/message-question
-#      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md
-#      name: Ask a Question
+    - icon: material/message-question
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md
+      name: Ask a Question
     - icon: fontawesome/solid/bug
       link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=bug_report.md
       name: Report a Problem
-#    - icon: material/lightbulb-on
-#      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=feature_request.md
-#      name: Request a Feature
+    - icon: material/lightbulb-on
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=feature_request.md
+      name: Request a Feature
     - icon: fontawesome/regular/comments
       link: https://github.com/CERTCC/CERT-Guide-to-CVD/discussions
       name: CERT-Guide-to-CVD Community Discussions
