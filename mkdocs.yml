@@ -8,13 +8,22 @@ site_author: 'CERT Coordination Center'
 nav:
   - Home:
     - CERT Guide to CVD: 'index.md'
-    - Why We Wrote This Guide: 'preface.md'
+    - Why We Wrote This Guide: 'why_this_guide.md'
     - About This Guide: 'about.md'
   - Learning CVD:
     - Overview: 'tutorials/index.md'
     - CVD Overview:
         - A Process, Not an Event: 'tutorials/cvd_is_a_process.md'
-        - CVD Terminology: 'tutorials/terminology.md'
+        - CVD Terminology:
+            - Terms:  'tutorials/terminology.md'
+            - Vulnerability: 'tutorials/terms/vulnerability.md'
+            - Exploits, Malware, and Incidents: 'tutorials/terms/exp_mw_inc.md'
+            - Products and Instances: 'tutorials/terms/products_instances.md'
+            - Vul Response: 'tutorials/terms/vulnerability_response.md'
+            - Vul Discovery: 'tutorials/terms/vulnerability_discovery.md'
+            - Vul Scanning: 'tutorials/terms/vulnerability_scanning.md'
+            - Vul Management: 'tutorials/terms/vulnerability_management.md'
+            - Coordinated Vulnerability Disclosure: 'tutorials/terms/cvd.md'
     - Executive Summary: 'tutorials/executive_summary.md'
     - Vulnerability Response Processes:
         - Vendor: 'tutorials/response_process/vendor.md'

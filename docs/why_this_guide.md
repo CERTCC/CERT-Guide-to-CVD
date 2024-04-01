@@ -13,25 +13,27 @@ concepts, principles, and roles necessary to establish a successful CVD
 process. It also provides insights into how CVD can go awry and how to
 respond when it does so.
 
-## The Importance of Coordinated Vulnerability Disclosure
+!!! tip "The Importance of Coordinated Vulnerability Disclosure"
 
-In a nutshell, CVD can be thought of as an iterative process that begins
-with someone finding a vulnerability, then repeatedly asking "what
-should I do with this information?" and "who else should I tell?" until
-the answers are "nothing," and "no one." But different parties have
-different perspectives and opinions on how those questions should be
-answered. These differences are what led us to write this guide.
+    In a nutshell, CVD can be thought of as an iterative process that begins
+    with someone finding a vulnerability, then repeatedly asking "what
+    should I do with this information?" and "who else should I tell?" until
+    the answers are "nothing," and "no one." But different parties have
+    different perspectives and opinions on how those questions should be
+    answered. These differences are what led us to write this guide.
 
-The CERT Coordination Center has been coordinating the disclosure of
-vulnerability reports since its inception in 1988. Although both our
-organization and the Internet have grown and changed in the intervening
-decades, many of the charges of our initial charter remain central to
-our mission: to facilitate communication among experts working to solve
-security problems; to serve as a central point for identifying and
-correcting vulnerabilities in computer systems; to maintain close ties
-with research activities and conduct research to improve the security of
-existing systems; and to serve as a model for other incident response
-organizations.
+!!! info "CVD at the CERT Coordination Center"
+
+    The CERT Coordination Center has been coordinating the disclosure of
+    vulnerability reports since its inception in 1988. Although both our
+    organization and the Internet have grown and changed in the intervening
+    decades, many of the charges of our initial charter remain central to
+    our mission: to facilitate communication among experts working to solve
+    security problems; to serve as a central point for identifying and
+    correcting vulnerabilities in computer systems; to maintain close ties
+    with research activities and conduct research to improve the security of
+    existing systems; and to serve as a model for other incident response
+    organizations.
 
 ## Growing Complexity of the Software Supply Chain
 
@@ -40,45 +42,53 @@ vulnerability disclosures at the CERT/CC, it is that there is no single
 right answer to many of the questions and controversies surrounding the
 disclosure of information about software and system vulnerabilities. 
 
-### Traditional and Mobile Computing
+<div class="grid" markdown>
 
-In the traditional computing arena, most vendors and researchers have
-settled into a reasonable rhythm of allowing the vendor some time to fix
-vulnerabilities prior to publishing a vulnerability report more widely.
-We first started thinking about _supply chain viscosity_ in the context
-of mobile computing, where the complexity of the ecosystem made it
-difficult to establish consistent practices for reporting and remediating
-vulnerabilities. 
-As things have progressed, we've found that while there can still be challenges
-with reporting vulnerabilities to vendors, in most cases
-software as a service (SAAS) providers,
-and software distributed through app stores can often fix and deploy patches to most customers quickly. 
-Traditional software vendors have also improved their ability to fix and deploy patches,
-although there is often a lag between the time a patch is available and the time it is deployed to all customers
-due to the need for the deployer to take action to install the fix.
+!!! abstract "Traditional and Mobile Computing"
 
-### Internet of Things
+    In the traditional computing arena, most vendors and researchers have
+    settled into a reasonable rhythm of allowing the vendor some time to fix
+    vulnerabilities prior to publishing a vulnerability report more widely.
+    We first started thinking about _supply chain viscosity_ in the context
+    of mobile computing, where the complexity of the ecosystem made it
+    difficult to establish consistent practices for reporting and remediating
+    vulnerabilities. 
 
-On the opposite end of the spectrum, we find many Internet of Things (IoT) and
-embedded device vendors for whom fixing a vulnerability might require a
-firmware upgrade or even physical replacement of affected devices,
-neither of which can be expected to happen quickly (if at all). 
-There is far less consistency in the ability of IoT vendors to fix and deploy patches,
-and the ability of deployers to install those patches. 
-Automated and secure fix deployment is often not implemented in IoT devices,
-although this appears to be changing as the industry matures.
+!!! abstract "Cloud Computing and Software as a Service"
 
-### Artificial Intelligence and Machine Learning
+    As things have progressed, we've found that while there can still be challenges
+    with reporting vulnerabilities to vendors, in most cases
+    software as a service (SAAS) providers,
+    and software distributed through app stores can often fix and deploy patches to most customers quickly. 
+    Traditional software vendors have also improved their ability to fix and deploy patches,
+    although there is often a lag between the time a patch is available and the time it is deployed to all customers
+    due to the need for the deployer to take action to install the fix.
 
-Beyond the changing form factors of computing devices, the increasing use of Artificial Intelligence (AI) 
-and Machine Learning (ML) in software and systems is also changing the nature of vulnerabilities.
-The kinds of problems one might encounter in AI and ML systems include all the traditional problems of 
-software vulnerabilities, but can extend to issues arising from training algorithms,
-training data, models, their distribution and deployment in production systems, and the use of the system.
+!!! abstract "Internet of Things"
+
+    On the opposite end of the spectrum, we find many Internet of Things (IoT) and
+    embedded device vendors for whom fixing a vulnerability might require a
+    firmware upgrade or even physical replacement of affected devices,
+    neither of which can be expected to happen quickly (if at all). 
+    There is far less consistency in the ability of IoT vendors to fix and deploy patches,
+    and the ability of deployers to install those patches. 
+    Automated and secure fix deployment is often not implemented in IoT devices,
+    although this appears to be changing as the industry matures.
+
+!!! abstract "Artificial Intelligence and Machine Learning"
+
+    Beyond the changing form factors of computing devices, the increasing use of Artificial Intelligence (AI) 
+    and Machine Learning (ML) in software and systems is also changing the nature of vulnerabilities.
+    The kinds of problems one might encounter in AI and ML systems include all the traditional problems of 
+    software vulnerabilities, but can extend to issues arising from training algorithms,
+    training data, models, their distribution and deployment in production systems, and the use of the system.
+
+</div>
+
 
 !!! example "Who Owns an Algorithm?"
 
-    The CERT/CC has already encountered cases where the question of who owns an algorithm
+    The CERT/CC has already encountered cases where the question of _who owns an algorithm_
     has been a significant factor in the vulnerability coordination process.
 
     In [VU#425163](https://kb.cert.org/vuls/id/425163) _Machine learning classifiers trained via gradient descent are vulnerable to arbitrary misclassification attack_,

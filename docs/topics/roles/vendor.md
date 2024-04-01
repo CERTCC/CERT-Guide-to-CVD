@@ -45,21 +45,83 @@ vendors.
     industries
     - medical devices and health-related device manufacturers
 
+!!! warning "Vendor as the Introducer of Vulnerabilities"
 
-!!! tip "Vendors as Part of the Software Supply Chain"
+    The vendor often plays an important but less discussed role as well, as
+    the creator of the software or system that introduces the vulnerability.
+    This is a different perspective on the concept of the _originating vendor_ in the next section.
+    
+    While good practices like code reviews, continuous testing and
+    integration, well-trained developers, mentoring, architectural choices,
+    and so forth can reduce the rate of introduction of new vulnerabilities,
+    these practices thus far have not eliminated them completely. Thus, a
+    well-established CVD capability is also essential to the development
+    process.
 
-    Although a single vendor is usually the originator of a patch for a
-    given vulnerability, this is not always the case. Some vendors will have
-    products affected by a vulnerability while they are not the originator
-    of the initial fix.
-    Furthermore, since many modern products are in fact composed of
-    software and hardware components from multiple vendors, the CVD process
-    increasingly involves multiple tiers of vendors, as we discuss in
-    [Multiparty CVD](../../howto/variation/mpcvd.md).
-    Ideally the CVD process should cover not just the
-    patch originator but also the downstream vendors. The complexity of the
-    software supply chain can make this difficult to coordinate.
 
+
+## Vendors as Part of the Software Supply Chain
+
+Although a single vendor is usually the originator of a patch for a
+given vulnerability (also known as the _originating vendor_), this is not always the case.
+Some vendors will have products affected by a vulnerability while they are not the originator
+of the initial fix.
+We refer to these vendors as _downstream vendors_, as they are downstream in the software supply chain
+from the _originating vendor_.
+By contrast then, an _upstream vendor_ is a vendor that provides a component to another vendor.
+Furthermore, since many modern products are in fact composed of
+software and hardware components from multiple vendors, the CVD process
+increasingly involves multiple tiers of vendors, as we discuss in
+[Multiparty CVD](../../howto/variation/mpcvd.md).
+Ideally the CVD process should cover not just the
+patch originator but also the downstream vendors. The complexity of the
+software supply chain can make this difficult to coordinate.
+
+!!! abstract "Originating Vendor"
+
+    The _originating vendor_ is the vendor of a product in which a vulnerability is located.
+    The _originating vendor_ is responsible for creating the patch to fix the vulnerability.
+
+!!! abstract "Downstream Vendor"
+    
+    A _downstream vendor_ is a vendor that uses a component from another vendor in their own product.
+    If the component contains a vulnerability, the _downstream vendor_ is responsible for updating their product to include the patch
+    provided by the _originating vendor_.
+
+!!! abstract "Upstream Vendor"
+
+    An _upstream vendor_ is a vendor that provides a component to another vendor.
+    If the component contains a vulnerability, the _upstream vendor_ is responsible for providing a patch to the _downstream vendor_.
+    The _originating vendor_ is also an _upstream vendor_ in the context of the _downstream vendor_.
+    But there may be multiple _upstream vendors_ in the software supply chain.
+
+!!! example "Originating, Upstream, and Downstream Roles are Relative to the Software Supply Chain"
+
+    The roles of _originating vendor_, _downstream vendor_, and _upstream vendor_ are relative to the software supply chain.
+    The diagram below illustrates the relationships between these roles.
+
+    ```mermaid
+    ---
+    title: Vendor Roles
+    ---
+    flowchart LR
+        V0[Vendor 0]
+        V1[Vendor 1]
+        V2[Vendor 2]
+        V0 -->|provides<br/>fix| V1
+        V1 -->|provides<br/>fix| V2
+    ```    
+
+    Vendor 0 is the _originating vendor_ of the patch, and is an _upstream vendor_ to Vendor 1.
+    Vendor 1 and Vendor 2 are _downstream vendors_ to Vendor 0, although 
+    it is possible that Vendor 0 might not even be aware of Vendor 2.
+    Vendor 1 is also an _upstream vendor_ to Vendor 2, and Vendor 2 is a _downstream vendor_ to Vendor 1.
+
+    | Vendor<br/>perspective  | Vendor 0<br/>Role                      | Vendor 1<br/>Role    | Vendor 2<br/>Role   | 
+    |:-----------------------:|----------------------------------------|-------------------|-------------------|
+    |        Vendor 0         | Originating Vendor<br/>self            | Downstream Vendor | Downstream Vendor |
+    |        Vendor 1         | Originating Vendor<br/>Upstream Vendor | self              | Downstream Vendor |
+    |        Vendor 2         | Originating Vendor<br/>Upstream Vendor | Upstream Vendor   | self              |
 
 !!! example "Vendor Dependencies"
 
@@ -94,21 +156,6 @@ vendors.
     systems.
 
 
-
-
-
-
-
-!!! warning "Vendor as the Introducer of Vulnerabilities"
-
-    The vendor often plays an important but less discussed role as well, as
-    the creator of the software or system that introduces the vulnerability.
-    While good practices like code reviews, continuous testing and
-    integration, well-trained developers, mentoring, architectural choices,
-    and so forth can reduce the rate of introduction of new vulnerabilities,
-    these practices thus far have not eliminated them completely. Thus, a
-    well-established CVD capability is also essential to the development
-    process.
 
 
 ## Vendor Sub-Roles

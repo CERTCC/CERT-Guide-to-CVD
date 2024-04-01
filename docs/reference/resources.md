@@ -35,6 +35,7 @@ This list is by no means exhaustive, but it should provide a good starting point
 - [CERT Resilience Management Model (CERT-RMM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099)
 - [Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099)
 - [Vulnerability Disclosure Policy Templates](https://github.com/CERTCC/vulnerability_disclosure_policy_templates)
+- [Vulnerability INformation and Coordination Environment](https://github.com/CERTCC/VINCE) (VINCE)
 
 ## CISA Resources
 
