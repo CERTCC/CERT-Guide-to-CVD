@@ -1,8 +1,9 @@
 # Avoid Unnecessary Risk in Finding Vulnerabilities
 
-Looking for vulnerabilities in software and hardware is a critical part of
+<!--start-->Looking for vulnerabilities in software and hardware is a critical part of
 the security ecosystem. However, it is important to do so in a way that
-minimizes the potential for harm to others. This section provides advice for
+minimizes the potential for harm to others.<!--end-->
+This section provides advice for
 finders and vendors on how to avoid unnecessary risk when finding
 vulnerabilities.
 

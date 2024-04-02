@@ -1,8 +1,8 @@
 # What to Do When Things Go Wrong
 
-While we can't tell you what to do in every possible combination of
-contingencies that may arise in the CVD process, we can suggest the
-following guidelines to help you navigate the complexity.
+<!--start-->While we can't tell you what to do in every possible combination of
+contingencies that may arise in the CVD process, we can suggest a few
+guidelines to help you navigate the complexity.<!--end-->
 
 !!! tip "Keep Calm and Carry On"
 

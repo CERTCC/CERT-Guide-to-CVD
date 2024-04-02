@@ -49,7 +49,8 @@ for a more succinct way to get started with CVD without requiring
 someone to read every word in the Guide. To that end, we offer this CVD
 Quick Start to act as a meta-guide to the Guide.
 
-The [Executive Summary](tutorials/executive_summary.md) contains an
+
+[The _CERT Guide to CVD_ in a Nutshell](tutorials/cvd_in_a_nutshell) contains an
 overview of the entire document, and is a good place for all readers to
 become familiar with what's in the guide without necessarily poring
 over the details. Where you go from there depends on what you're trying
@@ -61,9 +62,10 @@ to achieve.
 
     ---
 
-    If you're a *researcher*, *vendor*, or *coordinator* trying to coordinate a disclosure and you need help, you might
-    want to start with the
-    [Troubleshooting Coordinated Vulnerability Disclosure Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md)
+    If you're a [*researcher*](topics/roles/finder.md),
+    [*vendor*](topics/roles/vendor.md), or [*coordinator*](topics/roles/coordinator.md) trying to coordinate a disclosure and you need help, you might
+    want to start with 
+    [Troubleshooting Coordinated Vulnerability Disclosure](howto/coordination/cvd_recipes.md)
     to find the problem area(s) you're currently dealing with.
     From there you can follow the links into the document for more details.
 
@@ -71,20 +73,15 @@ to achieve.
 
     ---
 
-    If you're a *vendor* trying to establish a vendor product security
-    incident response team (PSIRT), you may be interested in [2.
-    Principles of Coordinated Vulnerability
-    Disclosure](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.md), [5.
-    Process Variation
-    Points](5.-Process-Variation-Points_47677473.md), and  [7.
-    Operational
-    Considerations](7.-Operational-Considerations_47677492.md) as a
-    starting points. Additionally, you can use the [6.10 Troubleshooting
-    Coordinated Vulnerability Disclosure
-    Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md) as
-    a rubric of scenarios to consider when planning your operational
-    processes. [Appendix E - Disclosure Policy
-    Templates](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677443){.createlink}
+    If you're a [*vendor*](topics/roles/vendor.md) trying to establish a vendor product security
+    incident response team (PSIRT), you may be interested in
+    [Principles](topics/principles/index.md),
+    [Preparation](howto/preparation/index.md), and
+    [Operation](howto/operation/index.md)
+    as starting points. Additionally, you can use
+    [Troubleshooting Coordinated Vulnerability Disclosure](howto/coordination/cvd_recipes.md)
+    as a rubric of scenarios to consider when planning your operational processes.
+    [Disclosure Policy Resources](reference/disclosure_policy_templates.md)
     contains links to a number of disclosure policy examples and
     templates.
 
@@ -92,34 +89,30 @@ to achieve.
 
     ---
 
-    If you're a *coordinator* spinning up your CVD capability, you
-    should become familiar with [2. Principles of Coordinated
-    Vulnerability
-    Disclosure](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.md), [3.
-    Roles in CVD](3.-Roles-in-CVD_47677459.md), [5. Process Variation
-    Points](5.-Process-Variation-Points_47677473.md), and [7.
-    Operational
-    Considerations](7.-Operational-Considerations_47677492.md).
-    The [Appendices](Appendices_49414192.md) may also be useful to
-    you.
+    If you're a [*coordinator*](topics/roles/coordinator.md) spinning up your CVD capability, you
+    should become familiar with the
+    [Principles](topics/principles/index.md),
+    [Roles](topics/roles/index.md),
+    [Coordination](howto/coordination/index.md),
+    and
+    [Operation](howto/operation/index.md) sections.
+    The [Reference](reference/index.md) section may also be useful to you.
 
 - **Policy-Makers**
 
     ---
 
     If you're a *policy-maker* (or influencer thereof), the
-    sections {== TODO fixme [1. Introduction](1.-Introduction_47677445.md) ==} , [2.
-    Principles of Coordinated Vulnerability
-    Disclosure](2.-Principles-of-Coordinated-Vulnerability-Disclosure_47677450.md), [3.
-    Roles in CVD](3.-Roles-in-CVD_47677459.md), and [4. Phases of
-    CVD](4.-Phases-of-CVD_47677466.md) are probably most useful to you
-    to start, but there are many edge cases in [6.10 Troubleshooting
-    Coordinated Vulnerability Disclosure
-    Table](6.10-Troubleshooting-Coordinated-Vulnerability-Disclosure-Table_55967749.md) that
-    are worth considering when you're thinking about writing policy
-    that sets out how things are expected to be done. [Appendix E -
-    Disclosure Policy
-    Templates](/confluence/pages/createpage.action?spaceKey=CVD&title=Appendix+E+%E2%80%93+Disclosure+Policy+Templates&linkCreation=true&fromPageId=47677443){.createlink}
+    sections
+    [HowTo Overview](howto/index.md),
+    [Principles](topics/principles/index.md),
+    [Roles](topics/roles/index.md),
+    and [Phases](topics/phases/index.md) are probably most useful to you
+    to start, but there are many edge cases in
+    [Troubleshooting Coordinated Vulnerability Disclosure](howto/coordination/cvd_recipes.md)
+    that are worth considering when you're thinking about writing policy
+    that sets out how things are expected to be done.
+    [Disclosure Policy Resources](reference/disclosure_policy_templates.md) 
     contains links to a number of disclosure policy examples and
     templates.
 

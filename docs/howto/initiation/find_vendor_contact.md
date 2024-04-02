@@ -17,8 +17,9 @@
     proceedings in a different country where they don't speak your
     language. 
 
-Making initial contact with a vendor can sometimes be more difficult
-than it should be. Here is a list of techniques we've used to figure
+<!--start-->Making initial contact with a vendor can sometimes be more difficult
+than it should be.<!--end-->
+Here is a list of techniques we've used to figure
 out how to reach a vendor we've never spoken with before.
 
 ## Common Methods

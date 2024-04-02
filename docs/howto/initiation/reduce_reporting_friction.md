@@ -1,8 +1,8 @@
 # Reduce Friction in the Reporting Process
 
-As a vendor, it is important to not treat reporters with suspicion or
+<!--start-->As a vendor, it is important to not treat reporters with suspicion or
 hostility. It's likely they have important information about your
-product, and they want to share it with you.
+product, and they want to share it with you.<!--end-->
 Furthermore, vendors should take care not to frustrate reporters'
 attempts to make contact by building too many assumptions into their CVD
 process.

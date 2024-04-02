@@ -6,9 +6,11 @@
     participants. So while there are only 10 pairs for 5 participants, there are 45 pairs for 10 participants.
     
 
-The complexity of coordination problems increases rapidly as more
-parties are involved in the coordination effort. As a result, multiparty coordination using point-to-point
-communications do not scale well. Borrowing from communication network
+<!--start-->The complexity of coordination problems increases rapidly as more
+parties are involved in the coordination effort.
+As a result, multiparty coordination using point-to-point
+communications do not scale well.<!--end--> 
+Borrowing from communication network
 concepts, multiparty coordination involving more than a few participants
 can be improved with a shift to either a hub-and-spoke or shared-bus
 topology in lieu of a full mesh or collection of point-to-point

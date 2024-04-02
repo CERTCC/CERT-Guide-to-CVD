@@ -1,7 +1,11 @@
 # Response Pacing and Synchronization
 
-Problems can arise when the multiple parties involved in CVD function at
-different operational tempos. In both the vertical and horizontal supply
+<!--start-->Problems can arise when the multiple parties involved in CVD function at
+different operational tempos. Different organizations have different
+priorities and development schedules, which can lead to some parties
+wanting to move faster than others.<!--end-->
+
+In both the vertical and horizontal supply
 chain cases discussed in [Multiparty CVD](mpcvd.md), synchronized timing of disclosure to the
 public can be difficult to coordinate. The originating vendor(s) will
 usually want to release a patch announcement to the public as soon as it

@@ -12,6 +12,7 @@ nav:
     - About This Guide: 'about.md'
   - Learning CVD:
     - Overview: 'tutorials/index.md'
+    - This Guide in a Nutshell: 'tutorials/cvd_in_a_nutshell.md'
     - CVD Overview:
         - A Process, Not an Event: 'tutorials/cvd_is_a_process.md'
         - CVD Terminology:
@@ -24,7 +25,6 @@ nav:
             - Vul Scanning: 'tutorials/terms/vulnerability_scanning.md'
             - Vul Management: 'tutorials/terms/vulnerability_management.md'
             - Coordinated Vulnerability Disclosure: 'tutorials/terms/cvd.md'
-    - Executive Summary: 'tutorials/executive_summary.md'
     - Vulnerability Response Processes:
         - Vendor: 'tutorials/response_process/vendor.md'
         - Deployer: 'tutorials/response_process/deployer.md'

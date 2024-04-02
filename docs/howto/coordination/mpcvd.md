@@ -89,9 +89,12 @@ independent discovery of vulnerabilities can and does happen.
 
 ## Complicated Supply Chains
 
-Many products today are not developed by a single organization.
+<!--start-->Many products today are not developed by a single organization.
 Instead, they are assembled from components sourced from other
-organizations.
+organizations. Vulnerabilities in these components can have far-reaching
+impacts and require coordination among multiple parties to resolve.<!--end-->
+
+
 For example, software libraries are often licensed for inclusion into
 other products. When a vulnerability is discovered in a library
 component, it is very likely that not only does the originating vendor

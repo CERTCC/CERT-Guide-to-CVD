@@ -1,8 +1,8 @@
 # Unresponsive Vendor
 
-Furthermore, even when you can find the vendor, not all vendors have
-established processes for receiving vulnerability reports. Again,
-potential reasons abound:
+<!--start-->Sometimes, even when you can [find contact informaiont for the vendor](find_vendor_contact.md),
+not all vendors have established processes for receiving vulnerability reports.<!--end-->
+Potential reasons abound:
 
 - They haven't thought about it, even though they should have.
 - They don't realize they need it, even though they do.

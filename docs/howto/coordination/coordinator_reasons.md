@@ -2,6 +2,11 @@
 
 There are a number of reasons that a finder, reporter, or vendor may
 wish to engage a third-party coordinator to assist with the CVD process.
+<!--start-->Reporter experience, capacity, and the number or nature of vendors
+involved can all play a role in determining whether a coordinator is
+needed. In addition, disputes between reporters and vendors, or the
+potential for major infrastructure impacts, can also necessitate the
+involvement of a coordinator.<!--end-->
 
 ## Reporter Inexperience
 

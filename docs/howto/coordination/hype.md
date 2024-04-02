@@ -10,13 +10,12 @@
     [GHOST](https://nvd.nist.gov/vuln/detail/CVE-2015-0235),
     [Spectre and Meltdown](https://nvd.nist.gov/vuln/detail/CVE-2017-5753).
 
-Does having a marketing department behind a vulnerability
-disclosure make that vulnerability worse than others without the
-marketing push? Not in any technical sense, no. Instead, what it does is
-draw additional attention to the vulnerability&mdash;so vendors can be
+<!--start-->Is a branded vulnerability more dangerous than one without?
+Not in any technical sense, no. Instead, what it does is
+draw additional attention&mdash;which can lead to vendors being
 forced to adjust the priority of the vulnerability cases they're
 working on and allocate resources toward addressing whatever 
-vulnerability is getting the hype. 
+vulnerability is getting the hype.<!--end--> 
 
 !!! question "Are branded vulnerabilities good or bad for internet security?"
     

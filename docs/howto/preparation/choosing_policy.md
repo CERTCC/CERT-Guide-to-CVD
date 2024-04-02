@@ -1,10 +1,11 @@
 # Choosing a Disclosure Policy
 
 For those responsible for implementing the CVD process, defining a
-disclosure policy is an important first step. A well-defined policy
+disclosure policy is an important first step.
+<!--start-->A well-defined policy
 makes it clear what other participants in the CVD process can expect
 when they engage with you and establishes good relationships between
-finders, reporters, vendors, coordinators, and other stakeholders.
+finders, reporters, vendors, coordinators, and other stakeholders.<!--end-->
 
 A disclosure policy typically describes what CVD stakeholders (finders,
 reporters, vendors, coordinators) can expect in terms of these factors:

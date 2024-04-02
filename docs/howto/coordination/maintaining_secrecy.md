@@ -1,6 +1,8 @@
 # Maintaining Pre-Disclosure Secrecy
 
 [Multiparty disclosure](mpcvd.md) highlights the need to balance need-to-know with need-to-share. 
+<!--start-->The more parties involved in a case, and the longer the embargo period
+lasts, the more likely a leak becomes.<!--end-->
 
 !!! question "Who Needs to Know What, When?"
 

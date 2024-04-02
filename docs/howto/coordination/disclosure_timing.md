@@ -1,15 +1,22 @@
 # Disclosure Timing
 
-How long is "long enough" to respond to a vulnerability? Is 45 days
-long enough? Is 90 days too short? Is 217 days unreasonable? Three
-years? Talk among yourselves. We can wait.
-
+How long is "long enough" to respond to a vulnerability? 
 As with so many questions that arise in the CVD process, there is no
-single right answer. So rather than trying to solve an underspecified
-set of inequalities, let's have a look at some of the factors that tend
-to play into timing choices. This will give us an opportunity to see
-where some of the variability comes from.
+single right answer. 
 
+!!! question "How long is long enough?"
+
+    Is 45 days long enough? Is 90 days too short? Is 217 days unreasonable? Three
+    years? 
+    The only answer we can give is "It depends."
+
+    <!--start-->Complicated vulnerabilities usually take longer to fix.
+    Larger cases involving more parties, more products, or more complex
+    supply chains also tend to take longer to resolve, even if the
+    vulnerabilities themselves are relatively simple.<!--end-->
+
+So rather than trying to solve an underspecified problem, let's have a look at some of the factors that tend
+to play into timing choices. This will give us an opportunity to see where some of the variability comes from.
 
 
 !!! tip "Conference Schedules Often Drive Disclosure Timing"

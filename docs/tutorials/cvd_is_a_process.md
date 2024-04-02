@@ -25,13 +25,7 @@ flowchart TD
 
 From that point on, those belonging to the set that knows about the vulnerability iterate on two questions:
 
-!!! question "The Core Questions of Coordinated Vulnerability Disclosure"
-
-    1.  What actions should I take in response to this knowledge?
-    2.  Who else needs to know what, and when?
-
-    The CVD process continues until the answers to these questions are
-    "nothing," and "nobody."
+{% include-markdown "../_includes/_core_questions_of_cvd.md" %}
 
 Simple enough? Hardly. If it were, this documentation would be considerably
 shorter. But with this simple iterator in mind, we'll be better able to
@@ -48,9 +42,10 @@ by the vendor (developer) of the software product or service itself or
 reported to the vendor by a third party (finder, reporter). Informing
 vendors enables them to take action to address and correct
 vulnerabilities. In most cases, the vendor is the party best suited to
-correct the vulnerability at its origin. Vendors typically remediate
+correct the vulnerability at its origin. <!--start-->Vendors typically remediate
 vulnerabilities by developing and releasing an update to the product,
 also known as a patch. However, often the vendor issuing an update is
-just the first step towards remediation of the installed base of
-vulnerable systems. Deployers must still ensure that patches are
+a step in the middle of a process that starts with discovery and moves
+towards remediation of the installed base of vulnerable systems.<!--end-->
+Deployers must still ensure that patches are
 deployed in a timely manner to the systems they need to protect.

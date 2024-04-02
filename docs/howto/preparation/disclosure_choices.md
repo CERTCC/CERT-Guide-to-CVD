@@ -3,13 +3,12 @@
 As we have mentioned previously, participants in Coordinated
 Vulnerability Disclosure iterate over the following questions:
 
-1. What actions should I take in response to this knowledge?
-2. Who else should I tell about it?
-3. What should I tell them?
+{% include-markdown "../../_includes/_core_questions_of_cvd.md" %}
 
 Let's take a moment to explore questions 2 and 3 in a few scenarios.
-Each of these disclosure options have advantages and disadvantages. In
-this section, we adapt and expand some terminology from Shepherd
+<!--start-->There are several options for how to disclose a vulnerability.
+Each of these disclosure options have advantages and disadvantages.<!--end-->
+In this section, we adapt and expand some terminology from Shepherd
 [^1].
 
 <div class="grid" markdown>

@@ -1,8 +1,12 @@
 # Relationships that Go Sideways
 
-We'll repeat it again here because it's so important: the participants
-in CVD are humans. They have feelings, and those feelings can get hurt.
+CVD is a human coordination process, and humans are complicated.
+They have feelings, and those feelings can get hurt.
 People get frustrated, angry, and sometimes just have bad days.
+And sometimes, they just don't get along.
+
+<!--start-->When relationships go sideways in a CVD process, it can be a real problem.
+The process can stall, or worse, the vulnerability can be disclosed in a way that is harmful to users.<!--end-->
 
 !!! tip "The Human Element"
 

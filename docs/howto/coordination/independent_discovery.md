@@ -1,6 +1,8 @@
 # Independent Discovery
 
-If one person can find a vulnerability, somebody else can, too.
+<!--start-->If one person can find a vulnerability, somebody else can, too.
+When multiple parties independently discover the same vulnerability, it
+can complicate the CVD process.<!--end-->
 
 !!! example inline end "Research on Independent Discovery"
 

@@ -17,6 +17,7 @@ that we can improve on these extremes by striking a balance in between.
 But doing so requires several questions to be answered:
 
 !!! question "Questions to Answer in CVD"
+
     - How much information should be released?
     - To whom?
     - When?
@@ -44,13 +45,15 @@ the questions surrounding risk and reward of vulnerability disclosure?
     secure their systems.
 
 The CERT/CC believes the Coordinated Vulnerability Disclosure (CVD)
-process provides a reasonable balance of these competing interests. The
+process provides a reasonable balance of these competing interests.
+<!--start-->The
 public and especially users of vulnerable products deserve to be
 informed about issues with those products and how the vendor handles
 those issues. At the same time, disclosing such information without
 review and mitigation only opens the public up to exploitation. The
 ideal scenario occurs when everyone coordinates and cooperates to
-protect the public. This coordination may also be turned into a public
+protect the public.<!--end-->
+This coordination may also be turned into a public
 relations win for the vendor by quickly addressing the issue, thereby
 avoiding bad press for being unprepared.
 

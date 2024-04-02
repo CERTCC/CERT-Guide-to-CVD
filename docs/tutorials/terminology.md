@@ -1,8 +1,8 @@
 # CVD Terminology
 
-We need to agree on what we're talking about when we talk about CVD.
+<!--start-->We need to agree on what we're talking about when we talk about CVD.
 In this section, we define the terms that are used throughout the remainder of 
-our CVD documentation.
+this site.<!--end-->
 
 <div class="grid cards" markdown>
 

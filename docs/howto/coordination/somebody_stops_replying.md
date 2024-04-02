@@ -1,10 +1,10 @@
 # Somebody Stops Replying
 
-Sometimes one of the parties involved in a CVD effort will stop
+<!--start-->Sometimes one of the parties involved in a CVD effort will stop
 responding. Often, this is simply a reflection of priorities and
 attention shifting elsewhere rather than intentional behavior. It's
 usually best to give the benefit of the doubt and keep trying to
-reestablish contact if one of the CVD participants goes unresponsive.
+reestablish contact if one of the CVD participants goes unresponsive.<!--end-->
 Even in cases where the vendor has stopped responding in the midst of a
 coordination effort, the CERT/CC recommends that reporters send the
 vendor a "heads up" message with some lead time before publishing,
