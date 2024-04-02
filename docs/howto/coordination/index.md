@@ -10,8 +10,16 @@ This section provides some advice on how to handle common issues that might aris
      ---
     {% include-markdown "./coordinator_reasons.md" start="<!--start-->" end="<!--end-->" %}
 
-- {== Validation: 'topics/phases/validation.md' ==}
-- {== Prioritization: 'topics/phases/prioritization.md' ==}
+- :material-stamper: [Validation](validation.md)
+
+    ---
+    {% include-markdown "./validation.md" start="<!--start-->" end="<!--end-->" %}
+
+- :material-sort: [Prioritization](prioritization.md)
+
+    ---
+    {% include-markdown "./prioritization.md" start="<!--start-->" end="<!--end-->" %} 
+
 - :fontawesome-solid-people-group: [Multiparty CVD](mpcvd.md)
 
     ---

@@ -46,8 +46,8 @@ nav:
     - Doing CVD:
       - Coordination Intro: 'howto/coordination/index.md'
       - Reasons to Engage a Coordinator: 'howto/coordination/coordinator_reasons.md'
-      - Validation: 'topics/phases/validation.md'
-      - Prioritization: 'topics/phases/prioritization.md'
+      - Validation: 'howto/coordination/validation.md'
+      - Prioritization: 'howto/coordination/prioritization.md'
       - Multi-Party CVD: 'howto/coordination/mpcvd.md'
       - Response Pacing and Synchronization:  'howto/coordination/response_pacing.md'
       - Somebody Stops Responding: 'howto/coordination/somebody_stops_replying.md'
