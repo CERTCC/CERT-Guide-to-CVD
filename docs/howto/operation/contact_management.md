@@ -17,7 +17,7 @@ coordinators.
     Finding vendor contacts can be difficult. Not all vendors include
     contact information in an easily searchable page, such as a Contact Us
     page linked from the vendor's homepage.
-    See [Finding Vendor Contacts](../../tutorials/find_vendor_contact.md) for more information.
+    See [Finding Vendor Contacts](../initiation/find_vendor_contact.md) for more information.
 
 !!! warning "Avoid Posting Vulnerability Details in Public"
 
@@ -47,4 +47,4 @@ coordinators.
     and has made it easier for us to bring in third-party coordinators to assist with
     cases when necessary.
 
-    We cover communication topologies for CVD in [Response Pacing and Synchronization](../variation/response_pacing.md).
+    We cover communication topologies for CVD in [Response Pacing and Synchronization](../coordination/response_pacing.md).

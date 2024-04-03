@@ -2,8 +2,8 @@
 
 While some CVD participants primarily collect, collate, and relay reports, others have the capability to perform
 deeper technical analysis.
-In [Phases](../../reference/phases/index.md), we make a distinction between report [validation](/validation_and_triage.md)
-and deeper analysis leading to problem isolation and remediation ([Remediation](/remediation.md)).
+In [Phases](../../topics/phases/index.md), we make a distinction between report [validation](../../topics/phases/validation.md)
+and deeper analysis leading to problem isolation and remediation ([Remediation](../../topics/phases/remediation.md)).
 
 !!! tip "Depth of Analysis"
 

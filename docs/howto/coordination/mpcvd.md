@@ -27,7 +27,7 @@ From a coordinator's perspective, it can be difficult to be fair, as
 you're almost guaranteed to either miss some downstream vendor or wind
 up with one or more vendors ready to release while everyone is waiting
 for the other vendors to catch up. We discuss this conundrum further in 
-[Troubleshooting CVD](cvd_recipes.md).
+[Troubleshooting CVD](./cvd_recipes.md).
 
 <br/> <!-- for vertical spacing -->
 
@@ -85,7 +85,7 @@ independent discovery of vulnerabilities can and does happen.
     complicating factor in CVD, as it can lead to multiple reports of the
     same vulnerability, which can in turn lead to confusion, duplication of
     effort, and even conflict among the parties involved.
-    We discuss this topic further in [Independent Discovery](../troubleshooting/independent_discovery.md).
+    We discuss this topic further in [Independent Discovery](./independent_discovery.md).
 
 ## Complicated Supply Chains
 
@@ -279,7 +279,7 @@ flowchart TD
     usually imply that every product supporting that feature will need to be
     fixed. Multi-originator cases can be very complex to coordinate. The
     SNMP vulnerabilities found in 2002 via the [OUSPG PROTOS Test Suite
-    c06-snmpv1](https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1) 
+    c06-snmpv1](https://web.archive.org/web/20140901000000*/https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1) 
     ([VU#854306](https://www.kb.cert.org/vuls/id/854306),
     [VU#107186](https://www.kb.cert.org/vuls/id/107186),
     [CA-2002-03](https://insights.sei.cmu.edu/library/2002-cert-advisories/))

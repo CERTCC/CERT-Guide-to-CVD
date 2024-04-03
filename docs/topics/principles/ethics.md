@@ -58,11 +58,9 @@ work of CVD.
 In many ways, disclosing a vulnerability can be thought of as a form of
 journalistic reporting, in that
 
-!!! quote "American Press Institute: [What is the purpose of journalism?](https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/)"
+!!! quote "American Press Association: [Principles of Journalism](https://americanpressassociation.com/principles-of-journalism/)"
 
-    The purpose of journalism is ... to provide citizens with the information they need to make the best
-    possible decisions about their lives, their communities, their
-    societies, and their governments.
+    The central purpose of journalism is to provide citizens with accurate and reliable information they need to function in a free society.
 
 By analogy, vulnerability disclosure provides individuals and
 organizations with the information they need to make the best possible

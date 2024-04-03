@@ -264,7 +264,7 @@ needs of both disclosure coordination and patch deployment.
 Furthermore, there is a strong English language and English-speaking
 country bias in the major U.S.-based VDBs (hopefully this isn't
 terribly surprising). China has not one but two major VDBs: [China
-National Vulnerability Database of Information Security](http://www.cnnvd.org.cn/) (CNNVD)
+National Vulnerability Database of Information Security](https://en.wikipedia.org/wiki/Chinese_National_Vulnerability_Database) (CNNVD)
 and [China National Vulnerability Database](http://www.cnvd.org.cn/) (CNVD).
 We have been
 working with CSIRTs around the world (e.g., [JPCERT/CC](https://www.jpcert.or.jp/english/)

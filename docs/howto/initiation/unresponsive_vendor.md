@@ -29,7 +29,7 @@ Potential reasons abound:
     > vulnerabilities or risks, and (iii) the availability of software
     > updates that would correct or mitigate the vulnerabilities or risks.
 
-    Similar complaints have been included in FTC filings against [HTC America](https://www.ftc.gov/enforcement/cases-proceedings/122-3049/htc-america-inc-matter)
-    and [Fandango](https://www.ftc.gov/enforcement/cases-proceedings/132-3089/fandango-llc).
+    Similar complaints have been included in FTC filings against [HTC America](https://www.federalregister.gov/documents/2013/02/28/2013-04606/htc-america-inc-analysis-of-proposed-consent-order-to-aid-public-comment)
+    and [Fandango](https://threatpost.com/ftc-settles-with-fandango-credit-karma-over-ssl-issues-in-mobile-apps/105128/).
 
 {% include-markdown "../recipes/_x06.md" heading-offset=1 %}

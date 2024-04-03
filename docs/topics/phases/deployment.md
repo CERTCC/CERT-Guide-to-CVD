@@ -91,8 +91,7 @@ Such vendors can be well-positioned to reach their entire deployment base via pr
     attention beyond merely publishing a document on the vendor's support
     site. In such cases, additional measures should be taken to draw
     attention to the existence of the vulnerability or the availability of
-    its fix. (See also [4.5 Gaining Public
-    Awareness](public_awareness)) 
+    its fix. (See also [Public Awareness](public_awareness.md)) 
 
     Vendors should consider using:
 
@@ -135,7 +134,7 @@ instances have not been remediated, that goal has not been achieved.
 
     In an unexpected turn of events following the publication of this Guide,
     we were [called
-    on](https://republicans-energycommerce.house.gov/wp-content/uploads/2018/07/071718-SEI-Spectre-Meltdown.pdf) by the [US House Committee on Energy and
+    on](https://web.archive.org/web/20230112063739/https://republicans-energycommerce.house.gov/wp-content/uploads/2018/07/071718-SEI-Spectre-Meltdown.pdf) by the [US House Committee on Energy and
     Commerce](https://energycommerce.house.gov/) and the [Senate Committee on Commerce, Science, and
     Transportation](https://www.commerce.senate.gov/public/) to address
     [concerns](https://www.commerce.senate.gov/public/index.cfm/hearings?ID=77835497-EC96-41E8-B311-5AF789F38422) regarding the coordinated disclosure of the Meltdown and
@@ -180,7 +179,7 @@ instances have not been remediated, that goal has not been achieved.
         applied it to their systems.
 
     In our
-    [response](https://republicans-energycommerce.house.gov/wp-content/uploads/2018/08/CERT-Response-MultiParty-CVD-Congressional-Letter.pdf), we agreed. The relevant section of our reply is
+    [response](https://web.archive.org/web/20200810085618/https://republicans-energycommerce.house.gov/wp-content/uploads/2018/08/CERT-Response-MultiParty-CVD-Congressional-Letter.pdf), we agreed. The relevant section of our reply is
     reproduced below.
 
     ## Patch Availability is not Patch Deployment

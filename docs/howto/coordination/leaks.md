@@ -25,7 +25,7 @@ mismatched expectations, or in rare cases, a malicious act.<!--end-->
 
 !!! warning "Even Partial Leaks Can Be Serious"
 
-    As we note in [Disclosure Timing](../../howto/variation/disclosure_timing.md), mere
+    As we note in [Disclosure Timing](../../howto/coordination/disclosure_timing.md), mere
     knowledge that a vulnerability exists in a certain component can
     sometimes be enough to enable a determined individual or organization to
     find it. While a partial leak of information isn't necessarily as

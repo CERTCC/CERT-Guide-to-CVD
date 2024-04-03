@@ -15,7 +15,7 @@ as [vulnerability report documents](../../topics/phases/publishing.md) or vulner
 (e.g., 
 [CVE](https://www.cve.org),
 [VU#](https://www.kb.cert.org/vuls),
-[BID](http://www.securityfocus.com/bid)).
+[BID](https://en.wikipedia.org/wiki/Bugtraq)).
 
 !!! tip "CVD is not exclusive to software product vulnerabilities"
 

@@ -119,7 +119,7 @@ posed by these systems.
 !!! example "The Growing Importance of Vulnerability Response"
 
     Here's just one example: in 2004, it was considered
-    [controversial](http://www.ibmsystemsmag.com/ibmi/trends/whatsnew/Return-of-the-Browser-Wars/)
+    [controversial](https://spectrum.ieee.org/unsafe-at-any-broadband-speed)
     when the CERT/CC advised users to "use a different browser" in
     response to a vulnerability in the most popular browser of the day
     ([VU#713878](https://www.kb.cert.org/vuls/id/713878)).

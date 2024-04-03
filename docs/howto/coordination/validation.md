@@ -1,6 +1,6 @@
 # Validating Reports
 
-When a [vendor](../../topics/roles/vendor.md) or [coordinator](../../topics/roles/vendor.md)
+When a [vendor](../../topics/roles/vendor.md) or [coordinator](../../topics/roles/coordinator.md)
 receives a vulnerability report, it's usually necessary to prioritize it along with other 
 vulnerability reports already in progress, new feature development, and possibly other non-security bug fixes.
 As a result, there are a few considerations to be made in dealing with incoming reports.
@@ -104,7 +104,7 @@ a few tips for dealing with such reports:
 
 !!! tip "Advice for Reporters"
 
-    Reporters should review [Reporting](reporting.md) to
+    Reporters should review [Reporting](../../topics/phases/reporting.md) to
     ensure the report contains enough details for the recipient to verify
     and reproduce a vulnerability. Be as specific as you can. Vendors that
     follow up with questions are doing the right thing, and attempting to

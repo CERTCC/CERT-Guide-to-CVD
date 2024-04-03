@@ -12,7 +12,7 @@ These terms are closely related to vulnerabilities, but they are not the same th
 !!! abstract "Malware"
     
     *Malware* is software used by adversaries to compromise the security of a system or systems.
-    Some malware involves [exploits](./exploit.md) to achieve its goals, but not all malware involves exploits.
+    Some malware involves exploits to achieve its goals, but not all malware involves exploits.
 
 !!! abstract "Incident"
 

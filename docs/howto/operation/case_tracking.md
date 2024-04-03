@@ -27,7 +27,7 @@ security issues and the performance of the response process itself.
 !!! tip "MPCVD and Case Tracking"
 
     At the CERT/CC, we've found that more complicated CVD cases&mdash;for example the multiparty cases
-    described in [MPCVD](../variation/mpcvd.md)&mdash;become more like projects than tickets.
+    described in [MPCVD](../coordination/mpcvd.md)&mdash;become more like projects than tickets.
     In the context of MPCVD, multiple organizations may be involved in the response
     process, and each organization may have its own case tracking system.
 

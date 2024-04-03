@@ -4,7 +4,7 @@
 Each problem identified is accompanied by a description intended to help the reader diagnose the problem.<!--end-->
 The list is organized according to the roles affected and the phases in which the problem is likely to arise.
 
-In addition to the advice found below, we encourage readers to be familiar with our [General Tips](general_tips.md).
+In addition to the advice found below, we encourage readers to be familiar with our [General Tips](./general_tips.md).
 
 <div class="grid cards" markdown>
 

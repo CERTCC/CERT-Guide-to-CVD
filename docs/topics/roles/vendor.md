@@ -72,7 +72,7 @@ By contrast then, an _upstream vendor_ is a vendor that provides a component to 
 Furthermore, since many modern products are in fact composed of
 software and hardware components from multiple vendors, the CVD process
 increasingly involves multiple tiers of vendors, as we discuss in
-[Multiparty CVD](../../howto/variation/mpcvd.md).
+[Multiparty CVD](../../howto/coordination/mpcvd.md).
 Ideally the CVD process should cover not just the
 patch originator but also the downstream vendors. The complexity of the
 software supply chain can make this difficult to coordinate.
