@@ -1,6 +1,10 @@
 # Vendor Vulnerability Response Process
 
-In order to effectively mitigate the impact of vulnerabilities in their
+{% include-markdown "../../_includes/_who_is_a_vendor.md" heading-indent=1 %}
+
+If you are producing products that rely on computers and software, you
+need to begin taking action now to have appropriate processes and
+response. In order to effectively mitigate the impact of vulnerabilities in their
 products and services, [vendors](../../topics/roles/vendor.md) must be able to perform the following
 specific tasks:
 

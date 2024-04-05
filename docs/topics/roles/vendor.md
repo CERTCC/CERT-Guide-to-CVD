@@ -1,5 +1,11 @@
 # Vendor
 
+!!! info inline end "Synonyms for _Vendor_"
+
+    Other terms used to represent the concept of _vendor_ include:
+    supplier, manufacturer, producer, creator, developer, author, 
+    maintainer, provider, publisher, and distributor.
+
 The *vendor* is the party responsible for updating the product
 containing the vulnerability. Most often a vendor is a company or other
 organization, but an individual can also be a vendor. For example, a
@@ -10,7 +16,10 @@ Many open source libraries are maintained by a single person or a small
 independent team; we still refer to these individuals and groups as
 vendors.
 
-!!! example inline end "Vendor Perspectives"
+
+{% include-markdown "../../_includes/_who_is_a_vendor.md" heading-indent=1 %}
+
+!!! example "Vendor Perspectives"
 
     The [NTIA Awareness and Adoption Working Group survey](https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a_a_vulnerability_disclosure_insights_report.pdf)
     found the following:
@@ -23,27 +32,6 @@ vendors.
     - Only a third of responding companies considered and/or required
       suppliers to have their own vulnerability handling procedures.
 
-!!! tip "Vendors Include More Than Just Software Companies"
-
-    As software-centric systems find their way into various industries, more
-    and more vendors of traditional products find themselves becoming
-    software vendors. 
-    Moving beyond traditional software companies, recent years have seen the
-    rise in networked products and services from a variety of industries,
-    including those below:
-
-    - consumer products, such as home automation and the internet of
-    things (IoT)
-    - internet service providers (ISPs) and the makers of devices that
-    access ISP services: internet modems, routers, access points, and
-    the like
-    - mobile phone manufacturers and service providers
-    - industrial control systems, building automation, HVAC manufacturers
-    - infrastructure suppliers and increasingly "smart" utility services
-    including water and sewer services and the energy industry
-    - transportation services, including the airline and automotive
-    industries
-    - medical devices and health-related device manufacturers
 
 !!! warning "Vendor as the Introducer of Vulnerabilities"
 
