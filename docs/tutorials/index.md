@@ -52,16 +52,39 @@ want to inform them of the existence of this vulnerability.
 This is where the process of Coordinated Vulnerability Disclosure (CVD)
 begins.
 
+## Where to go from here
+
+The remainder of this section provides some tutorials and guidance on how to get started with 
+Coordinated Vulnerability Disclosure.
+
+
+
+
 <div class="grid cards" markdown>
 
-- :material-motion-outline: [Coordinated Vulnerability Disclosure is a Process, Not an Event](cvd_is_a_process.md)
+- :octicons-squirrel-16: [**The CERT Guide to CVD in a Nutshell**](./cvd_in_a_nutshell.md)
+
+    ---
+    {% include-markdown "./cvd_in_a_nutshell.md" start="<!--start-->" end="<!--end-->" %}
+
+- :material-motion-outline: [**Coordinated Vulnerability Disclosure is a Process, Not an Event**](./cvd_is_a_process.md)
 
     ---
     {% include-markdown "./cvd_is_a_process.md" start="<!--start-->" end="<!--end-->" %}
  
-- :octicons-list-ordered-16: [CVD Terminology](terminology.md)
+- :material-format-list-bulleted-triangle: [**CVD Terminology**](./terminology.md)
     
     ---
     {% include-markdown "./terminology.md" start="<!--start-->" end="<!--end-->" %}
+
+- :material-stairs-up: [**Vulnerability Response Processes**](./response_process/index.md)
+
+    ---
+    {% include-markdown "./response_process/index.md" start="<!--start-->" end="<!--end-->" %}
+
+- :material-escalator-up: [**Coordinating with the CERT/CC**](./coord_certcc/index.md)
+
+    ---
+    {% include-markdown "./coord_certcc/index.md" start="<!--start-->" end="<!--end-->" %}
 
 </div>

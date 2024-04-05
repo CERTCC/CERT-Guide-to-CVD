@@ -103,3 +103,4 @@ In the end, everyone benefits from vendors improving their vulnerability
 response processes, so helping the laggards become more efficient can
 sometimes become a secondary goal of the coordination process.
 
+{% include-markdown "../../_includes/_report_certcc.md" heading-offset=1 %}

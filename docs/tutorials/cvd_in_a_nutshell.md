@@ -37,10 +37,13 @@ been disclosed and deployers must take action to respond.
 
 !!! info "What's on this Page?"
 
-    The remainder of the page provides an overview of many of the topics covered
+    <!--start-->The _CERT Guide to CVD in a Nutshell_ provides an overview of many of the topics covered
     later in this documentation, with links to more detailed information. We're providing
-    it here as a preview of what's to come as you work through the remainder of the site.
+    it here as a preview of what's to come as you work through the remainder of the site.<!--end-->
 
+{% include-markdown "../topics/index.md" heading-offset=1 %}
+{% include-markdown "../howto/index.md" heading-offset=1 %}
+<!-- 
 {% include-markdown "../topics/principles/index.md" heading-offset=1 %}
 {% include-markdown "../topics/roles/index.md" heading-offset=1 %}
 {% include-markdown "../topics/phases/index.md" heading-offset=1 %}
@@ -48,4 +51,5 @@ been disclosed and deployers must take action to respond.
 {% include-markdown "../howto/initiation/index.md" heading-offset=1 %}
 {% include-markdown "../howto/coordination/index.md" heading-offset=1 %}
 {% include-markdown "../howto/operation/index.md" heading-offset=1 %}
-
+-->
+{% include-markdown "../reference/index.md" heading-offset=1 %}

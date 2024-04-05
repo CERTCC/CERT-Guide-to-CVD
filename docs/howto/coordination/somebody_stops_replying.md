@@ -28,3 +28,5 @@ technical aspects of the vulnerability.
 
 {% include-markdown "../recipes/_x06.md" heading-offset=1 %}
 {% include-markdown "../recipes/_x10.md" heading-offset=1 %}
+
+{% include-markdown "../../_includes/_report_certcc.md" heading-offset=1 %}

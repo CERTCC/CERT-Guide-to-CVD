@@ -312,3 +312,4 @@ flowchart TD
         effects of large-scale notifications are likely to remain low in the
         future.
 
+{% include-markdown "../../_includes/_report_certcc.md" heading-offset=1 %}

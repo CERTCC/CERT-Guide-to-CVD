@@ -8,9 +8,13 @@
 
 In the interest of consistency, we will use this
 definition of finder, although in other documentation we've used the
-term discoverer for this same role. We do, however, distinguish between
-the role of finder and the role of reporter, as seen in this section and
+term _discoverer_ for this same role. We do, however, distinguish between
+the role of _finder_ and the role of _reporter_, as seen in this section and
 the next.
+
+We sometimes use _finder/reporter_ to refer to the person or organization
+that both finds and reports a vulnerability.
+
 
 ## Who Finds Vulnerabilities?
 
@@ -130,7 +134,7 @@ vulnerability.
     vendor is not the original finder.
 
 That said, whether or not the
-reporter is the original finder is often not as relevant as whether the
+_reporter_ is the original _finder_ is often not as relevant as whether the
 newly provided information is sufficient to determine the existence and
 impact of the problem reported.
 

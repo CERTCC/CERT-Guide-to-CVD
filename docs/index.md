@@ -8,17 +8,17 @@
     This web version is an evolution of that original report.
 
 This is the web edition of *The CERT® Guide to Coordinated Vulnerability
-Disclosure*. We've reproduced the original report here in its entirety
-to make it easier to find the topic you're looking for. We're also in
-the process of revising the guide based on feedback we've received
-since its original publication. Got a suggestion? [Submit it
-here](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
+Disclosure*. We started with the original report in its entirety and
+have been working to make it more accessible and easier to navigate. 
+We're also in the process of revising the guide based on feedback we've received
+since its original publication.
 
-<!-- for vertical spacing -->
-<br/>
+Got a suggestion? [Submit it here](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
+
+<!-- for spacing -->
 ---
 
-!!! abstract
+!!! abstract "What is _The CERT Guide to CVD_ about?"
 
     Security vulnerabilities remain a problem for vendors and deployers of
     software-based systems alike. Vendors play a key role by providing fixes
@@ -32,7 +32,7 @@ here](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
     vulnerabilities and their mitigations to various stakeholders including
     the public. The CERT Coordination Center has been coordinating the
     disclosure of software vulnerabilities since its inception in 1988. This
-    document is intended to serve as a guide to those who want to initiate,
+    documentation is intended to serve as a guide to those who want to initiate,
     develop, or improve their own CVD capability. In it, the reader will
     find an overview of key principles underlying the CVD process, a survey
     of CVD stakeholders and their roles, and a description of CVD process
@@ -122,3 +122,53 @@ Of course, we think it's best if you eventually become familiar with
 the entire site, but hopefully the hints above will help you find
 the most effective places to start.
 
+## Using this Site 
+
+At the bottom of each page, you'll find a set of links to help you
+interact with the CERT Guide to CVD team. You can ask questions, report
+problems, request features, or join the conversation on the CERT Guide
+to CVD Community Discussions. We're always looking for feedback on how
+to make the site better, so don't hesitate to reach out.
+
+<div class="grid cards" markdown>
+
+- :fontawesome-regular-comments: [**Join the conversation**](https://github.com/CERTCC/CERT-Guide-to-CVD/discussions)
+
+    ---
+    Have a question or want to discuss something? Join the conversation on the CERT Guide to CVD Community Discussions.
+ 
+- :material-message-question: [**Ask a Question**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md)
+    
+    ---
+    Have a question about the content of the site? Ask it here.
+
+- :fontawesome-solid-bug: [**Report a Problem**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=bug_report.md)
+
+    ---
+    Found a problem with the site? Report it here.
+
+- :material-lightbulb-on: [**Request a Feature**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=feature_request.md)
+    
+    ---
+    Have an idea for a feature you'd like to see on the site? Request it here.
+
+
+<!--
+    - icon: material/message-question
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md
+      name: Ask a Question
+    - icon: fontawesome/solid/bug
+      link: 
+      name: Report a Problem
+    - icon: material/lightbulb-on
+      link: 
+      name: Request a Feature
+    - icon: fontawesome/regular/comments
+      link:
+      name: CERT-Guide-to-CVD Community Discussions
+    - icon: fontawesome/brands/github
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD
+      name: CERTCC/CERT-Guide-to-CVD on Github
+-->
+
+</div>

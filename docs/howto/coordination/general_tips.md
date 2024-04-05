@@ -109,3 +109,4 @@ guidelines to help you navigate the complexity.<!--end-->
     "lessons learned" sessions with vulnerability coordinators at the
     CERT/CC.
 
+{% include-markdown "../../_includes/_report_certcc.md" heading-offset=1 %}

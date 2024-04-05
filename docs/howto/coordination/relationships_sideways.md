@@ -24,3 +24,5 @@ The process can stall, or worse, the vulnerability can be disclosed in a way tha
     isn't as useful as simplifying the process and then documenting that!
 
 {% include-markdown "../recipes/_x21.md" heading-offset=1 %}
+
+{% include-markdown "../../_includes/_report_certcc.md" heading-offset=1 %}

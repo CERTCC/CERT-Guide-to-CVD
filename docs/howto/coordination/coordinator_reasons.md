@@ -92,3 +92,5 @@ services such as DNS (which also serves as an example of a horizontal
 supply chain) affect a massive number of vendors; a coordinator can help
 contact and disseminate information to vendors, service providers, and
 other critical organizations for quick remediation.
+
+{% include-markdown "../../_includes/_report_certcc.md" heading-offset=1 %}

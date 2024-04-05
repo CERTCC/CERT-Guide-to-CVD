@@ -14,20 +14,26 @@ nav:
     - Overview: 'tutorials/index.md'
     - This Guide in a Nutshell: 'tutorials/cvd_in_a_nutshell.md'
     - CVD Overview:
-        - A Process, Not an Event: 'tutorials/cvd_is_a_process.md'
-        - CVD Terminology:
-            - Terms:  'tutorials/terminology.md'
-            - Vulnerability: 'tutorials/terms/vulnerability.md'
-            - Exploits, Malware, and Incidents: 'tutorials/terms/exp_mw_inc.md'
-            - Products and Instances: 'tutorials/terms/products_instances.md'
-            - Vul Response: 'tutorials/terms/vulnerability_response.md'
-            - Vul Discovery: 'tutorials/terms/vulnerability_discovery.md'
-            - Vul Scanning: 'tutorials/terms/vulnerability_scanning.md'
-            - Vul Management: 'tutorials/terms/vulnerability_management.md'
-            - Coordinated Vulnerability Disclosure: 'tutorials/terms/cvd.md'
+      - A Process, Not an Event: 'tutorials/cvd_is_a_process.md'
+      - CVD Terminology:
+        - Terms:  'tutorials/terminology.md'
+        - Vulnerability: 'tutorials/terms/vulnerability.md'
+        - Exploits, Malware, and Incidents: 'tutorials/terms/exp_mw_inc.md'
+        - Products and Instances: 'tutorials/terms/products_instances.md'
+        - Vul Response: 'tutorials/terms/vulnerability_response.md'
+        - Vul Discovery: 'tutorials/terms/vulnerability_discovery.md'
+        - Vul Scanning: 'tutorials/terms/vulnerability_scanning.md'
+        - Vul Management: 'tutorials/terms/vulnerability_management.md'
+        - Coordinated Vulnerability Disclosure: 'tutorials/terms/cvd.md'
     - Vulnerability Response Processes:
-        - Vendor: 'tutorials/response_process/vendor.md'
-        - Deployer: 'tutorials/response_process/deployer.md'
+      - Disclosure 101: 'tutorials/response_process/index.md'
+      - Reporter: 'tutorials/response_process/reporter.md'
+      - Vendor: 'tutorials/response_process/vendor.md'
+      - Deployer: 'tutorials/response_process/deployer.md'
+    - Engaging CERT/CC:
+      - Coordinating With Us: 'tutorials/coord_certcc/index.md'
+      - Reporters: 'tutorials/coord_certcc/reporter.md'
+      - Vendors: 'tutorials/coord_certcc/vendor.md'
   - CVD How-To:
     - Overview: 'howto/index.md'
     - Preparation:
@@ -110,6 +116,7 @@ nav:
         - Vulnerability IDs: 'topics/special/vul_ids.md'
   - Reference:
     - Overview: 'reference/index.md'
+    - CERT/CC Vulnerability Disclosure Policy: 'reference/certcc_disclosure_policy.md'
     - Basic Vul Report Form: 'reference/simple_vrf.md'
     - Basic Vul Advisory: 'reference/simple_advisory.md'
     - Disclosure Policy Resources: 'reference/disclosure_policy_templates.md'
@@ -195,6 +202,9 @@ extra:
       make our documentation better. 
       See our <a href="https://www.sei.cmu.edu/legal/privacy-notice/index.cfm">Privacy Notice</a> for more.
   social:
+    - icon: fontawesome/regular/comments
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD/discussions
+      name: CERT-Guide-to-CVD Community Discussions
     - icon: material/message-question
       link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md
       name: Ask a Question
@@ -204,9 +214,6 @@ extra:
     - icon: material/lightbulb-on
       link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=feature_request.md
       name: Request a Feature
-    - icon: fontawesome/regular/comments
-      link: https://github.com/CERTCC/CERT-Guide-to-CVD/discussions
-      name: CERT-Guide-to-CVD Community Discussions
     - icon: fontawesome/brands/github
       link: https://github.com/CERTCC/CERT-Guide-to-CVD
       name: CERTCC/CERT-Guide-to-CVD on Github

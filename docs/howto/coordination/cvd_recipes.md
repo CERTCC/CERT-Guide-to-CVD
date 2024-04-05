@@ -62,3 +62,5 @@ We're taking [suggestions](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
 {% include-markdown "../recipes/_x18.md" heading-offset=1 %}
 {% include-markdown "../recipes/_x20.md" heading-offset=1 %}
 {% include-markdown "../recipes/_x21.md" heading-offset=1 %}
+
+{% include-markdown "../../_includes/_report_certcc.md" heading-offset=1 %}
