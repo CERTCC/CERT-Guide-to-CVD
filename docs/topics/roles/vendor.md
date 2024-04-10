@@ -16,6 +16,9 @@ Many open source libraries are maintained by a single person or a small
 independent team; we still refer to these individuals and groups as
 vendors.
 
+<!-- for spacing -->
+<br/>
+
 {% include-markdown "../../_includes/_who_is_a_vendor.md" heading-indent=1 %}
 
 !!! example "Vendor Perspectives"

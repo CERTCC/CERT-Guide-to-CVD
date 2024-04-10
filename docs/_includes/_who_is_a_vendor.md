@@ -25,6 +25,7 @@
     - artificial intelligence and machine learning software and service providers
     
     Any company or organization that provides a product or service that relies on a
-    computer or software is referred to as a [**vendor**](../topics/roles/vendor.md)
+    computer or software is referred to as a
+    *vendor*,
     even if that organization doesn't directly make the computer or software
     components used by their products.

@@ -1,9 +1,5 @@
 name: "Lint Markdown (Changes)"
 on:
-  push:
-    paths:
-      - '**/*.md'
-      - .github/workflows/lint_md_changes.yml
   pull_request:
     paths:
       - '**/*.md'
