@@ -25,13 +25,13 @@ We cover each of these in more detail below.
     Many of the steps here are covered in more detail (and from a more process-oriented rather than role-oriented perspective)
     in the [Phases of CVD](../../topics/phases/index.md) section.
 
-{% include-markdown "../../_includes/_rmm_vm.md" %}
-
 !!! tip "Vulnerability Management"
 
     We're calling it the "deployer vulnerability response process" here, 
     but it's also known as "vulnerability management" or "patch management."
     The process is the same, regardless of the name.
+
+{% include-markdown "../../_includes/_rmm_vm_wide.md" %}
 
 
 ## Become Aware
@@ -78,8 +78,11 @@ would like.
     - The potential for negative side effects from deploying the patch or
     mitigation
 
+!!! ssvc "SSVC's Deployer Decision Model"
+
     Decision support tools like the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC)
     (SSVC) framework can help deployers prioritize their vulnerability response actions.
+    SSVC provides an example [vulnerability prioritization decision model for deployers](https://certcc.github.io/SSVC/howto/deployer_tree/).
 
 ## Test the Solution
 

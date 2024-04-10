@@ -18,7 +18,7 @@ those deployed components to the important services they provide and the
 missions they support. This can help you prioritize your response to
 vulnerabilities based on the importance of the affected systems.
 
-!!! tip "SSVC and risk-based prioritization"
+!!! ssvc "SSVC and risk-based prioritization"
 
     We developed the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC)
     (SSVC) framework to help organizations prioritize their vulnerability

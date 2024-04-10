@@ -1,6 +1,6 @@
 # Report Credibility
 
-!!! info inline end "SSVC's Report Credibility Decision Point"
+!!! ssvc inline end "SSVC's Report Credibility Decision Point"
 
     The content in this section is adapted from the CERT/CC's [Stakeholder-Specific Vulnerability Categorization (SSVC)](https://certcc.github.io/SSVC/)
     [Report Credibility Decision Point](https://certcc.github.io/SSVC/reference/decision_points/report_credibility/) documentation.

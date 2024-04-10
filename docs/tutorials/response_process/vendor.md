@@ -92,9 +92,13 @@ exploitation.
     consistently applied. This will help ensure that the vendor's
     vulnerability response process is transparent and fair.
     
+!!! ssvc "SSVC and risk-based prioritization"
+
     The [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC)
     (SSVC) framework provides decision support tools for vendors to use in
-    prioritizing vulnerabilities.
+    prioritizing vulnerabilities. Specifically, we have developed a
+    [Supplier Prioritization Decision Model](https://certcc.github.io/SSVC/howto/supplier_tree/)
+    that can help vendors prioritize their vulnerability response actions.
 
 ## Analyze & Test Claims
 

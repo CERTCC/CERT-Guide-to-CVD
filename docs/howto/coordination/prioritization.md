@@ -39,7 +39,7 @@ priorities.
 
 <br/><!-- for spacing -->
 
-!!! tip "Stakeholder-Specific Vulnerability Categorization (SSVC)"
+!!! ssvc "Stakeholder-Specific Vulnerability Categorization (SSVC)"
 
     The CERT/CC's [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC) (SSVC)
     provides a method for developing vulnerability management decision models

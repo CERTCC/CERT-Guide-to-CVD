@@ -16,8 +16,13 @@ flowchart TD
 ```
 
 In practice, however, prioritization can be more complex.
-Much of what we have to say about prioritization is already covered in our
-documentation of [SSVC](https://certcc.github.io/SSVC), the Stakeholder-Specific Vulnerability Categorization.
+
+!!! ssvc "Stakeholder-Specific Vulnerability Categorization (SSVC)"
+
+    The CERT/CC's [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC) (SSVC)
+    provides a method for developing vulnerability management decision models
+    that are tailored to the specific needs of different stakeholders.
+    Much of what we have to say about prioritization is already covered in that documentation.
 
 
 !!! question "Who Receives Reports?"
