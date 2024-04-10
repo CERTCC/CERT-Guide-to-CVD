@@ -54,6 +54,14 @@ disclosure of information about software and system vulnerabilities.
     difficult to establish consistent practices for reporting and remediating
     vulnerabilities. 
 
+!!! abstract "Web Sites and Applications"
+    
+    Web sites and applications are another area where the ability to fix and deploy patches has improved.
+    Many web sites and applications are now built using continuous integration and continuous deployment (CI/CD) pipelines,
+    which can allow for rapid deployment of fixes to vulnerabilities.
+    However, the ability to deploy patches quickly is not universal, and there are still many web sites and 
+    applications that are not built using CI/CD pipelines.
+
 !!! abstract "Cloud Computing and Software as a Service"
 
     As things have progressed, we've found that while there can still be challenges
@@ -63,6 +71,7 @@ disclosure of information about software and system vulnerabilities.
     Traditional software vendors have also improved their ability to fix and deploy patches,
     although there is often a lag between the time a patch is available and the time it is deployed to all customers
     due to the need for the deployer to take action to install the fix.
+
 
 !!! abstract "Internet of Things"
 
@@ -82,6 +91,14 @@ disclosure of information about software and system vulnerabilities.
     The kinds of problems one might encounter in AI and ML systems include all the traditional problems of 
     software vulnerabilities, but can extend to issues arising from training algorithms,
     training data, models, their distribution and deployment in production systems, and the use of the system.
+
+!!! abstract "Distributed Ledger and Blockchain"
+
+    Distributed ledger and blockchain technologies also pose challenges to vulnerability coordination.
+    The kinds of problems one might encounter in distributed ledger and blockchain systems include all the 
+    traditional problems of software vulnerabilities, but can extend to issues arising from the consensus 
+    algorithms, the distributed nature of the system, and the use (and misuse) of the system.
+    But who do you coordinate with when the system is decentralized and there is no single vendor to fix the problem?
 
 </div>
 

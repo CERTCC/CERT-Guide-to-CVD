@@ -121,8 +121,23 @@ the communication overhead. A shared-bus approach can increase the
 efficiency of communications, but can on occasion make it harder to
 reach agreement on what is to be done.
 
-More recently, however, with the introduction of the 
-[Vulnerability Information and Coordination Environment](https://insights.sei.cmu.edu/news/certcc-releases-vince-software-vulnerability-collaboration-platform/)
+### Today: VINCE
+
+!!! info inline end "More about VINCE"
+
+    For more information about the _Vulnerability Information and Coordination Environment_ (VINCE),
+    see:
+
+    - [VINCE Announcement](https://insights.sei.cmu.edu/news/certcc-releases-vince-software-vulnerability-collaboration-platform/)
+    - [VINCE Documentation](https://vuls.cert.org/confluence/display/VIN)
+    - [VINCE GitHub Project](https://github.com/CERTCC/VINCE)
+    - [VINCE Login](https://www.kb.cert.org/vince)
+
+
+More recently, however, with the
+[introduction](https://insights.sei.cmu.edu/news/certcc-releases-vince-software-vulnerability-collaboration-platform/)
+of the 
+[Vulnerability Information and Coordination Environment](https://www.kb.cert.org/vince)
 (VINCE), we have adopted the shared-bus approach as our default.
 VINCE is a web-based platform that allows for the sharing of information
 among multiple parties in a secure environment.
@@ -135,4 +150,43 @@ must have a VINCE account, and they can ask CERT/CC to add them to a case
 discussion. CERT/CC continues to coordinate and moderate each case,
 but the stakeholders can work directly with each other, both before and 
 after any public disclosure of the vulnerability.
+
+While VINCE has been a significant improvement in our ability to
+coordinate multiparty CVD efforts, it is not a panacea.
+For example, it is not always possible to get all stakeholders to
+participate in a VINCE case discussion. It is also a single point of
+failure, and if it goes down, we lose the ability to coordinate
+effectively. 
+
+### Tomorrow: Vultron
+
+!!! vultron inline end "More about Vultron"
+
+    For more information about the _Vultron Protocol_, see:
+
+    - [Vultron Announcement](https://insights.sei.cmu.edu/blog/vultron-a-protocol-for-coordinated-vulnerability-disclosure/)
+    - [Vultron Documentation](https://certcc.github.io/Vultron)
+    - [Vultron GitHub Project](https://github.com/CERTCC/Vultron)
+
+In response to these limitations, we have embarked on a project to develop 
+an open protocol for coordinating and sharing vulnerability case information across organizations.
+This project, called the [Vultron Protocol](https://certcc.github.io/Vultron), 
+is a research project to explore the creation of a federated, decentralized, 
+and open source protocol for coordinated vulnerability disclosure (CVD). 
+
+Our goal is to provide a protocol that can be used by any organization to coordinate the disclosure of vulnerabilities 
+in information processing systems (software, hardware, services, etc.), and to build a community of interoperability
+across independent organizations, processes, and policies that can work together to coordinate appropriate responses
+to vulnerabilities.
+Whereas VINCE is a platform, Vultron is a protocol. 
+
+!!! question "What is the difference between a platform and a protocol?"
+
+    A platform is a set of tools and services that are provided by a single entity, while a protocol is a set of 
+    rules that allow multiple entities to communicate and coordinate with each other.
+    VINCE is a platform that provides a set of tools and services for coordinating vulnerability disclosure,
+    while Vultron is a protocol that provides a set of rules for how organizations can communicate and coordinate
+    with each other in a decentralized and federated manner.
+
+
 

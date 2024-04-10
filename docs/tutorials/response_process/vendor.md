@@ -93,7 +93,7 @@ exploitation.
     vulnerability response process is transparent and fair.
     
     The [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC)
-    SSVC) framework provides decision support tools for vendors to use in
+    (SSVC) framework provides decision support tools for vendors to use in
     prioritizing vulnerabilities.
 
 ## Analyze & Test Claims

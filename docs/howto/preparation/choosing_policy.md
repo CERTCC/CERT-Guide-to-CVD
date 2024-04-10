@@ -49,6 +49,7 @@ reporters, vendors, coordinators) can expect in terms of these factors:
     and reporters treat policy-declared disclosure timeframes as the
     starting point of a negotiation process rather than a hard deadline.
 
+{% include-markdown "../../_includes/_certcc_policy_tip.md" heading-offset=1 %}
 
 !!! info "Disclosure Policy Templates"
     
