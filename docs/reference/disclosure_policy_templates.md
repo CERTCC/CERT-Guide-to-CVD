@@ -18,9 +18,9 @@ Following are some resources that can help you create a disclosure policy:
 
 - [IETF RFC 2350](https://datatracker.ietf.org/doc/html/rfc2350) provides recommendations on how to publish information about your CSIRT and disclosure policy and procedures.
 
-- [ISO/IEC 29147:2018 _Information technology -- Security techniques -- Vulnerability disclosure_](https://www.iso.org/standard/72311.html) provides guidelines for vulnerability disclosure, including a section on required, recommended, and optional policy elements.
+- [ISO/IEC 29147:2018 *Information technology -- Security techniques -- Vulnerability disclosure*](https://www.iso.org/standard/72311.html) provides guidelines for vulnerability disclosure, including a section on required, recommended, and optional policy elements.
 
-- NTIA ["Early Stage" Coordinated Vulnerability Disclosure Template Version	1.1](https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf) has suggested templates for safety-critical sectors.
+- NTIA ["Early Stage" Coordinated Vulnerability Disclosure Template Version 1.1](https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf) has suggested templates for safety-critical sectors.
 
 - [security.txt](https://securitytxt.org/) is a proposed standard which allows websites to define security policies.
 
@@ -28,7 +28,6 @@ Following are some resources that can help you create a disclosure policy:
 
 - The United States Department of Justice (DoJ) has published a
   [Framework for a Vulnerability Disclosure Program for Online Systems](https://www.justice.gov/criminal-ccips/page/file/983996/download)
-  containing guidance aimed at developing vulnerability disclosure programs for online systems and services. 
+  containing guidance aimed at developing vulnerability disclosure programs for online systems and services.
 
 <!--end-->
-

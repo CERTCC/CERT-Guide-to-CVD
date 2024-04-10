@@ -4,15 +4,13 @@
 
     Review [Vendor Response Process](../response_process/vendor.md) first.
 
-If you have received a notification from the CERT/CC about a vulnerability in your product, 
-you are likely looking for guidance on how to respond. 
+If you have received a notification from the CERT/CC about a vulnerability in your product,
+you are likely looking for guidance on how to respond.
 This page provides an overview of the process for working with the CERT/CC to address the vulnerability.
-
 
 ## Responding to a CERT/CC Vulnerability Notification
 
 {% include-markdown "../../_includes/_certcc_policy_tip.md" heading-offset=1 %}
-
 
 {== TODO review for accuracy given VINCE ==}
 After reviewing the vulnerability report submitted, you can respond by
@@ -21,7 +19,6 @@ When doing so, be sure to include your VU# in the subject line, so that
 our automated system can route your response to the analyst handling
 your case. If you forget to add the VU# to the subject line of your
 response email, our response may be delayed significantly.
-
 
 {== TODO review for accuracy given VINCE ==}
 We recommend encrypting your response email to
@@ -61,10 +58,9 @@ Vendor Contact Information](Updating-Vendor-Contact-Information_4227086.html).
     We may also be able to arrange conference calls with analysts, or use
     other communication methods if requested.
 
-
 ## Publications and Vulnerability Disclosure
 
-After 45 days or another agreed upon timeline, we publish 
+After 45 days or another agreed upon timeline, we publish
 [Vulnerability Notes](http://www.kb.cert.org/vuls/)
 to disclose the vulnerability and information on addressing the vulnerability if available.
 

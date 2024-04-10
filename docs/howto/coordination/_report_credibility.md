@@ -39,7 +39,6 @@ The indicators for or against are not commensurate, and so they cannot be put on
     - neither exaggerates nor understates the impact.
 
     Additionally, screenshots and videos, if provided, support the written text of the report and do not replace it.
-    
 
 !!! warning "Indicators against Credibility"
 
@@ -77,7 +76,7 @@ The indicators for or against are not commensurate, and so they cannot be put on
 ## Credibility of what to whom
 
 We are interested in the coordinating analyst's assessment of the credibility of a report.
-This is separate from the fact that a reporter probably reports something because _they_ believe the report is credible.
+This is separate from the fact that a reporter probably reports something because *they* believe the report is credible.
 
 The analyst should assess the credibility of the report of the vulnerability, not the claims of the impact of the vulnerability.
 A report may be credible in terms of the fact of the vulnerability's existence even if the stated impacts are inaccurate.

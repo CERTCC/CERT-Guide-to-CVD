@@ -40,7 +40,7 @@ respond when it does so.
 If we have learned anything in nearly three decades of coordinating
 vulnerability disclosures at the CERT/CC, it is that there is no single
 right answer to many of the questions and controversies surrounding the
-disclosure of information about software and system vulnerabilities. 
+disclosure of information about software and system vulnerabilities.
 
 <div class="grid" markdown>
 
@@ -55,7 +55,7 @@ disclosure of information about software and system vulnerabilities.
     vulnerabilities. 
 
 !!! abstract "Web Sites and Applications"
-    
+
     Web sites and applications are another area where the ability to fix and deploy patches has improved.
     Many web sites and applications are now built using continuous integration and continuous deployment (CI/CD) pipelines,
     which can allow for rapid deployment of fixes to vulnerabilities.
@@ -71,7 +71,6 @@ disclosure of information about software and system vulnerabilities.
     Traditional software vendors have also improved their ability to fix and deploy patches,
     although there is often a lag between the time a patch is available and the time it is deployed to all customers
     due to the need for the deployer to take action to install the fix.
-
 
 !!! abstract "Internet of Things"
 
@@ -102,7 +101,6 @@ disclosure of information about software and system vulnerabilities.
 
 </div>
 
-
 !!! example "Who Owns an Algorithm?"
 
     The CERT/CC has already encountered cases where the question of _who owns an algorithm_
@@ -119,9 +117,6 @@ disclosure of information about software and system vulnerabilities.
     These are not easy questions to answer. 
     The point is that the traditional model of vulnerability coordination, where the vendor of a product or service is the party best suited to fix the problem,
     may not be well-suited to at least some of the problems that arise in AI and ML systems.
-    
- 
-
 
 ### Increasing Diversity of Approaches to Vulnerability Coordination
 
@@ -175,12 +170,12 @@ de rigueur among IoT products. Many IoT products are developed with what
 can only be described as naïve threat models that drastically
 underestimate the hostility of the environments into which the product
 will be deployed. Given what we've seen so far with AI and ML systems,
-we anticipate that similarly optimistic threat models will be typical in 
+we anticipate that similarly optimistic threat models will be typical in
 these systems as well.
 
 Over time, exposure to hostile environments will likely lead to a
 reassessment of these threat models, but the interim period could be
-quite painful for the vendors and deployers of these products who 
+quite painful for the vendors and deployers of these products who
 are caught off guard by the reality of the threat landscape.
 
 ## Composition of Systems
@@ -201,7 +196,7 @@ The future of vulnerability coordination is likely to be even more
 complex. While we have seen a number of vendors and researchers
 transition to coordinated vulnerability disclosure processes, we have
 also encountered even more vendors and researchers who are new to the
-disclosure process. 
+disclosure process.
 
 Recent developments in Artificial Intelligence (AI) and Machine
 Learning (ML) have the potential to further complicate the vulnerability

@@ -89,7 +89,7 @@ this will likely not be the last multiparty vulnerability coordination
 effort in which they find themselves. A vendor that repeatedly releases
 early will likely get left out of future coordination efforts. Because
 of this, the quicker vendors might be motivated to delay so they get the
-vulnerability information the next time. 
+vulnerability information the next time.
 
 !!! tip "The Repeated Game"
 

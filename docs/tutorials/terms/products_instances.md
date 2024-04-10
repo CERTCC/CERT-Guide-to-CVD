@@ -11,17 +11,16 @@ of a product* being vulnerable.
     instantiated in many different ways.
 
 !!! abstract "Instance"
-    
+
     An *instance* is a specific deployment of a product. An instance is
     a concrete realization of a product that is running on a specific
     system.
 
 One way to think about this distinction is to consider the difference between
-the make and model of a car (the product) and a _specific_ car (the instance).
-In that context, the _product_ is actually a category of cars that share certain characteristics,
-components, and features. A specific car that belongs to that category would be considered 
-an _instance_.
-
+the make and model of a car (the product) and a *specific* car (the instance).
+In that context, the *product* is actually a category of cars that share certain characteristics,
+components, and features. A specific car that belongs to that category would be considered
+an *instance*.
 
 !!! example "Product vs. Instance"
 
@@ -54,11 +53,11 @@ an _instance_.
 This distinction becomes important when one is talking about the
 practices associated with [Vulnerability Management](vulnerability_management.md)
 (VM)&mdash;namely
-[*vulnerability scanning*](vulnerability_scanning.md)&mdash;in contrast to CVD and 
+[*vulnerability scanning*](vulnerability_scanning.md)&mdash;in contrast to CVD and
 [*vulnerability discovery*](vulnerability_discovery.md).
 
 VM entails the identification of *instances* of a *product*
 on which action must be taken to remediate known vulnerabilities in the
-product. VM is concerned with the eradication of the _instances_ of known
+product. VM is concerned with the eradication of the *instances* of known
 vulnerabilities in deployed systems, whereas CVD is concerned with the
-repair of vulnerabilities at the _product_ level.
+repair of vulnerabilities at the *product* level.

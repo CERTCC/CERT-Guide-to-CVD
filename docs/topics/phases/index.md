@@ -1,6 +1,6 @@
 # Phases of Coordinated Vulnerability Disclosure
 
-Below, we adapt a version of the 
+Below, we adapt a version of the
 [ISO/IEC 30111:2019 Information technology&mdash;Security techniques&mdash;Vulnerability handling processes](https://www.iso.org/standard/69725.html)
 with more phases to better describe what we have seen at the CERT/CC
 
@@ -10,9 +10,9 @@ with more phases to better describe what we have seen at the CERT/CC
 
     ---
     A researcher (not necessarily an academic one) discovers a vulnerability by using one of numerous tools and processes.
- 
+
 - :material-message-alert: [**Reporting**](reporting.md)
-    
+
     ---
     A researcher submits a vulnerability report to a software or product vendor, or a third-party coordinator if necessary.
 
@@ -26,7 +26,7 @@ with more phases to better describe what we have seen at the CERT/CC
     ---
     A remediation plan (ideally a software patch, but could also be other mechanisms) is developed and tested.
 
-- :material-newspaper: [**Public Awareness**](public_awareness.md) 
+- :material-newspaper: [**Public Awareness**](public_awareness.md)
 
     ---
     The vulnerability and its remediation plan is disclosed to the public.
@@ -100,4 +100,3 @@ A mapping of CVD phases to CVD roles is provided in the following table.
 | Remediation                   | -                     | Confirms fix                                    | Prepares patches, develops advice, workarounds | Coordinates multiparty response, develops advice, workarounds | -                                 |
 | Public Awareness              | Publishes advisory      | Publishes advisory                                | Publishes advisory                               | Publishes advisory                                               | Receives advisory                   |
 | Deployment                    | -                     | -                                               | -                                              | -                                                             | Deploys fix or mitigation         |
-

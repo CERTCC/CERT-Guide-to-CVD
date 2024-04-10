@@ -5,9 +5,9 @@ publishing the vulnerability document to whatever channels have been
 identified during previous phases.
 
 Some vendors have a specific website that lists all their security
-advisories to date. 
+advisories to date.
 Others might email the disclosure to a user mailing list or a security mailing list such as [Full Disclosure](https://seclists.org/fulldisclosure/).
-    
+
 Reporters often choose to publish their findings
 in a presentation or paper, or post it to a mailing list or blog.
 A common goal for reporters in the CVD process is to synchronize
@@ -19,9 +19,7 @@ other after disclosure to inform one another that the disclosure went
 through as planned and provide URLs to the published
 documents.
 
-
 ## Where to Publish
-
 
 !!! note inline end "Public Information is not the Same as Publicity"
 
@@ -65,4 +63,3 @@ are reached in a timely manner. Hence, we recommend that vendors publish
 at least basic vulnerability and fix announcements to their public
 website in addition to whatever direct customer contact communications
 they provide.
-

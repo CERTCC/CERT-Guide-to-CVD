@@ -24,7 +24,7 @@ There are a number of heuristics for evaluating the severity of
 vulnerabilities. Perhaps the most commonly known of these is the [Common
 Vulnerability Scoring System](https://www.first.org/cvss/) (CVSS). This system allows a short
 standard description of the impact of a vulnerability and can be mapped
-to a score between 1.0 and 10.0 to help prioritization. 
+to a score between 1.0 and 10.0 to help prioritization.
 
 The [Common Weakness Scoring System](https://cwe.mitre.org/cwss/cwss_v1.0.1.html) (CWSS)
 is a similar system that was intended to be used to assess the potential impact of a class of

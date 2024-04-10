@@ -56,5 +56,3 @@ flowchart TB
     reporter <-.-> deployer
     C -->|publish| public
 ```
-
-

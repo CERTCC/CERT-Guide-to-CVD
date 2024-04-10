@@ -47,13 +47,12 @@ flowchart LR
     outward-facing CVD process. ISO/IEC 30111 addresses the internal
     processes associated with vendor vulnerability response.
 
-
 ## Receive Reports
 
 The first step in the vendor vulnerability response process is to receive
 vulnerability reports. Reports can come from a variety of sources,
 including internal testing, customer reports, third-party researchers,
-and public disclosure. 
+and public disclosure.
 
 !!! tip "Have a Mechanism to Receive Reports from All Sources"
 
@@ -76,7 +75,6 @@ vulnerability.
     whether the report is sufficient to take further action on and whether the reported issue is indeed a
     vulnerability. Understanding the vulnerability comes later in the process.
 
-
 ## Prioritize
 
 Once a vulnerability report has been validated, the vendor must prioritize
@@ -91,7 +89,7 @@ exploitation.
     The criteria for prioritization should be well-documented and
     consistently applied. This will help ensure that the vendor's
     vulnerability response process is transparent and fair.
-    
+
 !!! ssvc "SSVC and risk-based prioritization"
 
     The [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC)
@@ -114,7 +112,6 @@ new vulnerabilities.
     fix. Vendors often need to isolate the root cause of the vulnerability to
     ensure that their fix is comprehensive and effective.
 
-
 ## Fix the Problem
 
 Once the vulnerability has been analyzed and understood well enough for the vendor to know how to fix it,
@@ -126,7 +123,6 @@ it is time to develop and test the fix. This can be as simple as a one-line chan
     exploit provided by the reporter. This is a mistake, because it may leave open other 
     ways to trigger the same vulnerability. The vendor should fix the root cause of the
     vulnerability, not just the specific proof-of-concept exploit.
-
 
 ## Distribute Patch
 
@@ -147,7 +143,6 @@ Many [deployers](../../topics/roles/deployer.md) rely on the vendor to provide c
 accurate information about the vulnerability and the fix in order to know that they need to take action.
 This information should be made available to the public as soon as the patch is available.
 
-
 ## Process Improvement
 
 Having a mechanism to receive and track the disposition of vulnerability
@@ -159,7 +154,7 @@ Improving the development process can reduce the number of
 vulnerabilities in future products. Vendors can establish a feedback
 loop by performing a root cause analysis of vulnerabilities reported.
 Lessons learned can then inform modifications to the development
-process. 
+process.
 
 !!! tip "Ways Vulnerability Response Feeds Back into the Development Lifecycle"
     Some of the ways vulnerability response can feed back into the
@@ -183,7 +178,6 @@ process.
     vulnerabilities can be found and addressed at design time, before
     they are even implemented.
 
-
 !!! tip "Evaluating the Vendor Security Response Process"
 
     It is a mistake to evaluate a product favorably based solely on its
@@ -202,4 +196,3 @@ process.
     practices, as human processes, inevitably fail. Vendors that acknowledge
     this fact and create a good CVD practice are well positioned to
     compensate for this inevitability.
-

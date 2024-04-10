@@ -1,10 +1,10 @@
-# The _CERT Guide to CVD_ in a Nutshell
+# The *CERT Guide to CVD* in a Nutshell
 
 Software-based products and services have vulnerabilities&mdash;conditions
 or behaviors that allow the violation of an explicit or implicit
 security policy. This should come as no surprise to those familiar with
 software. What many find surprising nowadays is just how many products
-and services should be considered _software based_. The devices we depend
+and services should be considered *software based*. The devices we depend
 on to communicate and coordinate our lives, transport us from place to
 place, and keep us healthy have in recent years become more and more
 connected both to each other and to the world at large. As a result,
@@ -30,10 +30,9 @@ not define it.
 
 {% include-markdown "../_includes/_core_questions_of_cvd.md" heading-offset=1 %}
 
-
 CVD should not be confused with [Vulnerability Management](terms/vulnerability_management.md) (VM).
 VM encompasses the process downstream of CVD, once the vulnerability has
-been disclosed and deployers must take action to respond. 
+been disclosed and deployers must take action to respond.
 
 !!! info "What's on this Page?"
 

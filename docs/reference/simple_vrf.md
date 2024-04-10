@@ -1,10 +1,10 @@
 # Basic Vulnerability Report Form
 
-Organizations that need to receive vulnerability reports should have a form that helps them collect the necessary 
+Organizations that need to receive vulnerability reports should have a form that helps them collect the necessary
 information.
-This form should be easy to use and understand, and should help the reporter provide the information needed to 
+This form should be easy to use and understand, and should help the reporter provide the information needed to
 understand and address the vulnerability.
-Specific details may vary depending on the organization's needs and its role(s) in the CVD process 
+Specific details may vary depending on the organization's needs and its role(s) in the CVD process
 ([Vendor](../topics/roles/vendor.md), [Coordinator](../topics/roles/coordinator.md), etc.), but
 much of the content will be the same across organizations.
 
@@ -13,9 +13,7 @@ Reporting Form](https://www.kb.cert.org/vuls/report/), and is not meant to be ex
 Please modify the sections and format as necessary to better suit your
 needs.
 
-
 ## Vulnerability Report
-
 
 !!! question "Tell us about the Vulnerability"
 
@@ -25,7 +23,6 @@ needs.
     - What is the impact of exploiting this vulnerability? (What does an attacker gain that the attacker didn't have before?)
     - How did you find the vulnerability? (Be specific about tools and versions you used.)
     - When did you find the vulnerability?
-
 
 !!! question "What are your disclosure plans?"
 
@@ -52,7 +49,6 @@ needs.
     - Telephone
     - May we provide your contact information to third parties? YES | NO
     - Do you want to be publicly acknowledged in a disclosure? YES | NO
-
 
 !!! question "Any Additional Information?"
 

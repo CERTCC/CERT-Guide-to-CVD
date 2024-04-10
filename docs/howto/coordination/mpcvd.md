@@ -15,7 +15,6 @@ multiparty situations do not come into play.
     Personalities, attitudes, expectations, assumptions, and egos all play a
     part in the success or failure of even two-party CVD.
 
-
 Most of the interesting cases in CVD involve more than two parties, as
 these are the cases where the most care must be taken. Automation of the
 process can help somewhat, but the impact technology can have on the
@@ -26,7 +25,7 @@ and release processes in order to reduce the risk to users.
 From a coordinator's perspective, it can be difficult to be fair, as
 you're almost guaranteed to either miss some downstream vendor or wind
 up with one or more vendors ready to release while everyone is waiting
-for the other vendors to catch up. We discuss this conundrum further in 
+for the other vendors to catch up. We discuss this conundrum further in
 [Troubleshooting CVD](./cvd_recipes.md).
 
 <br/> <!-- for vertical spacing -->
@@ -94,7 +93,6 @@ Instead, they are assembled from components sourced from other
 organizations. Vulnerabilities in these components can have far-reaching
 impacts and require coordination among multiple parties to resolve.<!--end-->
 
-
 For example, software libraries are often licensed for inclusion into
 other products. When a vulnerability is discovered in a library
 component, it is very likely that not only does the originating vendor
@@ -106,8 +104,6 @@ leading to delays and systems exposed to unnecessary
 risk.
 
 {% include-markdown "../../_includes/_mobile_supply_chain.md" heading-offset=1 %}
-
-
 
 At the CERT/CC, we often find it useful to distinguish between vertical
 and horizontal supply chains. While the vertical supply chain is more
@@ -204,8 +200,6 @@ flowchart TD
     V5 -->|6. Notifies| P
     ```
 
-
-
 ### Horizontal Supply Chain
 
 Even more complex in terms of coordination are cases where multiple
@@ -288,7 +282,6 @@ flowchart TD
     coordinated.
 
 !!! info "Mass Notifications for Multiparty CVD"
-
 
     In their Usenix Security 2016 paper
     [_Hey, You Have a Problem: On the Feasibility of Large-Scale Web Vulnerability Notification_](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/stock),

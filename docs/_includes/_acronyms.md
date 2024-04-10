@@ -51,7 +51,6 @@ stops after the first match is found.
 *[DDoS]: Distributed Denial of Service
 *[DoS]: Denial of Service
 
-
 *[EFF]: Electronic Frontier Foundation
 *[ENISA]: European Union Agency for Cybersecurity
 *[EOL]: End of Life
@@ -70,7 +69,6 @@ stops after the first match is found.
 
 *[GnuPG]: GNU Privacy Guard, an implementation of the OpenPGP standard
 *[GPG]: GNU Privacy Guard, an implementation of the OpenPGP standard
-
 
 *[HIPPA]: Health Insurance Portability and Accountability Act
 *[HTML]: Hyper Text Markup Language
@@ -181,4 +179,3 @@ stops after the first match is found.
 *[VXREF]: Vulnerability Cross-Reference
 
 *[W3C]: World Wide Web Consortium
-

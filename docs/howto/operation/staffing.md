@@ -20,25 +20,25 @@ some mix of the following skills:
 
 - **Technical Skills**
 
-    - Programming skills, especially in common languages (C, C++, Python, Java)
-    - Reverse engineering and debugging
-    - Knowledge of low-level operating system features for Windows, Mac and/or Linux
-    - Software security testing
-    - Virtualization, containers, and some infrastructure automation
-    - Knowledge of common vulnerabilities and exploits
-    - (specialized) Hardware architecture and basic electrical engineering
-    - (emerging) Knowledge of machine learning and AI
+  - Programming skills, especially in common languages (C, C++, Python, Java)
+  - Reverse engineering and debugging
+  - Knowledge of low-level operating system features for Windows, Mac and/or Linux
+  - Software security testing
+  - Virtualization, containers, and some infrastructure automation
+  - Knowledge of common vulnerabilities and exploits
+  - (specialized) Hardware architecture and basic electrical engineering
+  - (emerging) Knowledge of machine learning and AI
 
 - **Soft Skills**
- 
-    - Curiosity and a desire to understand how things work
-    - Interest in learning new technologies
-    - Clear and concise written communications
-    - Customer-service mindset
-    - Ability to work under pressure
-    - Ability to communicate with non-technical stakeholders
-    - Ability to communicate with technical stakeholders
-    
+
+  - Curiosity and a desire to understand how things work
+  - Interest in learning new technologies
+  - Clear and concise written communications
+  - Customer-service mindset
+  - Ability to work under pressure
+  - Ability to communicate with non-technical stakeholders
+  - Ability to communicate with technical stakeholders
+
 </div>
 
 In most organizations, these skills will likely be dispersed among a
@@ -55,7 +55,6 @@ all of these topics.
     | 9.2.4 Mentoring | Develop a program for CSIRT staff, constituency members, or external trusted partners to learn from experienced staff through an established relationship. | Developed and trained staff are available with the requisite technical and soft skills and process understanding, and who are up to date based on the job roles and needs. |
     | 9.2.5 CSIRT staff professional development | Help staff members successfully and appropriately plan and develop their careers. | Developed and trained staff are available with the requisite technical and soft skills and process understanding, and who are up to date based on the job roles and needs. |
 
-
 !!! info "FIRST PSIRT Services Framework"
 
     Even closer to the CVD process, the FIRST [PSIRT Services Framework](https://www.first.org/standards/frameworks/psirts/psirt_services_framework_v1.1)
@@ -67,7 +66,6 @@ all of these topics.
     | 6.1.2 Communications Training | Ensure PSIRT Staff follows the communication policies of the organization while interacting with external entities thus eliminating any regulatory/legal issues that may result from improper communication. | PSIRT Staff will have sufficient communications training to perform their assigned duties with clear accuracy and no ambiguity in communications. |
     | 6.1.3 Process Training | Ensure there is a smooth flow of information in managing product security incidents which will result in timely resolution of issues. | PSIRT Staff will be sufficiently trained on internal processes so that they can perform their duties. |
     | 6.1.4 Tools Training | Identify tools to track the third-party components embedded in products so the vulnerabilities can be tracked and released in these components. | PSIRT Staff will have an understanding and be able to track third-party components within shipped products. |
-
 
 ## Beware Analyst Burnout
 
@@ -89,7 +87,7 @@ communication and coordination roles. No matter the arrangements, it is
 important that vendors and coordinators establishing a CVD capability
 mitigate the potential for analyst burnout. Burnout of security analysts
 is well-documented phenomenon (see inset at right). Analysts working full-time in a
-CVD process are at risk of this too. 
+CVD process are at risk of this too.
 
 A vendor's CVD capability may
 receive a large amount of incoming reports each week, especially at
@@ -103,7 +101,7 @@ with reasonable precautions.
 At the CERT/CC, we have attempted to
 mitigate this issue with reasonable success by implementing the
 suggestions below.
-[Research](https://www.usenix.org/conference/soups2015/proceedings/presentation/sundaramurthy) has shown that many of 
+[Research](https://www.usenix.org/conference/soups2015/proceedings/presentation/sundaramurthy) has shown that many of
 these are effective responses to commonly-held morale problems.
 
 <div class="grid cards" markdown>
@@ -144,7 +142,7 @@ these are effective responses to commonly-held morale problems.
     be closed may help reduce work-related stress.
 
 !!! tip "Allot professional development time"
-    
+
     Analysts schedule some
     time each week to focus on professional development or projects.
     During these times, the analyst is not expected to perform CVD
@@ -156,14 +154,13 @@ these are effective responses to commonly-held morale problems.
     project work outside of the scope of CVD.
 
 !!! tip "Seek out automation"
-    
+
     We have encouraged analysts to document
     procedures and processes that need updating or could even be
     automated. Prototypes can be implemented and rolled out to decrease
     the cognitive workload of analysts. Processes and tools should be
     reviewed regularly to ensure they are aiding the analyst, rather
     than fighting the analyst.
-
 
 !!! tip "Well-Resourced Teams for CVD"
 
@@ -175,4 +172,3 @@ these are effective responses to commonly-held morale problems.
     but do not form an exhaustive list of possible actions.
 
 </div>
-

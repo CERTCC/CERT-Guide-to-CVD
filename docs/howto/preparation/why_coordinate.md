@@ -97,7 +97,6 @@ avoiding bad press for being unprepared.
     > the NIS2’s objective. It also analyses the related legal, collaborative, technical challenges arising from such 
     > initiatives.
 
-[^1]: A. Arora, A. Nandkumar and R. Telang, "Does information security
     attack frequency increase with vulnerability disclosure? An
     empirical analysis," *Information Systems Frontiers,* vol. 8, no.
     5, pp. 350-362, 2006.

@@ -25,7 +25,7 @@ out how to reach a vendor we've never spoken with before.
 ## Common Methods
 
 !!! tip "Search the web or the vendor's web site for relevant phrases"
- 
+
     - "report a vulnerability"
     - "security"
     - "report a bug"
@@ -33,7 +33,7 @@ out how to reach a vendor we've never spoken with before.
     - "vulnerability disclosure policy"
     - "security@" + company name
     - company name + "PSIRT"
- 
+
 !!! tip "Search for a `security.txt` file"
 
     See if the vendor has a `security.txt` file, often found at
@@ -73,7 +73,7 @@ out how to reach a vendor we've never spoken with before.
     If given the option to mark it as security-related, please do so as this often restricts viewing to just the vendor.
 
 !!! tip "Reach out through social media"
-    
+
     Social media can occasionally be a useful way to make initial contact with a vendor when other methods fail.
 
     - [Twitter](https://twitter.com/)
@@ -96,7 +96,6 @@ out how to reach a vendor we've never spoken with before.
 !!! tip "Make a phone call to the vendor"
 
     Sometimes the best way to reach a vendor is to make a phone call.
-
 
 !!! tip "Less common, but occasionally useful"
 

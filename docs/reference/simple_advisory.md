@@ -4,7 +4,7 @@ The vulnerability disclosure document is also often referred to as a
 "security advisory," particularly if published by the vendor.
 
 This is an example of a vulnerability disclosure document based on
-CERT/CC's [Vulnerability Notes](https://www.kb.cert.org/vuls/) format. 
+CERT/CC's [Vulnerability Notes](https://www.kb.cert.org/vuls/) format.
 It is not meant to be exhaustive of all scenarios.
 
 Please modify the sections and format as necessary to better suit your

@@ -21,7 +21,6 @@ role; however, depending on their contractual responsibilities and
 business relationships, they may also play roles as [vendors](vendor.md) or even
 [coordinators](coordinator.md) in some cases.
 
-
 ## Cloud and Application Service Providers
 
 Insofar as cloud-based services are built on traditional computing
@@ -109,8 +108,6 @@ mitigate the vulnerabilities they inevitably contain.
     analysis tools, IoT vendors may find it difficult to examine and improve
     the code's security.
 
-
-
 ## Mobile Platforms and Applications
 
 Mobile devices present yet another class of stakeholders that has grown
@@ -135,11 +132,9 @@ as owners and operators of vulnerable networks and systems, issues
 surrounding vulnerability discovery, coordination, disclosure, and
 mitigation have become increasingly important to governments worldwide.
 
-
 <div class="grid" markdown>
 
 !!! tip "Regulatory Oversight"
-
 
     As the industries they regulate move toward increasing connectivity,
     agencies with oversight responsibilities will likely see an increased
@@ -147,7 +142,7 @@ mitigation have become increasingly important to governments worldwide.
     (especially for security issues that directly impact safety). To that
     end, changes are happening rapidly on multiple fronts. 
 
-!!! example "Reporting Safety Issues" 
+!!! example "Reporting Safety Issues"
 
     In the United States, a number of mechanisms exist for reporting safety
     issues to government agencies. Software vulnerabilities that impact
@@ -161,7 +156,6 @@ mitigation have become increasingly important to governments worldwide.
     which helps to drive its investigation and recall processes.
     - The FAA offers a number of [safety reporting](https://www.faa.gov/aircraft/safety/report/) capabilities as well.
 
-
 !!! tip "Continuous Improvement"
 
     Beyond just documenting observed issues, some government agencies take
@@ -169,8 +163,8 @@ mitigation have become increasingly important to governments worldwide.
     aforementioned FDA and NHTSA reporting programs serve this purpose, but
     other programs exist as well. 
 
-!!! example "Lessons Learned" 
-    
+!!! example "Lessons Learned"
+
     For example, the National Transportation Safety Board is explicitly tasked with investigating transportation
     accidents, and NASA collects [lessons learned](https://llis.nasa.gov/) in a public database.
     This kind of continuous improvement process has demonstrated its effectiveness in a variety of environments and 
@@ -196,4 +190,3 @@ mitigation have become increasingly important to governments worldwide.
 
     The act was approved by EU Parliament in [March 2024](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_EN.html), 
     clearing the way for adoption by the Council of the European Union. 
-

@@ -16,14 +16,14 @@ This section provides some advice on how to get the ball rolling.
 
     ---
     {% include-markdown "./find_vendor_contact.md" start="<!--start-->" end="<!--end-->" %}
- 
+
 - :material-ghost: [Unresponsive Vendor](./unresponsive_vendor.md)
 
     ---
     {% include-markdown "./unresponsive_vendor.md" start="<!--start-->" end="<!--end-->" %}
 
 - :material-slope-downhill: [Reduce Reporting Friction](./reduce_reporting_friction.md)
-    
+
     ---
     {% include-markdown "./reduce_reporting_friction.md" start="<!--start-->" end="<!--end-->" %}
 

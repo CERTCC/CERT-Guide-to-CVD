@@ -12,7 +12,7 @@ CVD is an important aspect of any successful [Vulnerability Response](vulnerabil
 CVD inputs are [vulnerability reports](../../topics/phases/reporting.md) arising from [vulnerability discovery](vulnerability_discovery.md) practices.
 CVD outputs for [product](products_instances.md) vulnerabilities (software or hardware) usually include fixes or mitigation advice as well
 as [vulnerability report documents](../../topics/phases/publishing.md) or vulnerability database records, typically with some formal identifier
-(e.g., 
+(e.g.,
 [CVE](https://www.cve.org),
 [VU#](https://www.kb.cert.org/vuls),
 [BID](https://en.wikipedia.org/wiki/Bugtraq)).
@@ -25,7 +25,6 @@ as [vulnerability report documents](../../topics/phases/publishing.md) or vulner
     Althouth it is less common for these types of vulnerabilities to be disclosed publicly, they can
     still be addressed through a CVD process.
     Often these vulnerabilities are reported to the deployer directly, possibly as part of a Vulnerability Disclosure Program (VDP).
-
 
 [ISO/IEC 29147](https://www.iso.org/standard/72311.html) defines Vulnerability Disclosure as follows:
 
@@ -49,9 +48,9 @@ typically include those below:
 - the [reporter](../../topics/roles/finder.md) or [finder](../../topics/roles/finder.md) of the vulnerability (often an independent
     security researcher)
 - the [vendor](../../topics/roles/vendor.md) (developer) of the component that contains the
-    vulnerability (See also _originating vendor_ in [MPCVD](../../howto/coordination/mpcvd.md))
+    vulnerability (See also *originating vendor* in [MPCVD](../../howto/coordination/mpcvd.md))
 - [vendors](../../topics/roles/vendor.md) that utilize the component containing the vulnerability in
-    their own products (See also _downstream vendors_ in [MPCVD](../../howto/coordination/mpcvd.md))
+    their own products (See also *downstream vendors* in [MPCVD](../../howto/coordination/mpcvd.md))
 - [coordinators](../../topics/roles/coordinator.md), vulnerability databases, or other organizations that
     specialize in incident response and vulnerability handling
 - [deployers](../../topics/roles/deployer.md) and the general public / consumers who purchase and use products containing the vulnerable component
@@ -59,7 +58,7 @@ typically include those below:
 Disclosure, in turn, is the process by which information about a
 vulnerability (ideally with advice for mitigating or fixing it) is
 released to consumers of the product, and more generally, the public at
-large. _There is no single "right" way to do this._ Sometimes,
+large. *There is no single "right" way to do this.* Sometimes,
 vulnerability information is disclosed in a blog post by the finder of
 the vulnerability, or emailed to a security mailing list. Sometimes the
 vendor issues a security advisory to its customers or to the public. At
@@ -122,4 +121,3 @@ see [Phases](../../topics/phases/index.md).
     [organizations](https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu),
     advocates for the use of the term *Coordinated Vulnerability Disclosure
     (CVD)* to reduce misunderstanding and promote cooperation.
-

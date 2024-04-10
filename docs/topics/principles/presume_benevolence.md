@@ -30,7 +30,6 @@ discussions with them.
     |            Profit            | to earn money                 | These researchers trade on their skills as a primary or secondary income.                      |
     |           Politics           | ideological and principled    | These researchers, whether patriots or protestors, strongly support or oppose causes.          |
 
-
 !!! info "NTIA Insights"
 
     In 2016, the Awareness and Adoption Group within the
@@ -46,4 +45,3 @@ discussions with them.
     - 60% of researchers cited threat of legal action as a reason they
     might not work with a vendor to disclose
     - 15% of researchers expected a bounty in return for their disclosure
-

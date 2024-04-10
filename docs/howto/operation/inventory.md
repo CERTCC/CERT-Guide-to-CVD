@@ -11,7 +11,7 @@ your network is a critical part of your vulnerability management
 process. Knowing what you have deployed is the first step in being able
 to protect it. This is especially important for software that is exposed
 to the internet, but it is also important for software that is only used
-internally. 
+internally.
 
 Even better than just knowing what you have deployed is being able to map
 those deployed components to the important services they provide and the
@@ -27,7 +27,6 @@ vulnerabilities based on the importance of the affected systems.
     SSVC is a risk-based approach to vulnerability prioritization that
     can help organizations to focus their efforts on the most risk-relevant
     vulnerabilities first.
-
 
 ## Vendor Perspective: Dependencies and Supply Chain
 
@@ -75,7 +74,6 @@ products.
     has also issued a report describing
     [_The Minimum Elements For a Software Bill of Materials_](https://www.ntia.doc.gov/report/2021/minimum-elements-software-bill-materials-sbom)
 
-
 !!! example "Software Composition Analysis Tools"
 
     In recent years, a class of Software Composition Analysis tools (such
@@ -103,4 +101,3 @@ products.
     placed in a special notification list for a particular library or
     product.
     See more in [Monitoring](./monitoring.md).
-

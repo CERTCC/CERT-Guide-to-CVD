@@ -1,6 +1,5 @@
 !!! question "Who is a Vendor?"
 
-
     As software-centric systems find their way into various industries, more
     and more vendors of traditional products find themselves becoming
     software vendors. 
@@ -29,4 +28,3 @@
     computer or software is referred to as a [**vendor**](../topics/roles/vendor.md)
     even if that organization doesn't directly make the computer or software
     components used by their products.
-    

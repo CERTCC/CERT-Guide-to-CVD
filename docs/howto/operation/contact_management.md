@@ -10,8 +10,6 @@ Contact management becomes vitally important to
 multiparty CVD, and is a particular concern for third-party
 coordinators.
 
-
-
 !!! tip "Finding Vendor Contacts"
 
     Finding vendor contacts can be difficult. Not all vendors include

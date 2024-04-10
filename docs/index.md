@@ -9,7 +9,7 @@
 
 This is the web edition of *The CERT® Guide to Coordinated Vulnerability
 Disclosure*. We started with the original report in its entirety and
-have been working to make it more accessible and easier to navigate. 
+have been working to make it more accessible and easier to navigate.
 We're also in the process of revising the guide based on feedback we've received
 since its original publication.
 
@@ -18,7 +18,7 @@ Got a suggestion? [Submit it here](https://github.com/CERTCC/CERT-Guide-to-CVD/i
 <!-- for spacing -->
 ---
 
-!!! abstract "What is _The CERT Guide to CVD_ about?"
+!!! abstract "What is *The CERT Guide to CVD* about?"
 
     Security vulnerabilities remain a problem for vendors and deployers of
     software-based systems alike. Vendors play a key role by providing fixes
@@ -49,8 +49,7 @@ for a more succinct way to get started with CVD without requiring
 someone to read every word in the Guide. To that end, we offer this CVD
 Quick Start to act as a meta-guide to the Guide.
 
-
-[The _CERT Guide to CVD_ in a Nutshell](tutorials/cvd_in_a_nutshell.md) contains an
+[The *CERT Guide to CVD* in a Nutshell](tutorials/cvd_in_a_nutshell.md) contains an
 overview of the entire document, and is a good place for all readers to
 become familiar with what's in the guide without necessarily poring
 over the details. Where you go from there depends on what you're trying
@@ -64,7 +63,7 @@ to achieve.
 
     If you're a [*researcher*](topics/roles/finder.md),
     [*vendor*](topics/roles/vendor.md), or [*coordinator*](topics/roles/coordinator.md) trying to coordinate a disclosure and you need help, you might
-    want to start with 
+    want to start with
     [Troubleshooting Coordinated Vulnerability Disclosure](howto/coordination/cvd_recipes.md)
     to find the problem area(s) you're currently dealing with.
     From there you can follow the links into the document for more details.
@@ -112,7 +111,7 @@ to achieve.
     [Troubleshooting Coordinated Vulnerability Disclosure](howto/coordination/cvd_recipes.md)
     that are worth considering when you're thinking about writing policy
     that sets out how things are expected to be done.
-    [Disclosure Policy Resources](reference/disclosure_policy_templates.md) 
+    [Disclosure Policy Resources](reference/disclosure_policy_templates.md)
     contains links to a number of disclosure policy examples and
     templates.
 
@@ -122,7 +121,7 @@ Of course, we think it's best if you eventually become familiar with
 the entire site, but hopefully the hints above will help you find
 the most effective places to start.
 
-## Using this Site 
+## Using this Site
 
 At the bottom of each page, you'll find a set of links to help you
 interact with the CERT Guide to CVD team. You can ask questions, report
@@ -136,9 +135,9 @@ to make the site better, so don't hesitate to reach out.
 
     ---
     Have a question or want to discuss something? Join the conversation on the CERT Guide to CVD Community Discussions.
- 
+
 - :material-message-question: [**Ask a Question**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md)
-    
+
     ---
     Have a question about the content of the site? Ask it here.
 
@@ -148,10 +147,9 @@ to make the site better, so don't hesitate to reach out.
     Found a problem with the site? Report it here.
 
 - :material-lightbulb-on: [**Request a Feature**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=feature_request.md)
-    
+
     ---
     Have an idea for a feature you'd like to see on the site? Request it here.
-
 
 <!--
     - icon: material/message-question

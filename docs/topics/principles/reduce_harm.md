@@ -1,6 +1,5 @@
 # Reduce Harm
 
-
 Harm reduction is a term borrowed from the public health community. In
 that context, it is used to describe efforts intended to reduce the harm
 caused by drug use and unsafe health practices, rather than on the
@@ -40,7 +39,7 @@ In fact, the potential for vulnerabilities will likely never go away
 since a previously secure system can become vulnerable when deployed
 into a new context, or simply due to environmental changes or the
 development of novel attack techniques. Systems tend to outlive their
-threat models. 
+threat models.
 
 !!! example "The Flatiron Building in New York City"
 
@@ -53,7 +52,7 @@ threat models.
 
 Since vulnerabilities are likely to persist despite our best efforts,
 CVD works best when it focuses on reducing the harm vulnerabilities can
-cause. 
+cause.
 
 !!! tip "Approaches to Reduce Harm in CVD"
 
@@ -81,4 +80,3 @@ cause.
     can improve patch deployment rates. To avoid automated deployment mechanisms becoming a new
     target for adversaries, vendors should use secure update mechanisms including
     cryptographically signed updates or other technologies.
-

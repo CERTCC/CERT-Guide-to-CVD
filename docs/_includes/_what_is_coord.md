@@ -19,5 +19,3 @@
     as well as provides assistance to vulnerability
     [reporters](../tutorials/coord_certcc/reporter.md)
     wishing to begin the coordination process for their own vulnerability.
-
-

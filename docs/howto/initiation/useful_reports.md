@@ -1,5 +1,5 @@
 # Providing Useful Information in a Vulnerability Report
-    
+
 <!--start-->Reporting a vulnerability requires that the vulnerability is
 well-documented. This typically means providing high-quality and actionable
 information to the vendor or coordinator.<!--end-->
@@ -35,4 +35,3 @@ the vulnerability and take appropriate action to fix it.
     as a reference might be helpful to describe the
     type of vulnerability you have found and common ways to fix it the
     problem.
-

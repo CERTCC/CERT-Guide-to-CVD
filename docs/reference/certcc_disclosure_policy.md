@@ -33,7 +33,6 @@ to [CISA](http://www.cisa.gov/) for coordination with the government.
 
 <div class="grid" markdown>
 
-
 !!! question "Why not 30 days, or 15 days, or immediately?"
 
     We think that 45 days can be a pretty tough deadline for a large

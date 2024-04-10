@@ -2,7 +2,6 @@
 
 !!! question "What is a Wicked Problem?"
 
-
     The term *wicked problem* was first introduced by Horst Rittel and
     Melvin Webber in 1973. The term was used to describe a class of
     social system problems that are ill-formulated, where the information
@@ -21,7 +20,6 @@
     Planning," *Policy Sciences,* vol. 4, no. 1973, pp. 155-169, June
     1973.
 
-
 Because of the complexity of coordinating vulnerability disclosure, we consider it a wicked problem.
 The following table lists the characteristics of wicked problems.
 Anyone familiar with the CVD process will likely recognize these characteristics
@@ -39,5 +37,3 @@ in both the individual cases and the overarching process itself.
 | 8. A symptom of another problem | every identified cause leads to a "higher level" problem of which the current problem is a symptom. |
 | 9. The choice of explanation determines the nature of the problem's resolution | The way a problem is described influences the solutions proposed. |
 | 10. The planner has no right to be wrong | The goal of a solution is not to find an ultimate truth about the world, rather it is to improve conditions for those who inhabit it. |
-
-

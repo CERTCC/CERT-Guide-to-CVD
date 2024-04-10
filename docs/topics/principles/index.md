@@ -25,7 +25,7 @@ These principles include the following:
     end="<!--excerpt-end-->" %}
 
 - :fontawesome-solid-ice-cream: [Incentivize Desired Behavior](./incentivize_behavior.md)
- 
+
     ---
     {% include-markdown "./incentivize_behavior.md" start="<!--excerpt-start-->"
     end="<!--excerpt-end-->" %}
@@ -37,7 +37,7 @@ These principles include the following:
     end="<!--excerpt-end-->" %}
   
 - :octicons-graph-16: [Process Improvement](./process_improvement.md)
-    
+
     ---
     {% include-markdown "./process_improvement.md" start="<!--excerpt-start-->"
         end="<!--excerpt-end-->" %}

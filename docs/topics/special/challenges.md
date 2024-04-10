@@ -43,7 +43,6 @@ that can affect different types of systems in different ways.
 
     </div>
 
-
 !!! warning "Limited Instrumentation"
 
     **AI/ML** :material-check-all: |
@@ -133,7 +132,6 @@ that can affect different types of systems in different ways.
     Techniques and tools for network protocol inference and reverse engineering can be effective tactics.
     However, if vendors were more open with their protocol specifications, much of the need for that effort would be obviated. 
 
-
 !!! warning "Lack of Updatability"
 
     **AI/ML** :material-check: |
@@ -157,7 +155,6 @@ that can affect different types of systems in different ways.
     could lead to years if not decades of increasingly insecure devices acting as reservoirs of infection or as 
     platforms for lateral movement by attackers of all types.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-
 !!! warning "Lack of Security Tools"
 
     **AI/ML** :material-check-all: |
@@ -177,7 +174,6 @@ that can affect different types of systems in different ways.
     of the realm of Windows and Unix-based (including macOS) operating systems running on x86/IA64 architectures.
     This affects both IoT and AI/ML systems, as the latter often run on specialized hardware and software platforms
     with similar limitations.
-
 
 !!! warning "Vulnerability Scanning Tool and Database Bias"
 
@@ -300,8 +296,4 @@ more problems to address
 - capital cost of test environments
 - security is a cost center, not a profit center
 
-
 -->
-
-
-

@@ -2,10 +2,9 @@
 
 Whether you are a security researcher, a product security engineer, or a
 vulnerability coordinator, you may be interested in learning about the
-techniques commonly used to find vulnerabilities. 
+techniques commonly used to find vulnerabilities.
 Below , we have compiled a list of techniques that are commonly used to find vulnerabilities in
-information systems. 
-
+information systems.
 
 !!! info "About this page"
 
@@ -15,7 +14,6 @@ information systems.
     Many of the techniques listed below are common to vulnerability discovery in the traditional computing and
     mobile world.
     Some may also prove useful in finding vulnerabilities in AI/ML systems.
-
 
 !!! question "Are IoT Systems Really that Different?"
 
@@ -32,7 +30,6 @@ literature, ranked in approximately descending order of
 popularity at the time. Although it has been a few years since we
 conducted this study, we believe that the techniques are still relevant
 today, although their relative popularity may have shifted.
-
 
 !!! tip "Reading documentation"
 
@@ -100,4 +97,3 @@ today, although their relative popularity may have shifted.
     In some cases, just knowing how a system works and approaching it with a security mindset is sufficient to find
     vulnerabilities.
     Examples include RFID and ModBus.
-

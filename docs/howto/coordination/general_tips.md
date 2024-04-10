@@ -30,7 +30,6 @@ guidelines to help you navigate the complexity.<!--end-->
     -   It can give the impression that the organization is bullying an individual.
     -   It can drive future researchers away from reporting the vulnerabilities they find.
 
-
 <div class="grid cards" markdown>
 
 !!! tip "Recognize the Helpers: Vendors"
@@ -42,7 +41,6 @@ guidelines to help you navigate the complexity.<!--end-->
 !!! tip "Recognize the Helpers: Finders/Reporters"
 
     A vendor who is responsive is doing better than many.
-    
 
 </div>
 
@@ -56,7 +54,6 @@ guidelines to help you navigate the complexity.<!--end-->
     Give credit where it's due. 
     Many participants in CVD are there because they care about making things better.
     Recognizing them for their good work keeps them engaged and helps everybody in the long run.
-
 
 !!! tip "Consider Publishing Early"
 
@@ -88,7 +85,6 @@ guidelines to help you navigate the complexity.<!--end-->
     coordinator, or deployer. When problems arise that you're not prepared
     to handle, or even if you just need a quick opinion on what to do next,
     there are a number of coordinating organizations available to help.
-
 
 !!! tip "Learn from the Experience"
 

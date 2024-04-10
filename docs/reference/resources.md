@@ -20,6 +20,7 @@ This list is by no means exhaustive, but it should provide a good starting point
 - [CSIRT Services Framework](https://www.first.org/standards/frameworks/csirts/csirt_services_framework_v2.1)
 
 ## OASIS Resources
+
 - [Common Security Advisory Framework (CSAF)](https://oasis-open.github.io/csaf-documentation/)
 
 ## NIST Resources

@@ -42,7 +42,7 @@ In the course of analyzing a vulnerability report to isolate the problem, CVD pa
     This is one way in which a CVD case becomes a MPCVD case.
 
 Figuring out what other products and components are affected by a vulnerability involves understanding the software
-supply chain, and often requires a degree of software component analysis in order to ferret out the other products 
+supply chain, and often requires a degree of software component analysis in order to ferret out the other products
 and vendors that might be affected.
 
 <!-- One way to facilitate this sort of cross-vendor coordination is for vendors and coordinators to maintain and 
@@ -62,7 +62,7 @@ A well-tested patch that is issued later is preferable to a prematurely released
 ## Mitigate What You Cannot Fix
 
 In most cases, knowledge of a vulnerability leads the vendor to create and issue a fix to correct it.
-As a stopgap in scenarios where it may not possible to develop a timely fix, a vendor or third party will sometimes 
+As a stopgap in scenarios where it may not possible to develop a timely fix, a vendor or third party will sometimes
 provide advice on actions that can be taken to mitigate the effects of the vulnerability.
 Sometimes this advice is as simple as instructions for disabling the affected features of the system.
 In other cases, mitigation advice might include detailed configuration changes to be made by deployers.

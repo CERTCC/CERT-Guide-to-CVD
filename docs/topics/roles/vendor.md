@@ -1,6 +1,6 @@
 # Vendor
 
-!!! info inline end "Synonyms for _Vendor_"
+!!! info inline end "Synonyms for *Vendor*"
 
     Other terms used to represent the concept of _vendor_ include:
     supplier, manufacturer, producer, creator, developer, author, 
@@ -15,7 +15,6 @@ multinational company with thousands of developers across the globe.
 Many open source libraries are maintained by a single person or a small
 independent team; we still refer to these individuals and groups as
 vendors.
-
 
 {% include-markdown "../../_includes/_who_is_a_vendor.md" heading-indent=1 %}
 
@@ -32,7 +31,6 @@ vendors.
     - Only a third of responding companies considered and/or required
       suppliers to have their own vulnerability handling procedures.
 
-
 !!! warning "Vendor as the Introducer of Vulnerabilities"
 
     The vendor often plays an important but less discussed role as well, as
@@ -46,17 +44,15 @@ vendors.
     well-established CVD capability is also essential to the development
     process.
 
-
-
 ## Vendors as Part of the Software Supply Chain
 
 Although a single vendor is usually the originator of a patch for a
-given vulnerability (also known as the _originating vendor_), this is not always the case.
+given vulnerability (also known as the *originating vendor*), this is not always the case.
 Some vendors will have products affected by a vulnerability while they are not the originator
 of the initial fix.
-We refer to these vendors as _downstream vendors_, as they are downstream in the software supply chain
-from the _originating vendor_.
-By contrast then, an _upstream vendor_ is a vendor that provides a component to another vendor.
+We refer to these vendors as *downstream vendors*, as they are downstream in the software supply chain
+from the *originating vendor*.
+By contrast then, an *upstream vendor* is a vendor that provides a component to another vendor.
 Furthermore, since many modern products are in fact composed of
 software and hardware components from multiple vendors, the CVD process
 increasingly involves multiple tiers of vendors, as we discuss in
@@ -71,7 +67,7 @@ software supply chain can make this difficult to coordinate.
     The _originating vendor_ is responsible for creating the patch to fix the vulnerability.
 
 !!! abstract "Downstream Vendor"
-    
+
     A _downstream vendor_ is a vendor that uses a component from another vendor in their own product.
     If the component contains a vulnerability, the _downstream vendor_ is responsible for updating their product to include the patch
     provided by the _originating vendor_.
@@ -143,9 +139,6 @@ software supply chain can make this difficult to coordinate.
     products in order for the fix to be deployed to all vulnerable
     systems.
 
-
-
-
 ## Vendor Sub-Roles
 
 There are various sub-roles one might find within a vendor organization.
@@ -176,8 +169,6 @@ flowchart LR
 
 {% include-markdown "../../_includes/_first_psirt.md" %}
 
-
-
 !!! tip "Developers"
 
     For vendors of sufficient size to have a dedicated PSIRT, the
@@ -201,8 +192,7 @@ flowchart LR
     have a dedicated role for this, while in others it is a part-time
     responsibility of the PSIRT or the developers.
 
-
 !!! tip "Vendor Response Process"
-    
+
     We outline the vendor response process in more detail in
     [Vendor Vulnerability Response Process](../../tutorials/response_process/vendor.md).

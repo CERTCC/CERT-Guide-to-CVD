@@ -1,5 +1,4 @@
 !!! warning "Use caution with <span style="color:#FF2B2B;background-color:#000000">**TLP:RED**</span> and <span style="color:#FFC000;background-color:#000000">**TLP:AMBER+STRICT**</span>"
- 
 
     We have found that <span style="color:#FF2B2B;background-color:#000000">**TLP:RED**</span> is too restrictive for an organization to effectively respond to a vulnerability.
     For example, the analyst who receives a <span style="color:#FF2B2B;background-color:#000000">**TLP:RED**</span> report might not be able to share it with their manager or their team.

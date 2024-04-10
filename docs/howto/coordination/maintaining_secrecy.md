@@ -1,6 +1,6 @@
 # Maintaining Pre-Disclosure Secrecy
 
-[Multiparty disclosure](mpcvd.md) highlights the need to balance need-to-know with need-to-share. 
+[Multiparty disclosure](mpcvd.md) highlights the need to balance need-to-know with need-to-share.
 <!--start-->The more parties involved in a case, and the longer the embargo period
 lasts, the more likely a leak becomes.<!--end-->
 
@@ -55,7 +55,6 @@ increases exponentially with the number of parties involved.
     The longer the embargo, the more likely a leak becomes, regardless of the number of parties involved.
     That doesn't mean you should rush the process (because that can lead to other problems including loss of 
     trust due to incomplet or incorrect patches), but it does mean you should beware the risks of a long embargo.
-
 
 ## Coordinating Further Downstream
 

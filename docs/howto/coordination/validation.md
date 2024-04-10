@@ -1,7 +1,7 @@
 # Validating Reports
 
 When a [vendor](../../topics/roles/vendor.md) or [coordinator](../../topics/roles/coordinator.md)
-receives a vulnerability report, it's usually necessary to prioritize it along with other 
+receives a vulnerability report, it's usually necessary to prioritize it along with other
 vulnerability reports already in progress, new feature development, and possibly other non-security bug fixes.
 As a result, there are a few considerations to be made in dealing with incoming reports.
 These essentially boil down to three questions:
@@ -14,7 +14,6 @@ These essentially boil down to three questions:
     
     We tackle the first two questions in this section, and the third in the [next section](prioritization.md).
 
-
 ## Scope
 
 A CVD participant's scope determines which cases they can and should handle.
@@ -25,7 +24,6 @@ A vendor's scope is usually the set of their products, along with any components
     For many vendors, End-of-Life (EoL) software might be out of scope by default, but sometimes it is worth considering as in-scope.
     For example, vendors may choose to provide fixes for vulnerabilties in EoL software if the software only recently went out of support and the vulnerability has a severe impact.
 
-
 !!! example "Scope for a Coordinating CSIRT"
 
     A coordinator also has a scope defined by their specific constituency and mission.
@@ -35,7 +33,7 @@ A vendor's scope is usually the set of their products, along with any components
 
 Regardless what a CVD participant's scope is, it is usually easiest to determine whether a received report meets their
 scope criteria before proceeding to validate the report.
-If a report arrives and would be out of scope _even if_ true, there will be no need to proceed with judging its credibility.
+If a report arrives and would be out of scope *even if* true, there will be no need to proceed with judging its credibility.
 CVD participants should decide what to do about out of scope reports separately, before the vulnerability coordination
 validation and prioritization decisions begin.
 
@@ -43,7 +41,6 @@ validation and prioritization decisions begin.
 
     A judgement that a report is out of scope need not result in simply dropping the case.
     The case might be handed off to a more appropriate vendor or coordinator for whom it would be in scope, for example.
-
 
 ## Recognizing High-Quality Reports
 
@@ -85,7 +82,6 @@ a few tips for dealing with such reports:
     reporters with a high reputation tend to have earned that reputation by
     submitting high-quality reports).
 
-
 !!! warning "Be cautious of low-quality reports"
 
     The possibility also exists that someone could be sending you reports to
@@ -110,6 +106,5 @@ a few tips for dealing with such reports:
     follow up with questions are doing the right thing, and attempting to
     validate your report; be friendly and courteous and attempt to provide
     as much detail and help as you can.
-
 
 </div>

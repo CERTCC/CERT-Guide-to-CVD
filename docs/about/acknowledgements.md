@@ -24,4 +24,3 @@ We also acknowledge the contributions of
 - the [GitHub community](https://github.com/CERTCC/CERT-Guide-to-CVD/graphs/contributors)
 
 who have provided feedback and suggestions that have helped shape this documentation.
-

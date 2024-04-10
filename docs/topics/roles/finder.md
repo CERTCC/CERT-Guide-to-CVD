@@ -8,13 +8,12 @@
 
 In the interest of consistency, we will use this
 definition of finder, although in other documentation we've used the
-term _discoverer_ for this same role. We do, however, distinguish between
-the role of _finder_ and the role of _reporter_, as seen in this section and
+term *discoverer* for this same role. We do, however, distinguish between
+the role of *finder* and the role of *reporter*, as seen in this section and
 the next.
 
-We sometimes use _finder/reporter_ to refer to the person or organization
+We sometimes use *finder/reporter* to refer to the person or organization
 that both finds and reports a vulnerability.
-
 
 ## Who Finds Vulnerabilities?
 
@@ -41,7 +40,6 @@ self-identify as security researchers or hackers.
     describes how a 5-year old found a vulnerability in
     Microsoft's Xbox Live service just by holding down the space bar
     and was able to log in to his father's account without the password.
-
 
 There are also organizations that look for vulnerabilities. Some of them
 work under contract to vendors directly. Some work for the vendors'
@@ -97,7 +95,7 @@ that follow the discovery:
     the report might be sent to a [coordinator](coordinator.md). If the vulnerability is
     discovered internally to a vendor, then the report may simply be
     forwarded to the responsible team within the organization&mdash;for
-    example, filed as a security-related bug report. 
+    example, filed as a security-related bug report.
 3. (Optional) Finders, reporters, vendors, or coordinators might
     [prepare a document to publish](../phases/public_awareness.md). The finder often wants to draw
     attention to his or her discovery and subsequent analysis by
@@ -106,7 +104,6 @@ that follow the discovery:
     publish a document as well to inform their users that action has
     been taken to resolve the problem, and to prompt their users to take
     any required remediation actions.
-
 
 !!! tip "Regarding Non-Disclosure"
 
@@ -134,8 +131,6 @@ vulnerability.
     vendor is not the original finder.
 
 That said, whether or not the
-_reporter_ is the original _finder_ is often not as relevant as whether the
+*reporter* is the original *finder* is often not as relevant as whether the
 newly provided information is sufficient to determine the existence and
 impact of the problem reported.
-
-

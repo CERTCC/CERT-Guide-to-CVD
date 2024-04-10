@@ -39,9 +39,9 @@ TLP 2.0 has five levels, each with a different meaning:
 
 | Label | Description |
 |-------|-------------|
-| <span style="color:#FF2B2B;background-color:#000000">**TLP:RED**</span> | For the eyes and ears of individual recipients only, no further disclosure. | 
+| <span style="color:#FF2B2B;background-color:#000000">**TLP:RED**</span> | For the eyes and ears of individual recipients only, no further disclosure. |
 | <span style="color:#FFC000;background-color:#000000">**TLP:AMBER+STRICT**</span> | Limited disclosure, recipients can only spread this on a need-to-know basis within their organization only. |
-| <span style="color:#FFC000;background-color:#000000">**TLP:AMBER**</span> | Limited disclosure, recipients can only spread this on a need-to-know basis within their organization and its clients.| 
+| <span style="color:#FFC000;background-color:#000000">**TLP:AMBER**</span> | Limited disclosure, recipients can only spread this on a need-to-know basis within their organization and its clients.|
 | <span style="color:#33FF00;background-color:#000000">**TLP:GREEN**</span> | Limited disclosure, recipients can spread this within their community. |
 | <span style="color:#FFFFFF;background-color:#000000">**TLP:CLEAR**</span> | Recipients can spread this to the world, there is no limit on disclosure. |
 
@@ -77,7 +77,7 @@ potentially be affected by the vulnerabilities you are coordinating.
 Vulnerability reports may contain hostile attachments&mdash;not necessarily
 as an attack, but simply a reporter sending a proof-of-concept for your
 review&mdash;so vendors and coordinators should design their report tracking
-systems and process accordingly. 
+systems and process accordingly.
 
 !!! tip "Isolate Attachments"
 
@@ -102,7 +102,6 @@ generate thumbnail previews of image attachments.
     business operations systems. In some scenarios, maintaining parallel
     infrastructure may be preferable.
 
-
 ### Complex Communications Reduce Trust
 
 It's also important to be aware that not all participants along the
@@ -110,4 +109,3 @@ chain of disclosure will be equally trustworthy. That's not to say they
 are actively malicious, just that they may have incompatible values or
 priorities that lead them to disclose the existence of the vulnerability
 to others earlier than you'd prefer.
-

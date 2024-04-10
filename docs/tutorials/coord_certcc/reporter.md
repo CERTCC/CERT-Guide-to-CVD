@@ -46,7 +46,6 @@ flowchart TD
 
     The CERT/CC typically responds to requests within 24-48 hours. Depending on the request, further analysis and decision may take additional time.
 
-
 ## How does the CERT/CC decide if we will accept a request?
 
 The CERT/CC attempts to take a balanced approach to the
@@ -60,8 +59,7 @@ benefit to the global community.
 Even if a high quality vulnerability report is submitted, we may still
 decline to assist. This is not a reflection on the reporter or the
 quality of the report, but rather a result of limited time and
-resources. 
-
+resources.
 
 Some common reasons for us to decline a request include:
 
@@ -69,14 +67,13 @@ Some common reasons for us to decline a request include:
 
 - **Low CVSS score**
 
-
     ---
     We evaluate the CVSS v2 Environmental score for all new reports,
     and use this score to help set priorities on reports. We
     generally place more emphasis on vulnerabilities with higher
     scores, and generally decline reports with low Environmental
     scores. For more information on how to perform CVSS scoring on
-    your vulnerability, please see the [CVSS website](http://www.first.org/cvss). 
+    your vulnerability, please see the [CVSS website](http://www.first.org/cvss).
 
     One result of CVSS Environmental scoring is that software that
     is not widely distributed (i.e., has a very small global user
@@ -84,14 +81,12 @@ Some common reasons for us to decline a request include:
 
 - **Lack of strong evidence**
 
-      
     ---
     Evidence must be provided before action can be taken. Reports
     lacking a proof of concept or proposed patch will be considered
     low priority or even declined.
 
 - **Only a CVE ID is needed**
-      
 
     ---
     The CERT/CC typically only provides CVE IDs for vulnerabilities
@@ -100,7 +95,6 @@ Some common reasons for us to decline a request include:
     directly from the [CVE project](https://www.cve.org/ReportRequest/ReportRequestForNonCNAs).
 
 - **Only publication is requested**
-      
 
     ---
     The CERT/CC typically only publishes on vulnerabilities we take
@@ -124,7 +118,7 @@ Please note that when a vulnerability is reported to the CERT/CC, we
 will take the reporter's comments into our decision process, but by
 submitting a report, the reporter agrees that CERT/CC has final decision
 authority over any coordination and publishing on the [kb.cert.org](https://www.kb.cert.org)
-website. 
+website.
 
 !!! note "Reporter's Right to Disclose"
 

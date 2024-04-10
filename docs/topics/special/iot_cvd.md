@@ -6,7 +6,7 @@
     [*Vulnerability Discovery for Emerging Networked Systems*](https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.html)
     and
     [*What's Different About Vulnerability Analysis and Discovery in Emerging Networked Systems?*](https://insights.sei.cmu.edu/cert/2015/01/-whats-different-about-vulnerability-analysis-and-discovery-in-emerging-networked-systems.html)
-    
+
 In this section, we turn our attention to the implications that the Internet of
 Things brings to the CVD discussion. "Smart things" are expected to
 outnumber traditional computers in the near future and will likely
@@ -20,7 +20,7 @@ could allow an attacker to gain a foothold.
 Because many such systems and devices are expected to remain
 operationally useful for years or even decades with minimal
 intervention, it is especially important that their security be
-thoroughly understood prior to deployment. 
+thoroughly understood prior to deployment.
 
 !!! quote "Dan Geer, [*Security of Things*](http://geer.tinho.net/geer.secot.7v14.txt), 7 May 2014"
 
@@ -79,7 +79,6 @@ CERT Vulnerability Analysis team. These issues are summarized below.
 
 </div>
 
-
 The threats posed by these systems given their current proliferation trajectory are
 concerning.
 Even as they become more common, it can be difficult to identify the threats posed to a network by IoT either alone or in
@@ -102,8 +101,6 @@ aggregate.
     vector share your home with you? How would you patch them?
 
 </div>
-
-
 
 ## Summarizing the IoT's Impact on CVD
 

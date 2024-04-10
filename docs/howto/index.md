@@ -19,4 +19,3 @@ although we're not strictly adhering to the [Phases](../topics/phases/index.md) 
 {% include-markdown "./initiation/index.md" heading-offset=1 %}
 {% include-markdown "./coordination/index.md" heading-offset=1 %}
 {% include-markdown "./operation/index.md" heading-offset=1 %}
-

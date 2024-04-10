@@ -11,7 +11,6 @@ the CVD process is that it starts with at least one individual becoming
 aware of a vulnerability in a product. This discovery event immediately
 divides the world into two sets of people:
 
-
 ```mermaid
 flowchart TD
     a([Everybody])

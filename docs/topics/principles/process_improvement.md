@@ -33,7 +33,7 @@ A successful CVD program feeds vulnerability information back into the
 vendor's Software Development Lifecycle. This information can result in
 more secure development processes, helping to prevent the introduction
 of vulnerabilities in the first place.
- 
+
 Yet the reality of today's software is that much of its legacy code was
 not originally produced within a secure development process.
 The positive news is that *foundational
@@ -45,14 +45,13 @@ foundational vulnerabilities are fixed, the remaining foundational
 vulnerabilities tend to be more subtle or complex, making them
 increasingly difficult to discover.
 
-
 Furthermore, ongoing development and code changes can introduce new
 vulnerabilities, making it unlikely for the security process to ever be
 "finished." Even with modern architecture development and secure
 coding practices, software bugs (and in particular security
 vulnerabilities) remain a likely result as new features are added or
 code is refactored. This can happen for many reasons, not all of them
-technical. 
+technical.
 
 !!! example inline end "Bad Software Architecture is a People Problem"
 
@@ -71,8 +70,7 @@ cannot predict the environment, we cannot predict all the ways that
 things may go wrong. In fact, [research](https://www.microsoft.com/en-us/research/blog/12-18-14-equation-of-a-fuzzing-curve-part-1-2/) has shown that it appears
 [impossible](https://www.microsoft.com/en-us/research/blog/equation-of-a-fuzzing-curve-part-2-2/) to model or predict the number of vulnerabilities that may be
 found through tools like fuzzing&mdash;and, by extension, [the number of
-vulnerabilities that exist in a product](https://insights.sei.cmu.edu/library/an-analysis-of-how-many-undiscovered-vulnerabilities-remain-in-information-systems/). 
-
+vulnerabilities that exist in a product](https://insights.sei.cmu.edu/library/an-analysis-of-how-many-undiscovered-vulnerabilities-remain-in-information-systems/).
 
 A successful CVD process helps encourage the search for and reporting of
 vulnerabilities while minimizing harm to users. Developers supporting a

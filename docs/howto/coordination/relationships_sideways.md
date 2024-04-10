@@ -13,7 +13,6 @@ The process can stall, or worse, the vulnerability can be disclosed in a way tha
     The first thing to do when things appear to be going awry in a CVD case
     is to give people some slack to make mistakes.
 
-
 !!! tip "Transparency, Consistency, and Simplicity"
 
     The more transparent your process is&mdash;and the closer it is to what

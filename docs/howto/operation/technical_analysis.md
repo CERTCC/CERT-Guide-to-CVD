@@ -19,7 +19,6 @@ and deeper analysis leading to problem isolation and remediation ([Remediation](
     - Dynamic code analysis
     - Root cause analysis
 
-
 ## Test Environments
 
 Having an internal testing infrastructure is vital to proper prioritization
@@ -51,8 +50,6 @@ open source alternatives are available.
     Vendors with more hardware-centric products may need to additionally
     maintain more physical gear or specialized test bench equipment in order
     to have sufficient capacity to confirm reports.
-
-
 
 <div class="grid" markdown>
 
@@ -102,7 +99,6 @@ process more efficient.
     and, given appropriate training and support, can begin to apply this
     knowledge directly to the product without having to wait for
     vulnerability reports to arrive from elsewhere.
-
 
 !!! example "Testing Infrastructure and Tool Development"
 

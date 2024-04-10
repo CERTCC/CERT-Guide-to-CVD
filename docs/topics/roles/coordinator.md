@@ -30,7 +30,6 @@ to respond to an incident when the need arises.
     Mellon University has created a collection of
     [CSIRT Resources](https://insights.sei.cmu.edu/library/resources-for-creating-a-csirt/).
 
-
 ### CSIRT with National Responsibility
 
 !!! example inline end "National CSIRTs"
@@ -51,12 +50,11 @@ In addition to functioning as a clearing house for incident response
 across government departments and agencies, CSIRTs with National
 Responsibility often have some degree of responsibility or oversight for
 coordinating vulnerability response across their nation's critical
-infrastructure. 
+infrastructure.
 
 !!! info "National CSIRT Resources"
 
     The CERT Division has compiled a collection of [National CSIRT Resources](https://insights.sei.cmu.edu/library/natcsirt-resources/).
-
 
 ### Product Security Incident Response Team (PSIRT)
 
@@ -90,7 +88,7 @@ usually be communicating with the vendor's PSIRT.
     capability with their externally facing coordination capability.
 
 Organizations that perform security research on other vendors’ products in the course of their
-own business sometimes establish their own coordination capability in order to handle the 
+own business sometimes establish their own coordination capability in order to handle the
 disclosure process for the vulnerabilities they find. A wide variety of organizations perform this
 kind of security research, whether for profit or for non-commercial reasons.
 
@@ -103,7 +101,7 @@ and reduce the perception of bias in their vulnerability disclosure process.
 
 ## Bug Bounty Programs
 
-Many individual vendors have established bug bounty programs to compensate security 
+Many individual vendors have established bug bounty programs to compensate security
 researchers for their efforts in discovering vulnerabilities in the vendor’s products. Creation of
 a bug bounty program has been noted as an indicator of maturity in vendors’ vulnerability
 response efforts.
@@ -124,11 +122,9 @@ response efforts.
     - [SynAck](https://www.synack.com)
     - [Cobalt Labs Inc.](https://cobalt.io/)
 
-
 Not all vulnerability reporting programs include bug bounties.
-In recent years, a new class of coordinator has emerged in the form of commercial vulnerability disclosure 
+In recent years, a new class of coordinator has emerged in the form of commercial vulnerability disclosure
 platform providers.
-
 
 Companies such as those at right offer turnkey solutions for
 vendors who want to bootstrap their own vulnerability response program.
@@ -139,20 +135,18 @@ vendors who want to bootstrap their own vulnerability response program.
 
     The [National Council of ISACs](https://www.nationalisacs.org/member-isacs-3) lists
     over two dozen ISACs in the United States, each focused on a different sector of critical infrastructure.
-    
 
 [Information Sharing and Analysis Organizations](https://www.isao.org/) (ISAOs) and
 [Information Sharing and Analysis Centers](https://www.nationalisacs.org/)
 (ISACs) are non-government entities that serve various roles in
 gathering, analyzing, and disseminating critical infrastructure
 cybersecurity information across private sector organizations of various
-sizes and capabilities. These organizations are increasingly involved 
+sizes and capabilities. These organizations are increasingly involved
 in the coordination and deployment of vulnerability mitigations.
 Furthermore, we have observed a growing interest from critical
 infrastructure sectors engaging with the
 coordination of the vulnerability discovery, disclosure, and remediation
 processes.
-
 
 ## Traditional Coordinators
 
@@ -168,5 +162,3 @@ Vulnerability Disclosure (MPCVD) remains a challenge for many organizations.
 As individual
 vendors have become more mature in their handling of vulnerabilities in their products, the
 role of MPCVD has increased in importance for more traditional vulnerability coordinators.
-
-

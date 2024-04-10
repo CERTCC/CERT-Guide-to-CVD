@@ -110,7 +110,6 @@ the following questions in establishing their policies and practices:
     understand the issue while preparing their advisories, leading to
     erroneous or inadequate advice to their constituencies.
 
-
 ## Vulnerability Identifiers
 
 Many vulnerability reports can be similar, and sometimes a vendor or
@@ -186,13 +185,11 @@ parties can keep track of the issue.
     vulnerability scanning tool vendors, and deployers to differentiate
     systems affected by a vulnerability from those that are not.
 
-
 ## Prepare and Circulate a Draft
 
 Prior to public announcement of a vulnerability document, we find it
 helpful to circulate a draft document describing the vulnerability to
 give CVD participants an opportunity for discussion and commentary.
-
 
 At a minimum, a draft advisory should be shared between the reporter and
 vendor to reduce the likelihood of either party being taken by surprise.
@@ -212,6 +209,5 @@ to also discuss what channels to use for publication and disclosure.
     information. We discuss applications of TLP to CVD in [OpSec](../../howto/operation/opsec.md).
 
 !!! tip "Vulnerability Disclosure Document"
-    
-    Examples of vulnerability disclosure documents are provided in the Reference section under [Advisory](../../reference/simple_advisory.md).
 
+    Examples of vulnerability disclosure documents are provided in the Reference section under [Advisory](../../reference/simple_advisory.md).

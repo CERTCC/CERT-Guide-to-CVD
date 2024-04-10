@@ -14,7 +14,6 @@ mismatched expectations, or in rare cases, a malicious act.<!--end-->
     - Somebody could post that they just found a vulnerability in a product, providing no other details. 
     - Somebody might intentionally disclose the information to someone not involved in the supply chain for the fix.
 
-
 !!! question "Questions to Ask When Information Leaks"
 
     Regardless of how it leaked, there are three major questions to ask:

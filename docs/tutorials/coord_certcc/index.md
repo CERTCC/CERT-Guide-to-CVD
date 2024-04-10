@@ -19,7 +19,7 @@ extra steps:
 
     - CERT/CC may decline to assist in otherwise valid reports for
         many reasons: low severity, resource/time constraints, etc.
-   
+
 3. If the report is accepted by the CERT/CC, then the CERT/CC will
     attempt to contact the vendor and report the vulnerability
 
@@ -42,12 +42,12 @@ extra steps:
 5. If the vendor replies, CERT/CC will work with the vendor to develop
    and test patches if necessary, as well as help notify any downstream
    vendors affected
-   
+
     - If the vendor does not reply, CERT/CC will attempt to alert
       downstream vendors prior to the disclosure date and then publish
       the Vulnerability Note after sending a reminder notice to the
       vendor
-   
+
 6. If possible, CERT/CC and the vendor will provide the patch for the
     vulnerability to downstream vendors privately before public
     disclosure
@@ -68,9 +68,9 @@ extra steps:
 
 7. Prior to the publication date, a CVE ID is assigned by CERT/CC if
     necessary
-    
+
     - unless the vendor is a CVE Numbering Authority, in which case the vendor should assign the CVE ID.
- 
+
 8. The draft Vulnerability Note and CVE ID are shared with the vendor
     and reporter for comments, typically 1-2 weeks before the
     publication date. In some scenarios, CERT/CC may decide not to
@@ -83,7 +83,6 @@ extra steps:
 10. Depending on who made the assignment in step 7, either the vendor or CERT/CC will create a CVE record for the
     vulnerability, which will be shared with the CVE List
 11. The NVD publishes an entry for the CVE ID
-
 
 ```mermaid
 flowchart TD
@@ -114,7 +113,6 @@ flowchart TD
 
 {% include-markdown "../../_includes/_report_certcc.md" heading-offset=1 %}
 
-
 !!! note "Coordination with CERT/CC"
 
     Please note that when a vulnerability is reported to the CERT/CC, we
@@ -131,7 +129,6 @@ flowchart TD
     process as necessary. As stated earlier, every case is somewhat unique
     and may require significant changes to the process depending on the
     information available.
-
 
 <div class="grid" markdown>
 

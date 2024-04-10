@@ -37,4 +37,3 @@ security issues and the performance of the response process itself.
     that aims to provide interoperability across organizations' CVD processes.
 
 {% include-markdown "./_cvd_platform.md" heading-offset=1 %}
-

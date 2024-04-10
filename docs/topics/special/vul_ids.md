@@ -67,7 +67,6 @@ erDiagram
     case }|--o{ flaw : "describes"
 ```
 
-
 !!! example "Automated Testing"
 
     Automated testing can also identify so many individual vulnerabilities
@@ -90,7 +89,6 @@ erDiagram
     we discuss a number of challenges in identifying vulnerabilities in AI/ML systems, including the
     difficulty of localizing the source of a vulnerability in a complex system to a specific component.
     We expect to have more to say on this topic in the future.
-
 
 !!! info "Prior work: Vulnerability Cross-Reference (VXREF)"
 
@@ -115,7 +113,6 @@ erDiagram
 
     - CVE has limited scope of coverage.
     - Not all known vulnerabilities are assigned a CVE ID.
-
 
 ## Every Vulnerability Database Makes Choices
 
@@ -169,7 +166,6 @@ These choices include the following:
     particular business sector? This choice is another source of
     selection bias.
 
-
 - **Content detail**
 
     ---
@@ -179,7 +175,7 @@ These choices include the following:
     criteria, and so forth.
 
 - **Abstraction**
-    
+
     ---
     What is a "unit" vulnerability? Does this report
     represent one vul or many? That choice depends on what purpose the
@@ -187,7 +183,6 @@ These choices include the following:
     biases, describing it as "the most prevalent source of problems for
     analysis."
     For example, the CVE program has specific [assignment rules](https://www.cve.org/ResourcesSupport/AllResources/CNARules).
-
 
 </div>
 
@@ -222,10 +217,9 @@ These choices include the following:
     reports into database records is decidedly not (especially with
     humans in the loop, and as of this writing they still are).
 
-
 - **Users and consumers of the data**
 
-    ---  
+    ---
     Ultimately, a VDB must serve
     some useful purpose to some audience in order for it to continue to
     exist. There is a wide variety of uses for the information contained
@@ -242,7 +236,7 @@ These choices include the following:
 
 The vulnerability databases you are probably most familiar with, such as
 the [National Vulnerability Database](https://nvd.nist.gov) (NVD),
-[Common Vulnerabilities and Exposures](https://www.cve.org) (CVE), and the 
+[Common Vulnerabilities and Exposures](https://www.cve.org) (CVE), and the
 [CERT Vulnerability Notes Database](https://www.kb.cert.org/vuls)
 have historically focused on vulnerabilities affecting
 traditional computing platforms (Windows, Linux, OS X, and other
@@ -258,7 +252,6 @@ not be a need for a common identifier since nobody is trying to
 coordinate efforts across responsible parties. But in the mobile and
 embedded spaces, we definitely see the need for identifiers to serve the
 needs of both disclosure coordination and patch deployment.
-
 
 <!-- TODO mention EU & ENISA vul db? -->
 Furthermore, there is a strong English language and English-speaking
@@ -300,7 +293,6 @@ characteristic rates.
 In his book [*Thinking, Fast and Slow*](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow), Daniel Kahneman
 describes human thought processes in terms of two distinct systems:
 
-
 ```mermaid
 ---
 title: Kahneman's Two Systems
@@ -329,7 +321,6 @@ flowchart TD
     ste -.- calc
     sub -.- con
 ```
-
 
 Making the analogy to CVD processes, notice that historically there has
 been a need for slower, consistently high-quality, authoritative
@@ -361,7 +352,6 @@ around the globe.
     is where a reconciliation process would need to come in. 
     By the time the dust
     settles, correct IDs should be assigned and incorrect ones would be deprecated.
-
 
 ## A Path Toward VDB Interoperability
 
@@ -415,4 +405,3 @@ intend to continue our efforts to build a better way forward that suits
 everyone who shares our interest in seeing that vulnerabilities get
 coordinated and disclosed, and that patches are created and deployed,
 all with an eye toward minimizing societal harm in the process.
-

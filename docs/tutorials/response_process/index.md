@@ -29,7 +29,6 @@ disclosure process generally proceeds as follows:
         vendor -->|3 acknowledges| reporter
     ```
 
- 
 4. Vendor provides information to reporter regarding patching the issue
     and the timeframe until the patch is released publicly, reporter
     agrees to publish on the same day
@@ -56,11 +55,11 @@ disclosure process generally proceeds as follows:
 8. On an agreed-upon date, public security advisories are published
    detailing the issue, and how to obtain the patch or mitigate the
    issue
- 
+
     - typically, the vendor will release an advisory simultaneously
-        with the reporter publishing an advisory on a blog, 
+        with the reporter publishing an advisory on a blog,
         social media, or mailing list, or via a conference presentation
-   
+
 9. Once the vulnerability is public, (typically fairly quickly, especially if the
       vendor is a CNA), the CVE record will be published to the [CVE List](https://www.cve.org/Downloads).
 10. After the CVE record is published, the [National Vulnerability Database](https://nvd.nist.gov/) (NVD)
@@ -82,7 +81,6 @@ disclosure process generally proceeds as follows:
         nvd -->|11 NVD entry| public
    
     ```
-
 
 End result: vulnerability is mitigated or addressed in some manner,
 tracked with a CVE ID, and the public is informed through advisories
@@ -108,22 +106,21 @@ multiple vendors, only some of which are responsive to the reporter. In
 general, the CERT/CC is here to help with scenarios that go "off the
 rails". This can include many different reasons, such as:
 
--   Reporter is new to coordination and disclosure and would like some
+- Reporter is new to coordination and disclosure and would like some
     guidance on reporting and disclosing vulnerabilities
--   Vendor is new to coordination and disclosure; the vendor may be
+- Vendor is new to coordination and disclosure; the vendor may be
     unreachable by the reporter, or the vendor may request guidance on
     handling the report and establishing operations for future reports
--   Multiple vendors are suspected of being affected, and the reporter
+- Multiple vendors are suspected of being affected, and the reporter
     either has received no reply or is even unsure exactly who is
     affected
--   Vendor and Reporter disagree on the existence or severity of a
+- Vendor and Reporter disagree on the existence or severity of a
     vulnerability; CERT/CC may be able to provide independent testing
     and analysis
 
 In these cases you might contact the CERT/CC for assistance.
 
 {% include-markdown "../../_includes/_report_certcc.md" heading-offset=1 %}
-
 
 <div class="grid" markdown>
 

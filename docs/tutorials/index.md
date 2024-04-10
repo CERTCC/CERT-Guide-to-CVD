@@ -23,13 +23,12 @@ deal with it.
     decide --> coordinate: Coordinate
     ```
 
-
-- You're busy. 
-- You have more important things to do. 
-- It's not your code, so it's not your problem. 
+- You're busy.
+- You have more important things to do.
+- It's not your code, so it's not your problem.
 - Or maybe it is your code, but you wrote it a long time ago, and it will take a lot of effort to even
-try to fix it. 
-- Maybe the product has already reached end-of-life. 
+try to fix it.
+- Maybe the product has already reached end-of-life.
 - Or perhaps fixing this bug will delay the launch of your new product that will supersede this version anyway.
 
 There are plenty of good reasons
@@ -38,8 +37,6 @@ Although this is what a mathematician would refer to as a degenerate
 case of the disclosure process in which no disclosure occurs, it's
 important to recognize that even *starting* the process of disclosure is a
 choice one must consider carefully.
-
-
 
 Often, though, you will likely feel a need to take some action in
 response to this newfound knowledge of a vulnerability. If it's your
@@ -54,11 +51,8 @@ begins.
 
 ## Where to go from here
 
-The remainder of this section provides some tutorials and guidance on how to get started with 
+The remainder of this section provides some tutorials and guidance on how to get started with
 Coordinated Vulnerability Disclosure.
-
-
-
 
 <div class="grid cards" markdown>
 
@@ -71,9 +65,9 @@ Coordinated Vulnerability Disclosure.
 
     ---
     {% include-markdown "./cvd_is_a_process.md" start="<!--start-->" end="<!--end-->" %}
- 
+
 - :material-format-list-bulleted-triangle: [**CVD Terminology**](./terminology.md)
-    
+
     ---
     {% include-markdown "./terminology.md" start="<!--start-->" end="<!--end-->" %}
 

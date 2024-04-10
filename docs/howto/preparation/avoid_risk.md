@@ -104,4 +104,3 @@ safety risk, and legal risk.
     For more information on the legal implications of vulnerability
     disclosure, we refer you to the [*EFF's Coders' Rights Project
     Vulnerability Reporting FAQ*](https://www.eff.org/issues/coders/vulnerability-reporting-faq).
-

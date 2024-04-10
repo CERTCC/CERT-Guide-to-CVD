@@ -33,7 +33,6 @@ We cover each of these in more detail below.
 
 {% include-markdown "../../_includes/_rmm_vm_wide.md" %}
 
-
 ## Become Aware
 
 In order to take action, a deployer must know about the vulnerability
@@ -94,7 +93,7 @@ conditions is true:
 
 In environments with efficient automated deployment and rollback
 capabilities, it may not be as necessary to test as heavily. But that's
-often an ideal scenario that few deployers find themselves in. 
+often an ideal scenario that few deployers find themselves in.
 
 !!! tip "Consider Staged Deployments"
 
@@ -102,7 +101,6 @@ often an ideal scenario that few deployers find themselves in.
     where some portion of the affected systems are updated to confirm the fix
     prior to wider rollout. Thus allowing deployers to balance patch deployment
     with the risk of negative side effects.
-
 
 ## Plan the Deployment
 

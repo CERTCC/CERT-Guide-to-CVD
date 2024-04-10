@@ -25,5 +25,3 @@ disclosed directly to the public.
     Vendors that require additional information to validate reports should
     clearly document their specific requirements in their vulnerability
     disclosure policy, reporting form, or process description.
-
-

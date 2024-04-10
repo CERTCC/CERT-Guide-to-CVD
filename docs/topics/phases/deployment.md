@@ -21,7 +21,6 @@ The following are a few examples of others, in approximate order according to ho
 
 ## Automatic updates
 
-
 Vendors might choose to design their software with automated updates as part of their deployment strategy.
 Products with secure automatic updates provide a good way to get a patch deployed quickly to a wide audience.
 
@@ -34,7 +33,6 @@ Vendors should strive to implement easy and secure update methods in their produ
 In addition to improving deployment efficiency, automatic updates provide an opportunity for vendors to have visibility into the deployment status across their customer base via telemetry.
 In situations where automated deployment is not possible, the vendor's disclosure plan should be specific about how to spread the word of a new patch as quickly as possible.
 
-
 ## Single Instance Software
 
 Vendors who provide Software-as-a-Service can often just deploy fixes directly to their own infrastructure since they are both the developer and deployer of the software.
@@ -42,6 +40,7 @@ In this case SAAS need not be restricted to just subscriber-based services, it c
 The distinguishing factor is that the vendor is both the originator of the fix and the deployer.
 Many bug bounty programs or Vulnerability Disclosure Programs (VDPs) exist in this space.
 For example, many of the reports received by the DoD's VDP are for this kind of vulnerability, often involving custom-developed web sites or misconfigured web servers that can be fixed directly without user involvement.
+
 ## Close-hold software communities
 
 As mentioned in [Publishing](publishing.md), Vendors may choose to directly notify deployers (as opposed to public announcements) if they have the ability to do so.
@@ -80,7 +79,6 @@ Such vendors can be well-positioned to reach their entire deployment base via pr
     signature (TSIG) handling code_
     - [XSA-213](https://xenbits.xen.org/xsa/advisory-213.html) _Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
     x86: 64bit PV guest breakout via pagetable use-after-mode-change_
-
 
 !!! tip "Amplify the Message"
 
@@ -239,4 +237,3 @@ instances have not been remediated, that goal has not been achieved.
     actions. Deployers can include system administrators, vulnerability
     management systems, vendors with the ability to push patches, and
     end users who must take manual action.
-

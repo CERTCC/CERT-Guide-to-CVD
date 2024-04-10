@@ -6,7 +6,7 @@ Organizations that serve as Coordinators of the vulnerability disclosure process
 Often, these organizations must also manage relationships with other organizations that are not directly involved in the vulnerability disclosure process but are affected by it.
 We refer to these groups of people as "communities of interest."
 
-!!! tip "_Community Management_ is closely related to _Policy Management_"
+!!! tip "*Community Management* is closely related to *Policy Management*"
 
     [_Policy Management_](./policy_management.md) is about defining the rules and guidelines that govern the
     vulnerability disclosure process
@@ -92,4 +92,3 @@ The more fundamental the technology, the larger the group we need to notify.
 The larger the group we notify, the more likely it is for information to leak early.
 This creates a tension: the deeper the problem is, the more things are affected by it, but the shorter the embargo needs to be to avoid early disclosure.
 -->
-

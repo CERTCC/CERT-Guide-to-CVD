@@ -1,8 +1,8 @@
 # Disclosure Timing
 
-How long is "long enough" to respond to a vulnerability? 
+How long is "long enough" to respond to a vulnerability?
 As with so many questions that arise in the CVD process, there is no
-single right answer. 
+single right answer.
 
 !!! question "How long is long enough?"
 
@@ -17,7 +17,6 @@ single right answer.
 
 So rather than trying to solve an underspecified problem, let's have a look at some of the factors that tend
 to play into timing choices. This will give us an opportunity to see where some of the variability comes from.
-
 
 !!! tip "Conference Schedules Often Drive Disclosure Timing"
 
@@ -49,7 +48,6 @@ to play into timing choices. This will give us an opportunity to see where some 
     schedules and be prepared to respond quickly and appropriately to
     seemingly inflexible deadlines for
     disclosure.
-
 
 !!! warning "Vendor Reputation and Willingness to Cooperate"
 
@@ -99,7 +97,6 @@ earlier or later than planned.
     dependencies that alter the impact of the vulnerability or patch
     deployability
 
-
 In cases that divert from the planned disclosure date, it sometimes
 helps to seek the opinion of a neutral third party for advice on how to
 proceed. Finders, reporters, and vendors can each have valid yet
@@ -146,4 +143,3 @@ parties in light of their prior experience.
     people will have users' best interests in mind. Thus, teasing the
     existence of a vulnerability in a product can sometimes provide an
     adversarial advantage that increases risk to end users.
-

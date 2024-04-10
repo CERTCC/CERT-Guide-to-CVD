@@ -28,4 +28,3 @@ few moments to understand how it fits in with CVD.
 
     We describe the deployer's vulnerability response process in more
     detail in the section [Deployer Vulnerability Response](../../tutorials/response_process/deployer.md).
-

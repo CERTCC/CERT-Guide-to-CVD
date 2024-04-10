@@ -32,4 +32,3 @@
 
     A generalized example of the supply chain for some mobile devices
     is shown in the accompanying diagram.
-

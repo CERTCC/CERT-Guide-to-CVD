@@ -52,4 +52,3 @@
         organizations from joining the platform, locking them out of discussion.
         Organizations should consider whether the benefits of using a CVD
         service outweigh this concern.
-

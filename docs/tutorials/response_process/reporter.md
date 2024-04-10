@@ -1,6 +1,6 @@
 # Reporter Vulnerability Response Process
-    
-If you've found a vulnerability and intend to report it, 
+
+If you've found a vulnerability and intend to report it,
 you're about to become a vulnerability [reporter](../../topics/roles/finder.md).
 While this entire guide is written with you in mind, you might need to know
 where to start. That's what this page is for.
@@ -67,16 +67,16 @@ If you've decided to report the vulnerability, you'll need to prepare a report.
 The best advice is to document your vulnerability well. This typically
 means providing:
 
--   the exact software version or model version affected
--   a description of how the vulnerability was discovered (including
+- the exact software version or model version affected
+- a description of how the vulnerability was discovered (including
     what tools were used) or what you were doing when you encountered
     the vulnerability
--   a proof of concept (PoC) code or instructions demonstrating how the
+- a proof of concept (PoC) code or instructions demonstrating how the
     vulnerability may be exploited; ideally, a suggested patch for the
     issue may be included
--   description of the impact of the vulnerability and attack scenario
+- description of the impact of the vulnerability and attack scenario
     (for example, see BugCrowd's [write up](https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640) on the topic)
--   any time constraints (for example, give a date of publication or
+- any time constraints (for example, give a date of publication or
     presentation at a conference if you know)
 
 !!! tip "Providing Useful Information"
@@ -85,11 +85,10 @@ means providing:
 
 {% include-markdown "../../_includes/_eff_advice.md" heading-offset=2 %}
 
-
-## Step 3a: Engage the Vendor 
+## Step 3a: Engage the Vendor
 
 We usually recommend that a reporter first try reporting the
-vulnerability directly to the [_vendor_](../../topics/roles/vendor.md) or maintainer of the software in
+vulnerability directly to the [*vendor*](../../topics/roles/vendor.md) or maintainer of the software in
 question.
 
 The vendor or maintainer of the software is often easy to contact and
@@ -120,7 +119,7 @@ case if one or more of the following conditions are true:
     nation-wide or world-wide damage (for example, problems with
     internet infrastructure protocols like DNS and NTP)
 - you wish to remain anonymous (if so, you may also wish to use a
-    pseudonym and contact the coordinator with a free _throw-away_ email
+    pseudonym and contact the coordinator with a free *throw-away* email
     account)
 
 !!! tip "More reasons to engage a Coordinator"

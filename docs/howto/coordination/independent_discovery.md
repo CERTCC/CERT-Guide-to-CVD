@@ -32,8 +32,6 @@ can complicate the CVD process.<!--end-->
     1. accelerating public disclosure or 
     2. continuing with the CVD process.
 
-
-
 ## Accelerate Public Disclosure
 
 One approach is to accelerate the disclosure timeline, possibly
@@ -92,4 +90,3 @@ attention.
     particular case.
 
 {% include-markdown "../recipes/_x15.md" heading-offset=1 %}
-

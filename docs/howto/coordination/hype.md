@@ -14,14 +14,12 @@
 Not in any technical sense, no. Instead, what it does is
 draw additional attention&mdash;which can lead to vendors being
 forced to adjust the priority of the vulnerability cases they're
-working on and allocate resources toward addressing whatever 
-vulnerability is getting the hype.<!--end--> 
+working on and allocate resources toward addressing whatever
+vulnerability is getting the hype.<!--end-->
 
 !!! question "Are branded vulnerabilities good or bad for internet security?"
-    
+
     The only good answer is the lesson of the Taoist [parable of the farmer and the horse](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse): "Maybe."
-
-
 
 ## The Streisand Effect
 
@@ -48,12 +46,11 @@ willingness to participate in the CVD process. Even more problematic is
 that when such attention comes to focus on the vendors' products, it is
 very likely that additional vulnerabilities will be found&mdash;while
 simultaneously less likely that anyone will bother to report them to the
-vendor before disclosing them publicly. 
+vendor before disclosing them publicly.
 
 !!! tip "Beware The Power of Spite"
 
     Vendors should not underestimate spite as a motivation for vulnerability discovery.
-
 
 {% include-markdown "../recipes/_x20.md" heading-offset=1 %}
 {% include-markdown "../recipes/_x05.md" heading-offset=1 %}

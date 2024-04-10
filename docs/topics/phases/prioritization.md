@@ -24,7 +24,6 @@ In practice, however, prioritization can be more complex.
     that are tailored to the specific needs of different stakeholders.
     Much of what we have to say about prioritization is already covered in that documentation.
 
-
 !!! question "Who Receives Reports?"
 
     The receiver of a report is typically a [vendor](../roles/vendor.md), but it could also be a

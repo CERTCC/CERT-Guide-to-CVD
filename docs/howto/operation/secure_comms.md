@@ -1,7 +1,7 @@
 # Create Secure Channels for Reporting
 
 Whether you are a vendor or a coordinator, you need to have open
-channels for communication with vulnerability finders and reporters. 
+channels for communication with vulnerability finders and reporters.
 Secure communications can be nuanced to maintain in operation, so we have compiled
 some advice about establishing and maintaining this capability.
 
@@ -9,7 +9,7 @@ some advice about establishing and maintaining this capability.
 
 Most vulnerability reports have a similar structure, making a web form a
 preferable method for receiving vulnerability reports for many
-organizations. 
+organizations.
 
 !!! tip "Focus on Encrypted Transport and Strong Authentication"
 
@@ -17,7 +17,6 @@ organizations.
     Don't build a new process around PGP / GnuPG and email.
     Some vendors choose to offer a web form specifically for receiving reports of security-related issues.
     Such forms can then deliver the report directly to your security or engineering team.
-
 
 !!! tip "Have a Dedicated Form for Security Reports"
 
@@ -86,7 +85,7 @@ organizations.
 Email is a simple, tried-and-true method of communication over the
 Internet. Simply because everyone has access to it, email is likely to
 remain a common way of receiving vulnerability reports and
-communications. 
+communications.
 
 <div class="grid" markdown>
 
@@ -141,8 +140,6 @@ communications.
     [RFC 9116](https://datatracker.ietf.org/doc/html/rfc9116)
     _A File Format to Aid in Security Vulnerability Disclosure_
     See the [security.txt](https://securitytxt.org/) site for more.
-   
-
 
 !!! warning "Email is No Substitute for a Case Tracking System"
 
@@ -195,7 +192,6 @@ communications.
     PGP / GnuPG is overly complicated for many of the folks we need to coordinate with,
     reporters and vendors alike.
 
-
 !!! question "What happened to PGP/GnuPG?"
 
     PGP / GnuPG, never popular outside of the infosec community, has been falling out of
@@ -221,6 +217,3 @@ communications.
     A highly skilled adversary can likely get access to the key material itself, or to the contents of the email in 
     plain text before encryption or after decryption. A less skilled adversary might be able to intercept the mail
     in transit, but if you're using StartTLS, that's already encrypted in transit.
-
-
-
