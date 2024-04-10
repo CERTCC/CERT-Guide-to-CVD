@@ -174,7 +174,7 @@ that can affect different types of systems in different ways.
 
     Packet capture and decoding, traffic analysis, reverse engineering and binary analysis, and the 
     like are all transferable as concepts if not directly as tools, yet the tooling is far weaker when you get outside 
-    of the realm of Windows and Unix-based (including OSX) operating systems running on x86/IA64 architectures.
+    of the realm of Windows and Unix-based (including macOS) operating systems running on x86/IA64 architectures.
     This affects both IoT and AI/ML systems, as the latter often run on specialized hardware and software platforms
     with similar limitations.
 
@@ -192,7 +192,7 @@ that can affect different types of systems in different ways.
     databases for their source material. However, databases of known vulnerabilities&mdash;[CVE](https://www.cve.org),
     the [National Vulnerability Database](https://nvd.nist.gov) (NVD), [Japan Vulnerability Notes](https://jvn.jp/en/).
     (JVN) and the [CERT Vulnerability Notes Database](https://www.kb.cert.org/vuls)&mdash;are heavily biased by their 
-    history of tracking vulnerabilities in traditional computing systems (e.g., Windows, Linux, OSX, Unix and variants).
+    history of tracking vulnerabilities in traditional computing systems (e.g., Windows, Linux, macOS, Unix and variants).
     Recent conversations with these and other vulnerability database operators indicate that the need to expand coverage
     into Mobile, IoT, AI/ML, and Web systems is either a topic of active investigation and discussion or a work 
     already in progress. However, we can expect the existing gap to remain for some time as these capabilities ramp up.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

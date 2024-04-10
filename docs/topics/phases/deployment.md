@@ -41,8 +41,7 @@ Vendors who provide Software-as-a-Service can often just deploy fixes directly t
 In this case SAAS need not be restricted to just subscriber-based services, it can include infrastructure (i.e., cloud) or public-facing websites regardless of their size.
 The distinguishing factor is that the vendor is both the originator of the fix and the deployer.
 Many bug bounty programs or Vulnerability Disclosure Programs (VDPs) exist in this space.
-For example, many of the reports received by the DoD's VDP are for this kind of vulnerability, often involving custom-developed web sites or misconfigured web servers that can be fixed directly without user involvement \cite{dod2020vdp}.
-
+For example, many of the reports received by the DoD's VDP are for this kind of vulnerability, often involving custom-developed web sites or misconfigured web servers that can be fixed directly without user involvement.
 ## Close-hold software communities
 
 As mentioned in [Publishing](publishing.md), Vendors may choose to directly notify deployers (as opposed to public announcements) if they have the ability to do so.

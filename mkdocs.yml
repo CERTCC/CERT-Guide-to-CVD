@@ -133,6 +133,7 @@ theme:
   name: 'material'
   features:
     - content.tabs.link
+    - content.tooltips
     - navigation.footer
     - navigation.instant
     - navigation.sections
@@ -167,6 +168,7 @@ plugins:
 repo_url: 'https://github.com/CERTCC/CERT-Guide-to-CVD'
 repo_name: 'CERTCC/CERT-Guide-to-CVD'
 markdown_extensions:
+  - abbr
   - admonition
   - attr_list
   - def_list
@@ -192,6 +194,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - docs/_includes/_acronyms.md
   - tables
 extra:
   analytics:
