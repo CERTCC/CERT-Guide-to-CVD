@@ -122,9 +122,12 @@ nav:
     - Other Resources: 'reference/resources.md'
   - About:
     - Conclusion: 'about/conclusion.md'
+    - Community Engagment: 'about/community.md'
     - Acknowledgements: 'about/acknowledgements.md'
     - Sightings: 'about/sightings.md'
-    - Copyright: 'about/copyright.md'
+    - Legal:
+      - Contributing to this Guide: 'about/contributing.md'
+      - Copyright: 'about/copyright.md'
 not_in_nav: |
   _*.md
   _*/**/*.md

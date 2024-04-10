@@ -30,7 +30,7 @@ Sensitive Information](http://www.cert.org/contact/sensitive-information.cfm).
 {== TODO review for accuracy given VINCE ==}
 To fully communicate with the CERT/CC in a secure manner, we need your
 organization's most up-to-date contact information, including your own
-PGP public key. To update your information with us, please see our 
+PGP public key. To update your information with us, please see our
 [VINCE FAQ](https://vuls.cert.org/confluence/display/VIN/Frequently+Asked+Questions).
 
 !!! tip "What does the CERT/CC look for in a response?"
