@@ -7,16 +7,16 @@ site_description: 'A guide to coordinated vulnerability disclosure (CVD) for sec
 site_author: 'CERT Coordination Center'
 nav:
   - Home:
-    - CERT Guide to CVD: 'index.md'
+    - 'index.md'
     - Why We Wrote This Guide: 'why_this_guide.md'
     - About This Guide: 'about.md'
   - Learning CVD:
-    - Overview: 'tutorials/index.md'
+    - 'tutorials/index.md'
     - This Guide in a Nutshell: 'tutorials/cvd_in_a_nutshell.md'
     - CVD Overview:
-      - A Process, Not an Event: 'tutorials/cvd_is_a_process.md'
+      - 'tutorials/cvd_is_a_process.md'
       - CVD Terminology:
-        - Terms:  'tutorials/terminology.md'
+        - 'tutorials/terminology.md'
         - Vulnerability: 'tutorials/terms/vulnerability.md'
         - Exploits, Malware, and Incidents: 'tutorials/terms/exp_mw_inc.md'
         - Products and Instances: 'tutorials/terms/products_instances.md'
@@ -35,22 +35,22 @@ nav:
       - Reporters: 'tutorials/coord_certcc/reporter.md'
       - Vendors: 'tutorials/coord_certcc/vendor.md'
   - CVD How-To:
-    - Overview: 'howto/index.md'
+    - 'howto/index.md'
     - Preparation:
-      - Preparation Intro: 'howto/preparation/index.md'
+      - 'howto/preparation/index.md'
       - Disclosure Choices: 'howto/preparation/disclosure_choices.md'
       - Why Coordinate?: 'howto/preparation/why_coordinate.md'
       - Avoid Unnecessary Risk: 'howto/preparation/avoid_risk.md'
       - Choosing a Disclosure Policy: 'howto/preparation/choosing_policy.md'
       - Communication Topology: 'howto/preparation/topology.md'
     - Initiating CVD:
-      - Initiation Intro: 'howto/initiation/index.md'
+      - 'howto/initiation/index.md'
       - Providing Useful Reports: 'howto/initiation/useful_reports.md'
       - Finding Vendor Contacts: 'howto/initiation/find_vendor_contact.md'
       - Unresponsive Vendor: 'howto/initiation/unresponsive_vendor.md'
       - Reduce Reporting Friction: 'howto/initiation/reduce_reporting_friction.md'
     - Doing CVD:
-      - Coordination Intro: 'howto/coordination/index.md'
+      - 'howto/coordination/index.md'
       - Reasons to Engage a Coordinator: 'howto/coordination/coordinator_reasons.md'
       - Validation: 'howto/coordination/validation.md'
       - Prioritization: 'howto/coordination/prioritization.md'
@@ -69,7 +69,7 @@ nav:
       - Troubleshooting CVD: 'howto/coordination/cvd_recipes.md'
       - What to Do When Things Go Wrong: 'howto/coordination/general_tips.md'
     - Ongoing Operations:
-        - Operations Intro: 'howto/operation/index.md'
+        - 'howto/operation/index.md'
         - Tooling:
           - Secure Communications: 'howto/operation/secure_comms.md'
           - Contact Management: 'howto/operation/contact_management.md'
@@ -81,9 +81,9 @@ nav:
           - OpSec: 'howto/operation/opsec.md'
           - Staffing: 'howto/operation/staffing.md'
   - Understanding CVD:
-    - Overview: 'topics/index.md'
+    - 'topics/index.md'
     - Principles of CVD:
-        - Principles Intro: 'topics/principles/index.md'
+        - 'topics/principles/index.md'
         - Reduce Harm: 'topics/principles/reduce_harm.md'
         - Presume Benevolence: 'topics/principles/presume_benevolence.md'
         - Avoid Surprise: 'topics/principles/avoid_surprise.md'
@@ -92,14 +92,14 @@ nav:
         - Process Improvement: 'topics/principles/process_improvement.md'
         - CVD is a Wicked Problem: 'topics/principles/wicked_problem.md'
     - Roles in CVD:
-        - Roles Intro: 'topics/roles/index.md'
+        - 'topics/roles/index.md'
         - Finder/Reporter: 'topics/roles/finder.md'
         - Vendor: 'topics/roles/vendor.md'
         - Deployer: 'topics/roles/deployer.md'
         - Coordinator: 'topics/roles/coordinator.md'
         - Other Roles: 'topics/roles/other_roles.md'
     - Phases of CVD:
-        - Phases Intro: 'topics/phases/index.md'
+        - 'topics/phases/index.md'
         - Discovery: 'topics/phases/discovery.md'
         - Reporting: 'topics/phases/reporting.md'
         - Validation: 'topics/phases/validation.md'
@@ -109,7 +109,7 @@ nav:
         - Publication: 'topics/phases/publishing.md'
         - Deployment: 'topics/phases/deployment.md'
     - Special Topics:
-        - Common Challenges: 'topics/special/analysis.md'
+        - Common Challenges: 'topics/special/challenges.md'
         - Finding Vulnerabilities: 'topics/special/discovery.md'
         - IoT and CVD: 'topics/special/iot_cvd.md'
         - Vulnerability IDs: 'topics/special/vul_ids.md'
@@ -137,11 +137,15 @@ theme:
     - navigation.instant
     - navigation.sections
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
+    - navigation.prune
+    - navigation.indexes
     - search.highlight
     - search.suggest
     - toc.follow
+    - toc.integrate
   palette:
     scheme: 'cmu'
     accent: 'red'

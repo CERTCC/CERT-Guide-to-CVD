@@ -1,7 +1,12 @@
 # IoT and CVD
 
-{% include-markdown "./_blog_post_info.md" heading-offset=1 %}
+!!! info inline end "About this page"
 
+    This IoT-focused CVD page is adapted from two CERT/CC Blog Posts:
+    [*Vulnerability Discovery for Emerging Networked Systems*](https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.html)
+    and
+    [*What's Different About Vulnerability Analysis and Discovery in Emerging Networked Systems?*](https://insights.sei.cmu.edu/cert/2015/01/-whats-different-about-vulnerability-analysis-and-discovery-in-emerging-networked-systems.html)
+    
 In this section, we turn our attention to the implications that the Internet of
 Things brings to the CVD discussion. "Smart things" are expected to
 outnumber traditional computers in the near future and will likely
