@@ -18,7 +18,7 @@ the vulnerability and take appropriate action to fix it.
     the vulnerability
     -   Proof of concept (PoC) code or reproduction instructions
     demonstrating how the vulnerability might be exploited
-    -   Ideally, a suggested patch or remediation action if the reporter is
+    -   Ideally, a suggested patch, remediation, or mitigation action(s) if the reporter is
     aware of how to fix the vulnerability
     -   Description of the impact of the vulnerability and attack scenario
     -   Any time constraints (for example, give a date of publication or

@@ -13,7 +13,7 @@ Let's say that again, but this time with a box around it:
 
 Deploying fixes often implies provoking users, customers, and deployers to take positive action.
 Many software products are used by non-technical users.
-These users are often unaware of how to take remediative action for a vulnerability.
+These users are often unaware of how to take remediative or mitigating action for a vulnerability.
 A vendor's disclosure plan should consider how to reach the widest audience with actionable advice.
 
 It is worth remembering that public awareness is just *one* way to achieve widespread deployment.

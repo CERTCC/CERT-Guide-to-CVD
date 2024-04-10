@@ -109,10 +109,9 @@ nav:
         - Publication: 'topics/phases/publishing.md'
         - Deployment: 'topics/phases/deployment.md'
     - Special Topics:
-        - Internet of Things:
-          - IoT and CVD: 'topics/special/iot/index.md'
-          - IoT Vul Discovery: 'topics/special/iot/discovery.md'
-          - IoT Vul Analysis: 'topics/special/iot/analysis.md'
+        - Common Challenges: 'topics/special/analysis.md'
+        - Finding Vulnerabilities: 'topics/special/discovery.md'
+        - IoT and CVD: 'topics/special/iot_cvd.md'
         - Vulnerability IDs: 'topics/special/vul_ids.md'
   - Reference:
     - Overview: 'reference/index.md'

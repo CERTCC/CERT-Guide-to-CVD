@@ -24,7 +24,7 @@ to develop a [code of ethics](https://ethicsfirst.org/) for its member teams and
 
 !!! quote "FIRST Ethics SIG: Duty of coordinated vulnerability disclosure"
 
-    Team members who learn of a vulnerability should follow coordinated vulnerability disclosure by cooperating with stakeholders to remediate the security vulnerability and minimize harm associated with disclosure. Stakeholders include but are not limited to the vulnerability reporter, affected vendor(s), coordinators, defenders, and downstream customers, partners, and users.
+    Team members who learn of a vulnerability should follow coordinated vulnerability disclosure by cooperating with stakeholders to remediate or mitigate the security vulnerability and minimize harm associated with disclosure. Stakeholders include but are not limited to the vulnerability reporter, affected vendor(s), coordinators, defenders, and downstream customers, partners, and users.
     
     Team members should coordinate with appropriate stakeholders to agree upon clear timelines and expectations for the release of information, providing enough details to allow users to evaluate their risk and take actionable defensive measures."
 

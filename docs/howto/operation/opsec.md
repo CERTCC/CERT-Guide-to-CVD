@@ -25,7 +25,7 @@ CVD team? Possibly even a single analyst?
     their job should have access to it.
     In general, vulnerability information should be
     shared with the fewest number of people possible to effectively
-    coordinate and remediate a vulnerability prior to disclosure. Clearly
+    coordinate and remediate or mitigate a vulnerability prior to disclosure. Clearly
     declaring the data's sensitivity can help to make that determination.
 
 ### Traffic light Protocol

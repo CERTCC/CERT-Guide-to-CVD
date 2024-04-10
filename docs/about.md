@@ -7,7 +7,7 @@
     exception handling, or anything about how computers work by reading this
     report. What you will learn is what happens to that knowledge and how
     its dissemination is affected by the human processes of communications
-    and social behavior in the context of remediating security
+    and social behavior in the context of mitigating and remediating security
     vulnerabilities.
 
     - _This is not a history._ We won't spend much time at all on the history of 

@@ -17,6 +17,19 @@ operationally useful for years or even decades with minimal
 intervention, it is especially important that their security be
 thoroughly understood prior to deployment. 
 
+!!! quote "Dan Geer, [*Security of Things*](http://geer.tinho.net/geer.secot.7v14.txt), 7 May 2014"
+
+    An advanced persistent threat, one that is difficult to discover,
+    difficult to remove, and difficult to attribute, is easier in a
+    low-end monoculture, easier in an environment where much of the
+    computing is done by devices that are deaf and mute once installed or
+    where those devices operate at the very bottom of the software stack,
+    where those devices bring no relevant societal risk by their onesies
+    and twosies, but do bring relevant societal risk at today's extant
+    scales much less the scales coming soon.
+
+## IoT Concerns
+
 We have observed a number of issues in the course of work done by the
 CERT Vulnerability Analysis team. These issues are summarized below.
 
@@ -42,7 +55,6 @@ CERT Vulnerability Analysis team. These issues are summarized below.
 
 !!! danger "Long-Lived and Hard-to-Patch"
 
-
     We observed various devices with wireless data capabilities embedded
     within a larger system yet little or no ability to patch the fielded
     systems except within very sparse service windows. Instances where
@@ -62,10 +74,36 @@ CERT Vulnerability Analysis team. These issues are summarized below.
 
 </div>
 
+
+The threats posed by these systems given their current proliferation trajectory are
+concerning.
+Even as they become more common, it can be difficult to identify the threats posed to a network by IoT either alone or in
+aggregate.
+
+<div class="grid" markdown>
+!!! tip "The Hidden Linux Problem"
+
+    In the simplest sense one might think of it as a "hidden
+    Linux" problem: How many devices can you find in your immediate
+    vicinity containing some form of Linux? Do you know what their patch
+    status is? Do you know how you'd deal with a critical vulnerability
+    affecting them?
+
+!!! tip "The Third-Party Library Problem"
+
+    Furthermore, while the hidden Linux problem isn't going away any time
+    soon, we believe the third-party library problem will long outlast it.
+    How many vulnerable image parsers with a network-accessible attack
+    vector share your home with you? How would you patch them?
+
+</div>
+
+
+
 ## Summarizing the IoT's Impact on CVD
 
 We anticipate that many of the current gaps in security analysis tools
-and knowledge will begin to close over the next few years. However, it
+and knowledge will continue to close over the next few years. However, it
 may be some time before we can fully understand how the systems already
 available today, let alone tomorrow, will impact the security of the
 networks onto which they are placed. The scope of the problem does not
@@ -80,6 +118,3 @@ CVD process about disclosure timing, coordination channels, development
 cycles, scanning, patching, and so on, will need to be reevaluated in
 the light of hardware-based systems that are likely to dominate the
 future internet.
-
-
-
