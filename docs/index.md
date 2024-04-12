@@ -1,4 +1,4 @@
-# The CERT&reg; Guide to Coordinated Vulnerability Disclosure
+# The CERT Guide to Coordinated Vulnerability Disclosure
 
 !!! tip inline end "Original Report"
 
@@ -7,7 +7,7 @@
 
     This web version is an evolution of that original report.
 
-This is the web edition of *The CERT® Guide to Coordinated Vulnerability
+This is the web edition of *The CERT<sup>&reg;</sup> Guide to Coordinated Vulnerability
 Disclosure*. We started with the original report in its entirety and
 have been working to make it more accessible and easier to navigate.
 We're also in the process of revising the guide based on feedback we've received

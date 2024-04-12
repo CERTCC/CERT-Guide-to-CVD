@@ -1,12 +1,6 @@
 # CVD Quick Start
 
-When we finished the first version of [The CERT Guide to Coordinated Vulnerability
-Disclosure](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330),
-we noticed folks kept commenting on its length. Feedback we have
-received in the intervening time has convinced us that there is a need
-for a more succinct way to get started with CVD without requiring
-someone to read every word in the Guide. To that end, we offer this CVD
-Quick Start to act as a meta-guide to the Guide.
+This is the Quick Start meta-guide for the *CERT Guide to Coordinated Vulnerability Disclosure* (CVD).
 
 [The *CERT Guide to CVD* in a Nutshell](../tutorials/cvd_in_a_nutshell.md) contains an
 overview of the entire document, and is a good place for all readers to

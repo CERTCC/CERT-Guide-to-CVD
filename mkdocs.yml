@@ -6,7 +6,8 @@ site_url: https://certcc.github.io/CERT-Guide-to-CVD/
 site_description: 'A guide to coordinated vulnerability disclosure (CVD) for security researchers, vendors, and coordinators.'
 site_author: 'CERT Coordination Center'
 nav:
-  - Home:
+  - Home: 'https://certcc.github.io/'
+  - CVD Guide:
     - 'index.md'
     - Why We Wrote This Guide: 'why_this_guide.md'
     - About This Guide: 'about.md'
@@ -125,6 +126,10 @@ nav:
     - Community Engagment: 'about/community.md'
     - Acknowledgements: 'about/acknowledgements.md'
     - Sightings: 'about/sightings.md'
+    - Other CERT/CC Resources:
+        - CERT/CC.github.io: 'https://certcc.github.io/'
+        - SSVC: 'https://certcc.github.io/SSVC/'
+        - Vultron: 'https://certcc.github.io/Vultron/'
     - Legal:
       - Contributing to this Guide: 'about/contributing.md'
       - Copyright: 'about/copyright.md'
