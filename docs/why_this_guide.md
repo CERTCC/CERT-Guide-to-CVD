@@ -44,12 +44,18 @@ disclosure of information about software and system vulnerabilities.
 
 <div class="grid" markdown>
 
-!!! abstract "Traditional and Mobile Computing"
+!!! abstract "Traditional Computing"
 
-    In the traditional computing arena, most vendors and researchers have
+    In the traditional computing arena (e.g., dominated by laptops, desktops, servers, and 
+    locally-run software), most vendors and researchers have
     settled into a reasonable rhythm of allowing the vendor some time to fix
     vulnerabilities prior to publishing a vulnerability report more widely.
-    We first started thinking about _supply chain viscosity_ in the context
+
+!!! abstract "Mobile Computing"
+
+    Mobile computing (e.g., Smartphones, tablets, and other mobile devices) has
+    introduced new challenges to the vulnerability coordination process.
+    For example, we first started thinking about _supply chain viscosity_ in the context
     of mobile computing, where the complexity of the ecosystem made it
     difficult to establish consistent practices for reporting and remediating
     vulnerabilities. 
@@ -98,6 +104,13 @@ disclosure of information about software and system vulnerabilities.
     traditional problems of software vulnerabilities, but can extend to issues arising from the consensus 
     algorithms, the distributed nature of the system, and the use (and misuse) of the system.
     But who do you coordinate with when the system is decentralized and there is no single vendor to fix the problem?
+
+!!! abstract "Unknown Unknowns"
+
+    We haven't encountered all the coordination problems that will arise in the future.
+    For example, how might quantum computing change the nature of exploitation or the coordination process?
+    However, we can be sure that whatever challenges we encounter, some will resemble those we've seen before,
+    and some will be entirely new. Our plan is to keep learning and adapting this Guide as we go.
 
 </div>
 
