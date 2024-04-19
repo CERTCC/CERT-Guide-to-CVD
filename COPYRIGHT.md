@@ -23,7 +23,7 @@ THE MATERIAL. CARNEGIE MELLON UNIVERSITY DOES NOT MAKE ANY WARRANTY OF
 ANY KIND WITH RESPECT TO FREEDOM FROM PATENT, TRADEMARK, OR COPYRIGHT
 INFRINGEMENT.
 
-\[DISTRIBUTION STATEMENT A\] This material has been approved for public
+[DISTRIBUTION STATEMENT A] This material has been approved for public
 release and unlimited distribution. Please see Copyright notice for
 non-US Government use and distribution.
 
