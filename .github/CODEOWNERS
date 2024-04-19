@@ -1,0 +1,13 @@
+# These rules follow a last-match behavior.
+
+# default (if nothing else matches)
+* @ahouseholder @ehatleback
+
+# any markdown file in docs
+/docs/**/*.md @ahouseholder @ehatleback
+
+# website config
+mkdocs.yml @ahouseholder
+
+# github setup
+/.github/ @ahouseholder @sei-vsarvepalli
