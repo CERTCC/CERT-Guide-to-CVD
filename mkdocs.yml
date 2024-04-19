@@ -1,0 +1,255 @@
+site_name: CERT&reg; Guide to Coordinated Vulnerability Disclosure
+copyright: >
+  Copyright &copy; 2017-2024 Carnegie Mellon University.
+  <br/><a href="#__consent">Change cookie settings</a>
+site_url: https://certcc.github.io/CERT-Guide-to-CVD/
+site_description: 'A guide to coordinated vulnerability disclosure (CVD) for security researchers, vendors, and coordinators.'
+site_author: 'CERT Coordination Center'
+nav:
+  - Home: 'https://certcc.github.io/'
+  - CVD Guide:
+    - 'index.md'
+    - Why We Wrote This Guide: 'why_this_guide.md'
+    - About This Guide: 'about.md'
+  - Learning CVD:
+    - 'tutorials/index.md'
+    - This Guide in a Nutshell: 'tutorials/cvd_in_a_nutshell.md'
+    - CVD Overview:
+      - 'tutorials/cvd_is_a_process.md'
+      - CVD Terminology:
+        - 'tutorials/terminology.md'
+        - Vulnerability: 'tutorials/terms/vulnerability.md'
+        - Exploits, Malware, and Incidents: 'tutorials/terms/exp_mw_inc.md'
+        - Products and Instances: 'tutorials/terms/products_instances.md'
+        - Vul Response: 'tutorials/terms/vulnerability_response.md'
+        - Vul Discovery: 'tutorials/terms/vulnerability_discovery.md'
+        - Vul Scanning: 'tutorials/terms/vulnerability_scanning.md'
+        - Vul Management: 'tutorials/terms/vulnerability_management.md'
+        - Coordinated Vulnerability Disclosure: 'tutorials/terms/cvd.md'
+    - Vulnerability Response Processes:
+      - Disclosure 101: 'tutorials/response_process/index.md'
+      - Reporter: 'tutorials/response_process/reporter.md'
+      - Vendor: 'tutorials/response_process/vendor.md'
+      - Deployer: 'tutorials/response_process/deployer.md'
+    - Engaging CERT/CC:
+      - Coordinating With Us: 'tutorials/coord_certcc/index.md'
+      - Reporters: 'tutorials/coord_certcc/reporter.md'
+      - Vendors: 'tutorials/coord_certcc/vendor.md'
+  - CVD How-To:
+    - 'howto/index.md'
+    - Preparation:
+      - 'howto/preparation/index.md'
+      - Disclosure Choices: 'howto/preparation/disclosure_choices.md'
+      - Why Coordinate?: 'howto/preparation/why_coordinate.md'
+      - Avoid Unnecessary Risk: 'howto/preparation/avoid_risk.md'
+      - Choosing a Disclosure Policy: 'howto/preparation/choosing_policy.md'
+      - Communication Topology: 'howto/preparation/topology.md'
+    - Initiating CVD:
+      - 'howto/initiation/index.md'
+      - Providing Useful Reports: 'howto/initiation/useful_reports.md'
+      - Finding Vendor Contacts: 'howto/initiation/find_vendor_contact.md'
+      - Unresponsive Vendor: 'howto/initiation/unresponsive_vendor.md'
+      - Reduce Reporting Friction: 'howto/initiation/reduce_reporting_friction.md'
+    - Doing CVD:
+      - 'howto/coordination/index.md'
+      - Reasons to Engage a Coordinator: 'howto/coordination/coordinator_reasons.md'
+      - Validation: 'howto/coordination/validation.md'
+      - Prioritization: 'howto/coordination/prioritization.md'
+      - Multi-Party CVD: 'howto/coordination/mpcvd.md'
+      - Response Pacing and Synchronization:  'howto/coordination/response_pacing.md'
+      - Somebody Stops Responding: 'howto/coordination/somebody_stops_replying.md'
+    - Embargoes:
+      - Maintaining Pre-Disclosure Confidentiality: 'howto/coordination/maintaining_secrecy.md'
+      - Disclosure Timing: 'howto/coordination/disclosure_timing.md'
+      - Independent Discovery: 'howto/coordination/independent_discovery.md'
+      - Leaks: 'howto/coordination/leaks.md'
+      - Active Exploitation: 'howto/coordination/active_exploitation.md'
+    - Complications:
+      - Relationships that Go Sideways: 'howto/coordination/relationships_sideways.md'
+      - Hype, Marketing, and Unwanted Attention: 'howto/coordination/hype.md'
+      - Troubleshooting CVD: 'howto/coordination/cvd_recipes.md'
+      - What to Do When Things Go Wrong: 'howto/coordination/general_tips.md'
+    - Ongoing Operations:
+        - 'howto/operation/index.md'
+        - Tooling:
+          - Secure Communications: 'howto/operation/secure_comms.md'
+          - Contact Management: 'howto/operation/contact_management.md'
+          - Case Tracking: 'howto/operation/case_tracking.md'
+          - Inventory: 'howto/operation/inventory.md'
+        - Practices:
+          - Technical Analysis: 'howto/operation/technical_analysis.md'
+          - Monitoring: 'howto/operation/monitoring.md'
+          - OpSec: 'howto/operation/opsec.md'
+          - Staffing: 'howto/operation/staffing.md'
+  - Understanding CVD:
+    - 'topics/index.md'
+    - Principles of CVD:
+        - 'topics/principles/index.md'
+        - Reduce Harm: 'topics/principles/reduce_harm.md'
+        - Presume Benevolence: 'topics/principles/presume_benevolence.md'
+        - Avoid Surprise: 'topics/principles/avoid_surprise.md'
+        - Incentivize Desired Behavior: 'topics/principles/incentivize_behavior.md'
+        - Ethical Considerations: 'topics/principles/ethics.md'
+        - Process Improvement: 'topics/principles/process_improvement.md'
+        - CVD is a Wicked Problem: 'topics/principles/wicked_problem.md'
+    - Roles in CVD:
+        - 'topics/roles/index.md'
+        - Finder/Reporter: 'topics/roles/finder.md'
+        - Vendor: 'topics/roles/vendor.md'
+        - Deployer: 'topics/roles/deployer.md'
+        - Coordinator: 'topics/roles/coordinator.md'
+        - Other Roles: 'topics/roles/other_roles.md'
+    - Phases of CVD:
+        - 'topics/phases/index.md'
+        - Discovery: 'topics/phases/discovery.md'
+        - Reporting: 'topics/phases/reporting.md'
+        - Validation: 'topics/phases/validation.md'
+        - Prioritization: 'topics/phases/prioritization.md'
+        - Remediation: 'topics/phases/remediation.md'
+        - Preparing for Public Awareness: 'topics/phases/public_awareness.md'
+        - Publication: 'topics/phases/publishing.md'
+        - Deployment: 'topics/phases/deployment.md'
+    - Special Topics:
+        - Common Challenges: 'topics/special/challenges.md'
+        - Finding Vulnerabilities: 'topics/special/discovery.md'
+        - IoT and CVD: 'topics/special/iot_cvd.md'
+        - Vulnerability IDs: 'topics/special/vul_ids.md'
+  - Reference:
+    - Overview: 'reference/index.md'
+    - CERT/CC Vulnerability Disclosure Policy: 'reference/certcc_disclosure_policy.md'
+    - Basic Vul Report Form: 'reference/simple_vrf.md'
+    - Basic Vul Advisory: 'reference/simple_advisory.md'
+    - Disclosure Policy Resources: 'reference/disclosure_policy_templates.md'
+    - Other Resources: 'reference/resources.md'
+  - About:
+    - Conclusion: 'about/conclusion.md'
+    - Community Engagment: 'about/community.md'
+    - Acknowledgements: 'about/acknowledgements.md'
+    - Sightings: 'about/sightings.md'
+    - Other CERT/CC Resources:
+        - CERT/CC.github.io: 'https://certcc.github.io/'
+        - SSVC: 'https://certcc.github.io/SSVC/'
+        - Vultron: 'https://certcc.github.io/Vultron/'
+    - Legal:
+      - Contributing to this Guide: 'about/contributing.md'
+      - Copyright: 'about/copyright.md'
+not_in_nav: |
+  _*.md
+  _*/**/*.md
+theme:
+  logo: 'assets/cert_seal.svg'
+  name: 'material'
+  features:
+    - content.tabs.link
+    - content.tooltips
+    - navigation.footer
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - navigation.prune
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+  palette:
+    scheme: 'cmu'
+    accent: 'red'
+  icon:
+    repo: fontawesome/brands/github
+plugins:
+  - include-markdown:
+      comments: false
+  - search
+#  - table-reader:
+#      data_path: 'data/csvs'
+#  - bibtex:
+#      bib_file: 'doc/md_src_files/sources_CERT-Guide-to-CVD.bib'
+#  - mkdocstrings:
+#      handlers:
+#        python:
+#          paths: [ 'src' ]
+  - print-site
+repo_url: 'https://github.com/CERTCC/CERT-Guide-to-CVD'
+repo_name: 'CERTCC/CERT-Guide-to-CVD'
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - docs/_includes/_acronyms.md
+  - tables
+extra:
+  analytics:
+    provider: google
+    property: G-87WECW6HCS
+  consent:
+    title: About our use of cookies on this site
+    description: >-
+      We use cookies to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better. 
+      See our <a href="https://www.sei.cmu.edu/legal/privacy-notice/index.cfm">Privacy Notice</a> for more.
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD/discussions
+      name: CERT-Guide-to-CVD Community Discussions
+    - icon: material/message-question
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md
+      name: Ask a Question
+    - icon: fontawesome/solid/bug
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=bug_report.md
+      name: Report a Problem
+    - icon: material/lightbulb-on
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=feature_request.md
+      name: Request a Feature
+    - icon: fontawesome/brands/github
+      link: https://github.com/CERTCC/CERT-Guide-to-CVD
+      name: CERTCC/CERT-Guide-to-CVD on Github
+    - icon: fontawesome/regular/envelope
+      link: mailto:cert@cert.org?subject=CERT-Guide-to-CVD%20Feedback
+      name: Email CERT/CC
+    - icon: fontawesome/solid/house
+      link: https://www.sei.cmu.edu/
+      name: Software Engineering Institute
+extra_javascript:
+  # to render math
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  # to sort tables
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+extra_css:
+  - stylesheets/extra.css
+watch:
+  - docs
+dev_addr: 127.0.0.1:8002
+
