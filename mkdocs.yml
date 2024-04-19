@@ -115,7 +115,7 @@ nav:
         - IoT and CVD: 'topics/special/iot_cvd.md'
         - Vulnerability IDs: 'topics/special/vul_ids.md'
   - Reference:
-    - Overview: 'reference/index.md'
+    - 'reference/index.md'
     - CERT/CC Vulnerability Disclosure Policy: 'reference/certcc_disclosure_policy.md'
     - Basic Vul Report Form: 'reference/simple_vrf.md'
     - Basic Vul Advisory: 'reference/simple_advisory.md'
@@ -123,7 +123,7 @@ nav:
     - Other Resources: 'reference/resources.md'
   - About:
     - Conclusion: 'about/conclusion.md'
-    - Community Engagment: 'about/community.md'
+    - Community Engagement: 'about/community.md'
     - Acknowledgements: 'about/acknowledgements.md'
     - Sightings: 'about/sightings.md'
     - Other CERT/CC Resources:
@@ -164,14 +164,6 @@ plugins:
   - include-markdown:
       comments: false
   - search
-#  - table-reader:
-#      data_path: 'data/csvs'
-#  - bibtex:
-#      bib_file: 'doc/md_src_files/sources_CERT-Guide-to-CVD.bib'
-#  - mkdocstrings:
-#      handlers:
-#        python:
-#          paths: [ 'src' ]
   - print-site
 repo_url: 'https://github.com/CERTCC/CERT-Guide-to-CVD'
 repo_name: 'CERTCC/CERT-Guide-to-CVD'
