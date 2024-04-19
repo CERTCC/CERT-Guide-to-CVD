@@ -36,7 +36,7 @@ self-identify as security researchers or hackers.
     infrastructure during a penetration test engagement
     - people using software or web services who mistyped some input or
     simply clicked on the wrong thing
-    - children who like to press buttons. A [BBC article](http://www.bbc.com/news/technology-26879185)
+    - children who like to press buttons. A [BBC article](http://www.bbc.com/news/technology-26879185){:target="_blank"}
     describes how a 5-year old found a vulnerability in
     Microsoft's Xbox Live service just by holding down the space bar
     and was able to log in to his father's account without the password.
@@ -60,8 +60,8 @@ products&mdash;a practice that we strongly encourage. This can be done via
     Many vendors integrate testing for vulnerabilities into their development process.
     Microsoft, for example, includes static, dynamic,
     and fuzz testing for vulnerabilities in its phases of the [Security
-    Development Lifecycle](https://www.microsoft.com/en-us/sdl/).
-    The [Building Security In Maturity Model](https://www.bsimm.com/framework/) (BSIMM)
+    Development Lifecycle](https://www.microsoft.com/en-us/sdl/){:target="_blank"}.
+    The [Building Security In Maturity Model](https://www.bsimm.com/framework/){:target="_blank"} (BSIMM)
     suggests that many vendors in various industries already employ techniques in architecture
     analysis, code review, and security testing to find vulnerabilities as
     part of their development cycle.

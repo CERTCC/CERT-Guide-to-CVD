@@ -15,7 +15,7 @@ technical aspects of the vulnerability.
 
 !!! example "Example: A 2015 Minecraft Vulnerability"
 
-    Ammar Askar's [blog post](http://blog.ammaraskar.com/minecraft-vulnerability-advisory/)
+    Ammar Askar's [blog post](http://blog.ammaraskar.com/minecraft-vulnerability-advisory/){:target="_blank"}
     about a Minecraft vulnerability serves as an example where a quick heads up to
     the vendor could have avoided some confusion.
 

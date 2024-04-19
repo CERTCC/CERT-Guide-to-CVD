@@ -79,9 +79,9 @@ would like.
 
 !!! ssvc "SSVC's Deployer Decision Model"
 
-    Decision support tools like the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC)
+    Decision support tools like the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC){:target="_blank"}
     (SSVC) framework can help deployers prioritize their vulnerability response actions.
-    SSVC provides an example [vulnerability prioritization decision model for deployers](https://certcc.github.io/SSVC/howto/deployer_tree/).
+    SSVC provides an example [vulnerability prioritization decision model for deployers](https://certcc.github.io/SSVC/howto/deployer_tree/){:target="_blank"}.
 
 ## Test the Solution
 

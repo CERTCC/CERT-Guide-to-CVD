@@ -20,7 +20,7 @@ vulnerabilities based on the importance of the affected systems.
 
 !!! ssvc "SSVC and risk-based prioritization"
 
-    We developed the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC)
+    We developed the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC){:target="_blank"}{:target="_blank"}
     (SSVC) framework to help organizations prioritize their vulnerability
     response efforts based on the importance of the affected systems to
     the organization's mission, along with exposure to adversaries.
@@ -55,34 +55,34 @@ products.
     Because it is likely that your products will in turn be used
     as components in some other vendor's solution, it is increasingly a good
     practice to provide an inventory of components along with your product.
-    Under the broad category of [Software Bill of Materials](https://www.cisa.gov/sbom)
+    Under the broad category of [Software Bill of Materials](https://www.cisa.gov/sbom){:target="_blank"}{:target="_blank"}
     (SBOM), this practice is becoming more common in the software industry.
     A number of data formats and specifications have emerged in the software
     supply chain management space and are in use by product vendors already.
 
     These include the following
 
-    - [Software Identification (SWID) Tags](http://tagvault.org/swid-tags/)
-    - [Common Platform Enumeration (CPE)](https://nvd.nist.gov/products/cpe)
-    - [The Software Package Data Exchange (SPDX)](https://spdx.org/)
+    - [Software Identification (SWID) Tags](http://tagvault.org/swid-tags/){:target="_blank"}{:target="_blank"}
+    - [Common Platform Enumeration (CPE)](https://nvd.nist.gov/products/cpe){:target="_blank"}
+    - [The Software Package Data Exchange (SPDX)](https://spdx.org/){:target="_blank"}
 
     More than just a good practice, providing an SBOM can be a requirement
     in some industries. For example, the U.S. government has issued an
-    [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
+    [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/){:target="_blank"}
     that mandates the use of SBOMs in software procurement.
     The National Telecommunications and Information Administration (NTIA)
     has also issued a report describing
-    [_The Minimum Elements For a Software Bill of Materials_](https://www.ntia.doc.gov/report/2021/minimum-elements-software-bill-materials-sbom)
+    [_The Minimum Elements For a Software Bill of Materials_](https://www.ntia.doc.gov/report/2021/minimum-elements-software-bill-materials-sbom){:target="_blank"}
 
 !!! example "Software Composition Analysis Tools"
 
     In recent years, a class of Software Composition Analysis tools (such
     as those offered by
-    [Mend.io](https://www.mend.io/),
-    [Synopsys](https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html),
-    [Sonatype](https://www.sonatype.com/),
+    [Mend.io](https://www.mend.io/){:target="_blank"},
+    [Synopsys](https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html){:target="_blank"},
+    [Sonatype](https://www.sonatype.com/){:target="_blank"},
     and
-    [Revenera](https://www.revenera.com/software-composition-analysis))
+    [Revenera](https://www.revenera.com/software-composition-analysis){:target="_blank"})
     have come into use to identify potential licensing conflicts in
     commercial and open source products. Many of these tools are
     potentially useful to vendors looking to create an inventory of

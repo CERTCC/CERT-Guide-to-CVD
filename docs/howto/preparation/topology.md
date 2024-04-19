@@ -127,15 +127,15 @@ reach agreement on what is to be done.
     For more information about the _Vulnerability Information and Coordination Environment_ (VINCE),
     see:
 
-    - [VINCE Announcement](https://insights.sei.cmu.edu/news/certcc-releases-vince-software-vulnerability-collaboration-platform/)
-    - [VINCE Documentation](https://vuls.cert.org/confluence/display/VIN)
-    - [VINCE GitHub Project](https://github.com/CERTCC/VINCE)
-    - [VINCE Login](https://www.kb.cert.org/vince)
+    - [VINCE Announcement](https://insights.sei.cmu.edu/news/certcc-releases-vince-software-vulnerability-collaboration-platform/){:target="_blank"}
+    - [VINCE Documentation](https://vuls.cert.org/confluence/display/VIN){:target="_blank"}
+    - [VINCE GitHub Project](https://github.com/CERTCC/VINCE){:target="_blank"}
+    - [VINCE Login](https://www.kb.cert.org/vince){:target="_blank"}
 
 More recently, however, with the
-[introduction](https://insights.sei.cmu.edu/news/certcc-releases-vince-software-vulnerability-collaboration-platform/)
+[introduction](https://insights.sei.cmu.edu/news/certcc-releases-vince-software-vulnerability-collaboration-platform/){:target="_blank"}
 of the
-[Vulnerability Information and Coordination Environment](https://www.kb.cert.org/vince)
+[Vulnerability Information and Coordination Environment](https://www.kb.cert.org/vince){:target="_blank"}
 (VINCE), we have adopted the shared-bus approach as our default.
 VINCE is a web-based platform that allows for the sharing of information
 among multiple parties in a secure environment.
@@ -162,13 +162,13 @@ effectively.
 
     For more information about the _Vultron Protocol_, see:
 
-    - [Vultron Announcement](https://insights.sei.cmu.edu/blog/vultron-a-protocol-for-coordinated-vulnerability-disclosure/)
-    - [Vultron Documentation](https://certcc.github.io/Vultron)
-    - [Vultron GitHub Project](https://github.com/CERTCC/Vultron)
+    - [Vultron Announcement](https://insights.sei.cmu.edu/blog/vultron-a-protocol-for-coordinated-vulnerability-disclosure/){:target="_blank"}
+    - [Vultron Documentation](https://certcc.github.io/Vultron){:target="_blank"}
+    - [Vultron GitHub Project](https://github.com/CERTCC/Vultron){:target="_blank"}
 
 In response to these limitations, we have embarked on a project to develop
 an open protocol for coordinating and sharing vulnerability case information across organizations.
-This project, called the [Vultron Protocol](https://certcc.github.io/Vultron),
+This project, called the [Vultron Protocol](https://certcc.github.io/Vultron){:target="_blank"},
 is a research project to explore the creation of a federated, decentralized,
 and open source protocol for coordinated vulnerability disclosure (CVD).
 

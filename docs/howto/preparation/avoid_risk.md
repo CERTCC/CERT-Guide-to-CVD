@@ -58,7 +58,7 @@ safety risk, and legal risk.
 
 !!! warning "Safety Risk"
 
-    [Safety-critical systems](https://ieeexplore.ieee.org/document/1007998)
+    [Safety-critical systems](https://ieeexplore.ieee.org/document/1007998){:target="_blank"}
     have been defined as "systems whose failure
     could result in loss of life, significant property damage, or damage to
     the environment." A high degree of caution is both appropriate
@@ -94,13 +94,13 @@ safety risk, and legal risk.
     Additionally, in some environments, such as medical devices, healthcare,
     education, or financial information systems, there may be legal
     consequences to accessing real data (under
-    [HIPAA](https://www.hhs.gov/hipaa/),
-    [FERPA](https://ed.gov/policy/gen/guid/fpco/ferpa/index.html),
-    [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule),
-    and similar laws, industry standards such as [PCI DSS](https://www.pcisecuritystandards.org/pci_security/),
+    [HIPAA](https://www.hhs.gov/hipaa/){:target="_blank"},
+    [FERPA](https://ed.gov/policy/gen/guid/fpco/ferpa/index.html){:target="_blank"},
+    [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule){:target="_blank"},
+    and similar laws, industry standards such as [PCI DSS](https://www.pcisecuritystandards.org/pci_security/){:target="_blank"},
     etc.), so we again reiterate the need to perform research only in
     controlled test environments, preferably with fake data.
     
     For more information on the legal implications of vulnerability
     disclosure, we refer you to the [*EFF's Coders' Rights Project
-    Vulnerability Reporting FAQ*](https://www.eff.org/issues/coders/vulnerability-reporting-faq).
+    Vulnerability Reporting FAQ*](https://www.eff.org/issues/coders/vulnerability-reporting-faq){:target="_blank"}.

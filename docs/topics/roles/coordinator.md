@@ -21,14 +21,14 @@ to respond to an incident when the need arises.
 !!! info "CSIRT Resources"
 
     The Forum of Incident Response and Security Teams (FIRST) created the
-    [CSIRT Services Framework](https://www.first.org/standards/frameworks/csirts/csirt_services_framework_v2.1).
+    [CSIRT Services Framework](https://www.first.org/standards/frameworks/csirts/csirt_services_framework_v2.1){:target="_blank"}.
     It covers the services that a CSIRT might provide, organized into five service areas:
     Information Security Event Management, Information Security Incident Management,
     Vulnerability Management, Situational Awareness, and Knowledge Transfer.
 
     Additionally, the CERT Division of the Software Engineering Institute at Carnegie
     Mellon University has created a collection of
-    [CSIRT Resources](https://insights.sei.cmu.edu/library/resources-for-creating-a-csirt/).
+    [CSIRT Resources](https://insights.sei.cmu.edu/library/resources-for-creating-a-csirt/){:target="_blank"}.
 
 ### CSIRT with National Responsibility
 
@@ -36,10 +36,10 @@ to respond to an incident when the need arises.
 
     Just a few examples of National CSIRTs include:
 
-    - [CISA](https://www.cisa.gov)
-    - [National Cyber Security Centre](https://www.ncsc.gov.uk)
-    - [JPCERT/CC](https://www.jpcert.or.jp/english/)
-    - [NCSC-NL](https://www.ncsc.nl)
+    - [CISA](https://www.cisa.gov){:target="_blank"}
+    - [National Cyber Security Centre](https://www.ncsc.gov.uk){:target="_blank"}
+    - [JPCERT/CC](https://www.jpcert.or.jp/english/){:target="_blank"}
+    - [NCSC-NL](https://www.ncsc.nl){:target="_blank"}
 
 CSIRTs with National Responsibility, also known as, National CSIRTs,
 are designated by a country or economy to have specific responsibilities
@@ -54,7 +54,7 @@ infrastructure.
 
 !!! info "National CSIRT Resources"
 
-    The CERT Division has compiled a collection of [National CSIRT Resources](https://insights.sei.cmu.edu/library/natcsirt-resources/).
+    The CERT Division has compiled a collection of [National CSIRT Resources](https://insights.sei.cmu.edu/library/natcsirt-resources/){:target="_blank"}.
 
 ### Product Security Incident Response Team (PSIRT)
 
@@ -117,10 +117,10 @@ response efforts.
 ## Vulnerability Disclosure Platforms and Commercial Brokers
 
 !!! example inline end "Commercial Vulnerability Disclosure Platforms"
-    - [BugCrowd](https://www.bugcrowd.com)
-    - [HackerOne](https://www.hackerone.com)
-    - [SynAck](https://www.synack.com)
-    - [Cobalt Labs Inc.](https://cobalt.io/)
+    - [BugCrowd](https://www.bugcrowd.com){:target="_blank"}
+    - [HackerOne](https://www.hackerone.com){:target="_blank"}
+    - [SynAck](https://www.synack.com){:target="_blank"}
+    - [Cobalt Labs Inc.](https://cobalt.io/){:target="_blank"}
 
 Not all vulnerability reporting programs include bug bounties.
 In recent years, a new class of coordinator has emerged in the form of commercial vulnerability disclosure
@@ -133,11 +133,11 @@ vendors who want to bootstrap their own vulnerability response program.
 
 !!! example inline end "ISACs"
 
-    The [National Council of ISACs](https://www.nationalisacs.org/member-isacs-3) lists
+    The [National Council of ISACs](https://www.nationalisacs.org/member-isacs-3){:target="_blank"} lists
     over two dozen ISACs in the United States, each focused on a different sector of critical infrastructure.
 
-[Information Sharing and Analysis Organizations](https://www.isao.org/) (ISAOs) and
-[Information Sharing and Analysis Centers](https://www.nationalisacs.org/)
+[Information Sharing and Analysis Organizations](https://www.isao.org/){:target="_blank"} (ISAOs) and
+[Information Sharing and Analysis Centers](https://www.nationalisacs.org/){:target="_blank"}
 (ISACs) are non-government entities that serve various roles in
 gathering, analyzing, and disseminating critical infrastructure
 cybersecurity information across private sector organizations of various
@@ -151,10 +151,10 @@ processes.
 ## Traditional Coordinators
 
 !!! example inline end "Third-Party Coordinators"
-    - [CERT/CC](https://www.kb.cert.org)
-    - [JPCERT/CC](https://www.jpcert.or.jp/english/)
-    - [NCSC-NL](https://www.ncsc.nl)
-    - [NCSC-FI](https://www.kyberturvallisuuskeskus.fi/en/)
+    - [CERT/CC](https://www.kb.cert.org){:target="_blank"}
+    - [JPCERT/CC](https://www.jpcert.or.jp/english/){:target="_blank"}
+    - [NCSC-NL](https://www.ncsc.nl){:target="_blank"}
+    - [NCSC-FI](https://www.kyberturvallisuuskeskus.fi/en/){:target="_blank"}
 
 While most CVD programs help address the CVD needs of individual vendors, there still are
 vulnerabilities that require larger scale coordination. In particular, Multi-Party Coordinated

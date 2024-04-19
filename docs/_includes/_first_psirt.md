@@ -27,7 +27,7 @@
         ```
 
     FIRST has published a
-    [PSIRT Services Framework](https://www.first.org/standards/frameworks/psirts/psirt_services_framework_v1.1) that
+    [PSIRT Services Framework](https://www.first.org/standards/frameworks/psirts/psirt_services_framework_v1.1){:target="_blank"} that
     provides a comprehensive guide to the services that a PSIRT can provide.
     It is organized into Service Areas, Services, Functions, and Sub-Functions.
     The diagram at right shows the top-level Service Areas.

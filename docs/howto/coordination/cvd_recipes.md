@@ -33,7 +33,7 @@ In addition to the advice found below, we encourage readers to be familiar with 
 </div>
 
 Did you notice something we missed in this list?
-We're taking [suggestions](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
+We're taking [suggestions](https://github.com/CERTCC/CERT-Guide-to-CVD/issues){:target="_blank"}{:target="_blank"}.
 
 ## CVD Problem-Solving Recipe Cards
 

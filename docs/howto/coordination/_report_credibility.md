@@ -2,8 +2,8 @@
 
 !!! ssvc inline end "SSVC's Report Credibility Decision Point"
 
-    The content in this section is adapted from the CERT/CC's [Stakeholder-Specific Vulnerability Categorization (SSVC)](https://certcc.github.io/SSVC/)
-    [Report Credibility Decision Point](https://certcc.github.io/SSVC/reference/decision_points/report_credibility/) documentation.
+    The content in this section is adapted from the CERT/CC's [Stakeholder-Specific Vulnerability Categorization (SSVC)](https://certcc.github.io/SSVC/){:target="_blank"}{:target="_blank"}
+    [Report Credibility Decision Point](https://certcc.github.io/SSVC/reference/decision_points/report_credibility/){:target="_blank"}{:target="_blank"} documentation.
 
 An analyst should start with a presumption of credibility and proceed toward disqualification.
 The reason for this is that, as a coordinator, occasionally doing a bit of extra work on a bad report is preferable to rejecting legitimate reports.
@@ -14,7 +14,7 @@ Credibility assessment topics include indicators for and against credibility, pe
 
 ## Credibility Indicators
 
-The credibility of a report is assessed by a [balancing test](https://lsolum.typepad.com/legaltheory/2013/08/legal-theory-lexicon-balancing-tests.html).
+The credibility of a report is assessed by a [balancing test](https://lsolum.typepad.com/legaltheory/2013/08/legal-theory-lexicon-balancing-tests.html){:target="_blank"}.
 The indicators for or against are not commensurate, and so they cannot be put on a scoring scale, summed, and weighed.
 
 !!! note Credibility Definition

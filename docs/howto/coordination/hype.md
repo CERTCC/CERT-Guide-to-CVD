@@ -3,12 +3,12 @@
 !!! example inline end "Branded Vulnerabilities"
 
     In recent years we've witnessed the rise of branded vulnerabilities, including
-    [Heartbleed](https://nvd.nist.gov/vuln/detail/CVE-2014-0160),
-    [Poodle](https://nvd.nist.gov/vuln/detail/CVE-2014-3566),
-    [Badlock](https://nvd.nist.gov/vuln/detail/CVE-2016-2118),
-    [Shell Shock](https://nvd.nist.gov/vuln/detail/CVE-2014-6271),
-    [GHOST](https://nvd.nist.gov/vuln/detail/CVE-2015-0235),
-    [Spectre and Meltdown](https://nvd.nist.gov/vuln/detail/CVE-2017-5753).
+    [Heartbleed](https://nvd.nist.gov/vuln/detail/CVE-2014-0160){:target="_blank"}{:target="_blank"},
+    [Poodle](https://nvd.nist.gov/vuln/detail/CVE-2014-3566){:target="_blank"}{:target="_blank"},
+    [Badlock](https://nvd.nist.gov/vuln/detail/CVE-2016-2118){:target="_blank"}{:target="_blank"},
+    [Shell Shock](https://nvd.nist.gov/vuln/detail/CVE-2014-6271){:target="_blank"}{:target="_blank"},
+    [GHOST](https://nvd.nist.gov/vuln/detail/CVE-2015-0235){:target="_blank"}{:target="_blank"},
+    [Spectre and Meltdown](https://nvd.nist.gov/vuln/detail/CVE-2017-5753){:target="_blank"}{:target="_blank"}.
 
 <!--start-->Is a branded vulnerability more dangerous than one without?
 Not in any technical sense, no. Instead, what it does is
@@ -19,15 +19,15 @@ vulnerability is getting the hype.<!--end-->
 
 !!! question "Are branded vulnerabilities good or bad for internet security?"
 
-    The only good answer is the lesson of the Taoist [parable of the farmer and the horse](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse): "Maybe."
+    The only good answer is the lesson of the Taoist [parable of the farmer and the horse](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse){:target="_blank"}{:target="_blank"}: "Maybe."
 
 ## The Streisand Effect
 
 Attempts to squash true information once it's been revealed tends not
 only to spread the information more widely, but also to backfire on
 whoever is trying to conceal it.
-The [name](https://www.techdirt.com/articles/20150107/13292829624/10-years-everyones-been-using-streisand-effect-without-paying-now-im-going-to-start-issuing-takedowns.shtml),
-coined by [Mike Masnick](https://www.techdirt.com/user/mmasnick/),
+The [name](https://www.techdirt.com/articles/20150107/13292829624/10-years-everyones-been-using-streisand-effect-without-paying-now-im-going-to-start-issuing-takedowns.shtml){:target="_blank"}{:target="_blank"},
+coined by [Mike Masnick](https://www.techdirt.com/user/mmasnick/){:target="_blank"},
 comes from a case involving
 the removal of online photos of a famous celebrity's house. The
 attempt to suppress the photos only drew attention to them resulting in

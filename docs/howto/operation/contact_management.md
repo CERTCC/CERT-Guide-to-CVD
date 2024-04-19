@@ -36,7 +36,7 @@ coordinators.
 
     However, we eventually realized that this approach was not scalable to larger cases involving multiple vendors,
     and much of our coordination work was shifting toward multiparty cases.
-    With the rollout of the [VINCE platform](https://github.com/CERTCC/VINCE), we have shifted to a _shared bus_ topology
+    With the rollout of the [VINCE platform](https://github.com/CERTCC/VINCE){:target="_blank"}{:target="_blank"}, we have shifted to a _shared bus_ topology
     for our cases, in which the reporter, vendors, and coordinators all have access to the same case information and
     can communicate with each other in a shared space.
     While we still have some manual processes for making the initial contact with vendors, the VINCE platform 

@@ -11,7 +11,7 @@ flowchart LR
     cvd <--> never
 ```
 
-Prior research at Carnegie Mellon into [vulnerability disclosure practices](https://doi.org/10.1007/s10796-006-9012-5) has shown
+Prior research at Carnegie Mellon into [vulnerability disclosure practices](https://doi.org/10.1007/s10796-006-9012-5){:target="_blank"} has shown
 that neither extreme is socially optimal. Thus, we are given to hope
 that we can improve on these extremes by striking a balance in between.
 But doing so requires several questions to be answered:
@@ -59,10 +59,10 @@ avoiding bad press for being unprepared.
 
 !!! info "FIRST's Vulnerability Coordination Special Interest Group"
 
-    The [Forum of Incident Response and Security Teams](https://www.first.org) (FIRST),
+    The [Forum of Incident Response and Security Teams](https://www.first.org){:target="_blank"} (FIRST),
     which consists of many public and private organizations and companies involved
     in vulnerability and security incident handling, has established a
-    [Vulnerability Coordination Special Interest Group](https://www.first.org/global/sigs/vulnerability-coordination)
+    [Vulnerability Coordination Special Interest Group](https://www.first.org/global/sigs/vulnerability-coordination){:target="_blank"}
     to develop some common
     CVD best practices and guidelines. While the existence of
     individual vulnerabilities may be unexpected and surprising, these
@@ -75,7 +75,7 @@ avoiding bad press for being unprepared.
     Just to name two examples:
 
     In 2015, the Department of Commerce's National Telecommunications and Information Administration initiated a
-    [Multistakeholder Process for Cybersecurity Vulnerabilities](https://www.ntia.doc.gov/other-publication/2016/multistakeholder-process-cybersecurity-vulnerabilities) to
+    [Multistakeholder Process for Cybersecurity Vulnerabilities](https://www.ntia.doc.gov/other-publication/2016/multistakeholder-process-cybersecurity-vulnerabilities){:target="_blank"} to
     
     > develop a broad, shared understanding of the overlapping interests
     > between security researchers and the vendors and owners of products
@@ -86,8 +86,8 @@ avoiding bad press for being unprepared.
     > this information. However, disclosure is only one aspect of successful
     > collaboration.
 
-    In 2023, the [European Union Agency for Cybersecurity](https://www.enisa.europa.eu/)
-    published a [report on Coordinated Vulnerability Disclosure](https://www.enisa.europa.eu/news/coordinated-vulnerability-disclosure-towards-a-common-eu-approach)
+    In 2023, the [European Union Agency for Cybersecurity](https://www.enisa.europa.eu/){:target="_blank"}
+    published a [report on Coordinated Vulnerability Disclosure](https://www.enisa.europa.eu/news/coordinated-vulnerability-disclosure-towards-a-common-eu-approach){:target="_blank"}
  
     > With the new Directive on measures for a high common level of cybersecurity across the Union (NIS2) adopted on
     > 16 January 2023, Member States will need to have a coordinated vulnerability disclosure policy adopted and

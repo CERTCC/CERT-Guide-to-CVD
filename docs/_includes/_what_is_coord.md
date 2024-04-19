@@ -2,7 +2,7 @@
 
     !!! example inline end "CERT Vulnerability Notes"
     
-        The CERT/CC's security advisories are known as [*Vulnerability Notes*](https://www.kb.cert.org/vuls).
+        The CERT/CC's security advisories are known as [*Vulnerability Notes*](https://www.kb.cert.org/vuls){:target="_blank"}.
 
     Coordination is the process by which multiple parties coordinate to
     share information regarding a vulnerability, with the goal of producing

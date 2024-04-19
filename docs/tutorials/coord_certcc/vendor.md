@@ -15,10 +15,10 @@ This page provides an overview of the process for working with the CERT/CC to ad
 When you receive a notification from the CERT/CC about a vulnerability in your product,
 you should review the information provided and determine whether the report is accurate.
 To do so, you can log into the
-[Vulnerability Information and Coordination Environment (VINCE)](https://www.kb.cert.org/vince/) to view the report.
+[Vulnerability Information and Coordination Environment (VINCE)](https://www.kb.cert.org/vince/){:target="_blank"} to view the report.
 
 To learn more about how to coordinate with the CERT/CC on VINCE, please see our
-[VINCE FAQ](https://vuls.cert.org/confluence/display/VIN/Frequently+Asked+Questions).
+[VINCE FAQ](https://vuls.cert.org/confluence/display/VIN/Frequently+Asked+Questions){:target="_blank"}.
 
 !!! tip "What does the CERT/CC look for in a response?"
 
@@ -43,7 +43,7 @@ To learn more about how to coordinate with the CERT/CC on VINCE, please see our
 ## Publications and Vulnerability Disclosure
 
 After 45 days or another agreed upon timeline, we publish
-[Vulnerability Notes](http://www.kb.cert.org/vuls/)
+[Vulnerability Notes](http://www.kb.cert.org/vuls/){:target="_blank"}
 to disclose the vulnerability and information on addressing the vulnerability if available.
 
 !!! tip "Vendor Statements Are Welcome"
@@ -54,7 +54,7 @@ to disclose the vulnerability and information on addressing the vulnerability if
     published Vulnerability Note.
 
     Vendor statements can be added directly to a case within VINCE.
-    See [VINCE FAQ](https://vuls.cert.org/confluence/display/VIN/Frequently+Asked+Questions) for more.
+    See [VINCE FAQ](https://vuls.cert.org/confluence/display/VIN/Frequently+Asked+Questions){:target="_blank"} for more.
 
 ## Multiparty Coordination
 

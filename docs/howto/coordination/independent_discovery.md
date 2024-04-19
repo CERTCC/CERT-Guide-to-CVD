@@ -8,18 +8,18 @@ can complicate the CVD process.<!--end-->
 
     Research has shown that vulnerabilities are often independently
     discovered.
-    [Andy Ozment](https://web.archive.org/web/20220718203842id_/http://infosecon.net/workshop/pdf/10.pdf)
+    [Andy Ozment](https://web.archive.org/web/20220718203842id_/http://infosecon.net/workshop/pdf/10.pdf){:target="_blank"}{:target="_blank"}
     showed that "vulnerability rediscovery occurs 'in the
     wild' and that it is not particularly uncommon."
-    [Finifter and colleagues](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/finifter),
+    [Finifter and colleagues](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/finifter){:target="_blank"},
     reviewing a dataset of Chrome vulnerabilities, identified 15
     out of 668 (2.25%) that had been independently discovered by multiple
     parties. They go on to mention similar rates for Firefox
     vulnerabilities.
-    [Ablon and Bogart](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1700/RR1751/RAND_RR1751.pdf)
+    [Ablon and Bogart](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1700/RR1751/RAND_RR1751.pdf){:target="_blank"}
     studied a stockpile of zero day vulnerabilities, estimating that "after a year approximately 5.7
     percent have been discovered and disclosed by others."
-    [Herr and Schneier](https://ssrn.com/abstract=2928758)
+    [Herr and Schneier](https://ssrn.com/abstract=2928758){:target="_blank"}
     find browser vulnerabilities having rediscovery rates
     between 11% and 20% annually for the years 2013-2015. For Android
     vulnerabilities during the 2015-2016 timeframe, they found an annual
@@ -67,7 +67,7 @@ attention.
     both discovered the vulnerability around the same time. When the
     vulnerability was reported a second time to the OpenSSL team, the team
     assumed a possible leak and the vulnerability was quickly disclosed
-    publicly ([source](http://www.smh.com.au/it-pro/security-it/heartbleed-disclosure-timeline-who-knew-what-and-when-20140414-zqurk.html)). A more coordinated response may have allowed further
+    publicly ([source](http://www.smh.com.au/it-pro/security-it/heartbleed-disclosure-timeline-who-knew-what-and-when-20140414-zqurk.html){:target="_blank"}). A more coordinated response may have allowed further
     remediation to be available immediately at disclosure time.
 
 !!! example "Bug Bounties and Duplicate Reports"

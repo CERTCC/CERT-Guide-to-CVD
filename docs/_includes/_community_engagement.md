@@ -8,22 +8,22 @@ to make the site better, so don't hesitate to reach out.
 
 <div class="grid cards" markdown>
 
-- :fontawesome-regular-comments: [**Join the conversation**](https://github.com/CERTCC/CERT-Guide-to-CVD/discussions)
+- :fontawesome-regular-comments: [**Join the conversation**](https://github.com/CERTCC/CERT-Guide-to-CVD/discussions){:target="_blank"}
 
     ---
     Have a question or want to discuss something? Join the conversation on the CERT Guide to CVD Community Discussions.
 
-- :material-message-question: [**Ask a Question**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md)
+- :material-message-question: [**Ask a Question**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=question.md){:target="_blank"}
 
     ---
     Have a question about the content of the site? Ask it here.
 
-- :fontawesome-solid-bug: [**Report a Problem**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=bug_report.md)
+- :fontawesome-solid-bug: [**Report a Problem**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=bug_report.md){:target="_blank"}
 
     ---
     Found a problem with the site? Report it here.
 
-- :material-lightbulb-on: [**Request a Feature**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=feature_request.md)
+- :material-lightbulb-on: [**Request a Feature**](https://github.com/CERTCC/CERT-Guide-to-CVD/issues/new?template=feature_request.md){:target="_blank"}
 
     ---
     Have an idea for a feature you'd like to see on the site? Request it here.

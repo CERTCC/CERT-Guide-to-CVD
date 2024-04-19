@@ -9,7 +9,7 @@ Specific details may vary depending on the organization's needs and its role(s) 
 much of the content will be the same across organizations.
 
 This page contains a report example based on the CERT/CC's [Vulnerability
-Reporting Form](https://www.kb.cert.org/vuls/report/), and is not meant to be exhaustive of all possibilities.
+Reporting Form](https://www.kb.cert.org/vuls/report/){:target="_blank"}, and is not meant to be exhaustive of all possibilities.
 Please modify the sections and format as necessary to better suit your
 needs.
 

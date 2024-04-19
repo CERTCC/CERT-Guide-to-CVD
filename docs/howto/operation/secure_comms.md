@@ -28,8 +28,8 @@ organizations.
 
     To secure your web form, you will need to enable HTTPS
     and TLS, and obtain a TLS certificate from a Certificate Authority (CA).
-    A free option is [Let's Encrypt](https://letsencrypt.org/), maintained by the [Internet Security
-    Research Group](https://www.abetterinternet.org/about/) (ISRG).
+    A free option is [Let's Encrypt](https://letsencrypt.org/){:target="_blank"}, maintained by the [Internet Security
+    Research Group](https://www.abetterinternet.org/about/){:target="_blank"} (ISRG).
 
     Coordination tools like VINCE or coordination platforms can be a good choice, or
     you can make use of a third-party bug bounty or coordination platform.
@@ -133,13 +133,13 @@ communications.
     adapt should that person leave the organization; to the outside world,
     no contact information needs to change.
 
-    The IETF's [RFC 2350](https://datatracker.ietf.org/doc/html/rfc2350)
+    The IETF's [RFC 2350](https://datatracker.ietf.org/doc/html/rfc2350){:target="_blank"}
     _Expectations for Computer Security Incident Response_ (aka BCP-21) 
     suggests you include contact information as
     part of your overall CSIRT disclosure policy and process publication.
-    [RFC 9116](https://datatracker.ietf.org/doc/html/rfc9116)
+    [RFC 9116](https://datatracker.ietf.org/doc/html/rfc9116){:target="_blank"}
     _A File Format to Aid in Security Vulnerability Disclosure_
-    See the [security.txt](https://securitytxt.org/) site for more.
+    See the [security.txt](https://securitytxt.org/){:target="_blank"} site for more.
 
 !!! warning "Email is No Substitute for a Case Tracking System"
 
@@ -166,18 +166,18 @@ communications.
     affiliated with the security email alias to allow the confidentiality of
     sensitive reports to be maintained in transit.
 
-    A common choice used to be Thunderbird with [Enigmail](https://enigmail.net/index.php/en/), but
+    A common choice used to be Thunderbird with [Enigmail](https://enigmail.net/index.php/en/){:target="_blank"}, but
     Thunderbird is no longer supported by the Enigmail project.
     Alternative mail clients for Enigmail include 
-    [SeaMonkey](https://seamonkey-project.org/),
-    [Epyrus](http://www.epyrus.org/) and [Postbox](https://postbox-inc.com/).
+    [SeaMonkey](https://seamonkey-project.org/){:target="_blank"},
+    [Epyrus](http://www.epyrus.org/){:target="_blank"} and [Postbox](https://postbox-inc.com/){:target="_blank"}.
 
-    Other open source solutions such as Outlook with [gpg4win](https://www.gpg4win.org/), or [KMail](https://apps.kde.org/kmail2/)
-    with [KGpg](https://apps.kde.org/kgpg/) and/or [Kleopatra](https://www.openpgp.org/software/kleopatra/) 
+    Other open source solutions such as Outlook with [gpg4win](https://www.gpg4win.org/){:target="_blank"}, or [KMail](https://apps.kde.org/kmail2/){:target="_blank"}
+    with [KGpg](https://apps.kde.org/kgpg/){:target="_blank"} and/or [Kleopatra](https://www.openpgp.org/software/kleopatra/){:target="_blank"} 
     and proprietary solutions such as
-    [PGP Encryption Desktop](https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/symantec-encryption-desktop/11-0-0.html) also exist.
+    [PGP Encryption Desktop](https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/symantec-encryption-desktop/11-0-0.html){:target="_blank"} also exist.
     A collection of email encryption tools can be found on 
-    [OpenPGP](https://www.openpgp.org/software/)'s website.
+    [OpenPGP](https://www.openpgp.org/software/){:target="_blank"}'s website.
 
 !!! info "How Our Approach has Changed"
 
@@ -185,7 +185,7 @@ communications.
     many years. However, as our operations have scaled up, we have found
     that email is not always the best way to manage multiple cases
     simultaneously. We have since developed a web-based case tracking
-    system called [VINCE](https://www.kb.cert.org/vince/) to help us manage
+    system called [VINCE](https://www.kb.cert.org/vince/){:target="_blank"} to help us manage
     our cases more effectively.
     
     While email still has its place in our CVD operations, we have found that
@@ -197,9 +197,9 @@ communications.
     PGP / GnuPG, never popular outside of the infosec community, has been falling out of
     favor in the past decade. 
     Some notable commentary includes:
-    [What's the Matter with PGP?](https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/),
-    [GnuPG and Me](https://moxie.org/2015/02/24/gpg-and-me.html), and
-    [I’m throwing in the towel on PGP, and I work in security](https://arstechnica.com/information-technology/2016/12/op-ed-im-giving-up-on-pgp/).
+    [What's the Matter with PGP?](https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/){:target="_blank"},
+    [GnuPG and Me](https://moxie.org/2015/02/24/gpg-and-me.html){:target="_blank"}, and
+    [I’m throwing in the towel on PGP, and I work in security](https://arstechnica.com/information-technology/2016/12/op-ed-im-giving-up-on-pgp/){:target="_blank"}.
 
     PGP and GnuPG are highly prone to user error, and the consequences of those errors can be severe 
     (e.g., sending a private key to the wrong person). The tools are also difficult to manage at scale.

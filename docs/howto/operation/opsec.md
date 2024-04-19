@@ -30,7 +30,7 @@ CVD team? Possibly even a single analyst?
 
 ### Traffic light Protocol
 
-The [Traffic Light Protocol](https://www.first.org/tlp) is managed by the Forum of Incident Response and Security Teams (FIRST).
+The [Traffic Light Protocol](https://www.first.org/tlp){:target="_blank"} is managed by the Forum of Incident Response and Security Teams (FIRST).
 It is a set of designations used to ensure that sensitive information is shared with the appropriate audience.
 By marking a document with a TLP level, a sender can easily communicate the sensitivity of
 information and expectations about sharing it further.

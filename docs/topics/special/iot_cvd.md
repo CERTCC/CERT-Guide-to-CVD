@@ -3,9 +3,9 @@
 !!! info inline end "About this page"
 
     This IoT-focused CVD page is adapted from two CERT/CC Blog Posts:
-    [*Vulnerability Discovery for Emerging Networked Systems*](https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.html)
+    [*Vulnerability Discovery for Emerging Networked Systems*](https://insights.sei.cmu.edu/cert/2014/11/-vulnerability-discovery-for-emerging-networked-systems.html){:target="_blank"}
     and
-    [*What's Different About Vulnerability Analysis and Discovery in Emerging Networked Systems?*](https://insights.sei.cmu.edu/cert/2015/01/-whats-different-about-vulnerability-analysis-and-discovery-in-emerging-networked-systems.html)
+    [*What's Different About Vulnerability Analysis and Discovery in Emerging Networked Systems?*](https://insights.sei.cmu.edu/cert/2015/01/-whats-different-about-vulnerability-analysis-and-discovery-in-emerging-networked-systems.html){:target="_blank"}
 
 In this section, we turn our attention to the implications that the Internet of
 Things brings to the CVD discussion. "Smart things" are expected to
@@ -22,7 +22,7 @@ operationally useful for years or even decades with minimal
 intervention, it is especially important that their security be
 thoroughly understood prior to deployment.
 
-!!! quote "Dan Geer, [*Security of Things*](http://geer.tinho.net/geer.secot.7v14.txt), 7 May 2014"
+!!! quote "Dan Geer, [*Security of Things*](http://geer.tinho.net/geer.secot.7v14.txt){:target="_blank"}, 7 May 2014"
 
     An advanced persistent threat, one that is difficult to discover,
     difficult to remove, and difficult to attribute, is easier in a
@@ -65,7 +65,7 @@ CERT Vulnerability Analysis team. These issues are summarized below.
     systems except within very sparse service windows. Instances where
     physical contact with the device is required in order to update it can
     be especially problematic once vulnerabilities are discovered
-    See Dan Geer's [talk](http://geer.tinho.net/geer.secot.7v14.txt) at the Security of Things Forum for more on the
+    See Dan Geer's [talk](http://geer.tinho.net/geer.secot.7v14.txt){:target="_blank"} at the Security of Things Forum for more on the
     "long-lived and not reachable" problem).
 
 !!! danger "New Interfaces Bring New Threats"

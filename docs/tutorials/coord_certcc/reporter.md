@@ -73,7 +73,7 @@ Some common reasons for us to decline a request include:
     generally place more emphasis on vulnerabilities with higher
     scores, and generally decline reports with low Environmental
     scores. For more information on how to perform CVSS scoring on
-    your vulnerability, please see the [CVSS website](http://www.first.org/cvss).
+    your vulnerability, please see the [CVSS website](http://www.first.org/cvss){:target="_blank"}.
 
     One result of CVSS Environmental scoring is that software that
     is not widely distributed (i.e., has a very small global user
@@ -92,7 +92,7 @@ Some common reasons for us to decline a request include:
     The CERT/CC typically only provides CVE IDs for vulnerabilities
     we take an active role in coordinating. Reports only requesting
     a CVE ID will generally be declined. CVE IDs can be requested
-    directly from the [CVE project](https://www.cve.org/ReportRequest/ReportRequestForNonCNAs).
+    directly from the [CVE project](https://www.cve.org/ReportRequest/ReportRequestForNonCNAs){:target="_blank"}.
 
 - **Only publication is requested**
 
@@ -111,13 +111,13 @@ CERT/CC.
 If the request is accepted, the CERT/CC will begin reaching out to the
 vendor(s). The CERT/CC will then work with them as necessary to develop
 a patch and provide this patch to the community. The CERT/CC may decide
-to publish a [Vulnerability Note](https://www.kb.cert.org/vuls) on your vulnerability at the end of the
+to publish a [Vulnerability Note](https://www.kb.cert.org/vuls){:target="_blank"} on your vulnerability at the end of the
 process, depending on the circumstances.
 
 Please note that when a vulnerability is reported to the CERT/CC, we
 will take the reporter's comments into our decision process, but by
 submitting a report, the reporter agrees that CERT/CC has final decision
-authority over any coordination and publishing on the [kb.cert.org](https://www.kb.cert.org)
+authority over any coordination and publishing on the [kb.cert.org](https://www.kb.cert.org){:target="_blank"}
 website.
 
 !!! note "Reporter's Right to Disclose"
@@ -135,7 +135,7 @@ If your contact attempt fails despite acting responsibly, you may
 consider self-publishing (on a personal blog or website) information
 about your vulnerability, or perhaps submitting information about your
 vulnerability to a security mailing list such as
-[Full Disclosure](http://seclists.org/fulldisclosure/).  If you do, please take care regarding how much
+[Full Disclosure](http://seclists.org/fulldisclosure/){:target="_blank"}.  If you do, please take care regarding how much
 information is released; ideally, provide only enough information for
 users to understand the issue and mitigate attacks, but not a full
 proof-of-concept that can be misused.

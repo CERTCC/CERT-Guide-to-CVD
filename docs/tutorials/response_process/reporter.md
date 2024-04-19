@@ -75,7 +75,7 @@ means providing:
     vulnerability may be exploited; ideally, a suggested patch for the
     issue may be included
 - description of the impact of the vulnerability and attack scenario
-    (for example, see BugCrowd's [write up](https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640) on the topic)
+    (for example, see BugCrowd's [write up](https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640){:target="_blank"} on the topic)
 - any time constraints (for example, give a date of publication or
     presentation at a conference if you know)
 
@@ -129,7 +129,7 @@ case if one or more of the following conditions are true:
 
 !!! tip "Requesting Coordination Assistance from the CERT/CC"
 
-    To request assistance, please fill out our [Vulnerability Reporting Form](https://kb.cert.org/vuls/report/)
+    To request assistance, please fill out our [Vulnerability Reporting Form](https://kb.cert.org/vuls/report/){:target="_blank"}
     (VRF)
 
     For more information about working with the CERT/CC, you may wish to

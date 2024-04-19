@@ -16,8 +16,8 @@ eradication of the problem.
 
     For more on Harm Reduction in the public health context, see
 
-    - [National Harm Reduction Coalition](http://harmreduction.org/about-us/principles-of-harm-reduction/)
-    - [Harm Reduction International](https://www.hri.global/what-is-harm-reduction)
+    - [National Harm Reduction Coalition](http://harmreduction.org/about-us/principles-of-harm-reduction/){:target="_blank"}
+    - [Harm Reduction International](https://www.hri.global/what-is-harm-reduction){:target="_blank"}
 
 <!--excerpt-start-->At its core, harm reduction with respect to vulnerable software is about
 balancing the ability for system defenders to take action while avoiding
@@ -48,7 +48,7 @@ threat models.
     Wright brothers' flight at Kitty Hawk, NC, today it is vulnerable to
     attack using an airliner as a weapon. It's difficult to argue that the
     designers should have "built security in" for attacks that would have
-    been considered [science fiction](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=442528) at the time of deployment.
+    been considered [science fiction](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=442528){:target="_blank"} at the time of deployment.
 
 Since vulnerabilities are likely to persist despite our best efforts,
 CVD works best when it focuses on reducing the harm vulnerabilities can
@@ -67,7 +67,7 @@ cause.
     - **Encourage the adoption and widespread use of exploit mitigation
     techniques** on all platforms.
 
-    - **Reduce days of risk**. [Selecting reasonable disclosure deadlines](https://link.springer.com/article/10.1007/s10796-006-9012-5) is
+    - **Reduce days of risk**. [Selecting reasonable disclosure deadlines](https://link.springer.com/article/10.1007/s10796-006-9012-5){:target="_blank"} is
     one way of achieving the goal of minimizing the time between a
     vulnerability's discovery and the remediation of its last deployed
     instance. 

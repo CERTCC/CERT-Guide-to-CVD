@@ -1,7 +1,7 @@
 # Phases of Coordinated Vulnerability Disclosure
 
 Below, we adapt a version of the
-[ISO/IEC 30111:2019 Information technology&mdash;Security techniques&mdash;Vulnerability handling processes](https://www.iso.org/standard/69725.html)
+[ISO/IEC 30111:2019 Information technology&mdash;Security techniques&mdash;Vulnerability handling processes](https://www.iso.org/standard/69725.html){:target="_blank"}
 with more phases to better describe what we have seen at the CERT/CC
 
 <div class="grid cards" markdown>
@@ -42,10 +42,10 @@ with more phases to better describe what we have seen at the CERT/CC
 
     There have been a number of proposed models of the CVD process that have slightly varying phases. Some of the most notable include:
 
-    - 2002 Christey and Wysopal [Responsible Vulnerability Disclosure Process](https://datatracker.ietf.org/doc/draft-christey-wysopal-vuln-disclosure/)
-    - 2004 National Infrastructure Advisory Council [Vulnerability Disclosure Framweork](https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf)
-    - 2018 ISO/IEC 29147:2018 [Information technology -- Security techniques -- Vulnerability disclosure](https://www.iso.org/standard/72311.html)
-    - 2019 ISO/IEC 30111:2019 [Information technology -- Security techniques -- Vulnerability handling processes](https://www.iso.org/standard/69725.html)
+    - 2002 Christey and Wysopal [Responsible Vulnerability Disclosure Process](https://datatracker.ietf.org/doc/draft-christey-wysopal-vuln-disclosure/){:target="_blank"}
+    - 2004 National Infrastructure Advisory Council [Vulnerability Disclosure Framweork](https://www.dhs.gov/xlibrary/assets/vdwgreport.pdf){:target="_blank"}
+    - 2018 ISO/IEC 29147:2018 [Information technology -- Security techniques -- Vulnerability disclosure](https://www.iso.org/standard/72311.html){:target="_blank"}
+    - 2019 ISO/IEC 30111:2019 [Information technology -- Security techniques -- Vulnerability handling processes](https://www.iso.org/standard/69725.html){:target="_blank"}
 
 ## Who Does What?
 

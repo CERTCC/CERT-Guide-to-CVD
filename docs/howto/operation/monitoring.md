@@ -54,7 +54,7 @@ The following are some of the sources that CVD participants might choose to moni
 
 !!! info "CERT RMM Monitoring Process Area"
 
-    The [Monitoring Process Area](https://insights.sei.cmu.edu/library/monitoring-mon-cert-rmm-process-area/) (MON)
-    of the [CERT Resilience Management Model](https://insights.sei.cmu.edu/library/cert-resilience-management-model-cert-rmm-collection/) (CERT-RMM) 
+    The [Monitoring Process Area](https://insights.sei.cmu.edu/library/monitoring-mon-cert-rmm-process-area/){:target="_blank"} (MON)
+    of the [CERT Resilience Management Model](https://insights.sei.cmu.edu/library/cert-resilience-management-model-cert-rmm-collection/){:target="_blank"} (CERT-RMM) 
     includes practices surrounding monitoring for security events, incidents, and other operationally relevant information.
     The CERT-RMM is a process improvement model designed to help organizations to improve their operational resilience.

@@ -4,7 +4,7 @@ The vulnerability disclosure document is also often referred to as a
 "security advisory," particularly if published by the vendor.
 
 This is an example of a vulnerability disclosure document based on
-CERT/CC's [Vulnerability Notes](https://www.kb.cert.org/vuls/) format.
+CERT/CC's [Vulnerability Notes](https://www.kb.cert.org/vuls/){:target="_blank"} format.
 It is not meant to be exhaustive of all scenarios.
 
 Please modify the sections and format as necessary to better suit your
@@ -12,7 +12,7 @@ needs.
 
 !!! tip "Common Security Advisory Format"
 
-    The [Common Security Advisory Format](https://oasis-open.github.io/csaf-documentation/) (CSAF) is a standardized 
+    The [Common Security Advisory Format](https://oasis-open.github.io/csaf-documentation/){:target="_blank"} (CSAF) is a standardized 
     format for publishing security advisories. It is designed to be machine-readable and is
     intended to be used by vendors, coordinators, and reporters to communicate with the public about vulnerabilities.
 
@@ -37,7 +37,7 @@ needs.
 - Product Vendor:
 
 - Type of Vulnerability, if known: (see [MITRE's
-    CWE](https://cwe.mitre.org/) site for
+    CWE](https://cwe.mitre.org/){:target="_blank"} site for
     list of common types of vulnerabilities)
 
 - Vulnerability Description:
@@ -57,7 +57,7 @@ needs.
 - Provide the full CVSS vector, not only the score. If possible,
     provide guidance on the temporal and environmental metrics, not only
     the base metrics. See
-    [https://www.first.org/cvss/](https://www.first.org/cvss/)
+    [https://www.first.org/cvss/](https://www.first.org/cvss/){:target="_blank"}
 
 ### Resolution
 
