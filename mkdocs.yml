@@ -164,14 +164,6 @@ plugins:
   - include-markdown:
       comments: false
   - search
-#  - table-reader:
-#      data_path: 'data/csvs'
-#  - bibtex:
-#      bib_file: 'doc/md_src_files/sources_CERT-Guide-to-CVD.bib'
-#  - mkdocstrings:
-#      handlers:
-#        python:
-#          paths: [ 'src' ]
   - print-site
 repo_url: 'https://github.com/CERTCC/CERT-Guide-to-CVD'
 repo_name: 'CERTCC/CERT-Guide-to-CVD'
