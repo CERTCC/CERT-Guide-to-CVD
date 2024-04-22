@@ -23,7 +23,7 @@ vendors.
 
 !!! example "Vendor Perspectives"
 
-    The [NTIA Awareness and Adoption Working Group survey](https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a_a_vulnerability_disclosure_insights_report.pdf)
+    The [NTIA Awareness and Adoption Working Group survey](https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a_a_vulnerability_disclosure_insights_report.pdf){:target="_blank"}
     found the following:
 
     - 60-80% of the more mature vendors followed CVD practices

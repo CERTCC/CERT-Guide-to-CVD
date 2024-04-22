@@ -39,15 +39,15 @@ out how to reach a vendor we've never spoken with before.
     See if the vendor has a `security.txt` file, often found at
     `www.example.com/.well_known/security.txt` or sometimes
     at `www.example.com/security.txt`
-    ([securitytxt.org](https://securitytxt.org/) , [IETF
-    Draft](https://tools.ietf.org/html/draft-foudil-securitytxt-09))
+    ([securitytxt.org](https://securitytxt.org/){:target="_blank"} , [IETF
+    Draft](https://tools.ietf.org/html/draft-foudil-securitytxt-09){:target="_blank"})
 
 !!! tip "Check the following sources"
 
     - Vulnerability disclosure / bug bounty service providers
-    ([BugCrowd](https://www.bugcrowd.com/), [Synack](https://www.synack.com/), [HackerOne](https://www.hackerone.com/), etc.)
-    - The Forum of Incident Response and Security Teams (FIRST) [member directory](https://www.first.org/members/teams/)
-    - The [CVE Partner List](https://www.cve.org/PartnerInformation/ListofPartners)
+    ([BugCrowd](https://www.bugcrowd.com/){:target="_blank"}, [Synack](https://www.synack.com/){:target="_blank"}, [HackerOne](https://www.hackerone.com/){:target="_blank"}, etc.)
+    - The Forum of Incident Response and Security Teams (FIRST) [member directory](https://www.first.org/members/teams/){:target="_blank"}
+    - The [CVE Partner List](https://www.cve.org/PartnerInformation/ListofPartners){:target="_blank"}
 
 !!! warning "Avoid posting vulnerability details in public"
 
@@ -60,9 +60,9 @@ out how to reach a vendor we've never spoken with before.
 
 !!! tip "Search open source code repositories to find developer contacts"
 
-    - [Github](https://www.github.com/)
-    - [GitLab](https://gitlab.com/)
-    - [SourceForge](https://sourceforge.net/)
+    - [Github](https://www.github.com/){:target="_blank"}
+    - [GitLab](https://gitlab.com/){:target="_blank"}
+    - [SourceForge](https://sourceforge.net/){:target="_blank"}
     
     - If no direct contact information can be found, posting to the
     Issues page of a project asking how they'd like to receive
@@ -76,8 +76,8 @@ out how to reach a vendor we've never spoken with before.
 
     Social media can occasionally be a useful way to make initial contact with a vendor when other methods fail.
 
-    - [Twitter](https://twitter.com/)
-    - [LinkedIn](https://www.linkedin.com/)
+    - [Twitter](https://twitter.com/){:target="_blank"}
+    - [LinkedIn](https://www.linkedin.com/){:target="_blank"}
 
 !!! tip "Try emailing commonly used addresses"
 
@@ -103,11 +103,11 @@ out how to reach a vendor we've never spoken with before.
     occasionally useful.
 
     -   Send a fax (yes, we've actually done this in the 21st century)
-    -   Send [snail mail](https://insights.sei.cmu.edu/blog/reach-out-and-mail-someone/) to an executive 
+    -   Send [snail mail](https://insights.sei.cmu.edu/blog/reach-out-and-mail-someone/){:target="_blank"} to an executive 
 
-        -   If you have access to resources like [LexisNexis](https://www.lexisnexis.com/), you can often find the names of executives in technical 
+        -   If you have access to resources like [LexisNexis](https://www.lexisnexis.com/){:target="_blank"}, you can often find the names of executives in technical 
             roles as a starting point.
-        -   If message delivery confirmation is desired, in the US you can send [certified mail](https://faq.usps.com/s/article/Certified-Mail-The-Basics) with signature verification.
+        -   If message delivery confirmation is desired, in the US you can send [certified mail](https://faq.usps.com/s/article/Certified-Mail-The-Basics){:target="_blank"} with signature verification.
             The recipient must sign to receive the mail, and you'll get a signed receipt back.
 
 ## When all that fails

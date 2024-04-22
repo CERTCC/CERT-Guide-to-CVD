@@ -3,7 +3,7 @@
 !!! tip inline end "Original Report"
 
     The CERT Guide to Coordinated Vulnerability Disclosure was originally published as
-    [CMU/SEI-2017-SR-022](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330)
+    [CMU/SEI-2017-SR-022](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330){:target="_blank"}
 
     This web version is an evolution of that original report.
 
@@ -13,7 +13,7 @@ have been working to make it more accessible and easier to navigate.
 We're also in the process of revising the guide based on feedback we've received
 since its original publication.
 
-Got a suggestion? [Submit it here](https://github.com/CERTCC/CERT-Guide-to-CVD/issues).
+Got a suggestion? [Submit it here](https://github.com/CERTCC/CERT-Guide-to-CVD/issues){:target="_blank"}.
 
 <!-- for spacing -->
 <br/>

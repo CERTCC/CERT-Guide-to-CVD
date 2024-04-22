@@ -26,7 +26,7 @@ Products with secure automatic updates provide a good way to get a patch deploye
 
 !!! note inline end "Software Telemetry and Privacy"
 
-    Software telemetry is not without [privacy concerns](https://www.theregister.com/2023/05/17/googles_go_data_collection/), but further discussion of that topic is out of scope here.
+    Software telemetry is not without [privacy concerns](https://www.theregister.com/2023/05/17/googles_go_data_collection/){:target="_blank"}, but further discussion of that topic is out of scope here.
 
 However, not all users are able or willing to use automatic updates, so it is still important for vendors to draw attention to their fixes.
 Vendors should strive to implement easy and secure update methods in their products.
@@ -70,14 +70,14 @@ Such vendors can be well-positioned to reach their entire deployment base via pr
     code execution on Domain Name System (DNS) servers, or virtualization
     escapes in cloud services serve as examples. 
 
-    - [VU#498440](https://www.kb.cert.org/vuls/id/498440/) _Multiple TCP/IP implementations may use
+    - [VU#498440](https://www.kb.cert.org/vuls/id/498440/){:target="_blank"} _Multiple TCP/IP implementations may use
     statistically predictable initial sequence numbers_
-    - [JSA10883](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST) _2018-10 Security Bulletin: Junos OS: Receipt of a
+    - [JSA10883](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10883&cat=SIRT_1&actp=LIST){:target="_blank"} _2018-10 Security Bulletin: Junos OS: Receipt of a
     specifically crafted malicious MPLS packet leads to a Junos kernel
     crash (CVE-2018-0049)_
-    - [VU#196945](https://www.kb.cert.org/vuls/id/196945/) _ISC BIND 8 contains buffer overflow in transaction
+    - [VU#196945](https://www.kb.cert.org/vuls/id/196945/){:target="_blank"} _ISC BIND 8 contains buffer overflow in transaction
     signature (TSIG) handling code_
-    - [XSA-213](https://xenbits.xen.org/xsa/advisory-213.html) _Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
+    - [XSA-213](https://xenbits.xen.org/xsa/advisory-213.html){:target="_blank"} _Xen Security Advisory CVE-2017-8903 / XSA-213; version 3;
     x86: 64bit PV guest breakout via pagetable use-after-mode-change_
 
 !!! tip "Amplify the Message"
@@ -131,10 +131,10 @@ instances have not been remediated, that goal has not been achieved.
 
     In an unexpected turn of events following the publication of this Guide,
     we were [called
-    on](https://web.archive.org/web/20230112063739/https://republicans-energycommerce.house.gov/wp-content/uploads/2018/07/071718-SEI-Spectre-Meltdown.pdf) by the [US House Committee on Energy and
-    Commerce](https://energycommerce.house.gov/) and the [Senate Committee on Commerce, Science, and
-    Transportation](https://www.commerce.senate.gov/public/) to address
-    [concerns](https://www.commerce.senate.gov/public/index.cfm/hearings?ID=77835497-EC96-41E8-B311-5AF789F38422) regarding the coordinated disclosure of the Meltdown and
+    on](https://web.archive.org/web/20230112063739/https://republicans-energycommerce.house.gov/wp-content/uploads/2018/07/071718-SEI-Spectre-Meltdown.pdf){:target="_blank"} by the [US House Committee on Energy and
+    Commerce](https://energycommerce.house.gov/){:target="_blank"} and the [Senate Committee on Commerce, Science, and
+    Transportation](https://www.commerce.senate.gov/public/){:target="_blank"} to address
+    [concerns](https://www.commerce.senate.gov/public/index.cfm/hearings?ID=77835497-EC96-41E8-B311-5AF789F38422){:target="_blank"} regarding the coordinated disclosure of the Meltdown and
     Spectre vulnerabilities in early 2018. In particular, the committees
     were concerned about the timing of patch availability and deployment
     relative to the public disclosure of these vulnerabilities.
@@ -176,7 +176,7 @@ instances have not been remediated, that goal has not been achieved.
         applied it to their systems.
 
     In our
-    [response](https://web.archive.org/web/20200810085618/https://republicans-energycommerce.house.gov/wp-content/uploads/2018/08/CERT-Response-MultiParty-CVD-Congressional-Letter.pdf), we agreed. The relevant section of our reply is
+    [response](https://web.archive.org/web/20200810085618/https://republicans-energycommerce.house.gov/wp-content/uploads/2018/08/CERT-Response-MultiParty-CVD-Congressional-Letter.pdf){:target="_blank"}, we agreed. The relevant section of our reply is
     reproduced below.
 
     ## Patch Availability is not Patch Deployment

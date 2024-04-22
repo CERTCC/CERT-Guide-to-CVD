@@ -48,7 +48,7 @@ guidelines to help you navigate the complexity.<!--end-->
 
     !!! example inline end "CVD Motivations"
     
-        [I am the Cavalry](https://www.iamthecavalry.org/motivations/) lists five motivations for security researchers:
+        [I am the Cavalry](https://www.iamthecavalry.org/motivations/){:target="_blank"} lists five motivations for security researchers:
         Protect, Puzzle, Prestige, Profit, and Protest/Patriotism.
 
     Give credit where it's due. 
@@ -91,7 +91,7 @@ guidelines to help you navigate the complexity.<!--end-->
     !!! example inline end "Retrospective Questions"
 
         As an example of questions to begin a retrospective discussion, consider
-        this list derived from the [Scrum Alliance](https://resources.scrumalliance.org/Article/sprint-retrospective):
+        this list derived from the [Scrum Alliance](https://resources.scrumalliance.org/Article/sprint-retrospective){:target="_blank"}:
 
         -   What went well?
         -   What went wrong?

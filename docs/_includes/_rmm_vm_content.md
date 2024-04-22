@@ -1,6 +1,6 @@
-[Vulnerability Analysis and Resolution](https://insights.sei.cmu.edu/library/vulnerability-analysis-and-resolution-var-cert-rmm-process-area/)
+[Vulnerability Analysis and Resolution](https://insights.sei.cmu.edu/library/vulnerability-analysis-and-resolution-var-cert-rmm-process-area/){:target="_blank"}
 (VAR) is an operational process
-described within the [CERT Resilience Management Model](https://insights.sei.cmu.edu/library/cert-resilience-management-model-cert-rmm-collection/)
+described within the [CERT Resilience Management Model](https://insights.sei.cmu.edu/library/cert-resilience-management-model-cert-rmm-collection/){:target="_blank"}
 (RMM) that closely overlaps with the concept of
 Vulnerability Management. Although the RMM is designed with a focus on
 operational resilience for organizations, there is sufficient overlap

@@ -38,8 +38,8 @@ disclosure process generally proceeds as follows:
     vendor and reporter draft security advisories and share with each
     other for comment
 
-    - If the vendor is a [CVE Numbering Authority](https://www.cve.org/ProgramOrganization/CNAs) (CNA), the vendor will assign a CVE ID
-    - Otherwise, the reporter or vendor may [request a CVE ID](https://www.cve.org/ReportRequest/ReportRequestForNonCNAs) from the CVE Program
+    - If the vendor is a [CVE Numbering Authority](https://www.cve.org/ProgramOrganization/CNAs){:target="_blank"} (CNA), the vendor will assign a CVE ID
+    - Otherwise, the reporter or vendor may [request a CVE ID](https://www.cve.org/ReportRequest/ReportRequestForNonCNAs){:target="_blank"} from the CVE Program
 
     ```mermaid
     flowchart TD
@@ -61,8 +61,8 @@ disclosure process generally proceeds as follows:
         social media, or mailing list, or via a conference presentation
 
 9. Once the vulnerability is public, (typically fairly quickly, especially if the
-      vendor is a CNA), the CVE record will be published to the [CVE List](https://www.cve.org/Downloads).
-10. After the CVE record is published, the [National Vulnerability Database](https://nvd.nist.gov/) (NVD)
+      vendor is a CNA), the CVE record will be published to the [CVE List](https://www.cve.org/Downloads){:target="_blank"}.
+10. After the CVE record is published, the [National Vulnerability Database](https://nvd.nist.gov/){:target="_blank"} (NVD)
         will publish its entry on the CVE ID, which provides extra information like vulnerability scoring.
 
     ```mermaid

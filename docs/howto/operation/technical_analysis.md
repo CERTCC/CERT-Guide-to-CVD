@@ -102,8 +102,8 @@ process more efficient.
 
 !!! example "Testing Infrastructure and Tool Development"
 
-    We have followed this exact path at the CERT/CC: tools such as [Dranzer](https://github.com/CERTCC/dranzer) and
-    [BFF](https://github.com/CERTCC/certfuzz) came directly out of vulnerability analysts applying broad knowledge of
+    We have followed this exact path at the CERT/CC: tools such as [Dranzer](https://github.com/CERTCC/dranzer){:target="_blank"} and
+    [BFF](https://github.com/CERTCC/certfuzz){:target="_blank"} came directly out of vulnerability analysts applying broad knowledge of
     vulnerabilities gained from detailed analysis of reports toward the development of automated discovery processes.
 
 </div>

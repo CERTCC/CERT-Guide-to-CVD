@@ -19,7 +19,7 @@ from sources internal or external to the vendor.
     only way to stay on top of the latest trends in vulnerability research
     and exploitation techniques.
 
-!!! quote "Donald Rumsfeld on [Unknown Unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)"
+!!! quote "Donald Rumsfeld on [Unknown Unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns){:target="_blank"}"
 
     Reports that say that something hasn’t happened are always interesting to me,
     because as we know, there are known knowns; there are things we know we know.

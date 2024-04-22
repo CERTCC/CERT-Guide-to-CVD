@@ -20,7 +20,7 @@ disclosed directly to the public.
 !!! info "Report Template"
 
     An example of a template for a vulnerability report, based on the
-    CERT/CC's own [Vulnerability Reporting Form](https://kb.cert.org/vuls/report/) (VRF), is provided
+    CERT/CC's own [Vulnerability Reporting Form](https://kb.cert.org/vuls/report/){:target="_blank"} (VRF), is provided
     in the [References](../../reference/simple_vrf.md) section.
     Vendors that require additional information to validate reports should
     clearly document their specific requirements in their vulnerability

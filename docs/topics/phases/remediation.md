@@ -4,7 +4,7 @@ After an initial assessment of the vulnerability is complete, it's time to work 
 
 !!! info inline end "DoDI 8531.01 DoD Vulnerability Management Definitions"
 
-    We follow the DoD's [definitions](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/853101p.pdf) of _remediation_ and _mitigation_: 
+    We follow the DoD's [definitions](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/853101p.pdf){:target="_blank"} of _remediation_ and _mitigation_: 
 
     - **Remediation** occurs when the vulnerability is eliminated or removed. 
     - **Mitigation** occurs when the impact of the vulnerability is decreased without reducing or eliminating the vulnerability

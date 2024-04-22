@@ -1,6 +1,6 @@
 !!! info "NIST SP 800-40"
 
-    [NIST SP 800-40 Rev. 4 _Guide to Enterprise Patch Management Planning_](https://csrc.nist.gov/pubs/sp/800/40/r4/final)
+    [NIST SP 800-40 Rev. 4 _Guide to Enterprise Patch Management Planning_](https://csrc.nist.gov/pubs/sp/800/40/r4/final){:target="_blank"}
     frames patch management as preventative maintenance for information systems.
     Skimming the section headings of NIST SP 800-40 provides a good overview of the process and
     objectives of VM practices:

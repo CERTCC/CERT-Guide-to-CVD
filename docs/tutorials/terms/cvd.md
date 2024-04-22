@@ -13,9 +13,9 @@ CVD inputs are [vulnerability reports](../../topics/phases/reporting.md) arising
 CVD outputs for [product](products_instances.md) vulnerabilities (software or hardware) usually include fixes or mitigation advice as well
 as [vulnerability report documents](../../topics/phases/publishing.md) or vulnerability database records, typically with some formal identifier
 (e.g.,
-[CVE](https://www.cve.org),
-[VU#](https://www.kb.cert.org/vuls),
-[BID](https://en.wikipedia.org/wiki/Bugtraq)).
+[CVE](https://www.cve.org){:target="_blank"},
+[VU#](https://www.kb.cert.org/vuls){:target="_blank"},
+[BID](https://en.wikipedia.org/wiki/Bugtraq){:target="_blank"}).
 
 !!! tip "CVD is not exclusive to software product vulnerabilities"
 
@@ -26,7 +26,7 @@ as [vulnerability report documents](../../topics/phases/publishing.md) or vulner
     still be addressed through a CVD process.
     Often these vulnerabilities are reported to the deployer directly, possibly as part of a Vulnerability Disclosure Program (VDP).
 
-[ISO/IEC 29147](https://www.iso.org/standard/72311.html) defines Vulnerability Disclosure as follows:
+[ISO/IEC 29147](https://www.iso.org/standard/72311.html){:target="_blank"} defines Vulnerability Disclosure as follows:
 
 !!! quote "ISO/IEC 29147:2014 Information technology&mdash;Security techniques&mdash;Vulnerability disclosure"
 
@@ -62,7 +62,7 @@ large. *There is no single "right" way to do this.* Sometimes,
 vulnerability information is disclosed in a blog post by the finder of
 the vulnerability, or emailed to a security mailing list. Sometimes the
 vendor issues a security advisory to its customers or to the public. At
-the CERT/CC, we publish [Vulnerability Notes](https://www.kb.cert.org/vuls) on our website, often in
+the CERT/CC, we publish [Vulnerability Notes](https://www.kb.cert.org/vuls){:target="_blank"} on our website, often in
 parallel with other parties (i.e., the finder of the vulnerability
 and/or the vendor of the vulnerable product).
 
@@ -89,7 +89,7 @@ see [Phases](../../topics/phases/index.md).
 
 !!! question "Who is *Responsible* Here?"
 
-    You may be familiar with the term [*responsible disclosure*](https://datatracker.ietf.org/doc/draft-christey-wysopal-vuln-disclosure/)
+    You may be familiar with the term [*responsible disclosure*](https://datatracker.ietf.org/doc/draft-christey-wysopal-vuln-disclosure/){:target="_blank"}
     and
     wonder how it's different from CVD. The history of *responsible
     disclosure* makes for a long story best told over adult beverages at a
@@ -116,8 +116,8 @@ see [Phases](../../topics/phases/index.md).
     ```
 
     Because of the inherent value judgement and lack of agreement on
-    its definition, the CERT/CC, along with [numerous](https://www.microsoft.com/en-us/msrc/cvd)
-    [other](https://www.cisa.gov/coordinated-vulnerability-disclosure-process)
-    [organizations](https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu),
+    its definition, the CERT/CC, along with [numerous](https://www.microsoft.com/en-us/msrc/cvd){:target="_blank"}
+    [other](https://www.cisa.gov/coordinated-vulnerability-disclosure-process){:target="_blank"}
+    [organizations](https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu){:target="_blank"},
     advocates for the use of the term *Coordinated Vulnerability Disclosure
     (CVD)* to reduce misunderstanding and promote cooperation.

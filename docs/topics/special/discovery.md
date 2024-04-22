@@ -9,7 +9,7 @@ information systems.
 !!! info "About this page"
 
     In 2014 CERT performed a study of
-    [vulnerability discovery techniques for IoT systems](https://insights.sei.cmu.edu/blog/vulnerability-discovery-for-emerging-networked-systems/).
+    [vulnerability discovery techniques for IoT systems](https://insights.sei.cmu.edu/blog/vulnerability-discovery-for-emerging-networked-systems/){:target="_blank"}.
     As we reviewed the literature, we found a number of techniques in common use. 
     Many of the techniques listed below are common to vulnerability discovery in the traditional computing and
     mobile world.

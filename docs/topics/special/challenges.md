@@ -4,7 +4,7 @@
 
     The content on this page began as a list of challenges in vulnerability analysis and response for
     IoT systems in our blog post
-    [_What's Different About Vulnerability Analysis and Discovery in Emerging Networked Systems?_](https://insights.sei.cmu.edu/cert/2015/01/-whats-different-about-vulnerability-analysis-and-discovery-in-emerging-networked-systems.html).
+    [_What's Different About Vulnerability Analysis and Discovery in Emerging Networked Systems?_](https://insights.sei.cmu.edu/cert/2015/01/-whats-different-about-vulnerability-analysis-and-discovery-in-emerging-networked-systems.html){:target="_blank"}.
     We have since recognized that many of these challenges are not unique to IoT, but are
     common to many emerging networked systems, including AI/ML systems.
 
@@ -185,9 +185,9 @@ that can affect different types of systems in different ways.
 
 
     Vulnerability scanning tools largely look for known vulnerabilities. They, in turn, depend on vulnerability 
-    databases for their source material. However, databases of known vulnerabilities&mdash;[CVE](https://www.cve.org),
-    the [National Vulnerability Database](https://nvd.nist.gov) (NVD), [Japan Vulnerability Notes](https://jvn.jp/en/).
-    (JVN) and the [CERT Vulnerability Notes Database](https://www.kb.cert.org/vuls)&mdash;are heavily biased by their 
+    databases for their source material. However, databases of known vulnerabilities&mdash;[CVE](https://www.cve.org){:target="_blank"},
+    the [National Vulnerability Database](https://nvd.nist.gov){:target="_blank"} (NVD), [Japan Vulnerability Notes](https://jvn.jp/en/){:target="_blank"}.
+    (JVN) and the [CERT Vulnerability Notes Database](https://www.kb.cert.org/vuls){:target="_blank"}&mdash;are heavily biased by their 
     history of tracking vulnerabilities in traditional computing systems (e.g., Windows, Linux, macOS, Unix and variants).
     Recent conversations with these and other vulnerability database operators indicate that the need to expand coverage
     into Mobile, IoT, AI/ML, and Web systems is either a topic of active investigation and discussion or a work 
@@ -257,7 +257,7 @@ that can affect different types of systems in different ways.
     Our experience is that many new vendors are surprised by the vulnerability disclosure process.
     We frequently find ourselves having conversations that rehash decades of vulnerability 
     coordination and disclosure debates with vendors who appear to experience something similar to the
-    [Kübler-Ross stages of grief](https://en.wikipedia.org/wiki/Five_stages_of_grief) during the process 
+    [Kübler-Ross stages of grief](https://en.wikipedia.org/wiki/Five_stages_of_grief){:target="_blank"} during the process 
     (denial, anger, bargaining, depression, and acceptance).
 
 !!! warning "Unresolved Vulnerability Disclosure Debates"

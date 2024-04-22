@@ -36,7 +36,7 @@ extra steps:
         decide -->|2b no<br/>notify| reporter 
     ```
 
-4. CERT/CC begins planning on public disclosure as a [Vulnerability Note](https://www.kb.cert.org/vuls)
+4. CERT/CC begins planning on public disclosure as a [Vulnerability Note](https://www.kb.cert.org/vuls){:target="_blank"}
    after an embargo period, typically 45 days from initial date of attempted contact, or another
    date negotiated with the reporter.
 5. If the vendor replies, CERT/CC will work with the vendor to develop
@@ -119,7 +119,7 @@ flowchart TD
     will begin to manage the process and timeline. We will take reporter's
     comments into our decision process, but by submitting a report, the
     reporter agrees that CERT/CC has final decision authority over any
-    coordination and publishing on [kb.cert.org](https://www.kb.cert.org/vuls),
+    coordination and publishing on [kb.cert.org](https://www.kb.cert.org/vuls){:target="_blank"},
     and agree to follow our [Disclosure Policy](../../reference/certcc_disclosure_policy.md) 
     by default. However, as the vulnerability reporter, you
     are the owner of the vulnerability information and are free to disclose

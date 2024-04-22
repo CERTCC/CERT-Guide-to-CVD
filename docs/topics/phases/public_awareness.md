@@ -106,7 +106,7 @@ the following questions in establishing their policies and practices:
     instructions for system deployers, and to publish that information in
     synchronization with the vendors' release of the patches. When that
     advance notification does not occur sufficiently early, as in the case
-    of [Meltdown and Spectre](https://www.defenseone.com/technology/2018/02/how-long-did-us-government-know-about-spectre-and-meltdown/145776/), coordinators may be in a rush to
+    of [Meltdown and Spectre](https://www.defenseone.com/technology/2018/02/how-long-did-us-government-know-about-spectre-and-meltdown/145776/){:target="_blank"}, coordinators may be in a rush to
     understand the issue while preparing their advisories, leading to
     erroneous or inadequate advice to their constituencies.
 
@@ -125,11 +125,11 @@ parties can keep track of the issue.
 
 !!! example "Common Vulnerability and Exposure (CVE) IDs"
 
-    The most common identifier in use today is the [CVE ID](https://www.cve.org),
+    The most common identifier in use today is the [CVE ID](https://www.cve.org){:target="_blank"},
     which is
     meant as a globally unique identifier for a public vulnerability report.
     CVE IDs can be obtained from the CVE Project at MITRE or one of several
-    [CVE Numbering Authorities](https://www.cve.org/PartnerInformation/ListofPartners)
+    [CVE Numbering Authorities](https://www.cve.org/PartnerInformation/ListofPartners){:target="_blank"}
     (CNAs) established by MITRE&mdash;typically the
     vendors of common software products themselves. Both reporters and
     vendors can request a CVE ID, but reporters should first check if the

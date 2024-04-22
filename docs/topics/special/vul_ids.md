@@ -6,7 +6,7 @@ how many problems are involved in a report can be tricky at times. The
 implications of this in terms of the CVD process and the compilation of
 vulnerability databases is significant.
 
-This section is adapted from a [CERT/CC blog post](https://insights.sei.cmu.edu/blog/vulnerability-ids-fast-and-slow/).
+This section is adapted from a [CERT/CC blog post](https://insights.sei.cmu.edu/blog/vulnerability-ids-fast-and-slow/){:target="_blank"}.
 
 ## On the Complexities of Vulnerability Identity
 
@@ -16,8 +16,8 @@ They may be used to identify the following:
 
 - A vulnerability report or case
 - A document or database entry that describes a vulnerability (e.g.,
-    [CERT Vulnerability Notes](https://www.kb.cert.org/vuls))
-- The [specific flaw](https://www.cve.org) that such a document or report describes
+    [CERT Vulnerability Notes](https://www.kb.cert.org/vuls){:target="_blank"})
+- The [specific flaw](https://www.cve.org){:target="_blank"} that such a document or report describes
 
 ```mermaid
 ---
@@ -35,7 +35,7 @@ that's not always the case, for a number of reasons, including those
 below:
 
 - Different processes use different abstractions to define what "unit
-    vulnerability" is. For example, CVE has [specific guidance](https://www.cve.org/ResourcesSupport/AllResources/CNARules) on
+    vulnerability" is. For example, CVE has [specific guidance](https://www.cve.org/ResourcesSupport/AllResources/CNARules){:target="_blank"} on
     counting rules.
 
 - It's rare for vendors to release single-issue patches. More often
@@ -74,9 +74,9 @@ erDiagram
     one individually. 
     Here's an extreme example of this phenomenon:
     although the CERT/CC published only a single Vulnerability Note 
-    [VU#582497](https://www.kb.cert.org/vuls/id/582497) for
+    [VU#582497](https://www.kb.cert.org/vuls/id/582497){:target="_blank"} for
     Android apps that failed to validate SSL certificates, in the end it
-    covered 23,667 [vulnerable apps](https://docs.google.com/spreadsheets/d/1t5GXwjw82SyunALVJb2w0zi3FoLRIkfGPc7AMjRF0r4). Should each get its own
+    covered 23,667 [vulnerable apps](https://docs.google.com/spreadsheets/d/1t5GXwjw82SyunALVJb2w0zi3FoLRIkfGPc7AMjRF0r4){:target="_blank"}. Should each get its own
     identifier? Yes, and we did assign individual VU# identifiers to each
     vulnerable app. But this highlights the distinction between the
     vulnerability and the document that describes it.
@@ -85,7 +85,7 @@ erDiagram
 
     We have recently been exploring the implications of vulnerability identification
     in Artificial Intelligence and Machine Learning (AI/ML) systems. 
-    In our 2021 paper [*On managing vulnerabilities in AI/ML systems*](https://doi.org/10.1145/3442167.3442177),
+    In our 2021 paper [*On managing vulnerabilities in AI/ML systems*](https://doi.org/10.1145/3442167.3442177){:target="_blank"},
     we discuss a number of challenges in identifying vulnerabilities in AI/ML systems, including the
     difficulty of localizing the source of a vulnerability in a complex system to a specific component.
     We expect to have more to say on this topic in the future.
@@ -93,12 +93,12 @@ erDiagram
 !!! info "Prior work: Vulnerability Cross-Reference (VXREF)"
 
     When this content was first published, work was underway within the
-    [Vulnerability Report Data Exchange](https://www.first.org/global/sigs/vrdx/)
+    [Vulnerability Report Data Exchange](https://www.first.org/global/sigs/vrdx/){:target="_blank"}
     special interest group (VRDX-SIG)
-    within [FIRST](https://www.first.org/) on a vulnerability report cross-reference data model that
+    within [FIRST](https://www.first.org/){:target="_blank"} on a vulnerability report cross-reference data model that
     would allow for the expression of relationships between vulnerability
     reports. That work has since concluded, and the resulting data model
-    can be found on Github at [FIRSTdotorg/vrdx-sig-vxref-wip](https://github.com/FIRSTdotorg/vrdx-sig-vxref-wip)
+    can be found on Github at [FIRSTdotorg/vrdx-sig-vxref-wip](https://github.com/FIRSTdotorg/vrdx-sig-vxref-wip){:target="_blank"}
 
     In order to make it easier to relate vulnerability reports and records
     to each other, the VXREF work represents the following concepts:
@@ -108,7 +108,7 @@ erDiagram
 
     Because of the prevalence and popular use of CVE IDs in the
     vulnerability response space, many people assume that vulnerability
-    identity is synonymous with [Common Vulnerabilities and Exposures](https://www.cve.org) (CVE).
+    identity is synonymous with [Common Vulnerabilities and Exposures](https://www.cve.org){:target="_blank"} (CVE).
     However, let's briefly look at some ways in which that assumption is inaccurate:
 
     - CVE has limited scope of coverage.
@@ -117,7 +117,7 @@ erDiagram
 ## Every Vulnerability Database Makes Choices
 
 As the CERT/CC's vulnerability analysis efforts have expanded into
-[vulnerability coordination for non-traditional computing products](https://insights.sei.cmu.edu/blog/coordinating-vulnerabilities-iot-devices/)
+[vulnerability coordination for non-traditional computing products](https://insights.sei.cmu.edu/blog/coordinating-vulnerabilities-iot-devices/){:target="_blank"}
 (mobile, vehicles, medical devices, IoT, ΑΙ/ΜL, etc.), we've also begun
 to hit up against another set of issues affecting vulnerability
 identities and compatibility across vulnerability databases (VDBs):
@@ -126,7 +126,7 @@ namely, bias.
 !!! info "Buying Into the Bias: Why Vulnerability Statistics Suck"
 
     Steve Christey Coley and Brian Martin mention a number of biases that
-    affect all VDBs in their BlackHat 2013 talk ([video](https://www.youtube.com/watch?v=3Sx0uJGRQ4s)|[pdf](https://media.blackhat.com/us-13/US-13-Martin-Buying-Into-The-Bias-Why-Vulnerability-Statistics-Suck-WP.pdf)):
+    affect all VDBs in their BlackHat 2013 talk ([video](https://www.youtube.com/watch?v=3Sx0uJGRQ4s){:target="_blank"}|[pdf](https://media.blackhat.com/us-13/US-13-Martin-Buying-Into-The-Bias-Why-Vulnerability-Statistics-Suck-WP.pdf){:target="_blank"}):
 
     - **Selection bias**. Not all products receive equal scrutiny. Not all
     vul reports are included in VDBs.
@@ -182,7 +182,7 @@ These choices include the following:
     VDB serves. Christey and Martin cover this issue in their list of
     biases, describing it as "the most prevalent source of problems for
     analysis."
-    For example, the CVE program has specific [assignment rules](https://www.cve.org/ResourcesSupport/AllResources/CNARules).
+    For example, the CVE program has specific [assignment rules](https://www.cve.org/ResourcesSupport/AllResources/CNARules){:target="_blank"}.
 
 </div>
 
@@ -235,9 +235,9 @@ These choices include the following:
 ## Where We Are vs. Where We Need to Be
 
 The vulnerability databases you are probably most familiar with, such as
-the [National Vulnerability Database](https://nvd.nist.gov) (NVD),
-[Common Vulnerabilities and Exposures](https://www.cve.org) (CVE), and the
-[CERT Vulnerability Notes Database](https://www.kb.cert.org/vuls)
+the [National Vulnerability Database](https://nvd.nist.gov){:target="_blank"} (NVD),
+[Common Vulnerabilities and Exposures](https://www.cve.org){:target="_blank"} (CVE), and the
+[CERT Vulnerability Notes Database](https://www.kb.cert.org/vuls){:target="_blank"}
 have historically focused on vulnerabilities affecting
 traditional computing platforms (Windows, Linux, OS X, and other
 Unix-derived operating systems) with only a smattering of coverage for
@@ -257,11 +257,11 @@ needs of both disclosure coordination and patch deployment.
 Furthermore, there is a strong English language and English-speaking
 country bias in the major U.S.-based VDBs (hopefully this isn't
 terribly surprising). China has not one but two major VDBs: [China
-National Vulnerability Database of Information Security](https://en.wikipedia.org/wiki/Chinese_National_Vulnerability_Database) (CNNVD)
-and [China National Vulnerability Database](http://www.cnvd.org.cn/) (CNVD).
+National Vulnerability Database of Information Security](https://en.wikipedia.org/wiki/Chinese_National_Vulnerability_Database){:target="_blank"} (CNNVD)
+and [China National Vulnerability Database](http://www.cnvd.org.cn/){:target="_blank"} (CNVD).
 We have been
-working with CSIRTs around the world (e.g., [JPCERT/CC](https://www.jpcert.or.jp/english/)
-and [NCSC-FI](https://www.viestintavirasto.fi/en/cybersecurity.html)
+working with CSIRTs around the world (e.g., [JPCERT/CC](https://www.jpcert.or.jp/english/){:target="_blank"}
+and [NCSC-FI](https://www.viestintavirasto.fi/en/cybersecurity.html){:target="_blank"}
 to coordinate vulnerability response for years and realize the
 importance of international cooperation and interoperability in
 vulnerability response.
@@ -290,7 +290,7 @@ vulnerability identifiers and databases that serve different audiences,
 support diverse business practices, and operate at different
 characteristic rates.
 
-In his book [*Thinking, Fast and Slow*](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow), Daniel Kahneman
+In his book [*Thinking, Fast and Slow*](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow){:target="_blank"}, Daniel Kahneman
 describes human thought processes in terms of two distinct systems:
 
 ```mermaid
@@ -355,7 +355,7 @@ around the globe.
 
 ## A Path Toward VDB Interoperability
 
-As mentioned above, the FIRST [VRDX-SIG](https://www.first.org/global/sigs/vrdx/)
+As mentioned above, the FIRST [VRDX-SIG](https://www.first.org/global/sigs/vrdx/){:target="_blank"}
 worked on a vulnerability cross-reference scheme that would allow for
 widely distributed
 vulnerability ID assignments and VDBs to run at whatever rate is
@@ -380,7 +380,7 @@ of the following ways:
 - **overlap** - related but not fully contained
 
 This work built on both prior work at the CERT/CC and Harold Booth and
-Karen Scarfone's October 2013 IETF Draft [Vulnerability Data Model](https://datatracker.ietf.org/doc/draft-booth-sacm-vuln-model/02/).
+Karen Scarfone's October 2013 IETF Draft [Vulnerability Data Model](https://datatracker.ietf.org/doc/draft-booth-sacm-vuln-model/02/){:target="_blank"}.
 However, while it would be great if we could get to a unified
 data model like the IETF draft for vulnerability information exchange
 eventually, at the time the simplest thing that could possibly work seemed

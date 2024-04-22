@@ -6,7 +6,7 @@ identified during previous phases.
 
 Some vendors have a specific website that lists all their security
 advisories to date.
-Others might email the disclosure to a user mailing list or a security mailing list such as [Full Disclosure](https://seclists.org/fulldisclosure/).
+Others might email the disclosure to a user mailing list or a security mailing list such as [Full Disclosure](https://seclists.org/fulldisclosure/){:target="_blank"}.
 
 Reporters often choose to publish their findings
 in a presentation or paper, or post it to a mailing list or blog.

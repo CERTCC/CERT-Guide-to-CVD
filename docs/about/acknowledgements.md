@@ -20,7 +20,7 @@ and Garret Wassermann
 
 We also acknowledge the contributions of
 
-- the broader [CERT Division](https://www.sei.cmu.edu/about/divisions/cert/), part of the [Software Engineering Institute](https://www.sei.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu)
-- the [GitHub community](https://github.com/CERTCC/CERT-Guide-to-CVD/graphs/contributors)
+- the broader [CERT Division](https://www.sei.cmu.edu/about/divisions/cert/){:target="_blank"}, part of the [Software Engineering Institute](https://www.sei.cmu.edu){:target="_blank"} at [Carnegie Mellon University](https://www.cmu.edu){:target="_blank"}
+- the [GitHub community](https://github.com/CERTCC/CERT-Guide-to-CVD/graphs/contributors){:target="_blank"}
 
 who have provided feedback and suggestions that have helped shape this documentation.

@@ -1,6 +1,6 @@
 # Presume Benevolence
 
-[Benevolence](https://plato.stanford.edu/entries/principle-beneficence/) refers to the morally valuable character trait or virtue of
+[Benevolence](https://plato.stanford.edu/entries/principle-beneficence/){:target="_blank"} refers to the morally valuable character trait or virtue of
 being inclined to act to benefit others. <!--excerpt-start-->In terms of the CVD process, we
 have found that it is usually best to assume that any individual who has
 taken the time and effort to reach out to a vendor or a coordinator to
@@ -20,7 +20,7 @@ discussions with them.
 
 !!! info "Finder/Reporter Motivations"
 
-    [I Am the Cavalry](https://www.iamthecavalry.org/motivations/) describes Finder/Reporter motivations thus:
+    [I Am the Cavalry](https://www.iamthecavalry.org/motivations/){:target="_blank"} describes Finder/Reporter motivations thus:
     
     | Finder / Reporter Motivation | Summary                       | Description                                                                                    |
     |:----------------------------:|:------------------------------|:-----------------------------------------------------------------------------------------------|
@@ -33,9 +33,9 @@ discussions with them.
 !!! info "NTIA Insights"
 
     In 2016, the Awareness and Adoption Group within the
-    [NTIA Multistakeholder Process for Cybersecurity Vulnerabilities](https://www.ntia.doc.gov/other-publication/2016/multistakeholder-process-cybersecurity-vulnerabilities)
+    [NTIA Multistakeholder Process for Cybersecurity Vulnerabilities](https://www.ntia.doc.gov/other-publication/2016/multistakeholder-process-cybersecurity-vulnerabilities){:target="_blank"}
     surveyed security researchers and vendors,
-    [finding](https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a_a_vulnerability_disclosure_insights_report.pdf)
+    [finding](https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a_a_vulnerability_disclosure_insights_report.pdf){:target="_blank"}
     that:
 
     - 92% of researchers participate in some form of CVD.

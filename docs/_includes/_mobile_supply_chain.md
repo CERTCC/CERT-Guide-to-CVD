@@ -16,7 +16,7 @@
 
     Historically, the smartphone market provides a clear example of the effect of 
     the software supply chain on vulnerability response. 
-    In a 2015 [blog post](https://insights.sei.cmu.edu/blog/supporting-android-ecosystem/),
+    In a 2015 [blog post](https://insights.sei.cmu.edu/blog/supporting-android-ecosystem/){:target="_blank"},
     we discussed the complexity of the Android ecosystem and the challenges of coordinating vulnerability
     disclosure and patch deployment in that environment at the time.
 

@@ -14,7 +14,7 @@
     and changing requirements that are often difficult to recognize.<!--excerpt-end--> 
 
     For a broader discussion of wicked problems, see the Wikipedia
-    article on [Wicked Problems](https://en.wikipedia.org/wiki/Wicked_problem).
+    article on [Wicked Problems](https://en.wikipedia.org/wiki/Wicked_problem){:target="_blank"}.
 
     H. W. Rittel and M. M. Webber, "Dilemmas in a General Theory of
     Planning," *Policy Sciences,* vol. 4, no. 1973, pp. 155-169, June

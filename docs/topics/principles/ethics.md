@@ -2,7 +2,7 @@
 
 !!! info inline end "ethicsfIRST"
 
-    The FIRST Ethics [site](https://ethicsfirst.org/) addresses the following topics:
+    The FIRST Ethics [site](https://ethicsfirst.org/){:target="_blank"} addresses the following topics:
 
     - trustworthiness
     - coordinated vulnerability disclosure
@@ -19,8 +19,8 @@
 
 In the security response arena, work toward defining ethical
 guidelines is ongoing. The Forum of Incident Response and Security Teams
-(FIRST) has established an [Ethics special interest group](https://www.first.org/global/sigs/ethics/)
-to develop a [code of ethics](https://ethicsfirst.org/) for its member teams and liaisons.
+(FIRST) has established an [Ethics special interest group](https://www.first.org/global/sigs/ethics/){:target="_blank"}
+to develop a [code of ethics](https://ethicsfirst.org/){:target="_blank"} for its member teams and liaisons.
 
 !!! quote "FIRST Ethics SIG: Duty of coordinated vulnerability disclosure"
 
@@ -38,7 +38,7 @@ While we are not attempting to replicate their ethical guidelines,
 we do want to highlight that these codes exist and are relevant to the
 work of CVD.
 
-!!! quote "Association for Computing Machinery (ACM) [Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct)"
+!!! quote "Association for Computing Machinery (ACM) [Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct){:target="_blank"}"
 
     - Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing.
     - Avoid harm.
@@ -48,7 +48,7 @@ work of CVD.
     - Respect privacy.
     - Honor confidentiality.
 
-!!! quote "Usenix System Administrators' [Code of Ethics](https://www.usenix.org/system-administrators-code-ethics)"
+!!! quote "Usenix System Administrators' [Code of Ethics](https://www.usenix.org/system-administrators-code-ethics){:target="_blank"}"
 
     I will do my best to make decisions consistent with the safety, privacy, and well-being of my community and the
     public, and to disclose promptly factors that might pose unexamined risks or dangers.
@@ -58,7 +58,7 @@ work of CVD.
 In many ways, disclosing a vulnerability can be thought of as a form of
 journalistic reporting, in that
 
-!!! quote "American Press Association: [Principles of Journalism](https://americanpressassociation.com/principles-of-journalism/)"
+!!! quote "American Press Association: [Principles of Journalism](https://americanpressassociation.com/principles-of-journalism/){:target="_blank"}"
 
     The central purpose of journalism is to provide citizens with accurate and reliable information they need to function in a free society.
 
@@ -70,7 +70,7 @@ and the security of their information.
 We find the four major principles offered by The Society of Professional
 Journalists Code of Ethics to be relevant to CVD as well:
 
-!!! quote "Society of Professional Journalists [Code of Ethics](https://www.spj.org/ethicscode.asp)"
+!!! quote "Society of Professional Journalists [Code of Ethics](https://www.spj.org/ethicscode.asp){:target="_blank"}"
 
     -   **Seek truth and report it** -- Ethical journalism should be
     accurate and fair. Journalists should be honest and courageous in

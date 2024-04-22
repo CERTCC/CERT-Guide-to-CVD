@@ -148,13 +148,13 @@ mitigation have become increasingly important to governments worldwide.
     issues to government agencies. Software vulnerabilities that impact
     safety are increasingly being reported through these channels.
     
-    - The [FDA Medical Device Reporting process](https://www.fda.gov/medicaldevices/safety/reportaproblem/)
+    - The [FDA Medical Device Reporting process](https://www.fda.gov/medicaldevices/safety/reportaproblem/){:target="_blank"}
     enables oversight and detection of
     potential device-related safety issues.
     - The National Highway Transportation and Safety Commission (NHTSA) collects 
-    [reports of vehicle safety issues](https://www.nhtsa.gov/report-a-safety-problem),
+    [reports of vehicle safety issues](https://www.nhtsa.gov/report-a-safety-problem){:target="_blank"},
     which helps to drive its investigation and recall processes.
-    - The FAA offers a number of [safety reporting](https://www.faa.gov/aircraft/safety/report/) capabilities as well.
+    - The FAA offers a number of [safety reporting](https://www.faa.gov/aircraft/safety/report/){:target="_blank"} capabilities as well.
 
 !!! tip "Continuous Improvement"
 
@@ -166,7 +166,7 @@ mitigation have become increasingly important to governments worldwide.
 !!! example "Lessons Learned"
 
     For example, the National Transportation Safety Board is explicitly tasked with investigating transportation
-    accidents, and NASA collects [lessons learned](https://llis.nasa.gov/) in a public database.
+    accidents, and NASA collects [lessons learned](https://llis.nasa.gov/){:target="_blank"} in a public database.
     This kind of continuous improvement process has demonstrated its effectiveness in a variety of environments and 
     seems to provide a good model for cybersecurity vulnerabilities in both the private and public sectors.
 
@@ -179,14 +179,14 @@ mitigation have become increasingly important to governments worldwide.
     interests. These cybersecurity issues have been global for quite some
     time.
 
-    - In 2022, [ENISA](https://www.enisa.europa.eu/), the [European Union Agency for Cybersecurity](https://www.enisa.europa.eu/), published
-    a report on [Coordinated Vulnerability Disclosure Policies in the EU](https://www.enisa.europa.eu/publications/coordinated-vulnerability-disclosure-policies-in-the-eu)
+    - In 2022, [ENISA](https://www.enisa.europa.eu/){:target="_blank"}, the [European Union Agency for Cybersecurity](https://www.enisa.europa.eu/){:target="_blank"}, published
+    a report on [Coordinated Vulnerability Disclosure Policies in the EU](https://www.enisa.europa.eu/publications/coordinated-vulnerability-disclosure-policies-in-the-eu){:target="_blank"}
 
-    - The European Commission has proposed a [Cyber Resilience Act](https://www.european-cyber-resilience-act.com/)
+    - The European Commission has proposed a [Cyber Resilience Act](https://www.european-cyber-resilience-act.com/){:target="_blank"}
     to address two major problems:
 
     > 1. The low level of cybersecurity of products with digital elements, reflected by widespread vulnerabilities and the insufficient and inconsistent provision of security updates to address them.
     > 2. The insufficient understanding and access to information by users, preventing them from choosing products with adequate cybersecurity properties or using them in a secure manner.
 
-    The act was approved by EU Parliament in [March 2024](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_EN.html), 
+    The act was approved by EU Parliament in [March 2024](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_EN.html){:target="_blank"}, 
     clearing the way for adoption by the Council of the European Union. 

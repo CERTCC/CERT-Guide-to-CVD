@@ -32,9 +32,9 @@ for the other vendors to catch up. We discuss this conundrum further in
 
 !!! info inline end "FIRST MPCVD Guidelines and Practices"
 
-    The FIRST [Vulnerability Coordination SIG](https://www.first.org/global/sigs/vulnerability-coordination/)
+    The FIRST [Vulnerability Coordination SIG](https://www.first.org/global/sigs/vulnerability-coordination/){:target="_blank"}
     has published its
-    [_Guidelines and Practices for Multi-Party Vulnerability Coordination and Disclosure_](https://www.first.org/global/sigs/vulnerability-coordination/multiparty/guidelines-v1.1)
+    [_Guidelines and Practices for Multi-Party Vulnerability Coordination and Disclosure_](https://www.first.org/global/sigs/vulnerability-coordination/multiparty/guidelines-v1.1){:target="_blank"}
     which we strongly recommend reading.
 
     Summarizing their guiding concepts and best practices:
@@ -70,10 +70,10 @@ independent discovery of vulnerabilities can and does happen.
 <br/> <!-- for vertical spacing -->
 !!! example "Heartbleed and Multiple Finders"
 
-    Perhaps the best known example of multiple finders is [Heartbleed](http://heartbleed.com/)
-    ([CVE-2014-0160](https://nvd.nist.gov/vuln/detail/cve-2014-0160)).
+    Perhaps the best known example of multiple finders is [Heartbleed](http://heartbleed.com/){:target="_blank"}
+    ([CVE-2014-0160](https://nvd.nist.gov/vuln/detail/cve-2014-0160){:target="_blank"}).
     In part because of the complexity of the coordinated disclosure
-    process, a second CVE identifier ([CVE-2014-0346](https://nvd.nist.gov/vuln/detail/CVE-2014-0346))
+    process, a second CVE identifier ([CVE-2014-0346](https://nvd.nist.gov/vuln/detail/CVE-2014-0346){:target="_blank"})
     was assigned to the same vulnerability  and later retracted.
 
 !!! tip "Independent Discovery"
@@ -161,8 +161,8 @@ flowchart TD
     completed its patch, not only does the vendor of product X have to
     integrate the fix, but all the other vendors that include the library
     need to update their products as well. We have done this kind of
-    coordination in the past with vulnerabilities affecting MS-SQL ([VU#484891](https://www.kb.cert.org/vuls/id/484891)),
-    Oracle Outside In ([VU#916896](https://www.kb.cert.org/vuls/id/916896)), and so on.
+    coordination in the past with vulnerabilities affecting MS-SQL ([VU#484891](https://www.kb.cert.org/vuls/id/484891){:target="_blank"}),
+    Oracle Outside In ([VU#916896](https://www.kb.cert.org/vuls/id/916896){:target="_blank"}), and so on.
     The cascading effects of library
     vulnerabilities often result in significant subsets of users left
     vulnerable while they await their product vendor's
@@ -256,12 +256,12 @@ flowchart TD
 
     While we cannot
     place the entirety of the blame for widespread Android SSL
-    Man-in-the-Middle vulnerabilities like [VU#582497](https://www.kb.cert.org/vuls/id/582497) on any
+    Man-in-the-Middle vulnerabilities like [VU#582497](https://www.kb.cert.org/vuls/id/582497){:target="_blank"} on any
     specific phenomenon, our spot checks of some of the vulnerable apps made
     it clear that parallel implementation of the same errors was a
     contributing factor in many of the affected apps.
     In that case, we identified more than
-    [23,000 distinct apps](https://docs.google.com/spreadsheets/d/1t5GXwjw82SyunALVJb2w0zi3FoLRIkfGPc7AMjRF0r4),
+    [23,000 distinct apps](https://docs.google.com/spreadsheets/d/1t5GXwjw82SyunALVJb2w0zi3FoLRIkfGPc7AMjRF0r4){:target="_blank"},
     and coordinated with thousands of vendors.
 
 !!! example "Protocol Vulnerabilities"
@@ -273,10 +273,10 @@ flowchart TD
     usually imply that every product supporting that feature will need to be
     fixed. Multi-originator cases can be very complex to coordinate. The
     SNMP vulnerabilities found in 2002 via the [OUSPG PROTOS Test Suite
-    c06-snmpv1](https://web.archive.org/web/20140901000000*/https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1) 
-    ([VU#854306](https://www.kb.cert.org/vuls/id/854306),
-    [VU#107186](https://www.kb.cert.org/vuls/id/107186),
-    [CA-2002-03](https://insights.sei.cmu.edu/library/2002-cert-advisories/))
+    c06-snmpv1](https://web.archive.org/web/20140901000000*/https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1){:target="_blank"} 
+    ([VU#854306](https://www.kb.cert.org/vuls/id/854306){:target="_blank"},
+    [VU#107186](https://www.kb.cert.org/vuls/id/107186){:target="_blank"},
+    [CA-2002-03](https://insights.sei.cmu.edu/library/2002-cert-advisories/){:target="_blank"})
     represented just such a case, and remain to
     this day among the most complex disclosure cases the CERT/CC has ever
     coordinated.
@@ -284,7 +284,7 @@ flowchart TD
 !!! info "Mass Notifications for Multiparty CVD"
 
     In their Usenix Security 2016 paper
-    [_Hey, You Have a Problem: On the Feasibility of Large-Scale Web Vulnerability Notification_](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/stock),
+    [_Hey, You Have a Problem: On the Feasibility of Large-Scale Web Vulnerability Notification_](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/stock){:target="_blank"},
     Ben Stock, Giancarlo Pellegrino, and Christian Rossow examined issues surrounding large-scale vulnerability notification
     campaigns.
     In this work, which focused on notifying website operators of vulnerabilities in their sites, 

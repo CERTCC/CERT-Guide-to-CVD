@@ -24,10 +24,10 @@ of significant changes in the status of any vulnerability he or she
 reported to the extent possible without revealing information provided
 to us in confidence.
 
-Vulnerabilities will be disclosed in [Vulnerability Notes](http://www.kb.cert.org/vuls).
+Vulnerabilities will be disclosed in [Vulnerability Notes](http://www.kb.cert.org/vuls){:target="_blank"}.
 
 Vulnerability reports for U.S. Government web sites will be forwarded
-to [CISA](http://www.cisa.gov/) for coordination with the government.
+to [CISA](http://www.cisa.gov/){:target="_blank"} for coordination with the government.
 
 ## Frequently Asked Questions
 

@@ -119,7 +119,7 @@ disclosure of information about software and system vulnerabilities.
     The CERT/CC has already encountered cases where the question of _who owns an algorithm_
     has been a significant factor in the vulnerability coordination process.
 
-    In [VU#425163](https://kb.cert.org/vuls/id/425163) _Machine learning classifiers trained via gradient descent are vulnerable to arbitrary misclassification attack_,
+    In [VU#425163](https://kb.cert.org/vuls/id/425163){:target="_blank"} _Machine learning classifiers trained via gradient descent are vulnerable to arbitrary misclassification attack_,
     we highlighted the fact that all classifiers trained via gradient descent are vulnerable to adversarial examples.
     But with whom should we coordinate to fix this problem? The authors of the paper that defined the gradient descent algorithm?
     While those authors might be interested in following up on the problem in a future paper, they are not the ones who have deployed the algorithm in a system,
@@ -144,10 +144,10 @@ posed by these systems.
 !!! example "The Growing Importance of Vulnerability Response"
 
     Here's just one example: in 2004, it was considered
-    [controversial](https://spectrum.ieee.org/unsafe-at-any-broadband-speed)
+    [controversial](https://spectrum.ieee.org/unsafe-at-any-broadband-speed){:target="_blank"}
     when the CERT/CC advised users to "use a different browser" in
     response to a vulnerability in the most popular browser of the day
-    ([VU#713878](https://www.kb.cert.org/vuls/id/713878)).
+    ([VU#713878](https://www.kb.cert.org/vuls/id/713878){:target="_blank"}).
     However, consider the implications today if we were
     to issue similar advice: "use a different phone," "drive a different
     car," or "use a different bank." If those phrases give you pause (as

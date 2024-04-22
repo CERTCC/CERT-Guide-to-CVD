@@ -21,7 +21,7 @@ testing.
     Andy Ozment and Stuart Schechter studied the impact of legacy code on the security
     of modern software and how large code changes might introduce 
     vulnerabilities in their 2006 paper
-    [*Milk or Wine: Does Software Security Improve with Age?*](https://www.usenix.org/legacy/event/sec06/tech/full_papers/ozment/ozment.pdf)
+    [*Milk or Wine: Does Software Security Improve with Age?*](https://www.usenix.org/legacy/event/sec06/tech/full_papers/ozment/ozment.pdf){:target="_blank"}
 
     They found that over a 7.5 year span, nearly two-thirds of the lines of code in then-current versions
     of OpenBSD had not been altered during the study period. Furthermore, a similar fraction of reported vulnerabilities
@@ -55,7 +55,7 @@ technical.
 
 !!! example inline end "Bad Software Architecture is a People Problem"
 
-    Kate Matsudaira's article in [ACM Queue](https://queue.acm.org/detail.cfm?id=2974011)
+    Kate Matsudaira's article in [ACM Queue](https://queue.acm.org/detail.cfm?id=2974011){:target="_blank"}
     highlights the difficulty of getting teams
     of people to work together, resulting in poor software architecture.
     While primarily concerned with maintainability
@@ -65,12 +65,12 @@ technical.
 
 Another possibility is that, even with good internal processes and
 teamwork, [no software model or specification can comprehensively account
-for the variety of environments the software may operate in](https://www.computer.org/csdl/proceedings-article/csda/1998/03370026/12OmNrMHOcu). If we
+for the variety of environments the software may operate in](https://www.computer.org/csdl/proceedings-article/csda/1998/03370026/12OmNrMHOcu){:target="_blank"}. If we
 cannot predict the environment, we cannot predict all the ways that
-things may go wrong. In fact, [research](https://www.microsoft.com/en-us/research/blog/12-18-14-equation-of-a-fuzzing-curve-part-1-2/) has shown that it appears
-[impossible](https://www.microsoft.com/en-us/research/blog/equation-of-a-fuzzing-curve-part-2-2/) to model or predict the number of vulnerabilities that may be
+things may go wrong. In fact, [research](https://www.microsoft.com/en-us/research/blog/12-18-14-equation-of-a-fuzzing-curve-part-1-2/){:target="_blank"} has shown that it appears
+[impossible](https://www.microsoft.com/en-us/research/blog/equation-of-a-fuzzing-curve-part-2-2/){:target="_blank"} to model or predict the number of vulnerabilities that may be
 found through tools like fuzzing&mdash;and, by extension, [the number of
-vulnerabilities that exist in a product](https://insights.sei.cmu.edu/library/an-analysis-of-how-many-undiscovered-vulnerabilities-remain-in-information-systems/).
+vulnerabilities that exist in a product](https://insights.sei.cmu.edu/library/an-analysis-of-how-many-undiscovered-vulnerabilities-remain-in-information-systems/){:target="_blank"}.
 
 A successful CVD process helps encourage the search for and reporting of
 vulnerabilities while minimizing harm to users. Developers supporting a

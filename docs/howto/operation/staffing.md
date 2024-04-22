@@ -47,7 +47,7 @@ all of these topics.
 
 !!! info "FIRST CSIRT Services Framework"
 
-    The FIRST [CSIRT Services Framework](https://www.first.org/standards/frameworks/csirts/csirt_services_framework_v2.1)
+    The FIRST [CSIRT Services Framework](https://www.first.org/standards/frameworks/csirts/csirt_services_framework_v2.1){:target="_blank"}
     addresses staffing considerations throughout, but we'll highlight a few items from _9 Service Area: Knowledge Transfer_:
 
     | Function | Purpose | Outcome |
@@ -57,7 +57,7 @@ all of these topics.
 
 !!! info "FIRST PSIRT Services Framework"
 
-    Even closer to the CVD process, the FIRST [PSIRT Services Framework](https://www.first.org/standards/frameworks/psirts/psirt_services_framework_v1.1)
+    Even closer to the CVD process, the FIRST [PSIRT Services Framework](https://www.first.org/standards/frameworks/psirts/psirt_services_framework_v1.1){:target="_blank"}
     also addresses staffing considerations in multiple sections, but here we'd like to highlight _Service 6.1 Training the PSIRT_
   
     | Function | Purpose | Outcome |
@@ -73,11 +73,11 @@ all of these topics.
 
     There are many articles and studies on the topic of security analyst burnout. Here are a few:
 
-    - [It’s Time to Break the SOC Analyst Burnout Cycle](https://www.sans.org/blog/it-s-time-to-break-the-soc-analyst-burnout-cycle/)
-    - [Defending the Defenders: Understanding and Preventing Security Analyst Burnout](https://www.bitdefender.com/blog/businessinsights/defending-the-defenders-understanding-and-preventing-security-analyst-burnout/)
-    - [Building a Security Operations Center (SOC)](https://www.rsaconference.com/events/us12/agenda/sessions/683/building-a-security-operations-center-soc)
-    - [Avoiding burnout: Ten tips for hackers working incident response](http://www.csoonline.com/article/2149900/infosec-careers/avoiding-burnout-ten-tips-for-hackers-working-incident-response.html)
-    - [A human capital model for mitigating security analyst burnout](https://www.usenix.org/conference/soups2015/proceedings/presentation/sundaramurthy)
+    - [It’s Time to Break the SOC Analyst Burnout Cycle](https://www.sans.org/blog/it-s-time-to-break-the-soc-analyst-burnout-cycle/){:target="_blank"}
+    - [Defending the Defenders: Understanding and Preventing Security Analyst Burnout](https://www.bitdefender.com/blog/businessinsights/defending-the-defenders-understanding-and-preventing-security-analyst-burnout/){:target="_blank"}
+    - [Building a Security Operations Center (SOC)](https://www.rsaconference.com/events/us12/agenda/sessions/683/building-a-security-operations-center-soc){:target="_blank"}
+    - [Avoiding burnout: Ten tips for hackers working incident response](http://www.csoonline.com/article/2149900/infosec-careers/avoiding-burnout-ten-tips-for-hackers-working-incident-response.html){:target="_blank"}
+    - [A human capital model for mitigating security analyst burnout](https://www.usenix.org/conference/soups2015/proceedings/presentation/sundaramurthy){:target="_blank"}
 
 Some organizations may have a small enough flow of incoming
 vulnerability reports that all the CVD-related roles can be fulfilled by
@@ -101,7 +101,7 @@ with reasonable precautions.
 At the CERT/CC, we have attempted to
 mitigate this issue with reasonable success by implementing the
 suggestions below.
-[Research](https://www.usenix.org/conference/soups2015/proceedings/presentation/sundaramurthy) has shown that many of
+[Research](https://www.usenix.org/conference/soups2015/proceedings/presentation/sundaramurthy){:target="_blank"} has shown that many of
 these are effective responses to commonly-held morale problems.
 
 <div class="grid cards" markdown>

@@ -27,7 +27,7 @@ reporters, vendors, coordinators) can expect in terms of these factors:
 - **Report quality requirements** -- It's okay to require reports to
     meet a certain level of quality before committing to taking action
     on them. However, it's also useful to judiciously apply the
-    [principle of robustness](https://datatracker.ietf.org/doc/rfc760/)
+    [principle of robustness](https://datatracker.ietf.org/doc/rfc760/){:target="_blank"}
     here: "In general, an implementation should be conservative in its sending behavior,
     and liberal in its receiving behavior."
 

@@ -12,21 +12,21 @@ hard-to-exploit vulnerability that should be given a low priority.
 
 !!! note inline end "Beware Misuse of Scoring Systems"
 
-    In our 2021 article [_Time to Change the CVSS?_](https://doi.org/10.1109/MSEC.2020.3044475), we
+    In our 2021 article [_Time to Change the CVSS?_](https://doi.org/10.1109/MSEC.2020.3044475){:target="_blank"}, we
     argued that many organizations misuse the Common Vulnerability Scoring System (CVSS) 
     by using it as a risk metric, when it was never intended to be used that way.
-    Since that time, [CVSS version 4.0](https://www.first.org/cvss/v4.0/specification-document) has been released,
+    Since that time, [CVSS version 4.0](https://www.first.org/cvss/v4.0/specification-document){:target="_blank"} has been released,
     and while it is a significant improvement over previous versions, it still has limitations.
     We have generally found that the information contained in the CVSS _vector_ is more useful than the _score_ itself.
-    This led us to develop the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC) (SSVC) as a more flexible alternative.
+    This led us to develop the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC){:target="_blank"} (SSVC) as a more flexible alternative.
 
 There are a number of heuristics for evaluating the severity of
 vulnerabilities. Perhaps the most commonly known of these is the [Common
-Vulnerability Scoring System](https://www.first.org/cvss/) (CVSS). This system allows a short
+Vulnerability Scoring System](https://www.first.org/cvss/){:target="_blank"} (CVSS). This system allows a short
 standard description of the impact of a vulnerability and can be mapped
 to a score between 1.0 and 10.0 to help prioritization.
 
-The [Common Weakness Scoring System](https://cwe.mitre.org/cwss/cwss_v1.0.1.html) (CWSS)
+The [Common Weakness Scoring System](https://cwe.mitre.org/cwss/cwss_v1.0.1.html){:target="_blank"} (CWSS)
 is a similar system that was intended to be used to assess the potential impact of a class of
 weaknesses.
 Whereas CVSS addresses the detailed impact of a specific vulnerability,
@@ -41,7 +41,7 @@ priorities.
 
 !!! ssvc "Stakeholder-Specific Vulnerability Categorization (SSVC)"
 
-    The CERT/CC's [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC) (SSVC)
+    The CERT/CC's [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC){:target="_blank"} (SSVC)
     provides a method for developing vulnerability management decision models
     that are tailored to the specific needs of different stakeholders.
 

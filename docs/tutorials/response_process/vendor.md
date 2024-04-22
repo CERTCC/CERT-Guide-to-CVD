@@ -38,8 +38,8 @@ flowchart LR
 
 !!! info "ISO/IEC Standards for Vulnerability Disclosure and Handling Processes"
 
-    The ISO/IEC standards [29147 _Vulnerability disclosure_](https://www.iso.org/standard/72311.html) and
-    [30111 _Vulnerability handling processes_](https://www.iso.org/standard/69725.html)
+    The ISO/IEC standards [29147 _Vulnerability disclosure_](https://www.iso.org/standard/72311.html){:target="_blank"} and
+    [30111 _Vulnerability handling processes_](https://www.iso.org/standard/69725.html){:target="_blank"}
     offer specific models for external-
     and internal-facing vendor vulnerability response practices. Readers are
     encouraged to review and apply those standards to their operational
@@ -92,10 +92,10 @@ exploitation.
 
 !!! ssvc "SSVC and risk-based prioritization"
 
-    The [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC)
+    The [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC){:target="_blank"}
     (SSVC) framework provides decision support tools for vendors to use in
     prioritizing vulnerabilities. Specifically, we have developed a
-    [Supplier Prioritization Decision Model](https://certcc.github.io/SSVC/howto/supplier_tree/)
+    [Supplier Prioritization Decision Model](https://certcc.github.io/SSVC/howto/supplier_tree/){:target="_blank"}
     that can help vendors prioritize their vulnerability response actions.
 
 ## Analyze & Test Claims
