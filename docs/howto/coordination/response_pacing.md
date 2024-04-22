@@ -66,7 +66,7 @@ out of some of the more contentious points in any given case.
 !!! info inline end "Axelrod's Principles on the Evolution of Cooperation"
 
     Robert Axelrod's book _The Evolution of Cooperation_ is a classic 
-    text on the topic. Axelrod's [work](https://ee.stanford.edu/~hellman/Breakthrough/book/pdfs/axelrod.pdf){:target="_blank"}{:target="_blank"}
+    text on the topic. Axelrod's [work](https://ee.stanford.edu/~hellman/Breakthrough/book/pdfs/axelrod.pdf){:target="_blank"}
     showed that the most successful strategies in repeated games follow certain principles, which we
     include here for reference:
         

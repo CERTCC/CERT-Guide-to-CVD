@@ -30,8 +30,8 @@ the vulnerability and take appropriate action to fix it.
 
     Reporters that do not provide enough information to a vendor or
     coordinator may find their reports delayed or even rejected. Using the
-    [Common Weakness Enumeration](https://cwe.mitre.org){:target="_blank"}{:target="_blank"} or
-    the [Common Attack Pattern Enumeration and Classification](https://capec.mitre.org){:target="_blank"}{:target="_blank"}
+    [Common Weakness Enumeration](https://cwe.mitre.org){:target="_blank"} or
+    the [Common Attack Pattern Enumeration and Classification](https://capec.mitre.org){:target="_blank"}
     as a reference might be helpful to describe the
     type of vulnerability you have found and common ways to fix it the
     problem.

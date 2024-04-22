@@ -4,10 +4,10 @@
 
         Some popular CVD platform providers include:
 
-        - [BugCrowd](https://bugcrowd.com/){:target="_blank"}{:target="_blank"}
-        - [HackerOne](https://www.hackerone.com){:target="_blank"}{:target="_blank"}
-        - [SynAck](https://www.synack.com){:target="_blank"}{:target="_blank"}
-        - [Cobalt](https://cobalt.io/){:target="_blank"}{:target="_blank"}
+        - [BugCrowd](https://bugcrowd.com/){:target="_blank"}
+        - [HackerOne](https://www.hackerone.com){:target="_blank"}
+        - [SynAck](https://www.synack.com){:target="_blank"}
+        - [Cobalt](https://cobalt.io/){:target="_blank"}
 
     A number of third-party CVD platforms now exist to facilitate
     communication between vendors and reporters. Although
@@ -32,8 +32,8 @@
     !!! example "DoD's Vulnerability Disclosure Program"
 
         The U.S. Department of Defense (DoD) has a [Vulnerability Disclosure
-        Program](https://www.dc3.mil/Missions/Vulnerability-Disclosure/Vulnerability-Disclosure-Program-VDP/){:target="_blank"}{:target="_blank"}
-        (VDP) that uses a [CVD platform](https://hackerone.com/deptofdefense){:target="_blank"}{:target="_blank"}
+        Program](https://www.dc3.mil/Missions/Vulnerability-Disclosure/Vulnerability-Disclosure-Program-VDP/){:target="_blank"}
+        (VDP) that uses a [CVD platform](https://hackerone.com/deptofdefense){:target="_blank"}
         to receive reports from
         security researchers. The DoD VDP is a public program that allows
         security researchers to report vulnerabilities in DoD websites and

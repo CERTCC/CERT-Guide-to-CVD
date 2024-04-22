@@ -8,7 +8,7 @@ can complicate the CVD process.<!--end-->
 
     Research has shown that vulnerabilities are often independently
     discovered.
-    [Andy Ozment](https://web.archive.org/web/20220718203842id_/http://infosecon.net/workshop/pdf/10.pdf){:target="_blank"}{:target="_blank"}
+    [Andy Ozment](https://web.archive.org/web/20220718203842id_/http://infosecon.net/workshop/pdf/10.pdf){:target="_blank"}
     showed that "vulnerability rediscovery occurs 'in the
     wild' and that it is not particularly uncommon."
     [Finifter and colleagues](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/finifter){:target="_blank"},

@@ -16,7 +16,7 @@ lasts, the more likely a leak becomes.<!--end-->
 ## The Risk of Leaks
 
 Keeping secrets over time is hard.
-[The more people who know a secret, the more likely it is to leak.](https://doi.org/10.1371/journal.pone.0147905){:target="_blank"}{:target="_blank"}
+[The more people who know a secret, the more likely it is to leak.](https://doi.org/10.1371/journal.pone.0147905){:target="_blank"}
 Simple probability theory tells us that even if the probability of any
 given party leaking is very low, the cumulative probability of a leak
 increases exponentially with the number of parties involved.

@@ -22,7 +22,7 @@ to play into timing choices. This will give us an opportunity to see where some 
 
     Conference schedules often drive researcher timelines. 
     There is a rhythmic cycle to the vulnerability disclosure calendar.
-    [Black Hat](https://www.blackhat.com/){:target="_blank"}{:target="_blank"} and [DEF CON](https://www.defcon.org/){:target="_blank"} happen in early August every year.
+    [Black Hat](https://www.blackhat.com/){:target="_blank"} and [DEF CON](https://www.defcon.org/){:target="_blank"} happen in early August every year.
     [Usenix Security](https://www.usenix.org/conferences/byname/108){:target="_blank"} is usually right after that. The [RSA Conference](https://www.rsaconference.com/){:target="_blank"}
     is in the late winter or early spring. [CanSecWest](https://cansecwest.com/){:target="_blank"} is in the
     spring. Smaller conferences are scattered in between. 

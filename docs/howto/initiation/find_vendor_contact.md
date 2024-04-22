@@ -39,15 +39,15 @@ out how to reach a vendor we've never spoken with before.
     See if the vendor has a `security.txt` file, often found at
     `www.example.com/.well_known/security.txt` or sometimes
     at `www.example.com/security.txt`
-    ([securitytxt.org](https://securitytxt.org/){:target="_blank"}{:target="_blank"} , [IETF
-    Draft](https://tools.ietf.org/html/draft-foudil-securitytxt-09){:target="_blank"}{:target="_blank"})
+    ([securitytxt.org](https://securitytxt.org/){:target="_blank"} , [IETF
+    Draft](https://tools.ietf.org/html/draft-foudil-securitytxt-09){:target="_blank"})
 
 !!! tip "Check the following sources"
 
     - Vulnerability disclosure / bug bounty service providers
-    ([BugCrowd](https://www.bugcrowd.com/){:target="_blank"}{:target="_blank"}, [Synack](https://www.synack.com/){:target="_blank"}{:target="_blank"}, [HackerOne](https://www.hackerone.com/){:target="_blank"}{:target="_blank"}, etc.)
-    - The Forum of Incident Response and Security Teams (FIRST) [member directory](https://www.first.org/members/teams/){:target="_blank"}{:target="_blank"}
-    - The [CVE Partner List](https://www.cve.org/PartnerInformation/ListofPartners){:target="_blank"}{:target="_blank"}
+    ([BugCrowd](https://www.bugcrowd.com/){:target="_blank"}, [Synack](https://www.synack.com/){:target="_blank"}, [HackerOne](https://www.hackerone.com/){:target="_blank"}, etc.)
+    - The Forum of Incident Response and Security Teams (FIRST) [member directory](https://www.first.org/members/teams/){:target="_blank"}
+    - The [CVE Partner List](https://www.cve.org/PartnerInformation/ListofPartners){:target="_blank"}
 
 !!! warning "Avoid posting vulnerability details in public"
 

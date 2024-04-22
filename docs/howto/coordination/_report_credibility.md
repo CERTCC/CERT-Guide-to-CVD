@@ -2,8 +2,8 @@
 
 !!! ssvc inline end "SSVC's Report Credibility Decision Point"
 
-    The content in this section is adapted from the CERT/CC's [Stakeholder-Specific Vulnerability Categorization (SSVC)](https://certcc.github.io/SSVC/){:target="_blank"}{:target="_blank"}
-    [Report Credibility Decision Point](https://certcc.github.io/SSVC/reference/decision_points/report_credibility/){:target="_blank"}{:target="_blank"} documentation.
+    The content in this section is adapted from the CERT/CC's [Stakeholder-Specific Vulnerability Categorization (SSVC)](https://certcc.github.io/SSVC/){:target="_blank"}
+    [Report Credibility Decision Point](https://certcc.github.io/SSVC/reference/decision_points/report_credibility/){:target="_blank"} documentation.
 
 An analyst should start with a presumption of credibility and proceed toward disqualification.
 The reason for this is that, as a coordinator, occasionally doing a bit of extra work on a bad report is preferable to rejecting legitimate reports.

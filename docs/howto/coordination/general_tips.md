@@ -48,7 +48,7 @@ guidelines to help you navigate the complexity.<!--end-->
 
     !!! example inline end "CVD Motivations"
     
-        [I am the Cavalry](https://www.iamthecavalry.org/motivations/){:target="_blank"}{:target="_blank"} lists five motivations for security researchers:
+        [I am the Cavalry](https://www.iamthecavalry.org/motivations/){:target="_blank"} lists five motivations for security researchers:
         Protect, Puzzle, Prestige, Profit, and Protest/Patriotism.
 
     Give credit where it's due. 

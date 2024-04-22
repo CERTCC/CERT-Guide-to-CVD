@@ -33,7 +33,7 @@ security issues and the performance of the response process itself.
 
     We have been working on the development of a protocol for sharing case
     information across organizations, which we hope will help to address some of these
-    challenges. The [Vultron Protocol](https://certcc.github.io/Vultron){:target="_blank"}{:target="_blank"} is a work in progress
+    challenges. The [Vultron Protocol](https://certcc.github.io/Vultron){:target="_blank"} is a work in progress
     that aims to provide interoperability across organizations' CVD processes.
 
 {% include-markdown "./_cvd_platform.md" heading-offset=1 %}

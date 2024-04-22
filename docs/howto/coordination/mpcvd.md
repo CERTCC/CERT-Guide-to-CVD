@@ -32,7 +32,7 @@ for the other vendors to catch up. We discuss this conundrum further in
 
 !!! info inline end "FIRST MPCVD Guidelines and Practices"
 
-    The FIRST [Vulnerability Coordination SIG](https://www.first.org/global/sigs/vulnerability-coordination/){:target="_blank"}{:target="_blank"}
+    The FIRST [Vulnerability Coordination SIG](https://www.first.org/global/sigs/vulnerability-coordination/){:target="_blank"}
     has published its
     [_Guidelines and Practices for Multi-Party Vulnerability Coordination and Disclosure_](https://www.first.org/global/sigs/vulnerability-coordination/multiparty/guidelines-v1.1){:target="_blank"}
     which we strongly recommend reading.

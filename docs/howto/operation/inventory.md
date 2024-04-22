@@ -20,7 +20,7 @@ vulnerabilities based on the importance of the affected systems.
 
 !!! ssvc "SSVC and risk-based prioritization"
 
-    We developed the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC){:target="_blank"}{:target="_blank"}
+    We developed the [Stakeholder-Specific Vulnerability Categorization](https://certcc.github.io/SSVC){:target="_blank"}
     (SSVC) framework to help organizations prioritize their vulnerability
     response efforts based on the importance of the affected systems to
     the organization's mission, along with exposure to adversaries.
@@ -55,14 +55,14 @@ products.
     Because it is likely that your products will in turn be used
     as components in some other vendor's solution, it is increasingly a good
     practice to provide an inventory of components along with your product.
-    Under the broad category of [Software Bill of Materials](https://www.cisa.gov/sbom){:target="_blank"}{:target="_blank"}
+    Under the broad category of [Software Bill of Materials](https://www.cisa.gov/sbom){:target="_blank"}
     (SBOM), this practice is becoming more common in the software industry.
     A number of data formats and specifications have emerged in the software
     supply chain management space and are in use by product vendors already.
 
     These include the following
 
-    - [Software Identification (SWID) Tags](http://tagvault.org/swid-tags/){:target="_blank"}{:target="_blank"}
+    - [Software Identification (SWID) Tags](http://tagvault.org/swid-tags/){:target="_blank"}
     - [Common Platform Enumeration (CPE)](https://nvd.nist.gov/products/cpe){:target="_blank"}
     - [The Software Package Data Exchange (SPDX)](https://spdx.org/){:target="_blank"}
 

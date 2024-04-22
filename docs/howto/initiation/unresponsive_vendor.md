@@ -15,7 +15,7 @@ Potential reasons abound:
 
     The U.S. Federal Trade Commission has brought legal action against
     vendors for not having sufficient vulnerability response capabilities.
-    In their complaint against [ASUS](https://www.ftc.gov/enforcement/cases-proceedings/142-3156/asustek-computer-inc-matter){:target="_blank"}{:target="_blank"}, they cite the company's failure
+    In their complaint against [ASUS](https://www.ftc.gov/enforcement/cases-proceedings/142-3156/asustek-computer-inc-matter){:target="_blank"}, they cite the company's failure
     to
 
     > maintain an adequate process for receiving and addressing security
@@ -29,7 +29,7 @@ Potential reasons abound:
     > vulnerabilities or risks, and (iii) the availability of software
     > updates that would correct or mitigate the vulnerabilities or risks.
 
-    Similar complaints have been included in FTC filings against [HTC America](https://www.federalregister.gov/documents/2013/02/28/2013-04606/htc-america-inc-analysis-of-proposed-consent-order-to-aid-public-comment){:target="_blank"}{:target="_blank"}
-    and [Fandango](https://threatpost.com/ftc-settles-with-fandango-credit-karma-over-ssl-issues-in-mobile-apps/105128/){:target="_blank"}{:target="_blank"}.
+    Similar complaints have been included in FTC filings against [HTC America](https://www.federalregister.gov/documents/2013/02/28/2013-04606/htc-america-inc-analysis-of-proposed-consent-order-to-aid-public-comment){:target="_blank"}
+    and [Fandango](https://threatpost.com/ftc-settles-with-fandango-credit-karma-over-ssl-issues-in-mobile-apps/105128/){:target="_blank"}.
 
 {% include-markdown "../recipes/_x06.md" heading-offset=1 %}

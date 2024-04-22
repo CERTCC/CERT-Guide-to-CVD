@@ -12,7 +12,7 @@ hard-to-exploit vulnerability that should be given a low priority.
 
 !!! note inline end "Beware Misuse of Scoring Systems"
 
-    In our 2021 article [_Time to Change the CVSS?_](https://doi.org/10.1109/MSEC.2020.3044475){:target="_blank"}{:target="_blank"}, we
+    In our 2021 article [_Time to Change the CVSS?_](https://doi.org/10.1109/MSEC.2020.3044475){:target="_blank"}, we
     argued that many organizations misuse the Common Vulnerability Scoring System (CVSS) 
     by using it as a risk metric, when it was never intended to be used that way.
     Since that time, [CVSS version 4.0](https://www.first.org/cvss/v4.0/specification-document){:target="_blank"} has been released,
