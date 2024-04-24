@@ -1,6 +1,6 @@
 # Vulnerability Disclosure Policy Templates for Receivers
 
-<!--start-->This collection of policy statements describe expectations for organizations 
+<!--start-->This collection of policy statement templates describe expectations for organizations 
 receiving vulnerability reports.<!--end--> 
 Report Receivers might include
 [Vendors](../../topics/roles/vendor.md),

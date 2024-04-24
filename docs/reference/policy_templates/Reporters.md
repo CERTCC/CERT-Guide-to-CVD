@@ -1,6 +1,6 @@
 # Vulnerability Disclosure Policy Templates for Reporters
 
-<!--start-->This collection of policy statements describe expectations for reporters participating in a
+<!--start-->This collection of policy statement templates describe expectations for reporters participating in a
 vulnerability disclosure program.<!--end-->
 
 ## Tips and Usage Notes

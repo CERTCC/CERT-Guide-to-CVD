@@ -13,6 +13,8 @@ collection.
 This collection is a general set of templates from which you can derive and
 spawn a disclosure policy for an organization. 
 
+<div class="grid cards" markdown>
+
 !!! tip "How to Use This Collection"
 
     This collection of example policy statements is meant to be remixed and adapted for different
@@ -20,7 +22,6 @@ spawn a disclosure policy for an organization.
     choose to adopt all of these items wholesale without some modification.
 
 
-<div class="grid cards" markdown>
 
 - :material-feather: [Style Guide](./style_guide.md)
   
