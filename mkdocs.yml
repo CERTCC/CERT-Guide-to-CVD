@@ -119,8 +119,13 @@ nav:
     - CERT/CC Vulnerability Disclosure Policy: 'reference/certcc_disclosure_policy.md'
     - Basic Vul Report Form: 'reference/simple_vrf.md'
     - Basic Vul Advisory: 'reference/simple_advisory.md'
-    - Disclosure Policy Resources: 'reference/disclosure_policy_templates.md'
-    - Other Resources: 'reference/resources.md'
+    - Disclosure Policy Templates:
+      - 'reference/policy_templates/index.md'
+      - Style Guide: 'reference/policy_templates/style_guide.md'
+      - Reporters: 'reference/policy_templates/Reporters.md'
+      - Receivers: 'reference/policy_templates/Receivers.md'
+      - More Policy Resources: 'reference/policy_templates/other.md'
+    - Other CVD Resources: 'reference/resources.md'
   - About:
     - Conclusion: 'about/conclusion.md'
     - Community Engagement: 'about/community.md'

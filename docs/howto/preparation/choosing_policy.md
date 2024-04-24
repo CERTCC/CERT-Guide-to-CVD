@@ -53,4 +53,4 @@ reporters, vendors, coordinators) can expect in terms of these factors:
 
 !!! info "Disclosure Policy Templates"
 
-    {% include-markdown "../../reference/disclosure_policy_templates.md" heading-offset=1 start="<!--start-->" end="<!--end-->" %}
+    {% include-markdown "../../reference/policy_templates/other.md" heading-offset=1 start="<!--start-->" end="<!--end-->" %}
