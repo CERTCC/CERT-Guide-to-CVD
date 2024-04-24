@@ -22,7 +22,6 @@ spawn a disclosure policy for an organization.
     choose to adopt all of these items wholesale without some modification.
 
 
-
 - :material-feather: [Style Guide](./style_guide.md)
   
     ---
@@ -40,14 +39,4 @@ spawn a disclosure policy for an organization.
 
 </div>
 
-
-{% include-markdown "./_adjust_to_suit.md" %} 
 {% include-markdown "./_usage.md" %}
-
-!!! note "Use of RFC 2119 Language"
-
-    We've taken the approach of using [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119)-style
-    "MUST, SHALL, SHOULD..." language in active-voice sentences to describe what researchers/reporters and
-    vendors/coordinators/recipients should expect of each other.
-
-

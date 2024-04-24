@@ -1,5 +1,16 @@
 !!! tip "How To Use These Templates"
 
+    Organizations will likely find that some expectations do not apply to their
+    situation based on the kind of stakeholder they are. In particular we anticipate
+    that 
+    [product vendors](../../topics/roles/vendor.md),
+    [service providers](../../topics/roles/deployer.md),
+    and 
+    [coordinators](../../topics/roles/coordinator.md) will have related but
+    distinct needs. Inclusion or exclusion of items from these templates into your
+    organization's policy should be based on which combination of stakeholder roles
+    you expect to play.
+
     Here's a checklist of tasks you should complete in order to make use of these
     templates.
 

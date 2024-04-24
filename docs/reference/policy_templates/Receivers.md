@@ -10,7 +10,6 @@ or other organizations that receive vulnerability reports.
 
 ## Tips and Usage Notes
 
-{% include-markdown "./_adjust_to_suit.md" %} 
 {% include-markdown "./_usage.md" %}
 {% include-markdown "./_terminology.md" %}
 {% include-markdown "./_consistency_warning.md" %}
