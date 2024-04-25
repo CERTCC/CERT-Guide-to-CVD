@@ -33,7 +33,7 @@ to achieve.
     as starting points. Additionally, you can use
     [Troubleshooting Coordinated Vulnerability Disclosure](../howto/coordination/cvd_recipes.md)
     as a rubric of scenarios to consider when planning your operational processes.
-    [Disclosure Policy Resources](../reference/disclosure_policy_templates.md)
+    [Disclosure Policy Resources](../reference/policy_templates/index.md)
     contains links to a number of disclosure policy examples and
     templates.
 
@@ -64,7 +64,7 @@ to achieve.
     [Troubleshooting Coordinated Vulnerability Disclosure](../howto/coordination/cvd_recipes.md)
     that are worth considering when you're thinking about writing policy
     that sets out how things are expected to be done.
-    [Disclosure Policy Resources](../reference/disclosure_policy_templates.md)
+    [Disclosure Policy Resources](../reference/policy_templates/index.md)
     contains links to a number of disclosure policy examples and
     templates.
 

@@ -2,7 +2,9 @@
 
 <!--start-->
 
-Following are some resources that can help you create a disclosure policy:
+In addition to the [Disclosure Policy Templates](./index.md) we provide as part of this guide,
+there are many other resources available to help you create a vulnerability disclosure policy.
+Here are a few examples:
 
 - CISA provides a [Vulnerability Disclosure Policy Template](https://www.cisa.gov/vulnerability-disclosure-policy-template){:target="_blank"}
   for U.S. Federal Agencies. This template is also useful as a starting point for other organizations
@@ -12,9 +14,6 @@ Following are some resources that can help you create a disclosure policy:
   [Vulnerability Disclosure Toolkit](https://www.ncsc.gov.uk/information/vulnerability-disclosure-toolkit){:target="_blank"}
 
 - The [disclose.io](https://disclose.io/){:target="_blank"} [Policymaker](https://policymaker.disclose.io/policymaker/introduction){:target="_blank"} tool can help you create a policy that fits your organization's needs.
-
-- CERT/CC has a set of [Disclosure Policy Templates](https://github.com/CERTCC/vulnerability_disclosure_policy_templates){:target="_blank"}
-  derived from multiple sources. Our templates are a collection of statements that can be used to create a policy that fits your organization's needs.
 
 - [IETF RFC 2350](https://datatracker.ietf.org/doc/html/rfc2350){:target="_blank"} provides recommendations on how to publish information about your CSIRT and disclosure policy and procedures.
 

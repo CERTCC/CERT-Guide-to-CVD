@@ -8,7 +8,7 @@ These resources include templates, standards, and other materials that can help 
 - :octicons-checklist-16: [CERT/CC Vulnerability Disclosure Policy](./certcc_disclosure_policy.md)
 - :material-form-select: [Basic Vulnerability Reporting Form](./simple_vrf.md)
 - :material-newspaper-variant: [Basic Advisory Format](./simple_advisory.md)
-- :material-clipboard-check-multiple-outline: [Disclosure Policy Resources](./disclosure_policy_templates.md)
+- :material-clipboard-check-multiple-outline: [Disclosure Policy Resources](policy_templates/index.md)
 - :material-bookshelf: [CVD Resources and Standards](./resources.md)
 
 </div>
