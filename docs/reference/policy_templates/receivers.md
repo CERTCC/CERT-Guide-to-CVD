@@ -1,7 +1,7 @@
 # Vulnerability Disclosure Policy Templates for Receivers
 
-<!--start-->This collection of policy statement templates describe expectations for organizations 
-receiving vulnerability reports.<!--end--> 
+<!--start-->This collection of policy statement templates describe expectations for organizations
+receiving vulnerability reports.<!--end-->
 Report Receivers might include
 [Vendors](../../topics/roles/vendor.md),
 [Coordinators](../../topics/roles/coordinator.md),
@@ -17,7 +17,7 @@ or other organizations that receive vulnerability reports.
 ## Template Policy Statements
 
 `ORGANIZATION` SHALL deal in good faith with Reporters who discover, test, and report vulnerabilities or indicators of vulnerabilities in accordance with these guidelines.
- 
+
 ## General
 
 * `ORGANIZATION` MAY modify the terms of this policy or terminate the policy at any time.
@@ -36,7 +36,6 @@ or other organizations that receive vulnerability reports.
 
 * `ORGANIZATION` SHALL determine an appropriate timeframe for mitigation development and deployment for vulnerabilities reported in systems it controls.
 
-
 ## Coordination with reporters
 
 * `ORGANIZATION` SHALL acknowledge receipt of vulnerability reports via email within`SLC`.
@@ -47,7 +46,7 @@ or other organizations that receive vulnerability reports.
 
 * `ORGANIZATION` SHALL include credit to the reporter in any published vulnerability report unless otherwise requested by the reporter.
 
-*	In the event that`ORGANIZATION` chooses to publicly disclose the reported vulnerability,`ORGANIZATION` SHALL recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
+* In the event that`ORGANIZATION` chooses to publicly disclose the reported vulnerability,`ORGANIZATION` SHALL recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
 
 * `ORGANIZATION` MAY forward the name and contact information of the Reporter to any affected vendors unless otherwise requested by the reporter.
 
@@ -61,7 +60,7 @@ or other organizations that receive vulnerability reports.
 
 ## Coordination with vendors
 
-*	In the event that`ORGANIZATION` determines the reported vulnerability is consequent to a vulnerability in a generally available product or service,`ORGANIZATION` MAY report the vulnerability to the affected vendor(s), service provider(s), or third party vulnerability coordination service(s) in order to enable the product or service to be fixed.
+* In the event that`ORGANIZATION` determines the reported vulnerability is consequent to a vulnerability in a generally available product or service,`ORGANIZATION` MAY report the vulnerability to the affected vendor(s), service provider(s), or third party vulnerability coordination service(s) in order to enable the product or service to be fixed.
 
 * `ORGANIZATION` SHALL make a good faith effort to inform vendors of reported vulnerabilities prior to public disclosure.
 
@@ -79,13 +78,11 @@ or other organizations that receive vulnerability reports.
 
 * `ORGANIZATION` SHALL act in accordance with the expectations of Reporters set forth in this policy when acting as a Reporter to other organizations (vendors, coordinators, etc.).
 
-
 ## Coordination with others
 
 * `ORGANIZATION` MAY engage the services of a third party coordination service (e.g., CERT/CC, DHS CISA) to assist in resolving any conflicts that cannot be resolved between the Reporter and`ORGANIZATION`.
 
 * `ORGANIZATION` MAY, at our discretion, provide reported vulnerability information to anyone who can contribute to the solution and with whom we have a trusted relationship, including vendors (often including vendors whose products are not vulnerable), service providers, community experts, sponsors, and sites that are part of a national critical infrastructure, if we believe those sites to be at risk.
-
 
 ## Public disclosure
 

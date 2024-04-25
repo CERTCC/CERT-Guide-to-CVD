@@ -15,7 +15,7 @@
     templates.
 
     - [x] Review the content of the [Disclosure Policy Style Guide](./style_guide.md).
-    - [x] Review the content of the [Reporters](./reporters.md) and [Receivers](./receivers) files.
+    - [x] Review the content of the [Reporters](./reporters.md) and [Receivers](./receivers.md) files.
     - [x] Select the policy expectation items you want to use.
     - [x] Adjust the recommendation strength (e.g., change some of the SHOULDs to MUSTs or MAYs to SHOULD NOTs etc.).
     - [x] Adjust the wording of the items to fit your organization's style or needs.
@@ -35,4 +35,3 @@
         
         We are not lawyers, and this is not legal advice.
         You are encouraged to consult your own legal counsel in the process of creating your disclosure policy.
-

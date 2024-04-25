@@ -36,8 +36,8 @@
 !!! tip "Separate expectations by role"
 
     To the degree possible, separate expectations by role. For example, as we have
-    done by splitting [reporters](Reporters.md)
-    and [receivers](Receivers.md) into separate files.
+    done by splitting [reporters](reporters.md)
+    and [receivers](receivers.md) into separate files.
     In a real policy,
     these would become different sections of the document.
 

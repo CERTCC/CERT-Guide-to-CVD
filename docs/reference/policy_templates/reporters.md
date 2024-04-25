@@ -19,7 +19,6 @@ Reporters MUST adhere to the following guidelines.
 
 * Reporters SHOULD make a good faith effort to notify and work directly with the affected vendor(s) or service providers prior to publicly disclosing vulnerability reports.
 
-
 ## Scope of Authorized Testing
 
 * Reporters MAY test`SYSTEM SCOPE` to detect a vulnerability for the sole purpose of providing`ORGANIZATION` information about that vulnerability.
@@ -58,7 +57,6 @@ Reporters MUST adhere to the following guidelines.
 
 * Reporters SHOULD contact`ORGANIZATION` at POINT OF CONTACT if at any point you are uncertain of whether to proceed with testing.
 
-
 ## Coordination with `ORGANIZATION`
 
 * Reporters SHOULD submit vulnerability reports to`ORGANIZATION` via`REPORTING CHANNEL`.
@@ -96,7 +94,6 @@ Reporters MUST adhere to the following guidelines.
 * Reporters MAY engage the services of a third party coordination service (e.g., CERT/CC, DHS CISA) to assist in resolving any conflicts that cannot be resolved between the Reporter and`ORGANIZATION`.
 
 * Reporters SHOULD NOT disclose any details of any extant`ORGANIZATION``SYSTEM SCOPE` vulnerability, or any indicators of vulnerability to any party not already aware at the time the report is submitted to`ORGANIZATION`.
-
 
 ## Public disclosure
 
