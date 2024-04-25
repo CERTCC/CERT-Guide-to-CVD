@@ -36,9 +36,9 @@ increases exponentially with the number of parties involved.
 
     Lest you think that $1000$ participants in a case is an unrealistic number, consider that
     in the Apache Log4j case [VU#930724](https://kb.cert.org/vuls/id/930724){:target="_blank"} 
-    ([CVE-2021-44228](https://nvd.nist.gov/vuln/detail/CVE-2021-44228){:target="_blank"},
-    [CVE-2021-4104](https://nvd.nist.gov/vuln/detail/CVE-2021-4104){:target="_blank"},
-    [CVE-2021-45046](https://nvd.nist.gov/vuln/detail/CVE-2021-45046){:target="_blank"},
+    ([CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228){:target="_blank"},
+    [CVE-2021-4104](https://www.cve.org/CVERecord?id=CVE-2021-4104){:target="_blank"},
+    [CVE-2021-45046](https://www.cve.org/CVERecord?id=CVE-2021-45046){:target="_blank"},
     the CERT/CC notified $1643$ vendors, and we're reasonably certain that we missed more than a few.
 
 !!! tip "Keep Embargoes Short"
