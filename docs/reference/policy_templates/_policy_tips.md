@@ -21,10 +21,10 @@
     In general, expectations of others should use "MAY", "SHOULD", "MUST", "MUST
     NOT", "REQUIRED", or "OPTIONAL". 
 
-    Expectations that the`ORGANIZATION` sets for itself should prefer "SHALL"
+    Expectations that the `ORGANIZATION` sets for itself should prefer "SHALL"
     and "SHALL NOT" in place of "MUST" or "MUST NOT".
   
-    Similarly, it seems unlikely that`ORGANIZATION` would use "SHOULD" to refer to
+    Similarly, it seems unlikely that `ORGANIZATION` would use "SHOULD" to refer to
     its own behavior, rather preferring to use "SHALL", "SHALL NOT", or "MAY"
     formulations.
 

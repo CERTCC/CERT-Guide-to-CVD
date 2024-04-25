@@ -28,7 +28,7 @@ or other organizations that receive vulnerability reports.
 
 * `ORGANIZATION` MAY, at our discretion, decline to coordinate or publish a vulnerability report. This decision is generally based on the scope and severity of the vulnerability and our ability to add value to the coordination and disclosure process.
 
-* In the event that`ORGANIZATION` declines to coordinate a vulnerability report, the Reporter SHOULD proceed to coordinate with any other affected vendor(s). Additionally, the Reporter MAY proceed with public disclosure at their discretion.
+* In the event that `ORGANIZATION` declines to coordinate a vulnerability report, the Reporter SHOULD proceed to coordinate with any other affected vendor(s). Additionally, the Reporter MAY proceed with public disclosure at their discretion.
 
 * `ORGANIZATION` SHALL investigate every reported vulnerability and strive to ensure that appropriate steps are taken to mitigate risk and remediate reported vulnerabilities.
 
@@ -38,7 +38,7 @@ or other organizations that receive vulnerability reports.
 
 ## Coordination with reporters
 
-* `ORGANIZATION` SHALL acknowledge receipt of vulnerability reports via email within`SLC`.
+* `ORGANIZATION` SHALL acknowledge receipt of vulnerability reports via email within `SLC`.
 
 * `ORGANIZATION` MAY contact the Reporter for further information.
 
@@ -46,7 +46,7 @@ or other organizations that receive vulnerability reports.
 
 * `ORGANIZATION` SHALL include credit to the reporter in any published vulnerability report unless otherwise requested by the reporter.
 
-* In the event that`ORGANIZATION` chooses to publicly disclose the reported vulnerability,`ORGANIZATION` SHALL recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
+* In the event that `ORGANIZATION` chooses to publicly disclose the reported vulnerability, `ORGANIZATION` SHALL recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
 
 * `ORGANIZATION` MAY forward the name and contact information of the Reporter to any affected vendors unless otherwise requested by the reporter.
 
@@ -60,7 +60,7 @@ or other organizations that receive vulnerability reports.
 
 ## Coordination with vendors
 
-* In the event that`ORGANIZATION` determines the reported vulnerability is consequent to a vulnerability in a generally available product or service,`ORGANIZATION` MAY report the vulnerability to the affected vendor(s), service provider(s), or third party vulnerability coordination service(s) in order to enable the product or service to be fixed.
+* In the event that `ORGANIZATION` determines the reported vulnerability is consequent to a vulnerability in a generally available product or service, `ORGANIZATION` MAY report the vulnerability to the affected vendor(s), service provider(s), or third party vulnerability coordination service(s) in order to enable the product or service to be fixed.
 
 * `ORGANIZATION` SHALL make a good faith effort to inform vendors of reported vulnerabilities prior to public disclosure.
 
@@ -80,7 +80,7 @@ or other organizations that receive vulnerability reports.
 
 ## Coordination with others
 
-* `ORGANIZATION` MAY engage the services of a third party coordination service (e.g., CERT/CC, DHS CISA) to assist in resolving any conflicts that cannot be resolved between the Reporter and`ORGANIZATION`.
+* `ORGANIZATION` MAY engage the services of a third party coordination service (e.g., CERT/CC, DHS CISA) to assist in resolving any conflicts that cannot be resolved between the Reporter and `ORGANIZATION`.
 
 * `ORGANIZATION` MAY, at our discretion, provide reported vulnerability information to anyone who can contribute to the solution and with whom we have a trusted relationship, including vendors (often including vendors whose products are not vulnerable), service providers, community experts, sponsors, and sites that are part of a national critical infrastructure, if we believe those sites to be at risk.
 
@@ -98,10 +98,10 @@ or other organizations that receive vulnerability reports.
 
 * `ORGANIZATION`'s final determination of a publication schedule SHALL be based on the best interests of the community overall.
 
-* `ORGANIZATION` SHALL publish public disclosures via`PUBLICATION CHANNEL`.
+* `ORGANIZATION` SHALL publish public disclosures via `PUBLICATION CHANNEL`.
 
-* `ORGANIZATION` MAY disclose to the public the prior existence of vulnerabilities already fixed by`ORGANIZATION`, including potentially details of the vulnerability, indicators of vulnerability, or the nature (but not content) of information rendered available by the vulnerability.
+* `ORGANIZATION` MAY disclose to the public the prior existence of vulnerabilities already fixed by `ORGANIZATION`, including potentially details of the vulnerability, indicators of vulnerability, or the nature (but not content) of information rendered available by the vulnerability.
 
 * `ORGANIZATION` SHALL make our disclosure determinations based on relevant factors such as but not limited to: whether the vulnerability has already been publicly disclosed, the severity of the vulnerability, potential impact to critical infrastructure, possible threat to public health and safety, immediate mitigations available, vendor responsiveness and feasibility for creating an upgrade or patch, and vendor estimate of time required for customers to obtain, test, and apply the patch. Active exploitation, threats of an especially serious nature, or situations that require changes to an established standard may result in earlier or later disclosure.
 
-* `ORGANIZATION` MAY disclose product vulnerabilities`SLC` after the initial contact is made, regardless of the existence or availability of patches or workarounds from affected vendors in cases where a product is affected and the vendor is unresponsive, or fails to establish a reasonable timeframe for remediation.
+* `ORGANIZATION` MAY disclose product vulnerabilities `SLC` after the initial contact is made, regardless of the existence or availability of patches or workarounds from affected vendors in cases where a product is affected and the vendor is unresponsive, or fails to establish a reasonable timeframe for remediation.
