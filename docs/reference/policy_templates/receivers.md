@@ -18,13 +18,13 @@ or other organizations that receive vulnerability reports.
 
 `ORGANIZATION` SHALL deal in good faith with Reporters who discover, test, and report vulnerabilities or indicators of vulnerabilities in accordance with these guidelines.
 
-## General
+### General
 
 * `ORGANIZATION` MAY modify the terms of this policy or terminate the policy at any time.
 
 * `ORGANIZATION` SHALL use information reported to this program for defensive purposes only; to mitigate or remediate vulnerabilities in our networks or applications, or the applications of our vendors.
 
-## Case handling
+### Case handling
 
 * `ORGANIZATION` MAY, at our discretion, decline to coordinate or publish a vulnerability report. This decision is generally based on the scope and severity of the vulnerability and our ability to add value to the coordination and disclosure process.
 
@@ -36,7 +36,7 @@ or other organizations that receive vulnerability reports.
 
 * `ORGANIZATION` SHALL determine an appropriate timeframe for mitigation development and deployment for vulnerabilities reported in systems it controls.
 
-## Coordination with reporters
+### Coordination with reporters
 
 * `ORGANIZATION` SHALL acknowledge receipt of vulnerability reports via email within `SLC`.
 
@@ -78,13 +78,13 @@ or other organizations that receive vulnerability reports.
 
 * `ORGANIZATION` SHALL act in accordance with the expectations of Reporters set forth in this policy when acting as a Reporter to other organizations (vendors, coordinators, etc.).
 
-## Coordination with others
+### Coordination with others
 
 * `ORGANIZATION` MAY engage the services of a third party coordination service (e.g., CERT/CC, DHS CISA) to assist in resolving any conflicts that cannot be resolved between the Reporter and `ORGANIZATION`.
 
 * `ORGANIZATION` MAY, at our discretion, provide reported vulnerability information to anyone who can contribute to the solution and with whom we have a trusted relationship, including vendors (often including vendors whose products are not vulnerable), service providers, community experts, sponsors, and sites that are part of a national critical infrastructure, if we believe those sites to be at risk.
 
-## Public disclosure
+### Public disclosure
 
 * `ORGANIZATION` SHALL determine the type and schedule of our public disclosure of the vulnerability.
 

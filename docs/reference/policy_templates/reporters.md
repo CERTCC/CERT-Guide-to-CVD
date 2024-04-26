@@ -13,13 +13,13 @@ vulnerability disclosure program.<!--end-->
 
 Reporters MUST adhere to the following guidelines.
 
-## General
+### General
 
 * Reporters MUST comply with all applicable `JURISDICTION` laws in connection with security research activities or other participation in this vulnerability disclosure program.
 
 * Reporters SHOULD make a good faith effort to notify and work directly with the affected vendor(s) or service providers prior to publicly disclosing vulnerability reports.
 
-## Scope of Authorized Testing
+### Scope of Authorized Testing
 
 * Reporters MAY test `SYSTEM SCOPE` to detect a vulnerability for the sole purpose of providing `ORGANIZATION` information about that vulnerability.
 
@@ -57,7 +57,7 @@ Reporters MUST adhere to the following guidelines.
 
 * Reporters SHOULD contact `ORGANIZATION` at POINT OF CONTACT if at any point you are uncertain of whether to proceed with testing.
 
-## Coordination with `ORGANIZATION`
+### Coordination with `ORGANIZATION`
 
 * Reporters SHOULD submit vulnerability reports to `ORGANIZATION` via `REPORTING CHANNEL`.
 
@@ -85,17 +85,17 @@ Reporters MUST adhere to the following guidelines.
 
 * Reporters MUST NOT demand compensation in return for reporting vulnerability information reported outside of an explicit bug bounty program.
 
-## Coordination with vendors
+### Coordination with vendors
 
-* In the event that the Reporter finds a vulnerability in a `ORGANIZATION``SYSTEM SCOPE` consequent to a vulnerability in a generally available product or service, the Reporter MAY report the vulnerability to the affected vendor(s), service provider(s), or third party vulnerability coordination service(s) in order to enable the product or service to be fixed.
+* In the event that the Reporter finds a vulnerability in a `ORGANIZATION` `SYSTEM SCOPE` consequent to a vulnerability in a generally available product or service, the Reporter MAY report the vulnerability to the affected vendor(s), service provider(s), or third party vulnerability coordination service(s) in order to enable the product or service to be fixed.
 
-## Coordination with others
+### Coordination with others
 
 * Reporters MAY engage the services of a third party coordination service (e.g., CERT/CC, DHS CISA) to assist in resolving any conflicts that cannot be resolved between the Reporter and `ORGANIZATION`.
 
-* Reporters SHOULD NOT disclose any details of any extant `ORGANIZATION``SYSTEM SCOPE` vulnerability, or any indicators of vulnerability to any party not already aware at the time the report is submitted to `ORGANIZATION`.
+* Reporters SHOULD NOT disclose any details of any extant `ORGANIZATION` `SYSTEM SCOPE` vulnerability, or any indicators of vulnerability to any party not already aware at the time the report is submitted to `ORGANIZATION`.
 
-## Public disclosure
+### Public disclosure
 
 * Reporters MAY disclose to the public the prior existence of vulnerabilities already fixed by `ORGANIZATION`, including potentially details of the vulnerability, indicators of vulnerability, or the nature (but not content) of information rendered available by the vulnerability.
 
