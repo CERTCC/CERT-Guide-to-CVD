@@ -87,13 +87,13 @@ Reporters MUST adhere to the following guidelines.
 
 ### Coordination with vendors
 
-* In the event that the Reporter finds a vulnerability in a `ORGANIZATION``SYSTEM SCOPE` consequent to a vulnerability in a generally available product or service, the Reporter MAY report the vulnerability to the affected vendor(s), service provider(s), or third party vulnerability coordination service(s) in order to enable the product or service to be fixed.
+* In the event that the Reporter finds a vulnerability in a `ORGANIZATION` `SYSTEM SCOPE` consequent to a vulnerability in a generally available product or service, the Reporter MAY report the vulnerability to the affected vendor(s), service provider(s), or third party vulnerability coordination service(s) in order to enable the product or service to be fixed.
 
 ### Coordination with others
 
 * Reporters MAY engage the services of a third party coordination service (e.g., CERT/CC, DHS CISA) to assist in resolving any conflicts that cannot be resolved between the Reporter and `ORGANIZATION`.
 
-* Reporters SHOULD NOT disclose any details of any extant `ORGANIZATION``SYSTEM SCOPE` vulnerability, or any indicators of vulnerability to any party not already aware at the time the report is submitted to `ORGANIZATION`.
+* Reporters SHOULD NOT disclose any details of any extant `ORGANIZATION` `SYSTEM SCOPE` vulnerability, or any indicators of vulnerability to any party not already aware at the time the report is submitted to `ORGANIZATION`.
 
 ### Public disclosure
 
