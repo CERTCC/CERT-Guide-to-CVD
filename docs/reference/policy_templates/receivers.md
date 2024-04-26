@@ -58,7 +58,7 @@ or other organizations that receive vulnerability reports.
 
 * `ORGANIZATION` SHALL NOT require Reporters to enter into a customer relationship, non-disclosure agreement (NDA) or any other contractual or financial obligation as a condition of receiving or coordinating vulnerability reports.
 
-## Coordination with vendors
+### Coordination with vendors
 
 * In the event that `ORGANIZATION` determines the reported vulnerability is consequent to a vulnerability in a generally available product or service, `ORGANIZATION` MAY report the vulnerability to the affected vendor(s), service provider(s), or third party vulnerability coordination service(s) in order to enable the product or service to be fixed.
 
