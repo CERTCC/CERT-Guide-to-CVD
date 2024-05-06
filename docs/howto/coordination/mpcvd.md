@@ -73,7 +73,7 @@ independent discovery of vulnerabilities can and does happen.
     Perhaps the best known example of multiple finders is [Heartbleed](http://heartbleed.com/){:target="_blank"}
     ([CVE-2014-0160](https://nvd.nist.gov/vuln/detail/cve-2014-0160){:target="_blank"}).
     In part because of the complexity of the coordinated disclosure
-    process, a second CVE identifier ([CVE-2014-0346](https://nvd.nist.gov/vuln/detail/CVE-2014-0346){:target="_blank"})
+    process, a second CVE identifier ([CVE-2014-0346](https://www.cve.org/CVERecord?id=CVE-2014-0346){:target="_blank"})
     was assigned to the same vulnerability  and later retracted.
 
 !!! tip "Independent Discovery"

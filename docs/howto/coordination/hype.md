@@ -3,12 +3,12 @@
 !!! example inline end "Branded Vulnerabilities"
 
     In recent years we've witnessed the rise of branded vulnerabilities, including
-    [Heartbleed](https://nvd.nist.gov/vuln/detail/CVE-2014-0160){:target="_blank"},
-    [Poodle](https://nvd.nist.gov/vuln/detail/CVE-2014-3566){:target="_blank"},
-    [Badlock](https://nvd.nist.gov/vuln/detail/CVE-2016-2118){:target="_blank"},
-    [Shell Shock](https://nvd.nist.gov/vuln/detail/CVE-2014-6271){:target="_blank"},
-    [GHOST](https://nvd.nist.gov/vuln/detail/CVE-2015-0235){:target="_blank"},
-    [Spectre and Meltdown](https://nvd.nist.gov/vuln/detail/CVE-2017-5753){:target="_blank"}.
+    [Heartbleed](https://www.cve.org/CVERecord?id=CVE-2014-0160){:target="_blank"},
+    [Poodle](https://www.cve.org/CVERecord?id=CVE-2014-3566){:target="_blank"},
+    [Badlock](https://www.cve.org/CVERecord?id=CVE-2016-2118){:target="_blank"},
+    [Shell Shock](https://www.cve.org/CVERecord?id=CVE-2014-6271){:target="_blank"},
+    [GHOST](https://www.cve.org/CVERecord?id=CVE-2015-0235){:target="_blank"},
+    [Spectre and Meltdown](https://www.cve.org/CVERecord?id=CVE-2017-5753){:target="_blank"}.
 
 <!--start-->Is a branded vulnerability more dangerous than one without?
 Not in any technical sense, no. Instead, what it does is
