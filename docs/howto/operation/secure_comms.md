@@ -166,8 +166,9 @@ communications.
     affiliated with the security email alias to allow the confidentiality of
     sensitive reports to be maintained in transit.
 
-    A common choice used to be Thunderbird with [Enigmail](https://enigmail.net/index.php/en/){:target="_blank"}, but
-    Thunderbird is no longer supported by the Enigmail project.
+    A common choice for a PGP-compatible mail client is [Thunderbird](https://www.thunderbird.net/){:target="_blank"} (which previously required the [Enigmail](https://enigmail.net/index.php/en/){:target="_blank"} extension;
+    since version 78 Thunderbird provides [built-in support for OpenPGP](https://www.thunderbird.net/en-US/thunderbird/78.2.1/releasenotes/){:target="_blank"}).
+    
     Alternative mail clients for Enigmail include 
     [SeaMonkey](https://seamonkey-project.org/){:target="_blank"},
     [Epyrus](http://www.epyrus.org/){:target="_blank"} and [Postbox](https://postbox-inc.com/){:target="_blank"}.
