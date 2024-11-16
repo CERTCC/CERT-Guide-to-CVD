@@ -38,7 +38,7 @@ increases exponentially with the number of parties involved.
     in the Apache Log4j case [VU#930724](https://kb.cert.org/vuls/id/930724){:target="_blank"} 
     ([CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228){:target="_blank"},
     [CVE-2021-4104](https://www.cve.org/CVERecord?id=CVE-2021-4104){:target="_blank"},
-    [CVE-2021-45046](https://www.cve.org/CVERecord?id=CVE-2021-45046){:target="_blank"},
+    [CVE-2021-45046](https://www.cve.org/CVERecord?id=CVE-2021-45046){:target="_blank"}),
     the CERT/CC notified $1643$ vendors, and we're reasonably certain that we missed more than a few.
 
 !!! tip "Keep Embargoes Short"
