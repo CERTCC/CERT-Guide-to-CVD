@@ -96,7 +96,3 @@ avoiding bad press for being unprepared.
     > The new report published today looks into the expectations of both industry and the Member States in relation to 
     > the NIS2’s objective. It also analyses the related legal, collaborative, technical challenges arising from such 
     > initiatives.
-
-    attack frequency increase with vulnerability disclosure? An
-    empirical analysis," *Information Systems Frontiers,* vol. 8, no.
-    5, pp. 350-362, 2006.
