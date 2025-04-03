@@ -1,7 +1,4 @@
 site_name: CERT&reg; Guide to Coordinated Vulnerability Disclosure
-copyright: >
-  Copyright &copy; 2017-2024 Carnegie Mellon University.
-  <br/><a href="#__consent">Change cookie settings</a>
 site_url: https://certcc.github.io/CERT-Guide-to-CVD/
 site_description: 'A guide to coordinated vulnerability disclosure (CVD) for security researchers, vendors, and coordinators.'
 site_author: 'CERT Coordination Center'
@@ -142,8 +139,9 @@ not_in_nav: |
   _*.md
   _*/**/*.md
 theme:
-  logo: 'assets/cert_seal.svg'
+  logo: 'assets/Software_Engineering_Institute_Unitmark_White.svg'
   name: 'material'
+  custom_dir: 'overrides'
   features:
     - content.tabs.link
     - content.tooltips
