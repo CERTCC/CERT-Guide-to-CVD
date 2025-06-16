@@ -120,7 +120,7 @@ flowchart TD
     comments into our decision process, but by submitting a report, the
     reporter agrees that CERT/CC has final decision authority over any
     coordination and publishing on [kb.cert.org](https://www.kb.cert.org/vuls){:target="_blank"},
-    and agree to follow our [Disclosure Policy](../../reference/certcc_disclosure_policy.md) 
+    and agree to follow our [Disclosure Policy](https://certcc.github.io/certcc_disclosure_policy/) 
     by default. However, as the vulnerability reporter, you
     are the owner of the vulnerability information and are free to disclose
     it on your own at any time, if you wish.

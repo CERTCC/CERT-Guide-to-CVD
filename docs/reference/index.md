@@ -5,7 +5,7 @@ These resources include templates, standards, and other materials that can help 
 
 <div class="grid cards" markdown>
 
-- :octicons-checklist-16: [CERT/CC Vulnerability Disclosure Policy](./certcc_disclosure_policy.md)
+- :octicons-checklist-16: [CERT/CC Vulnerability Disclosure Policy](https://certcc.github.io/certcc_disclosure_policy/)
 - :material-form-select: [Basic Vulnerability Reporting Form](./simple_vrf.md)
 - :material-newspaper-variant: [Basic Advisory Format](./simple_advisory.md)
 - :material-clipboard-check-multiple-outline: [Disclosure Policy Resources](policy_templates/index.md)

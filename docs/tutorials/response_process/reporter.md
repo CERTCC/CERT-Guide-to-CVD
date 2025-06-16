@@ -135,7 +135,7 @@ case if one or more of the following conditions are true:
     For more information about working with the CERT/CC, you may wish to
     read the following resources that describe our typical process:
 
-    -  [CERT/CC Disclosure Policy](../../reference/certcc_disclosure_policy.md) -- we typically disclose vulnerability information
+    -  [CERT/CC Disclosure Policy](https://certcc.github.io/certcc_disclosure_policy/) -- we typically disclose vulnerability information
     in a publication within 45 days of initial vendor contact attempt
     -  [Guidelines for Requesting Coordination Assistance](../coord_certcc/reporter.md) -
     some tips for submitting a coordination assistance request to CERT/CC
