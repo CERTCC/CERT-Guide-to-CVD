@@ -113,7 +113,6 @@ nav:
         - Vulnerability IDs: 'topics/special/vul_ids.md'
   - Reference:
     - 'reference/index.md'
-    - CERT/CC Vulnerability Disclosure Policy: 'reference/certcc_disclosure_policy.md'
     - Basic Vul Report Form: 'reference/simple_vrf.md'
     - Basic Vul Advisory: 'reference/simple_advisory.md'
     - Disclosure Policy Templates:
