@@ -7,7 +7,7 @@ constructing a vulnerability disclosure policy.
 Here we are attempting to capture common
 verbiage in order to help others develop or improve their own policies. We've
 taken these items from a variety of vulnerability disclosure policies including
-[our own](../certcc_disclosure_policy.md), generalized them, organized them by topic, and assembled them into this
+[our own](https://certcc.github.io/certcc_disclosure_policy/), generalized them, organized them by topic, and assembled them into this
 collection.
 
 This collection is a general set of templates from which you can derive and
