@@ -12,7 +12,7 @@ needs.
 
 !!! tip "Common Security Advisory Framework"
 
-    The [Common Security Advisory Framework](https://oasis-open.github.io/csaf-documentation/){:target="_blank"} (CSAF) is a standardized 
+    The [Common Security Advisory Framework](https://www.csaf.io){:target="_blank"} (CSAF) is a standardized 
     format for publishing security advisories. It is designed to be machine-readable and is
     intended to be used by vendors, coordinators, and reporters to communicate with the public about vulnerabilities.
 
